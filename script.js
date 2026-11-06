@@ -7,6 +7,7 @@ let carouselTimer;
 
 function showSlide(index) {
   activeSlide = (index + slides.length) % slides.length;
+  hero.dataset.slide = String(activeSlide);
   slides.forEach((slide, i) => {
     const selected = i === activeSlide;
     slide.classList.toggle('is-active', selected);
@@ -64,7 +65,7 @@ menuToggle.addEventListener('click', () => {
   menuToggle.setAttribute('aria-label', opening ? 'Закрыть меню' : 'Открыть меню');
 });
 mobileNav.querySelectorAll('a').forEach(link => link.addEventListener('click', closeMenu));
-window.addEventListener('resize', () => { if (window.innerWidth > 960) closeMenu(); });
+window.addEventListener('resize', () => { if (window.innerWidth > 1100) closeMenu(); });
 
 const searchToggle = document.getElementById('search-toggle');
 const searchPanel = document.getElementById('search-panel');
