@@ -4,6 +4,9 @@ const hero = document.querySelector('.hero');
 const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
 let activeSlide = 0;
 let carouselTimer;
+let carouselPaused = false;
+let heroInView = true;
+const pauseButton = document.getElementById('hero-pause');
 
 function showSlide(index) {
   activeSlide = (index + slides.length) % slides.length;
@@ -17,16 +20,15 @@ function showSlide(index) {
   dots.forEach((dot, i) => {
     const selected = i === activeSlide;
     dot.classList.toggle('is-active', selected);
-    dot.setAttribute('aria-selected', String(selected));
-    dot.tabIndex = selected ? 0 : -1;
+    dot.setAttribute('aria-pressed', String(selected));
   });
 }
 
 function stopCarousel() { clearInterval(carouselTimer); }
 function startCarousel() {
   stopCarousel();
-  if (!reduceMotion.matches && !document.hidden) {
-    carouselTimer = setInterval(() => showSlide(activeSlide + 1), 6500);
+  if (!reduceMotion.matches && !document.hidden && !carouselPaused && heroInView && !hero.matches(':hover') && !hero.contains(document.activeElement)) {
+    carouselTimer = setInterval(() => showSlide(activeSlide + 1), 8000);
   }
 }
 
@@ -42,6 +44,19 @@ dots.forEach((dot, i) => {
     }
   });
 });
+pauseButton.addEventListener('click', () => {
+  carouselPaused = !carouselPaused;
+  pauseButton.setAttribute('aria-pressed', String(carouselPaused));
+  pauseButton.setAttribute('aria-label', carouselPaused ? 'Продолжить смену баннеров' : 'Приостановить смену баннеров');
+  pauseButton.firstElementChild.textContent = carouselPaused ? '▶' : 'Ⅱ';
+  startCarousel();
+});
+if ('IntersectionObserver' in window) {
+  new IntersectionObserver(([entry]) => {
+    heroInView = entry.isIntersecting;
+    startCarousel();
+  }, { threshold: .1 }).observe(hero);
+}
 hero.addEventListener('mouseenter', stopCarousel);
 hero.addEventListener('mouseleave', startCarousel);
 hero.addEventListener('focusin', stopCarousel);
@@ -65,7 +80,7 @@ menuToggle.addEventListener('click', () => {
   menuToggle.setAttribute('aria-label', opening ? 'Закрыть меню' : 'Открыть меню');
 });
 mobileNav.querySelectorAll('a').forEach(link => link.addEventListener('click', closeMenu));
-window.addEventListener('resize', () => { if (window.innerWidth > 1100) closeMenu(); });
+window.addEventListener('resize', () => { if (window.innerWidth > 1200) closeMenu(); });
 
 const searchToggle = document.getElementById('search-toggle');
 const searchPanel = document.getElementById('search-panel');
