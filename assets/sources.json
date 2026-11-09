@@ -447,6 +447,51 @@
       "sha256": "f4db0ee4bae0cfa3e7c11af9f7ee88923858eba65e4f8d07c8852b36c6a63b88",
       "export": "Proportional responsive WebP export; no creative edits by Pillow.",
       "notes": "Complete opaque studio photograph includes product and its physical support/contact shadows. CSS fades only clean photographic margins. Generic category illustration, no exact product model claim."
+    },
+    "product-scenes/camera.webp": {
+      "kind": "generated-editorial",
+      "source": "C:\\Users\\Bogomazov\\.codex\\generated_images\\01a1b140-d7cd-73f1-a2df-2cf8f2d82b84\\exec-05b9697b-5c2e-4985-8e28-9b0274adc870.png",
+      "promptFile": "assets/product-page-prompts.json",
+      "width": 2172,
+      "height": 724,
+      "bytes": 68058,
+      "sha256": "e5cf335d7c2aec1227e8428ff962c9316e17be895b7995e3f0a49b7147e25321"
+    },
+    "product-scenes/pen.webp": {
+      "kind": "generated-editorial",
+      "source": "C:\\Users\\Bogomazov\\.codex\\generated_images\\01a1b140-d7cd-73f1-a2df-2cf8f2d82b84\\exec-4b49e142-a7cf-4958-a1ed-23cb9fc5d1aa.png",
+      "promptFile": "assets/product-page-prompts.json",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 27162,
+      "sha256": "7f3de3fc2ed983f7ead183daa84ff8152ee4dd41b169bbe41df8d59517a5a178"
+    },
+    "product-scenes/watch.webp": {
+      "kind": "generated-editorial",
+      "source": "C:\\Users\\Bogomazov\\.codex\\generated_images\\01a1b140-d7cd-73f1-a2df-2cf8f2d82b84\\exec-283ea337-4c30-486b-80bd-5f5cb26915c9.png",
+      "promptFile": "assets/product-page-prompts.json",
+      "width": 2172,
+      "height": 724,
+      "bytes": 85358,
+      "sha256": "d5fb550c630bae482608f707af406b0e23018a3c261b67d1862650509c5069b4"
+    },
+    "product-scenes/buds.webp": {
+      "kind": "generated-editorial",
+      "source": "C:\\Users\\Bogomazov\\.codex\\generated_images\\01a1b140-d7cd-73f1-a2df-2cf8f2d82b84\\exec-1c0cf316-9d77-401e-b8ca-0bbda25374f8.png",
+      "promptFile": "assets/product-page-prompts.json",
+      "width": 2172,
+      "height": 724,
+      "bytes": 120852,
+      "sha256": "6fcd04e05eb8b31c0d4e5d7196c96faff95a60988f9f3f2c2c6da80912a0267d"
+    },
+    "product-scenes/home.webp": {
+      "kind": "generated-editorial",
+      "source": "C:\\Users\\Bogomazov\\.codex\\generated_images\\01a1b140-d7cd-73f1-a2df-2cf8f2d82b84\\exec-ee836c0e-b198-409c-bf02-d3ac2dfa561f.png",
+      "promptFile": "assets/product-home-prompt.json",
+      "width": 2172,
+      "height": 724,
+      "bytes": 51686,
+      "sha256": "e8e374281055afd0b9881a985ae8e3cd79ce8ce3f7650b83945728105da7421f"
     }
   }
 }

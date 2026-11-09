@@ -1,0 +1,11 @@
+{
+  "created": "2026-11-09",
+  "key": "home",
+  "ref": [
+    "D:\\Проекты\\samsung\\assets\\products\\samsung-washer\\1.webp",
+    "D:\\Проекты\\samsung\\assets\\products\\samsung-dryer\\1.webp"
+  ],
+  "prompt": "Create a premium editorial product photography banner, panoramic 3:1 aspect ratio. Use the two referenced Samsung appliances as precise industrial design guides: FIRST a very tall dark-steel Bespoke washing machine with upper-left rectangular touch screen and flat clean top panel; SECOND a slightly lower black dryer with central silver control knob and a narrow horizontal top control panel. Preserve realistic proportions, doors, screen/knob layout and materials from the references, do not invent controls. Stand the two appliances side by side, front three-quarter view, in the RIGHT 52 percent of the composition, each appliance fully visible from top to feet, sitting on the SAME seamless matte graphite studio floor with plausible soft contact shadows. Washer slightly further back, dryer in foreground right, elegant composition. Impeccable dark brushed steel, round glass doors with detailed perforated stainless drum visible, precise rubber seals, photoreal manufacture. LEFT 45 percent of entire banner is completely empty deep neutral graphite #141517 to hold white HTML typography. Background must be continuous dark graphite from edge to edge, no white half, no dividing line, no colored glow. Subtle neutral softbox lighting reveals black metal elegantly, restrained high-end design. Keep ample top and bottom margins around both products to prevent cropping. No text, no labels, no logos added, no graphics, no frames.",
+  "generatedSource": "C:\\Users\\Bogomazov\\.codex\\generated_images\\01a1b140-d7cd-73f1-a2df-2cf8f2d82b84\\exec-ee836c0e-b198-409c-bf02-d3ac2dfa561f.png",
+  "destination": "assets/product-scenes/home.webp"
+}

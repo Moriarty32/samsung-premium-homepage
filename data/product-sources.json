@@ -1,0 +1,4582 @@
+{
+  "galaxy-s26-ultra": {
+    "title": "Смартфон Samsung Galaxy S26 Ультра 256 Гб, Фиолетовый",
+    "shortName": "Galaxy S26 Ultra",
+    "category": "Смартфоны",
+    "sourceUrl": "https://online-samsung.ru/product/sm-s948bzvbcau",
+    "sku": "SM-S948BZVBCAU",
+    "price": 124990,
+    "variant": "256 Гб, Фиолетовый",
+    "specs": [
+      {
+        "label": "Модель",
+        "value": "Galaxy S26 Ультра"
+      },
+      {
+        "label": "Операционная система",
+        "value": "Android 16"
+      },
+      {
+        "label": "Диагональ, дюйм",
+        "value": "6.9"
+      },
+      {
+        "label": "Технология экрана",
+        "value": "Dynamic AMOLED 2X"
+      },
+      {
+        "label": "Экран (Разрешение), Пикс.",
+        "value": "3120 x 1440"
+      },
+      {
+        "label": "Частота обновления, Гц",
+        "value": "120"
+      },
+      {
+        "label": "Тип процессора",
+        "value": "Snapdragon 8 Elite Gen 5 for Galaxy"
+      },
+      {
+        "label": "Оперативная память (RAM), Гб",
+        "value": "12"
+      },
+      {
+        "label": "Встроенная память (ROM), Гб",
+        "value": "256"
+      },
+      {
+        "label": "Основная камера, МПикс",
+        "value": "200 + 50 + 50 + 10"
+      },
+      {
+        "label": "Емкость аккумулятора, мАч",
+        "value": "5000"
+      },
+      {
+        "label": "Материал корпуса",
+        "value": "металл, стекло"
+      },
+      {
+        "label": "Степень защиты",
+        "value": "IP68"
+      },
+      {
+        "label": "Гарантия, месяц",
+        "value": "12"
+      }
+    ],
+    "stats": [
+      {
+        "value": "200 МП",
+        "label": "Основная камера",
+        "sourceUrl": "https://online-samsung.ru/product/sm-s948bzvbcau",
+        "sourceSpec": "Основная камера, МПикс",
+        "sourceValue": "200 + 50 + 50 + 10"
+      },
+      {
+        "value": "6,9″",
+        "label": "Dynamic AMOLED 2X",
+        "sourceUrl": "https://online-samsung.ru/product/sm-s948bzvbcau",
+        "sourceSpec": "Диагональ, дюйм",
+        "sourceValue": "6.9"
+      },
+      {
+        "value": "5 000 мАч",
+        "label": "Ёмкость аккумулятора",
+        "sourceUrl": "https://online-samsung.ru/product/sm-s948bzvbcau",
+        "sourceSpec": "Емкость аккумулятора, мАч",
+        "sourceValue": "5000"
+      }
+    ],
+    "includedPackage": [
+      {
+        "label": "Кабель для зарядки / данных",
+        "value": "Да",
+        "sourceUrl": "https://online-samsung.ru/product/sm-s948bzvbcau"
+      },
+      {
+        "label": "Встроенный S Pen",
+        "value": "Да",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BZVBCAU__8.png"
+      }
+    ],
+    "variants": [
+      {
+        "sku": "SM-S948BZVBCAU",
+        "title": "Смартфон Samsung Galaxy S26 Ультра 256 Гб, Фиолетовый",
+        "storage": "256 ГБ",
+        "storageGb": 256,
+        "color": "Фиолетовый",
+        "colorKey": "violet",
+        "colorHex": "#8875a6",
+        "price": 124990,
+        "sourceUrl": "https://online-samsung.ru/product/sm-s948bzvbcau",
+        "gallery": [
+          {
+            "file": "assets/products/galaxy-s26-ultra/1.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — ракурс 1",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BZVBCAU_10.png",
+            "sourceGalleryIndex": 9,
+            "hasAlpha": true
+          },
+          {
+            "file": "assets/products/galaxy-s26-ultra/2.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — ракурс 2",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BZVBCAU_12.png",
+            "sourceGalleryIndex": 11,
+            "hasAlpha": true
+          },
+          {
+            "file": "assets/products/galaxy-s26-ultra/3.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — ракурс 3",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BZVBCAU_14.png",
+            "sourceGalleryIndex": 13,
+            "hasAlpha": true
+          },
+          {
+            "file": "assets/products/galaxy-s26-ultra/4.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — ракурс 4",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BZVBCAU_15.png",
+            "sourceGalleryIndex": 14,
+            "hasAlpha": true
+          }
+        ],
+        "imageSourceSku": "SM-S948BZVBCAU",
+        "ramGb": 12
+      },
+      {
+        "sku": "SM-S948BLBBCAU",
+        "title": "Смартфон Samsung Galaxy S26 Ультра 256 Гб, Голубой",
+        "storage": "256 ГБ",
+        "storageGb": 256,
+        "color": "Голубой",
+        "colorKey": "blue",
+        "colorHex": "#aebfcf",
+        "price": 124990,
+        "sourceUrl": "https://online-samsung.ru/product/sm-s948blbbcau",
+        "gallery": [
+          {
+            "file": "assets/products/galaxy-s26-ultra/blue-1.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — Голубой — ракурс 1",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BLBBCAU_10.png",
+            "sourceGalleryIndex": 9,
+            "hasAlpha": true
+          },
+          {
+            "file": "assets/products/galaxy-s26-ultra/blue-2.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — Голубой — ракурс 2",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BLBBCAU_12.png",
+            "sourceGalleryIndex": 11,
+            "hasAlpha": true
+          },
+          {
+            "file": "assets/products/galaxy-s26-ultra/blue-3.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — Голубой — ракурс 3",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BLBBCAU_14.png",
+            "sourceGalleryIndex": 13,
+            "hasAlpha": true
+          },
+          {
+            "file": "assets/products/galaxy-s26-ultra/blue-4.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — Голубой — ракурс 4",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BLBBCAU_15.png",
+            "sourceGalleryIndex": 14,
+            "hasAlpha": true
+          }
+        ],
+        "imageSourceSku": "SM-S948BLBBCAU",
+        "ramGb": 12
+      },
+      {
+        "sku": "SM-S948BZWBCAU",
+        "title": "Смартфон Samsung Galaxy S26 Ультра 256 Гб, белый",
+        "storage": "256 ГБ",
+        "storageGb": 256,
+        "color": "Белый",
+        "colorKey": "white",
+        "colorHex": "#ebeceb",
+        "price": 124990,
+        "sourceUrl": "https://online-samsung.ru/product/sm-s948bzwbcau",
+        "gallery": [
+          {
+            "file": "assets/products/galaxy-s26-ultra/white-1.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — Белый — ракурс 1",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BZWBCAU_10.png",
+            "sourceGalleryIndex": 9,
+            "hasAlpha": true
+          },
+          {
+            "file": "assets/products/galaxy-s26-ultra/white-2.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — Белый — ракурс 2",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BZWBCAU_12.png",
+            "sourceGalleryIndex": 11,
+            "hasAlpha": true
+          },
+          {
+            "file": "assets/products/galaxy-s26-ultra/white-3.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — Белый — ракурс 3",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BZWBCAU_14.png",
+            "sourceGalleryIndex": 13,
+            "hasAlpha": true
+          },
+          {
+            "file": "assets/products/galaxy-s26-ultra/white-4.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — Белый — ракурс 4",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BZWBCAU_15.png",
+            "sourceGalleryIndex": 14,
+            "hasAlpha": true
+          }
+        ],
+        "imageSourceSku": "SM-S948BZWBCAU",
+        "ramGb": 12
+      },
+      {
+        "sku": "SM-S948BZKBCAU",
+        "title": "Смартфон Samsung Galaxy S26 Ультра 256 Гб, Чёрный",
+        "storage": "256 ГБ",
+        "storageGb": 256,
+        "color": "Чёрный",
+        "colorKey": "black",
+        "colorHex": "#3c3d40",
+        "price": 124990,
+        "sourceUrl": "https://online-samsung.ru/product/sm-s948bzkbcau",
+        "gallery": [
+          {
+            "file": "assets/products/galaxy-s26-ultra/black-1.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — Чёрный — ракурс 1",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BZKBCAU_10.png",
+            "sourceGalleryIndex": 9,
+            "hasAlpha": true
+          },
+          {
+            "file": "assets/products/galaxy-s26-ultra/black-2.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — Чёрный — ракурс 2",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BZKBCAU_12.png",
+            "sourceGalleryIndex": 11,
+            "hasAlpha": true
+          },
+          {
+            "file": "assets/products/galaxy-s26-ultra/black-3.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — Чёрный — ракурс 3",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BZKBCAU_14.png",
+            "sourceGalleryIndex": 13,
+            "hasAlpha": true
+          },
+          {
+            "file": "assets/products/galaxy-s26-ultra/black-4.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — Чёрный — ракурс 4",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BZKBCAU_15.png",
+            "sourceGalleryIndex": 14,
+            "hasAlpha": true
+          }
+        ],
+        "imageSourceSku": "SM-S948BZKBCAU",
+        "ramGb": 12
+      },
+      {
+        "sku": "SM-S948BZVCCAU",
+        "title": "Смартфон Samsung Galaxy S26 Ультра 512 Гб, Фиолетовый",
+        "storage": "512 ГБ",
+        "storageGb": 512,
+        "color": "Фиолетовый",
+        "colorKey": "violet",
+        "colorHex": "#8875a6",
+        "price": 144990,
+        "sourceUrl": "https://online-samsung.ru/product/sm-s948bzvccau",
+        "gallery": [
+          {
+            "file": "assets/products/galaxy-s26-ultra/1.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — ракурс 1",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BZVBCAU_10.png",
+            "sourceGalleryIndex": 9,
+            "hasAlpha": true
+          },
+          {
+            "file": "assets/products/galaxy-s26-ultra/2.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — ракурс 2",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BZVBCAU_12.png",
+            "sourceGalleryIndex": 11,
+            "hasAlpha": true
+          },
+          {
+            "file": "assets/products/galaxy-s26-ultra/3.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — ракурс 3",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BZVBCAU_14.png",
+            "sourceGalleryIndex": 13,
+            "hasAlpha": true
+          },
+          {
+            "file": "assets/products/galaxy-s26-ultra/4.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — ракурс 4",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BZVBCAU_15.png",
+            "sourceGalleryIndex": 14,
+            "hasAlpha": true
+          }
+        ],
+        "imageSourceSku": "SM-S948BZVBCAU",
+        "ramGb": 12
+      },
+      {
+        "sku": "SM-S948BLBCCAU",
+        "title": "Смартфон Samsung Galaxy S26 Ультра 512 Гб, Голубой",
+        "storage": "512 ГБ",
+        "storageGb": 512,
+        "color": "Голубой",
+        "colorKey": "blue",
+        "colorHex": "#aebfcf",
+        "price": 144990,
+        "sourceUrl": "https://online-samsung.ru/product/sm-s948blbccau",
+        "gallery": [
+          {
+            "file": "assets/products/galaxy-s26-ultra/blue-1.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — Голубой — ракурс 1",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BLBBCAU_10.png",
+            "sourceGalleryIndex": 9,
+            "hasAlpha": true
+          },
+          {
+            "file": "assets/products/galaxy-s26-ultra/blue-2.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — Голубой — ракурс 2",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BLBBCAU_12.png",
+            "sourceGalleryIndex": 11,
+            "hasAlpha": true
+          },
+          {
+            "file": "assets/products/galaxy-s26-ultra/blue-3.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — Голубой — ракурс 3",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BLBBCAU_14.png",
+            "sourceGalleryIndex": 13,
+            "hasAlpha": true
+          },
+          {
+            "file": "assets/products/galaxy-s26-ultra/blue-4.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — Голубой — ракурс 4",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BLBBCAU_15.png",
+            "sourceGalleryIndex": 14,
+            "hasAlpha": true
+          }
+        ],
+        "imageSourceSku": "SM-S948BLBBCAU",
+        "ramGb": 12
+      },
+      {
+        "sku": "SM-S948BZKCCAU",
+        "title": "Смартфон Samsung Galaxy S26 Ультра 512 Гб, Чёрный",
+        "storage": "512 ГБ",
+        "storageGb": 512,
+        "color": "Чёрный",
+        "colorKey": "black",
+        "colorHex": "#3c3d40",
+        "price": 144990,
+        "sourceUrl": "https://online-samsung.ru/product/sm-s948bzkccau",
+        "gallery": [
+          {
+            "file": "assets/products/galaxy-s26-ultra/black-1.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — Чёрный — ракурс 1",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BZKBCAU_10.png",
+            "sourceGalleryIndex": 9,
+            "hasAlpha": true
+          },
+          {
+            "file": "assets/products/galaxy-s26-ultra/black-2.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — Чёрный — ракурс 2",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BZKBCAU_12.png",
+            "sourceGalleryIndex": 11,
+            "hasAlpha": true
+          },
+          {
+            "file": "assets/products/galaxy-s26-ultra/black-3.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — Чёрный — ракурс 3",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BZKBCAU_14.png",
+            "sourceGalleryIndex": 13,
+            "hasAlpha": true
+          },
+          {
+            "file": "assets/products/galaxy-s26-ultra/black-4.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — Чёрный — ракурс 4",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BZKBCAU_15.png",
+            "sourceGalleryIndex": 14,
+            "hasAlpha": true
+          }
+        ],
+        "imageSourceSku": "SM-S948BZKBCAU",
+        "ramGb": 12
+      },
+      {
+        "sku": "SM-S948BZWCCAU",
+        "title": "Смартфон Samsung Galaxy S26 Ультра 512 Гб, белый",
+        "storage": "512 ГБ",
+        "storageGb": 512,
+        "color": "Белый",
+        "colorKey": "white",
+        "colorHex": "#ebeceb",
+        "price": 144990,
+        "sourceUrl": "https://online-samsung.ru/product/sm-s948bzwccau",
+        "gallery": [
+          {
+            "file": "assets/products/galaxy-s26-ultra/white-1.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — Белый — ракурс 1",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BZWBCAU_10.png",
+            "sourceGalleryIndex": 9,
+            "hasAlpha": true
+          },
+          {
+            "file": "assets/products/galaxy-s26-ultra/white-2.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — Белый — ракурс 2",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BZWBCAU_12.png",
+            "sourceGalleryIndex": 11,
+            "hasAlpha": true
+          },
+          {
+            "file": "assets/products/galaxy-s26-ultra/white-3.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — Белый — ракурс 3",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BZWBCAU_14.png",
+            "sourceGalleryIndex": 13,
+            "hasAlpha": true
+          },
+          {
+            "file": "assets/products/galaxy-s26-ultra/white-4.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — Белый — ракурс 4",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BZWBCAU_15.png",
+            "sourceGalleryIndex": 14,
+            "hasAlpha": true
+          }
+        ],
+        "imageSourceSku": "SM-S948BZWBCAU",
+        "ramGb": 12
+      },
+      {
+        "sku": "SM-S948BZVQCAU",
+        "title": "Смартфон Samsung Galaxy S26 Ультра 1024 Гб, Фиолетовый",
+        "storage": "1 ТБ",
+        "storageGb": 1024,
+        "color": "Фиолетовый",
+        "colorKey": "violet",
+        "colorHex": "#8875a6",
+        "price": 194990,
+        "sourceUrl": "https://online-samsung.ru/product/sm-s948bzvqcau",
+        "gallery": [
+          {
+            "file": "assets/products/galaxy-s26-ultra/1.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — ракурс 1",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BZVBCAU_10.png",
+            "sourceGalleryIndex": 9,
+            "hasAlpha": true
+          },
+          {
+            "file": "assets/products/galaxy-s26-ultra/2.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — ракурс 2",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BZVBCAU_12.png",
+            "sourceGalleryIndex": 11,
+            "hasAlpha": true
+          },
+          {
+            "file": "assets/products/galaxy-s26-ultra/3.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — ракурс 3",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BZVBCAU_14.png",
+            "sourceGalleryIndex": 13,
+            "hasAlpha": true
+          },
+          {
+            "file": "assets/products/galaxy-s26-ultra/4.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — ракурс 4",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BZVBCAU_15.png",
+            "sourceGalleryIndex": 14,
+            "hasAlpha": true
+          }
+        ],
+        "imageSourceSku": "SM-S948BZVBCAU",
+        "ramGb": 16
+      },
+      {
+        "sku": "SM-S948BLBQCAU",
+        "title": "Смартфон Samsung Galaxy S26 Ультра 1024 Гб, Голубой",
+        "storage": "1 ТБ",
+        "storageGb": 1024,
+        "color": "Голубой",
+        "colorKey": "blue",
+        "colorHex": "#aebfcf",
+        "price": 194990,
+        "sourceUrl": "https://online-samsung.ru/product/sm-s948blbqcau",
+        "gallery": [
+          {
+            "file": "assets/products/galaxy-s26-ultra/blue-1.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — Голубой — ракурс 1",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BLBBCAU_10.png",
+            "sourceGalleryIndex": 9,
+            "hasAlpha": true
+          },
+          {
+            "file": "assets/products/galaxy-s26-ultra/blue-2.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — Голубой — ракурс 2",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BLBBCAU_12.png",
+            "sourceGalleryIndex": 11,
+            "hasAlpha": true
+          },
+          {
+            "file": "assets/products/galaxy-s26-ultra/blue-3.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — Голубой — ракурс 3",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BLBBCAU_14.png",
+            "sourceGalleryIndex": 13,
+            "hasAlpha": true
+          },
+          {
+            "file": "assets/products/galaxy-s26-ultra/blue-4.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — Голубой — ракурс 4",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BLBBCAU_15.png",
+            "sourceGalleryIndex": 14,
+            "hasAlpha": true
+          }
+        ],
+        "imageSourceSku": "SM-S948BLBBCAU",
+        "ramGb": 16
+      },
+      {
+        "sku": "SM-S948BZKQCAU",
+        "title": "Смартфон Samsung Galaxy S26 Ультра 1024 Гб, Чёрный",
+        "storage": "1 ТБ",
+        "storageGb": 1024,
+        "color": "Чёрный",
+        "colorKey": "black",
+        "colorHex": "#3c3d40",
+        "price": 194990,
+        "sourceUrl": "https://online-samsung.ru/product/sm-s948bzkqcau",
+        "gallery": [
+          {
+            "file": "assets/products/galaxy-s26-ultra/black-1.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — Чёрный — ракурс 1",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BZKBCAU_10.png",
+            "sourceGalleryIndex": 9,
+            "hasAlpha": true
+          },
+          {
+            "file": "assets/products/galaxy-s26-ultra/black-2.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — Чёрный — ракурс 2",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BZKBCAU_12.png",
+            "sourceGalleryIndex": 11,
+            "hasAlpha": true
+          },
+          {
+            "file": "assets/products/galaxy-s26-ultra/black-3.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — Чёрный — ракурс 3",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BZKBCAU_14.png",
+            "sourceGalleryIndex": 13,
+            "hasAlpha": true
+          },
+          {
+            "file": "assets/products/galaxy-s26-ultra/black-4.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — Чёрный — ракурс 4",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BZKBCAU_15.png",
+            "sourceGalleryIndex": 14,
+            "hasAlpha": true
+          }
+        ],
+        "imageSourceSku": "SM-S948BZKBCAU",
+        "ramGb": 16
+      },
+      {
+        "sku": "SM-S948BZWQCAU",
+        "title": "Смартфон Samsung Galaxy S26 Ультра 1024 Гб, белый",
+        "storage": "1 ТБ",
+        "storageGb": 1024,
+        "color": "Белый",
+        "colorKey": "white",
+        "colorHex": "#ebeceb",
+        "price": 194990,
+        "sourceUrl": "https://online-samsung.ru/product/sm-s948bzwqcau",
+        "gallery": [
+          {
+            "file": "assets/products/galaxy-s26-ultra/white-1.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — Белый — ракурс 1",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BZWBCAU_10.png",
+            "sourceGalleryIndex": 9,
+            "hasAlpha": true
+          },
+          {
+            "file": "assets/products/galaxy-s26-ultra/white-2.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — Белый — ракурс 2",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BZWBCAU_12.png",
+            "sourceGalleryIndex": 11,
+            "hasAlpha": true
+          },
+          {
+            "file": "assets/products/galaxy-s26-ultra/white-3.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — Белый — ракурс 3",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BZWBCAU_14.png",
+            "sourceGalleryIndex": 13,
+            "hasAlpha": true
+          },
+          {
+            "file": "assets/products/galaxy-s26-ultra/white-4.webp",
+            "width": 1200,
+            "height": 800,
+            "alt": "Galaxy S26 Ultra — Белый — ракурс 4",
+            "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BZWBCAU_15.png",
+            "sourceGalleryIndex": 14,
+            "hasAlpha": true
+          }
+        ],
+        "imageSourceSku": "SM-S948BZWBCAU",
+        "ramGb": 16
+      }
+    ],
+    "gallery": [
+      {
+        "file": "assets/products/galaxy-s26-ultra/1.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Galaxy S26 Ultra — ракурс 1",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BZVBCAU_10.png",
+        "sourceGalleryIndex": 9,
+        "hasAlpha": true
+      },
+      {
+        "file": "assets/products/galaxy-s26-ultra/2.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Galaxy S26 Ultra — ракурс 2",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BZVBCAU_12.png",
+        "sourceGalleryIndex": 11,
+        "hasAlpha": true
+      },
+      {
+        "file": "assets/products/galaxy-s26-ultra/3.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Galaxy S26 Ultra — ракурс 3",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BZVBCAU_14.png",
+        "sourceGalleryIndex": 13,
+        "hasAlpha": true
+      },
+      {
+        "file": "assets/products/galaxy-s26-ultra/4.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Galaxy S26 Ultra — ракурс 4",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BZVBCAU_15.png",
+        "sourceGalleryIndex": 14,
+        "hasAlpha": true
+      }
+    ],
+    "sourceNotes": [
+      "Price and specifications read directly from the retailer product page on 2026-11-09. Availability must be confirmed with retailer.",
+      "Official retailer product renders exported to WebP without AI modification, cropping, or aspect-ratio changes.",
+      "All gallery renders were visually inspected. Promotion posters and warranty/feature text panels are excluded from the final gallery."
+    ],
+    "allSpecs": [
+      {
+        "label": "Гарантия, месяц",
+        "value": "12"
+      },
+      {
+        "label": "Страна",
+        "value": "Вьетнам"
+      },
+      {
+        "label": "Производитель",
+        "value": "Samsung"
+      },
+      {
+        "label": "Декларация / Сертификат соответствия",
+        "value": "ЕАЭС N RU Д-KR.РА11.В.96760/25"
+      },
+      {
+        "label": "Серия",
+        "value": "Galaxy S"
+      },
+      {
+        "label": "Модель",
+        "value": "Galaxy S26 Ультра"
+      },
+      {
+        "label": "Операционная система",
+        "value": "Android 16"
+      },
+      {
+        "label": "Экран (Разрешение), Пикс.",
+        "value": "3120 x 1440"
+      },
+      {
+        "label": "Разрешение (диапазон), Пикс.",
+        "value": "от 3088 x 1440 и выше"
+      },
+      {
+        "label": "Диагональ (диапазон)",
+        "value": "от 6,5\" до 7.0\""
+      },
+      {
+        "label": "Диагональ, дюйм",
+        "value": "6.9"
+      },
+      {
+        "label": "Технология экрана",
+        "value": "Dynamic AMOLED 2X"
+      },
+      {
+        "label": "Безрамочный",
+        "value": "Да"
+      },
+      {
+        "label": "Частота обновления, Гц",
+        "value": "120"
+      },
+      {
+        "label": "Яркость, кд/кв.м",
+        "value": "2600"
+      },
+      {
+        "label": "Тип стекла",
+        "value": "Gorilla Glass Victus 2"
+      },
+      {
+        "label": "Дополнительный экран",
+        "value": "Нет"
+      },
+      {
+        "label": "Производитель процессора",
+        "value": "Qualcomm"
+      },
+      {
+        "label": "Тип процессора",
+        "value": "Snapdragon 8 Elite Gen 5 for Galaxy"
+      },
+      {
+        "label": "Максимальная тактовая частота, ГГц",
+        "value": "4.74"
+      },
+      {
+        "label": "Количество ядер, шт",
+        "value": "8"
+      },
+      {
+        "label": "Частота процессора",
+        "value": "4.74 ГГц + 3.6 ГГц"
+      },
+      {
+        "label": "Оперативная память (RAM), Гб",
+        "value": "12"
+      },
+      {
+        "label": "Встроенная память (ROM), Гб",
+        "value": "256"
+      },
+      {
+        "label": "Количество основных камер, шт",
+        "value": "4"
+      },
+      {
+        "label": "Основная камера (диапазон)",
+        "value": "от 108 МПикс и более"
+      },
+      {
+        "label": "Основная камера, МПикс",
+        "value": "200 + 50 + 50 + 10"
+      },
+      {
+        "label": "Вспышка",
+        "value": "Да"
+      },
+      {
+        "label": "Оптический зум на уменьшение (x)",
+        "value": "5"
+      },
+      {
+        "label": "Цифровой зум (x)",
+        "value": "100"
+      },
+      {
+        "label": "Разрешение видеосъемки",
+        "value": "7680 x 4320 Пикс (8K)"
+      },
+      {
+        "label": "Оптическая стабилизация",
+        "value": "Да"
+      },
+      {
+        "label": "Цифровая стабилизация",
+        "value": "Да"
+      },
+      {
+        "label": "Количество фронтальных камер, шт",
+        "value": "1"
+      },
+      {
+        "label": "Фронтальная камера, Мпикс",
+        "value": "12"
+      },
+      {
+        "label": "Слот для карты памяти",
+        "value": "Нет"
+      },
+      {
+        "label": "SIM карта, шт",
+        "value": "2"
+      },
+      {
+        "label": "Тип (SIM карты)",
+        "value": "Nano-SIM (4FF)"
+      },
+      {
+        "label": "Поддержка eSIM",
+        "value": "Да"
+      },
+      {
+        "label": "Гибридный слот",
+        "value": "Нет"
+      },
+      {
+        "label": "Поддержка стандартов",
+        "value": "2G, 3G, 4G LTE, 5G"
+      },
+      {
+        "label": "Поддержка Wi-Fi",
+        "value": "a, ac, ax, b, be, g, n"
+      },
+      {
+        "label": "Технология NFC",
+        "value": "Да"
+      },
+      {
+        "label": "Технология Miracast",
+        "value": "Да"
+      },
+      {
+        "label": "Встроенный модуль Bluetooth",
+        "value": "Да"
+      },
+      {
+        "label": "Bluetooth, версия",
+        "value": "6"
+      },
+      {
+        "label": "Поддержка GPS",
+        "value": "Да"
+      },
+      {
+        "label": "Поддержка ГЛОНАСС",
+        "value": "Да"
+      },
+      {
+        "label": "Цифровой компас",
+        "value": "Да"
+      },
+      {
+        "label": "Wi-Fi точка доступа",
+        "value": "Да"
+      },
+      {
+        "label": "Встроенный барометр",
+        "value": "Да"
+      },
+      {
+        "label": "Датчик ориентации экрана",
+        "value": "Да"
+      },
+      {
+        "label": "Датчик ускорения (G-sensor)",
+        "value": "Да"
+      },
+      {
+        "label": "Поддержка Apple Pay",
+        "value": "Нет"
+      },
+      {
+        "label": "Поддержка G-Pay",
+        "value": "Нет"
+      },
+      {
+        "label": "Поддержка Samsung-Pay",
+        "value": "Нет"
+      },
+      {
+        "label": "Датчик силы нажатия",
+        "value": "Нет"
+      },
+      {
+        "label": "Сенсор распознавания лица",
+        "value": "Да"
+      },
+      {
+        "label": "Датчик (Сканер) отпечатков пальцев",
+        "value": "Да"
+      },
+      {
+        "label": "Порт USB",
+        "value": "USB Type-C"
+      },
+      {
+        "label": "Разъем для наушников",
+        "value": "USB Type-C"
+      },
+      {
+        "label": "Материал корпуса",
+        "value": "металл, стекло"
+      },
+      {
+        "label": "Степень защиты",
+        "value": "IP68"
+      },
+      {
+        "label": "Погружение в воду на глубину, метр",
+        "value": "1.5"
+      },
+      {
+        "label": "Кабель для зарядки / данных",
+        "value": "Да"
+      },
+      {
+        "label": "Защитная пленка для экрана",
+        "value": "Нет"
+      },
+      {
+        "label": "Поддержка беспроводной зарядки",
+        "value": "Да"
+      },
+      {
+        "label": "Поддержка быстрой зарядки",
+        "value": "Да"
+      },
+      {
+        "label": "Емкость аккумулятора (диапазон)",
+        "value": "от 5000 мАч и более"
+      },
+      {
+        "label": "Емкость аккумулятора, мАч",
+        "value": "5000"
+      },
+      {
+        "label": "Тип аккумулятора",
+        "value": "Li-Ion"
+      },
+      {
+        "label": "Цвет палитра",
+        "value": "Фиолетовый"
+      },
+      {
+        "label": "Вес (устройства), грамм",
+        "value": "214"
+      },
+      {
+        "label": "Вес (с упаковкой), грамм",
+        "value": "270"
+      },
+      {
+        "label": "Высота устройства, мм",
+        "value": "163.6"
+      },
+      {
+        "label": "Ширина устройства, мм",
+        "value": "78.1"
+      },
+      {
+        "label": "Глубина устройства, мм",
+        "value": "7.9"
+      },
+      {
+        "label": "Высота в упаковке, мм",
+        "value": "175"
+      },
+      {
+        "label": "Ширина в упаковке, мм",
+        "value": "88"
+      },
+      {
+        "label": "Глубина в упаковке, мм",
+        "value": "28"
+      }
+    ],
+    "packageNotes": "Only confirmed items are listed; full package contents must be confirmed with the retailer."
+  },
+  "galaxy-s26": {
+    "title": "Смартфон Samsung Galaxy S26 256 Гб, Фиолетовый",
+    "shortName": "Galaxy S26",
+    "category": "Смартфоны",
+    "sourceUrl": "https://online-samsung.ru/product/sm-s942bzvccau",
+    "sku": "SM-S942BZVCCAU",
+    "price": 84990,
+    "variant": "256 Гб, Фиолетовый",
+    "specs": [
+      {
+        "label": "Модель",
+        "value": "Galaxy S26"
+      },
+      {
+        "label": "Операционная система",
+        "value": "Android 16"
+      },
+      {
+        "label": "Диагональ, дюйм",
+        "value": "6.3"
+      },
+      {
+        "label": "Технология экрана",
+        "value": "Dynamic AMOLED 2X"
+      },
+      {
+        "label": "Экран (Разрешение), Пикс.",
+        "value": "2340 x 1080"
+      },
+      {
+        "label": "Частота обновления, Гц",
+        "value": "120"
+      },
+      {
+        "label": "Тип процессора",
+        "value": "Exynos 2600"
+      },
+      {
+        "label": "Оперативная память (RAM), Гб",
+        "value": "12"
+      },
+      {
+        "label": "Встроенная память (ROM), Гб",
+        "value": "256"
+      },
+      {
+        "label": "Основная камера, МПикс",
+        "value": "50 + 10 + 12"
+      },
+      {
+        "label": "Емкость аккумулятора, мАч",
+        "value": "4300"
+      },
+      {
+        "label": "Материал корпуса",
+        "value": "металл, стекло"
+      },
+      {
+        "label": "Степень защиты",
+        "value": "IP68"
+      },
+      {
+        "label": "Гарантия, месяц",
+        "value": "12"
+      }
+    ],
+    "stats": [
+      {
+        "value": "50 МП",
+        "label": "Основная камера",
+        "sourceUrl": "https://online-samsung.ru/product/sm-s942bzvccau",
+        "sourceSpec": "Основная камера, МПикс",
+        "sourceValue": "50 + 10 + 12"
+      },
+      {
+        "value": "6,3″",
+        "label": "Dynamic AMOLED 2X",
+        "sourceUrl": "https://online-samsung.ru/product/sm-s942bzvccau",
+        "sourceSpec": "Диагональ, дюйм",
+        "sourceValue": "6.3"
+      },
+      {
+        "value": "4 300 мАч",
+        "label": "Ёмкость аккумулятора",
+        "sourceUrl": "https://online-samsung.ru/product/sm-s942bzvccau",
+        "sourceSpec": "Емкость аккумулятора, мАч",
+        "sourceValue": "4300"
+      }
+    ],
+    "includedPackage": [
+      {
+        "label": "Кабель для зарядки / данных",
+        "value": "Да",
+        "sourceUrl": "https://online-samsung.ru/product/sm-s942bzvccau"
+      }
+    ],
+    "variants": [],
+    "gallery": [
+      {
+        "file": "assets/products/galaxy-s26/1.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Galaxy S26 — ракурс 1",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S942BZVCCAU_10.png",
+        "sourceGalleryIndex": 9,
+        "hasAlpha": true
+      },
+      {
+        "file": "assets/products/galaxy-s26/2.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Galaxy S26 — ракурс 2",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S942BZVCCAU_12.png",
+        "sourceGalleryIndex": 11,
+        "hasAlpha": true
+      },
+      {
+        "file": "assets/products/galaxy-s26/3.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Galaxy S26 — ракурс 3",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S942BZVCCAU_14.png",
+        "sourceGalleryIndex": 13,
+        "hasAlpha": true
+      },
+      {
+        "file": "assets/products/galaxy-s26/4.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Galaxy S26 — ракурс 4",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S942BZVCCAU_15.png",
+        "sourceGalleryIndex": 14,
+        "hasAlpha": true
+      }
+    ],
+    "sourceNotes": [
+      "Price and specifications read directly from the retailer product page on 2026-11-09. Availability must be confirmed with retailer.",
+      "Official retailer product renders exported to WebP without AI modification, cropping, or aspect-ratio changes.",
+      "All gallery renders were visually inspected. Promotion posters and warranty/feature text panels are excluded from the final gallery."
+    ],
+    "allSpecs": [
+      {
+        "label": "Гарантия, месяц",
+        "value": "12"
+      },
+      {
+        "label": "Страна",
+        "value": "Вьетнам"
+      },
+      {
+        "label": "Производитель",
+        "value": "Samsung"
+      },
+      {
+        "label": "Декларация / Сертификат соответствия",
+        "value": "ЕАЭС N RU Д-KR.РА11.В.96760/25"
+      },
+      {
+        "label": "Серия",
+        "value": "Galaxy S"
+      },
+      {
+        "label": "Модель",
+        "value": "Galaxy S26"
+      },
+      {
+        "label": "Операционная система",
+        "value": "Android 16"
+      },
+      {
+        "label": "Разрешение (диапазон), Пикс.",
+        "value": "от 1920 x 1080 до 2400 x 1080"
+      },
+      {
+        "label": "Экран (Разрешение), Пикс.",
+        "value": "2340 x 1080"
+      },
+      {
+        "label": "Диагональ (диапазон)",
+        "value": "до 6,5\""
+      },
+      {
+        "label": "Диагональ, дюйм",
+        "value": "6.3"
+      },
+      {
+        "label": "Технология экрана",
+        "value": "Dynamic AMOLED 2X"
+      },
+      {
+        "label": "Безрамочный",
+        "value": "Да"
+      },
+      {
+        "label": "Частота обновления, Гц",
+        "value": "120"
+      },
+      {
+        "label": "Яркость, кд/кв.м",
+        "value": "2600"
+      },
+      {
+        "label": "Дополнительный экран",
+        "value": "Нет"
+      },
+      {
+        "label": "Производитель процессора",
+        "value": "Samsung"
+      },
+      {
+        "label": "Тип процессора",
+        "value": "Exynos 2600"
+      },
+      {
+        "label": "Максимальная тактовая частота, ГГц",
+        "value": "3.80"
+      },
+      {
+        "label": "Количество ядер, шт",
+        "value": "10"
+      },
+      {
+        "label": "Частота процессора",
+        "value": "3.8 ГГц + 3.26 ГГц, + 2.76 ГГц"
+      },
+      {
+        "label": "Оперативная память (RAM), Гб",
+        "value": "12"
+      },
+      {
+        "label": "Встроенная память (ROM), Гб",
+        "value": "256"
+      },
+      {
+        "label": "Количество основных камер, шт",
+        "value": "3"
+      },
+      {
+        "label": "Основная камера (диапазон)",
+        "value": "от 48 МПикс до 64 МПикс"
+      },
+      {
+        "label": "Основная камера, МПикс",
+        "value": "50 + 10 + 12"
+      },
+      {
+        "label": "Вспышка",
+        "value": "Да"
+      },
+      {
+        "label": "Оптический зум на уменьшение (x)",
+        "value": "3"
+      },
+      {
+        "label": "Цифровой зум (x)",
+        "value": "30"
+      },
+      {
+        "label": "Разрешение видеосъемки",
+        "value": "7680 x 4320 Пикс (8K)"
+      },
+      {
+        "label": "Оптическая стабилизация",
+        "value": "Да"
+      },
+      {
+        "label": "Цифровая стабилизация",
+        "value": "Да"
+      },
+      {
+        "label": "Количество фронтальных камер, шт",
+        "value": "1"
+      },
+      {
+        "label": "Фронтальная камера, Мпикс",
+        "value": "12"
+      },
+      {
+        "label": "Слот для карты памяти",
+        "value": "Нет"
+      },
+      {
+        "label": "SIM карта, шт",
+        "value": "2"
+      },
+      {
+        "label": "Тип (SIM карты)",
+        "value": "Nano-SIM (4FF)"
+      },
+      {
+        "label": "Поддержка eSIM",
+        "value": "Да"
+      },
+      {
+        "label": "Гибридный слот",
+        "value": "Нет"
+      },
+      {
+        "label": "Поддержка стандартов",
+        "value": "2G, 3G, 4G LTE, 5G"
+      },
+      {
+        "label": "Поддержка Wi-Fi",
+        "value": "a, ac, ax, b, be, g, n"
+      },
+      {
+        "label": "Технология NFC",
+        "value": "Да"
+      },
+      {
+        "label": "Технология Miracast",
+        "value": "Да"
+      },
+      {
+        "label": "Встроенный модуль Bluetooth",
+        "value": "Да"
+      },
+      {
+        "label": "Bluetooth, версия",
+        "value": "5.4"
+      },
+      {
+        "label": "Поддержка GPS",
+        "value": "Да"
+      },
+      {
+        "label": "Поддержка ГЛОНАСС",
+        "value": "Да"
+      },
+      {
+        "label": "Цифровой компас",
+        "value": "Да"
+      },
+      {
+        "label": "Wi-Fi точка доступа",
+        "value": "Да"
+      },
+      {
+        "label": "Встроенный барометр",
+        "value": "Да"
+      },
+      {
+        "label": "Датчик ориентации экрана",
+        "value": "Да"
+      },
+      {
+        "label": "Датчик ускорения (G-sensor)",
+        "value": "Да"
+      },
+      {
+        "label": "Поддержка Apple Pay",
+        "value": "Нет"
+      },
+      {
+        "label": "Поддержка G-Pay",
+        "value": "Нет"
+      },
+      {
+        "label": "Поддержка Samsung-Pay",
+        "value": "Нет"
+      },
+      {
+        "label": "Датчик силы нажатия",
+        "value": "Нет"
+      },
+      {
+        "label": "Сенсор распознавания лица",
+        "value": "Да"
+      },
+      {
+        "label": "Датчик (Сканер) отпечатков пальцев",
+        "value": "Да"
+      },
+      {
+        "label": "Порт USB",
+        "value": "USB Type-C"
+      },
+      {
+        "label": "Разъем для наушников",
+        "value": "USB Type-C"
+      },
+      {
+        "label": "Материал корпуса",
+        "value": "металл, стекло"
+      },
+      {
+        "label": "Степень защиты",
+        "value": "IP68"
+      },
+      {
+        "label": "Погружение в воду на глубину, метр",
+        "value": "1.5"
+      },
+      {
+        "label": "Кабель для зарядки / данных",
+        "value": "Да"
+      },
+      {
+        "label": "Защитная пленка для экрана",
+        "value": "Нет"
+      },
+      {
+        "label": "Поддержка беспроводной зарядки",
+        "value": "Да"
+      },
+      {
+        "label": "Поддержка быстрой зарядки",
+        "value": "Да"
+      },
+      {
+        "label": "Емкость аккумулятора, мАч",
+        "value": "4300"
+      },
+      {
+        "label": "Емкость аккумулятора (диапазон)",
+        "value": "от 4000 до 4500 мАч"
+      },
+      {
+        "label": "Тип аккумулятора",
+        "value": "Li-Ion"
+      },
+      {
+        "label": "Цвет палитра",
+        "value": "Фиолетовый"
+      },
+      {
+        "label": "Вес (устройства), грамм",
+        "value": "164"
+      },
+      {
+        "label": "Вес (с упаковкой), грамм",
+        "value": "270"
+      },
+      {
+        "label": "Высота устройства, мм",
+        "value": "146.9"
+      },
+      {
+        "label": "Ширина устройства, мм",
+        "value": "70.5"
+      },
+      {
+        "label": "Глубина устройства, мм",
+        "value": "7.2"
+      },
+      {
+        "label": "Высота в упаковке, мм",
+        "value": "164"
+      },
+      {
+        "label": "Ширина в упаковке, мм",
+        "value": "88"
+      },
+      {
+        "label": "Глубина в упаковке, мм",
+        "value": "28"
+      }
+    ],
+    "packageNotes": "Only confirmed items are listed; full package contents must be confirmed with the retailer."
+  },
+  "galaxy-z-fold7": {
+    "title": "Смартфон Samsung Galaxy Z Fold7 256 Гб, Чёрный",
+    "shortName": "Galaxy Z Fold7",
+    "category": "Смартфоны",
+    "sourceUrl": "https://online-samsung.ru/product/sm-f966bzkbcau",
+    "sku": "SM-F966BZKBCAU",
+    "price": 142990,
+    "variant": "256 Гб, Чёрный",
+    "specs": [
+      {
+        "label": "Модель",
+        "value": "Galaxy Z Fold7"
+      },
+      {
+        "label": "Операционная система",
+        "value": "Android 15"
+      },
+      {
+        "label": "Диагональ, дюйм",
+        "value": "8"
+      },
+      {
+        "label": "Технология экрана",
+        "value": "Dynamic AMOLED 2X"
+      },
+      {
+        "label": "Экран (Разрешение), Пикс.",
+        "value": "2184 x 1968"
+      },
+      {
+        "label": "Частота обновления, Гц",
+        "value": "120"
+      },
+      {
+        "label": "Тип процессора",
+        "value": "Snapdragon 8 Elite for Galaxy"
+      },
+      {
+        "label": "Оперативная память (RAM), Гб",
+        "value": "12"
+      },
+      {
+        "label": "Встроенная память (ROM), Гб",
+        "value": "256"
+      },
+      {
+        "label": "Основная камера, МПикс",
+        "value": "200 + 12 + 10"
+      },
+      {
+        "label": "Емкость аккумулятора, мАч",
+        "value": "4400"
+      },
+      {
+        "label": "Материал корпуса",
+        "value": "алюминий, стекло"
+      },
+      {
+        "label": "Степень защиты",
+        "value": "IP48"
+      },
+      {
+        "label": "Гарантия, месяц",
+        "value": "12"
+      }
+    ],
+    "stats": [
+      {
+        "value": "8″",
+        "label": "Основной экран",
+        "sourceUrl": "https://online-samsung.ru/product/sm-f966bzkbcau",
+        "sourceSpec": "Диагональ, дюйм",
+        "sourceValue": "8"
+      },
+      {
+        "value": "200 МП",
+        "label": "Основная камера",
+        "sourceUrl": "https://online-samsung.ru/product/sm-f966bzkbcau",
+        "sourceSpec": "Основная камера, МПикс",
+        "sourceValue": "200 + 12 + 10"
+      },
+      {
+        "value": "215 г",
+        "label": "Вес устройства",
+        "sourceUrl": "https://online-samsung.ru/product/sm-f966bzkbcau",
+        "sourceSpec": "Вес (устройства), грамм",
+        "sourceValue": "215"
+      }
+    ],
+    "includedPackage": [
+      {
+        "label": "Кабель для зарядки / данных",
+        "value": "Да",
+        "sourceUrl": "https://online-samsung.ru/product/sm-f966bzkbcau"
+      }
+    ],
+    "variants": [],
+    "gallery": [
+      {
+        "file": "assets/products/galaxy-z-fold7/1.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Galaxy Z Fold7 — ракурс 1",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2025-08/SM-F966BZKBCAU_1-min_0.png",
+        "sourceGalleryIndex": 11,
+        "hasAlpha": false
+      },
+      {
+        "file": "assets/products/galaxy-z-fold7/2.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Galaxy Z Fold7 — ракурс 2",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2025-08/SM-F966BZKBCAU_2-min_0.png",
+        "sourceGalleryIndex": 12,
+        "hasAlpha": false
+      },
+      {
+        "file": "assets/products/galaxy-z-fold7/3.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Galaxy Z Fold7 — ракурс 3",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2025-08/SM-F966BZKBCAU_3-min_0.png",
+        "sourceGalleryIndex": 13,
+        "hasAlpha": false
+      },
+      {
+        "file": "assets/products/galaxy-z-fold7/4.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Galaxy Z Fold7 — ракурс 4",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2025-08/SM-F966BZKBCAU_4-min_0.png",
+        "sourceGalleryIndex": 14,
+        "hasAlpha": false
+      }
+    ],
+    "sourceNotes": [
+      "Price and specifications read directly from the retailer product page on 2026-11-09. Availability must be confirmed with retailer.",
+      "Official retailer product renders exported to WebP without AI modification, cropping, or aspect-ratio changes.",
+      "All gallery renders were visually inspected. Promotion posters and warranty/feature text panels are excluded from the final gallery."
+    ],
+    "allSpecs": [
+      {
+        "label": "Гарантия, месяц",
+        "value": "12"
+      },
+      {
+        "label": "Страна",
+        "value": "Вьетнам"
+      },
+      {
+        "label": "Производитель",
+        "value": "Samsung"
+      },
+      {
+        "label": "Декларация / Сертификат соответствия",
+        "value": "ЕАЭС N RU Д-KR.РА04.В.81885/25"
+      },
+      {
+        "label": "Модель",
+        "value": "Galaxy Z Fold7"
+      },
+      {
+        "label": "Серия",
+        "value": "Galaxy Z"
+      },
+      {
+        "label": "Операционная система",
+        "value": "Android 15"
+      },
+      {
+        "label": "Экран (Разрешение), Пикс.",
+        "value": "2184 x 1968"
+      },
+      {
+        "label": "Разрешение (диапазон), Пикс.",
+        "value": "от 1920 x 1080 до 2400 x 1080"
+      },
+      {
+        "label": "Диагональ, дюйм",
+        "value": "8"
+      },
+      {
+        "label": "Диагональ (диапазон)",
+        "value": "от 7.5\" и более"
+      },
+      {
+        "label": "Технология экрана",
+        "value": "Dynamic AMOLED 2X"
+      },
+      {
+        "label": "Безрамочный",
+        "value": "Да"
+      },
+      {
+        "label": "Частота обновления, Гц",
+        "value": "120"
+      },
+      {
+        "label": "Яркость, кд/кв.м",
+        "value": "2600"
+      },
+      {
+        "label": "Дополнительный экран",
+        "value": "Да"
+      },
+      {
+        "label": "Дополнительный Экран (Разрешение), Пикс.",
+        "value": "2520 x 1080"
+      },
+      {
+        "label": "Дополнительный Экран (Диагональ), дюйм",
+        "value": "6.5"
+      },
+      {
+        "label": "Производитель процессора",
+        "value": "Qualcomm"
+      },
+      {
+        "label": "Максимальная тактовая частота, ГГц",
+        "value": "4.47"
+      },
+      {
+        "label": "Тип процессора",
+        "value": "Snapdragon 8 Elite for Galaxy"
+      },
+      {
+        "label": "Частота процессора",
+        "value": "3.53 ГГц + 4.47 ГГц"
+      },
+      {
+        "label": "Количество ядер, шт",
+        "value": "8"
+      },
+      {
+        "label": "Оперативная память (RAM), Гб",
+        "value": "12"
+      },
+      {
+        "label": "Встроенная память (ROM), Гб",
+        "value": "256"
+      },
+      {
+        "label": "Количество основных камер, шт",
+        "value": "3"
+      },
+      {
+        "label": "Основная камера, МПикс",
+        "value": "200 + 12 + 10"
+      },
+      {
+        "label": "Основная камера (диапазон)",
+        "value": "от 108 МПикс и более"
+      },
+      {
+        "label": "Вспышка",
+        "value": "Да"
+      },
+      {
+        "label": "Оптический зум на уменьшение (x)",
+        "value": "3"
+      },
+      {
+        "label": "Цифровой зум (x)",
+        "value": "30"
+      },
+      {
+        "label": "Разрешение видеосъемки",
+        "value": "7680 x 4320 Пикс (8K)"
+      },
+      {
+        "label": "Оптическая стабилизация",
+        "value": "Да"
+      },
+      {
+        "label": "Цифровая стабилизация",
+        "value": "Да"
+      },
+      {
+        "label": "Количество фронтальных камер, шт",
+        "value": "1"
+      },
+      {
+        "label": "Фронтальная камера, Мпикс",
+        "value": "10"
+      },
+      {
+        "label": "Слот для карты памяти",
+        "value": "Нет"
+      },
+      {
+        "label": "SIM карта, шт",
+        "value": "2"
+      },
+      {
+        "label": "Тип (SIM карты)",
+        "value": "Nano-SIM (4FF), Встроенная SIM-карта"
+      },
+      {
+        "label": "Поддержка eSIM",
+        "value": "Да"
+      },
+      {
+        "label": "Гибридный слот",
+        "value": "Нет"
+      },
+      {
+        "label": "Поддержка стандартов",
+        "value": "2G, 3G, 4G LTE, 5G"
+      },
+      {
+        "label": "Поддержка Wi-Fi",
+        "value": "a, ac, ax, b, be, g, n"
+      },
+      {
+        "label": "Технология NFC",
+        "value": "Да"
+      },
+      {
+        "label": "Технология Miracast",
+        "value": "Да"
+      },
+      {
+        "label": "Встроенный модуль Bluetooth",
+        "value": "Да"
+      },
+      {
+        "label": "Bluetooth, версия",
+        "value": "5.4"
+      },
+      {
+        "label": "Поддержка GPS",
+        "value": "Да"
+      },
+      {
+        "label": "Поддержка ГЛОНАСС",
+        "value": "Да"
+      },
+      {
+        "label": "Цифровой компас",
+        "value": "Да"
+      },
+      {
+        "label": "Wi-Fi точка доступа",
+        "value": "Да"
+      },
+      {
+        "label": "Встроенный барометр",
+        "value": "Да"
+      },
+      {
+        "label": "Датчик ориентации экрана",
+        "value": "Да"
+      },
+      {
+        "label": "Датчик ускорения (G-sensor)",
+        "value": "Да"
+      },
+      {
+        "label": "Поддержка Apple Pay",
+        "value": "Нет"
+      },
+      {
+        "label": "Поддержка G-Pay",
+        "value": "Нет"
+      },
+      {
+        "label": "Поддержка Samsung-Pay",
+        "value": "Нет"
+      },
+      {
+        "label": "Датчик силы нажатия",
+        "value": "Нет"
+      },
+      {
+        "label": "Сенсор распознавания лица",
+        "value": "Да"
+      },
+      {
+        "label": "Датчик (Сканер) отпечатков пальцев",
+        "value": "Да"
+      },
+      {
+        "label": "Порт USB",
+        "value": "USB Type-C"
+      },
+      {
+        "label": "Разъем для наушников",
+        "value": "USB Type-C"
+      },
+      {
+        "label": "Материал корпуса",
+        "value": "алюминий, стекло"
+      },
+      {
+        "label": "Степень защиты",
+        "value": "IP48"
+      },
+      {
+        "label": "Погружение в воду на глубину, метр",
+        "value": "1.5"
+      },
+      {
+        "label": "Кабель для зарядки / данных",
+        "value": "Да"
+      },
+      {
+        "label": "Защитная пленка для экрана",
+        "value": "Нет"
+      },
+      {
+        "label": "Поддержка беспроводной зарядки",
+        "value": "Да"
+      },
+      {
+        "label": "Поддержка быстрой зарядки",
+        "value": "Да"
+      },
+      {
+        "label": "Емкость аккумулятора, мАч",
+        "value": "4400"
+      },
+      {
+        "label": "Емкость аккумулятора (диапазон)",
+        "value": "от 4000 до 4500 мАч"
+      },
+      {
+        "label": "Тип аккумулятора",
+        "value": "Li-Ion"
+      },
+      {
+        "label": "Цвет палитра",
+        "value": "Черный"
+      },
+      {
+        "label": "Вес (устройства), грамм",
+        "value": "215"
+      },
+      {
+        "label": "Вес (с упаковкой), грамм",
+        "value": "500"
+      },
+      {
+        "label": "Высота устройства, мм",
+        "value": "158.4"
+      },
+      {
+        "label": "Ширина устройства, мм",
+        "value": "143.2"
+      },
+      {
+        "label": "Глубина устройства, мм",
+        "value": "4.2"
+      },
+      {
+        "label": "Высота в упаковке, мм",
+        "value": "174"
+      },
+      {
+        "label": "Ширина в упаковке, мм",
+        "value": "144"
+      },
+      {
+        "label": "Глубина в упаковке, мм",
+        "value": "27"
+      }
+    ],
+    "packageNotes": "Only confirmed items are listed; full package contents must be confirmed with the retailer."
+  },
+  "galaxy-watch-ultra": {
+    "title": "Смарт-часы Samsung Galaxy Watch Ультра 47 мм LTE синий-титан",
+    "shortName": "Galaxy Watch Ultra",
+    "category": "Часы",
+    "sourceUrl": "https://online-samsung.ru/product/sm-l705fzb1cau",
+    "sku": "SM-L705FZB1CAU",
+    "price": 36990,
+    "variant": "синий-титан",
+    "specs": [
+      {
+        "label": "Модель",
+        "value": "SM-L705FZB1"
+      },
+      {
+        "label": "Операционная система",
+        "value": "Wear OS"
+      },
+      {
+        "label": "Диагональ, дюйм",
+        "value": "1.47"
+      },
+      {
+        "label": "Тип экрана",
+        "value": "Super AMOLED"
+      },
+      {
+        "label": "Разрешение экрана, Пикс.",
+        "value": "480 x 480"
+      },
+      {
+        "label": "Емкость аккумулятора, мАч",
+        "value": "590"
+      },
+      {
+        "label": "Класс водонепроницаемости",
+        "value": "WR100"
+      },
+      {
+        "label": "Материал корпуса",
+        "value": "титан"
+      },
+      {
+        "label": "Степень защиты IP",
+        "value": "IP68"
+      },
+      {
+        "label": "4G LTE",
+        "value": "Да"
+      },
+      {
+        "label": "Цвет",
+        "value": "синий титан"
+      },
+      {
+        "label": "Гарантия, месяц",
+        "value": "12"
+      }
+    ],
+    "stats": [
+      {
+        "value": "Титан",
+        "label": "Материал корпуса",
+        "sourceUrl": "https://online-samsung.ru/product/sm-l705fzb1cau",
+        "sourceSpec": "Материал корпуса",
+        "sourceValue": "титан"
+      },
+      {
+        "value": "до 100 ч",
+        "label": "В стандартном режиме",
+        "sourceUrl": "https://online-samsung.ru/product/sm-l705fzb1cau",
+        "sourceSpec": "Среднее время автономной работы при стандартном режиме использования, час",
+        "sourceValue": "100"
+      },
+      {
+        "value": "IP68",
+        "label": "Степень защиты",
+        "sourceUrl": "https://online-samsung.ru/product/sm-l705fzb1cau",
+        "sourceSpec": "Степень защиты IP",
+        "sourceValue": "IP68"
+      }
+    ],
+    "includedPackage": [
+      {
+        "label": "Зарядное устройство",
+        "value": "Да",
+        "sourceUrl": "https://online-samsung.ru/product/sm-l705fzb1cau"
+      },
+      {
+        "label": "Инструкция пользователя",
+        "value": "Да",
+        "sourceUrl": "https://online-samsung.ru/product/sm-l705fzb1cau"
+      }
+    ],
+    "variants": [],
+    "gallery": [
+      {
+        "file": "assets/products/galaxy-watch-ultra/1.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Galaxy Watch Ultra — ракурс 1",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2025-11/SM-L705FZB1CAU_1-min_0.png",
+        "sourceGalleryIndex": 20,
+        "hasAlpha": false
+      },
+      {
+        "file": "assets/products/galaxy-watch-ultra/2.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Galaxy Watch Ultra — ракурс 2",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2025-11/SM-L705FZB1CAU_2-min_0.png",
+        "sourceGalleryIndex": 21,
+        "hasAlpha": false
+      },
+      {
+        "file": "assets/products/galaxy-watch-ultra/3.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Galaxy Watch Ultra — ракурс 3",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2025-11/SM-L705FZB1CAU_4-min_0.png",
+        "sourceGalleryIndex": 23,
+        "hasAlpha": false
+      },
+      {
+        "file": "assets/products/galaxy-watch-ultra/4.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Galaxy Watch Ultra — ракурс 4",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2025-11/SM-L705FZB1CAU_5-min_0.png",
+        "sourceGalleryIndex": 24,
+        "hasAlpha": false
+      }
+    ],
+    "sourceNotes": [
+      "Price and specifications read directly from the retailer product page on 2026-11-09. Availability must be confirmed with retailer.",
+      "Official retailer product renders exported to WebP without AI modification, cropping, or aspect-ratio changes.",
+      "All gallery renders were visually inspected. Promotion posters and warranty/feature text panels are excluded from the final gallery."
+    ],
+    "allSpecs": [
+      {
+        "label": "Гарантия, месяц",
+        "value": "12"
+      },
+      {
+        "label": "Страна",
+        "value": "Вьетнам"
+      },
+      {
+        "label": "Производитель",
+        "value": "Samsung"
+      },
+      {
+        "label": "Декларация / Сертификат соответствия",
+        "value": "ЕАЭС RU С-KR.АЯ46.В.41514/25"
+      },
+      {
+        "label": "Тип",
+        "value": "Смарт Часы"
+      },
+      {
+        "label": "Модельный ряд",
+        "value": "Galaxy Watch Ультра"
+      },
+      {
+        "label": "Серия",
+        "value": "Watch Ультра"
+      },
+      {
+        "label": "Модель",
+        "value": "SM-L705FZB1"
+      },
+      {
+        "label": "Диагональ, дюйм",
+        "value": "1.47"
+      },
+      {
+        "label": "Разрешение экрана, Пикс.",
+        "value": "480 x 480"
+      },
+      {
+        "label": "Тип экрана",
+        "value": "Super AMOLED"
+      },
+      {
+        "label": "Сенсорный экран",
+        "value": "Да"
+      },
+      {
+        "label": "Android",
+        "value": "Да"
+      },
+      {
+        "label": "iOS",
+        "value": "Нет"
+      },
+      {
+        "label": "Операционная система",
+        "value": "Wear OS"
+      },
+      {
+        "label": "Количество SIM карт, шт",
+        "value": "1"
+      },
+      {
+        "label": "Тип SIM карты",
+        "value": "e-SIM"
+      },
+      {
+        "label": "4G LTE",
+        "value": "Да"
+      },
+      {
+        "label": "NFC",
+        "value": "Да"
+      },
+      {
+        "label": "Bluetooth",
+        "value": "Да"
+      },
+      {
+        "label": "Поддержка Wi-Fi",
+        "value": "Да"
+      },
+      {
+        "label": "2G",
+        "value": "Нет"
+      },
+      {
+        "label": "3G",
+        "value": "Нет"
+      },
+      {
+        "label": "Материал корпуса",
+        "value": "титан"
+      },
+      {
+        "label": "Материал ремешка",
+        "value": "Фторэластомер"
+      },
+      {
+        "label": "Цвет",
+        "value": "синий титан"
+      },
+      {
+        "label": "Цвет палитра",
+        "value": "синий"
+      },
+      {
+        "label": "Класс водонепроницаемости",
+        "value": "WR100"
+      },
+      {
+        "label": "Степень защиты IP",
+        "value": "IP68"
+      },
+      {
+        "label": "Пульсометр",
+        "value": "Да"
+      },
+      {
+        "label": "Шагомер",
+        "value": "Да"
+      },
+      {
+        "label": "Счетчик калорий часы",
+        "value": "Да"
+      },
+      {
+        "label": "Уровень кислорода в крови",
+        "value": "Да"
+      },
+      {
+        "label": "Акселерометр",
+        "value": "Да"
+      },
+      {
+        "label": "Барометр",
+        "value": "Да"
+      },
+      {
+        "label": "Поддержка GPS",
+        "value": "Да"
+      },
+      {
+        "label": "Поддержка ГЛОНАСС",
+        "value": "Да"
+      },
+      {
+        "label": "Гироскоп",
+        "value": "Да"
+      },
+      {
+        "label": "Секундомер",
+        "value": "Да"
+      },
+      {
+        "label": "Уведомления",
+        "value": "звонки, сообщения"
+      },
+      {
+        "label": "Таймер",
+        "value": "Нет"
+      },
+      {
+        "label": "Встроенный динамик",
+        "value": "Да"
+      },
+      {
+        "label": "Вибрация",
+        "value": "Да"
+      },
+      {
+        "label": "Встроенный микрофон",
+        "value": "Да"
+      },
+      {
+        "label": "Аккумулятор",
+        "value": "встроенный"
+      },
+      {
+        "label": "Емкость аккумулятора, мАч",
+        "value": "590"
+      },
+      {
+        "label": "Среднее время автономной работы при стандартном режиме использования, час",
+        "value": "100"
+      },
+      {
+        "label": "Среднее время работы (диапазон)",
+        "value": "от 50 до 100 ч"
+      },
+      {
+        "label": "Зарядное устройство",
+        "value": "Да"
+      },
+      {
+        "label": "Инструкция пользователя",
+        "value": "Да"
+      },
+      {
+        "label": "Кабель USB",
+        "value": "Нет"
+      },
+      {
+        "label": "Вес (устройства), г (грамм)",
+        "value": "94"
+      },
+      {
+        "label": "Вес (с упаковкой), г (грамм)",
+        "value": "170"
+      },
+      {
+        "label": "Высота, мм",
+        "value": "47.40"
+      },
+      {
+        "label": "Ширина, мм",
+        "value": "47.40"
+      },
+      {
+        "label": "Глубина, мм",
+        "value": "12.10"
+      },
+      {
+        "label": "Высота, мм",
+        "value": "30.00"
+      },
+      {
+        "label": "Ширина, мм",
+        "value": "60.00"
+      },
+      {
+        "label": "Глубина, мм",
+        "value": "280.00"
+      }
+    ],
+    "packageNotes": "Only confirmed items are listed; full package contents must be confirmed with the retailer."
+  },
+  "galaxy-buds4-pro": {
+    "title": "Наушники Samsung Galaxy Buds 4 Про Чёрный",
+    "shortName": "Galaxy Buds4 Pro",
+    "category": "Наушники",
+    "sourceUrl": "https://online-samsung.ru/product/sm-r640nzkacis",
+    "sku": "SM-R640NZKACIS",
+    "price": 19990,
+    "variant": "Чёрный",
+    "specs": [
+      {
+        "label": "Модель",
+        "value": "SM-R640NZKA"
+      },
+      {
+        "label": "Версия Bluetooth",
+        "value": "6.1"
+      },
+      {
+        "label": "Система активного подавления шума",
+        "value": "Да"
+      },
+      {
+        "label": "Время работы с подзарядкой в футляре, час",
+        "value": "26"
+      },
+      {
+        "label": "Время работы без подзарядки в футляре, час",
+        "value": "6"
+      },
+      {
+        "label": "Класс водонепроницаемости",
+        "value": "IP57"
+      },
+      {
+        "label": "Материал корпуса",
+        "value": "Пластик"
+      },
+      {
+        "label": "Цвет",
+        "value": "черный"
+      },
+      {
+        "label": "Гарантия, месяц",
+        "value": "12"
+      }
+    ],
+    "stats": [
+      {
+        "value": "ANC",
+        "label": "Активное шумоподавление",
+        "sourceUrl": "https://online-samsung.ru/product/sm-r640nzkacis",
+        "sourceSpec": "Система активного подавления шума",
+        "sourceValue": "Да"
+      },
+      {
+        "value": "до 26 ч",
+        "label": "С зарядным футляром",
+        "sourceUrl": "https://online-samsung.ru/product/sm-r640nzkacis",
+        "sourceSpec": "Время работы с подзарядкой в футляре, час",
+        "sourceValue": "26"
+      },
+      {
+        "value": "Bluetooth 6.1",
+        "label": "Беспроводное соединение",
+        "sourceUrl": "https://online-samsung.ru/product/sm-r640nzkacis",
+        "sourceSpec": "Версия Bluetooth",
+        "sourceValue": "6.1"
+      }
+    ],
+    "includedPackage": [
+      {
+        "label": "Наушники",
+        "value": "Да",
+        "sourceUrl": "https://online-samsung.ru/product/sm-r640nzkacis"
+      },
+      {
+        "label": "Зарядный футляр",
+        "value": "Да",
+        "sourceUrl": "https://online-samsung.ru/product/sm-r640nzkacis"
+      },
+      {
+        "label": "сменные амбушюры, шт",
+        "value": "2",
+        "sourceUrl": "https://online-samsung.ru/product/sm-r640nzkacis"
+      },
+      {
+        "label": "Инструкция пользователя",
+        "value": "Да",
+        "sourceUrl": "https://online-samsung.ru/product/sm-r640nzkacis"
+      }
+    ],
+    "variants": [],
+    "gallery": [
+      {
+        "file": "assets/products/galaxy-buds4-pro/1.webp",
+        "width": 1200,
+        "height": 1200,
+        "alt": "Galaxy Buds4 Pro — ракурс 1",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-03/SM-R640NZKACIS_7.png",
+        "sourceGalleryIndex": 6,
+        "hasAlpha": false
+      },
+      {
+        "file": "assets/products/galaxy-buds4-pro/2.webp",
+        "width": 1200,
+        "height": 1200,
+        "alt": "Galaxy Buds4 Pro — ракурс 2",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-03/SM-R640NZKACIS_6.png",
+        "sourceGalleryIndex": 5,
+        "hasAlpha": false
+      },
+      {
+        "file": "assets/products/galaxy-buds4-pro/3.webp",
+        "width": 1200,
+        "height": 1200,
+        "alt": "Galaxy Buds4 Pro — ракурс 3",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-03/SM-R640NZKACIS_3.png",
+        "sourceGalleryIndex": 2,
+        "hasAlpha": false
+      },
+      {
+        "file": "assets/products/galaxy-buds4-pro/4.webp",
+        "width": 1200,
+        "height": 1200,
+        "alt": "Galaxy Buds4 Pro — ракурс 4",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-03/SM-R640NZKACIS_5.png",
+        "sourceGalleryIndex": 4,
+        "hasAlpha": false
+      }
+    ],
+    "sourceNotes": [
+      "Price and specifications read directly from the retailer product page on 2026-11-09. Availability must be confirmed with retailer.",
+      "Official retailer product renders exported to WebP without AI modification, cropping, or aspect-ratio changes.",
+      "All gallery renders were visually inspected. Promotion posters and warranty/feature text panels are excluded from the final gallery."
+    ],
+    "allSpecs": [
+      {
+        "label": "Гарантия, месяц",
+        "value": "12"
+      },
+      {
+        "label": "Страна",
+        "value": "Вьетнам"
+      },
+      {
+        "label": "Производитель",
+        "value": "Samsung"
+      },
+      {
+        "label": "Тип",
+        "value": "внутриканальные"
+      },
+      {
+        "label": "Модельный ряд",
+        "value": "Galaxy Buds"
+      },
+      {
+        "label": "Серия",
+        "value": "Buds 4 Про"
+      },
+      {
+        "label": "Модель",
+        "value": "SM-R640NZKA"
+      },
+      {
+        "label": "Внутриканальные",
+        "value": "Да"
+      },
+      {
+        "label": "Вставные",
+        "value": "Нет"
+      },
+      {
+        "label": "Тип подключения наушников",
+        "value": "беспроводной"
+      },
+      {
+        "label": "Bluetooth",
+        "value": "Да"
+      },
+      {
+        "label": "Версия Bluetooth",
+        "value": "6.1"
+      },
+      {
+        "label": "Встроенный микрофон",
+        "value": "Да"
+      },
+      {
+        "label": "Количество встроенных микрофонов",
+        "value": "3"
+      },
+      {
+        "label": "Сенсорная панель управления",
+        "value": "Да"
+      },
+      {
+        "label": "Регулировка громкости",
+        "value": "Да"
+      },
+      {
+        "label": "Управление воспроизведением",
+        "value": "Да"
+      },
+      {
+        "label": "Использование в качестве гарнитуры",
+        "value": "Да"
+      },
+      {
+        "label": "Система активного подавления шума",
+        "value": "Да"
+      },
+      {
+        "label": "Автоматическое включение",
+        "value": "Да"
+      },
+      {
+        "label": "Индикация заряда аккумулятора",
+        "value": "Да"
+      },
+      {
+        "label": "Голосовое управление",
+        "value": "Да"
+      },
+      {
+        "label": "Гироскоп",
+        "value": "Нет"
+      },
+      {
+        "label": "Индикация включения",
+        "value": "Нет"
+      },
+      {
+        "label": "Материал корпуса",
+        "value": "Пластик"
+      },
+      {
+        "label": "Цвет палитра",
+        "value": "черный"
+      },
+      {
+        "label": "Цвет",
+        "value": "черный"
+      },
+      {
+        "label": "Класс водонепроницаемости",
+        "value": "IP57"
+      },
+      {
+        "label": "Беспроводная зарядка",
+        "value": "Да"
+      },
+      {
+        "label": "Время работы без подзарядки в футляре, час",
+        "value": "6"
+      },
+      {
+        "label": "Время работы с подзарядкой в футляре, час",
+        "value": "26"
+      },
+      {
+        "label": "Время работы, макс.",
+        "value": "от 24 ч и более"
+      },
+      {
+        "label": "Быстрая зарядка",
+        "value": "Нет"
+      },
+      {
+        "label": "Наушники",
+        "value": "Да"
+      },
+      {
+        "label": "Зарядный футляр",
+        "value": "Да"
+      },
+      {
+        "label": "сменные амбушюры, шт",
+        "value": "2"
+      },
+      {
+        "label": "Инструкция пользователя",
+        "value": "Да"
+      },
+      {
+        "label": "Кабель USB",
+        "value": "Нет"
+      },
+      {
+        "label": "Вес наушника, г",
+        "value": "5"
+      },
+      {
+        "label": "Вес футляра, г",
+        "value": "44"
+      },
+      {
+        "label": "Высота, мм",
+        "value": "31"
+      },
+      {
+        "label": "Ширина, мм",
+        "value": "18"
+      },
+      {
+        "label": "Глубина, мм",
+        "value": "20"
+      },
+      {
+        "label": "Высота, мм",
+        "value": "28"
+      },
+      {
+        "label": "Ширина",
+        "value": "51"
+      },
+      {
+        "label": "Глубина, мм",
+        "value": "51"
+      }
+    ],
+    "packageNotes": "Only confirmed items are listed; full package contents must be confirmed with the retailer."
+  },
+  "samsung-tv-75": {
+    "title": "Телевизор Samsung Мини LED M1EH, 4K Ultra HD 75\", Черный-титан",
+    "shortName": "Samsung Mini LED 75″",
+    "category": "Телевизоры",
+    "sourceUrl": "https://online-samsung.ru/product/ue75m1ehauxpy",
+    "sku": "UE75M1EHAUXPY",
+    "price": 82990,
+    "variant": "75\", Черный-титан",
+    "specs": [
+      {
+        "label": "Модель",
+        "value": "UE75M1EH"
+      },
+      {
+        "label": "Операционная система",
+        "value": "OS Tizen"
+      },
+      {
+        "label": "Диагональ, дюймов",
+        "value": "75"
+      },
+      {
+        "label": "Разрешение экрана, Пикс.",
+        "value": "3840 x 2160"
+      },
+      {
+        "label": "Стандарт разрешения экрана",
+        "value": "4K Ultra HD"
+      },
+      {
+        "label": "Частота обновления, Гц",
+        "value": "50"
+      },
+      {
+        "label": "Процессор",
+        "value": "Мини LED Процессор 4К"
+      },
+      {
+        "label": "Цвет",
+        "value": "черный"
+      },
+      {
+        "label": "Гарантия, месяц",
+        "value": "12"
+      }
+    ],
+    "stats": [
+      {
+        "value": "75″",
+        "label": "Диагональ экрана",
+        "sourceUrl": "https://online-samsung.ru/product/ue75m1ehauxpy",
+        "sourceSpec": "Диагональ, дюймов",
+        "sourceValue": "75"
+      },
+      {
+        "value": "4K",
+        "label": "3840 × 2160 пикселей",
+        "sourceUrl": "https://online-samsung.ru/product/ue75m1ehauxpy",
+        "sourceSpec": "Разрешение экрана, Пикс.",
+        "sourceValue": "3840 x 2160"
+      },
+      {
+        "value": "Mini LED",
+        "label": "Технология изображения",
+        "sourceUrl": "https://online-samsung.ru/product/ue75m1ehauxpy",
+        "sourceSpec": "Контрастность",
+        "sourceValue": "Мини LED"
+      }
+    ],
+    "includedPackage": [
+      {
+        "label": "Батарейки (для пульта дистанционного управления)",
+        "value": "Да",
+        "sourceUrl": "https://online-samsung.ru/product/ue75m1ehauxpy"
+      },
+      {
+        "label": "Руководство пользователя",
+        "value": "Да",
+        "sourceUrl": "https://online-samsung.ru/product/ue75m1ehauxpy"
+      },
+      {
+        "label": "Электронное руководство пользователя",
+        "value": "Да",
+        "sourceUrl": "https://online-samsung.ru/product/ue75m1ehauxpy"
+      },
+      {
+        "label": "Сетевой кабель",
+        "value": "Да",
+        "sourceUrl": "https://online-samsung.ru/product/ue75m1ehauxpy"
+      }
+    ],
+    "variants": [],
+    "gallery": [
+      {
+        "file": "assets/products/samsung-tv-75/1.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Samsung Mini LED 75″ — ракурс 1",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-10/UE75M1EHAUXPY_2.png",
+        "sourceGalleryIndex": 2,
+        "hasAlpha": true
+      },
+      {
+        "file": "assets/products/samsung-tv-75/2.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Samsung Mini LED 75″ — ракурс 2",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-10/UE75M1EHAUXPY_3.png",
+        "sourceGalleryIndex": 3,
+        "hasAlpha": true
+      },
+      {
+        "file": "assets/products/samsung-tv-75/3.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Samsung Mini LED 75″ — ракурс 3",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-10/UE75M1EHAUXPY_4.png",
+        "sourceGalleryIndex": 4,
+        "hasAlpha": true
+      },
+      {
+        "file": "assets/products/samsung-tv-75/4.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Samsung Mini LED 75″ — ракурс 4",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-10/UE75M1EHAUXPY_5.png",
+        "sourceGalleryIndex": 5,
+        "hasAlpha": true
+      }
+    ],
+    "sourceNotes": [
+      "Price and specifications read directly from the retailer product page on 2026-11-09. Availability must be confirmed with retailer.",
+      "Official retailer product renders exported to WebP without AI modification, cropping, or aspect-ratio changes.",
+      "All gallery renders were visually inspected. Promotion posters and warranty/feature text panels are excluded from the final gallery."
+    ],
+    "allSpecs": [
+      {
+        "label": "Гарантия, месяц",
+        "value": "12"
+      },
+      {
+        "label": "Страна",
+        "value": "Египет"
+      },
+      {
+        "label": "Производитель",
+        "value": "Samsung"
+      },
+      {
+        "label": "Серия",
+        "value": "7"
+      },
+      {
+        "label": "Год производства",
+        "value": "2026"
+      },
+      {
+        "label": "Декларация / Сертификат соответствия",
+        "value": "ЕАЭС RU С-KR.АЯ46.В.48299/26"
+      },
+      {
+        "label": "Разрешение экрана, Пикс.",
+        "value": "3840 x 2160"
+      },
+      {
+        "label": "Стандарт разрешения экрана",
+        "value": "4K Ultra HD"
+      },
+      {
+        "label": "Диагональ, дюймов",
+        "value": "75"
+      },
+      {
+        "label": "Изгиб экрана",
+        "value": "Нет"
+      },
+      {
+        "label": "Антиблик",
+        "value": "Нет"
+      },
+      {
+        "label": "Расширенный динамический диапазон (High Dynamic Range)",
+        "value": "Мини LED HDR"
+      },
+      {
+        "label": "Поддержка HDR",
+        "value": "Да"
+      },
+      {
+        "label": "Тип технологии HDR",
+        "value": "Поддержка HDR10+"
+      },
+      {
+        "label": "Режим \"Кино\"",
+        "value": "Да"
+      },
+      {
+        "label": "Интеллектуальное масштабирование разрешения (AI Upscale)",
+        "value": "Масштабирование разрешения до 4K"
+      },
+      {
+        "label": "Регулировка HLG (Логарифм Гамма)",
+        "value": "Да"
+      },
+      {
+        "label": "Контрастность",
+        "value": "Мини LED"
+      },
+      {
+        "label": "Угол обзора",
+        "value": "Широкий угол обзора"
+      },
+      {
+        "label": "Режим режиссера Filmmaker Mode (FMM)",
+        "value": "Да"
+      },
+      {
+        "label": "Технология локальной подсветки экрана: Micro Dimming (для передачи деталей в самых темных и светлых сценах)",
+        "value": "Мини LED Затемнение"
+      },
+      {
+        "label": "Технология Contrast Enhancer (Усиление контрастности)",
+        "value": "Да"
+      },
+      {
+        "label": "Процессор",
+        "value": "Мини LED Процессор 4К"
+      },
+      {
+        "label": "Частота обновления, Гц",
+        "value": "50"
+      },
+      {
+        "label": "Адаптивное изображение",
+        "value": "Нет"
+      },
+      {
+        "label": "Модель",
+        "value": "UE75M1EH"
+      },
+      {
+        "label": "Модельный ряд",
+        "value": "Мини LED"
+      },
+      {
+        "label": "Тип",
+        "value": "LED"
+      },
+      {
+        "label": "Мощность акустической системы, Вт",
+        "value": "20"
+      },
+      {
+        "label": "Количество каналов звука",
+        "value": "2"
+      },
+      {
+        "label": "Поддержка передачи звука через Bluetooth",
+        "value": "Да"
+      },
+      {
+        "label": "Звук, следующий за объектом на экране",
+        "value": "Звук, следующий за объектом (Базовый)"
+      },
+      {
+        "label": "Адаптивный звук",
+        "value": "Функция Адаптивная громкость"
+      },
+      {
+        "label": "Q-Symphony (ТВ и саундбар: синергия звука)",
+        "value": "Да"
+      },
+      {
+        "label": "Сабвуфер",
+        "value": "Нет"
+      },
+      {
+        "label": "Smart TV",
+        "value": "Да"
+      },
+      {
+        "label": "Операционная система",
+        "value": "OS Tizen"
+      },
+      {
+        "label": "Поддержка Bixby",
+        "value": "Нет"
+      },
+      {
+        "label": "Совместимость с голосовым ассистентом Алиса",
+        "value": "Да"
+      },
+      {
+        "label": "Веб-браузер",
+        "value": "Да"
+      },
+      {
+        "label": "Система \"Умный дом\"",
+        "value": "Приложение SmartThings"
+      },
+      {
+        "label": "Поддержка приложения \"Интернет вещей\" (SmartThings App Support)",
+        "value": "Да"
+      },
+      {
+        "label": "Поддержка SmartThings",
+        "value": "Да"
+      },
+      {
+        "label": "Голосовое управление",
+        "value": "Нет"
+      },
+      {
+        "label": "Поддержка функции зеркалирования (Отображение проекции на мобильном устройстве)",
+        "value": "Нет"
+      },
+      {
+        "label": "Отображение экрана мобильного устройства на проекции",
+        "value": "Да"
+      },
+      {
+        "label": "Поддержка NFC на ТВ",
+        "value": "Нет"
+      },
+      {
+        "label": "Функция TV Initiate Mirroring",
+        "value": "Нет"
+      },
+      {
+        "label": "Интерьерный режим",
+        "value": "Нет"
+      },
+      {
+        "label": "Поддержка функции \"Sound Mirroring\"",
+        "value": "Да"
+      },
+      {
+        "label": "Автоподключение к точке доступа (Auto Hotspot Connect)",
+        "value": "Нет"
+      },
+      {
+        "label": "Поддержка S-Share",
+        "value": "Нет"
+      },
+      {
+        "label": "Автоматическое сохранение данных",
+        "value": "Нет"
+      },
+      {
+        "label": "Совместимость с адаптерами (3G / LTE / WiFi)",
+        "value": "Нет"
+      },
+      {
+        "label": "Функция Analog Clean View (фильтрация помех в аналоговых каналах)",
+        "value": "Нет"
+      },
+      {
+        "label": "Тройная защита",
+        "value": "Нет"
+      },
+      {
+        "label": "Игровой режим",
+        "value": "Да"
+      },
+      {
+        "label": "Автовключение игрового режима (ALLM)",
+        "value": "Да"
+      },
+      {
+        "label": "Функция Game Motion Plus",
+        "value": "Нет"
+      },
+      {
+        "label": "Dynamic Black EQ",
+        "value": "Нет"
+      },
+      {
+        "label": "Окружающий звук",
+        "value": "Нет"
+      },
+      {
+        "label": "Ультраширокий обзор в игровом режиме (Super Ultra Wide Game View)",
+        "value": "Нет"
+      },
+      {
+        "label": "Игровая панель (Game Bar)",
+        "value": "Нет"
+      },
+      {
+        "label": "Подддержка Freesync",
+        "value": "Нет"
+      },
+      {
+        "label": "Цифровое телевещание (Digital Broadcasting)",
+        "value": "DVB-T2CS2"
+      },
+      {
+        "label": "Аналоговый тюнер",
+        "value": "Да"
+      },
+      {
+        "label": "Цифровой тюнер",
+        "value": "Да"
+      },
+      {
+        "label": "Спутниковый тюнер",
+        "value": "Да"
+      },
+      {
+        "label": "2 тюнера",
+        "value": "Нет"
+      },
+      {
+        "label": "Разъем для карточки CI (Common Interface)",
+        "value": "CI+"
+      },
+      {
+        "label": "Передача данных (Data Broadcasting)",
+        "value": "HbbTV 2.0.4 (RU)"
+      },
+      {
+        "label": "Поддержка приложения TV Key",
+        "value": "Да"
+      },
+      {
+        "label": "HDMI",
+        "value": "3"
+      },
+      {
+        "label": "USB",
+        "value": "1"
+      },
+      {
+        "label": "Компонентный вход (Y/Pb/Pr)",
+        "value": "Нет"
+      },
+      {
+        "label": "Композитный вход (AV)",
+        "value": "Нет"
+      },
+      {
+        "label": "Поддержка Ethernet (LAN)",
+        "value": "Да"
+      },
+      {
+        "label": "Аудиовыход (3,5-мм гнездо для наушников)",
+        "value": "Нет"
+      },
+      {
+        "label": "Цифровой аудиовыход (оптический)",
+        "value": "1"
+      },
+      {
+        "label": "Антенный вход (Наземное/кабельное ТВ)",
+        "value": "1/1(Общий вход для кабельного ТВ)"
+      },
+      {
+        "label": "Сервисный разъем ( RS-232C )",
+        "value": "Нет"
+      },
+      {
+        "label": "CI слот",
+        "value": "1"
+      },
+      {
+        "label": "\"Технология HDMI ARC - Audio Return Channel\" (реверсивный звуковой канал)",
+        "value": "Да"
+      },
+      {
+        "label": "eARC",
+        "value": "Да"
+      },
+      {
+        "label": "Встроенная поддержка беспроводной сети (Wi-Fi)",
+        "value": "Да"
+      },
+      {
+        "label": "Bluetooth",
+        "value": "Да (BT5.3)"
+      },
+      {
+        "label": "Цвет палитра",
+        "value": "черный"
+      },
+      {
+        "label": "Дизайн",
+        "value": "Металлический корпус"
+      },
+      {
+        "label": "Тип рамки",
+        "value": "Безрамочный"
+      },
+      {
+        "label": "Толщина рамки",
+        "value": "Тонкая"
+      },
+      {
+        "label": "Цвет передней панели",
+        "value": "Черный титан"
+      },
+      {
+        "label": "Тип подставки",
+        "value": "по бокам"
+      },
+      {
+        "label": "Цвет подставки",
+        "value": "Чёрный"
+      },
+      {
+        "label": "Автоповорот",
+        "value": "Нет"
+      },
+      {
+        "label": "Режим \"Картина\"",
+        "value": "Нет"
+      },
+      {
+        "label": "Режим “Портрет”",
+        "value": "Нет"
+      },
+      {
+        "label": "Поддержка субтитров",
+        "value": "Да"
+      },
+      {
+        "label": "Электронный телегид",
+        "value": "Да"
+      },
+      {
+        "label": "Поддержка расширенной функции PVR (для записи ТВ передач)",
+        "value": "Нет"
+      },
+      {
+        "label": "Выбор языка",
+        "value": "32 языка"
+      },
+      {
+        "label": "Телетекст (TTXT)",
+        "value": "Да"
+      },
+      {
+        "label": "Поддержка Time Shift (сдвига времени просмотра)",
+        "value": "Нет"
+      },
+      {
+        "label": "Блок расширения One Connect Box",
+        "value": "Нет"
+      },
+      {
+        "label": "Поддержка управлением устройствами других производителей",
+        "value": "Да"
+      },
+      {
+        "label": "Источник питания",
+        "value": "100-240 50/60"
+      },
+      {
+        "label": "Потребляемая мощность (макс.), Вт",
+        "value": "230"
+      },
+      {
+        "label": "Потребляемая мощность в режиме ожидания, Вт",
+        "value": "0.50"
+      },
+      {
+        "label": "Потребляемая мощность (типичное значение), Вт",
+        "value": "139"
+      },
+      {
+        "label": "Автовыключение питания",
+        "value": "Да"
+      },
+      {
+        "label": "Батарейки (для пульта дистанционного управления)",
+        "value": "Да"
+      },
+      {
+        "label": "Поддержка настенного кронштейна VESA (Размеры)",
+        "value": "200 x 200"
+      },
+      {
+        "label": "Руководство пользователя",
+        "value": "Да"
+      },
+      {
+        "label": "Электронное руководство пользователя",
+        "value": "Да"
+      },
+      {
+        "label": "Антенный кабель",
+        "value": "Нет"
+      },
+      {
+        "label": "Сетевой кабель",
+        "value": "Да"
+      },
+      {
+        "label": "HDMI кабель",
+        "value": "Нет"
+      },
+      {
+        "label": "Цвет",
+        "value": "черный"
+      },
+      {
+        "label": "Вес (устройства), кг",
+        "value": "21.60"
+      },
+      {
+        "label": "Вес (с упаковкой), кг",
+        "value": "30.00"
+      },
+      {
+        "label": "Вес (с подставкой), кг",
+        "value": "22.00"
+      },
+      {
+        "label": "Высота, мм",
+        "value": "957.80"
+      },
+      {
+        "label": "Ширина, мм",
+        "value": "1668.10"
+      },
+      {
+        "label": "Глубина, мм",
+        "value": "77.00"
+      },
+      {
+        "label": "Высота, мм",
+        "value": "1100.00"
+      },
+      {
+        "label": "Ширина, мм",
+        "value": "1825.00"
+      },
+      {
+        "label": "Глубина, мм",
+        "value": "170.00"
+      },
+      {
+        "label": "Ширина, мм",
+        "value": "1250.00"
+      },
+      {
+        "label": "Глубина, мм",
+        "value": "280.00"
+      },
+      {
+        "label": "Высота, мм",
+        "value": "1668.10"
+      },
+      {
+        "label": "Ширина, мм",
+        "value": "1444.10"
+      },
+      {
+        "label": "Глубина, мм",
+        "value": "280.00"
+      }
+    ],
+    "packageNotes": "Only confirmed items are listed; full package contents must be confirmed with the retailer."
+  },
+  "samsung-washer": {
+    "title": "Стиральная машина с сушкой Samsung Bespoke ИИ WD18DB8995BZLD 18/11 кг Темная-сталь",
+    "shortName": "Samsung Bespoke AI",
+    "category": "Для дома",
+    "sourceUrl": "https://online-samsung.ru/product/wd18db8995bzld",
+    "sku": "WD18DB8995BZLD",
+    "price": 269990,
+    "variant": "Темная-сталь",
+    "specs": [
+      {
+        "label": "Модель",
+        "value": "WD18DB8995BZLD"
+      },
+      {
+        "label": "Тип сушки",
+        "value": "Тепловой насос"
+      },
+      {
+        "label": "Максимальная загрузка (стирка), кг",
+        "value": "18.00"
+      },
+      {
+        "label": "Вместимость для сушки, кг",
+        "value": "11"
+      },
+      {
+        "label": "Мотор",
+        "value": "инверторный"
+      },
+      {
+        "label": "Макс. скорость отжима, об/мин",
+        "value": "1000"
+      },
+      {
+        "label": "Управление со смартфона",
+        "value": "Да"
+      },
+      {
+        "label": "Автоматическая подача моющих средств",
+        "value": "Да"
+      },
+      {
+        "label": "Цвет корпуса",
+        "value": "Темная сталь"
+      },
+      {
+        "label": "Гарантия, месяц",
+        "value": "12"
+      }
+    ],
+    "stats": [
+      {
+        "value": "18 кг",
+        "label": "Загрузка для стирки",
+        "sourceUrl": "https://online-samsung.ru/product/wd18db8995bzld",
+        "sourceSpec": "Максимальная загрузка (стирка), кг",
+        "sourceValue": "18.00"
+      },
+      {
+        "value": "11 кг",
+        "label": "Загрузка для сушки",
+        "sourceUrl": "https://online-samsung.ru/product/wd18db8995bzld",
+        "sourceSpec": "Вместимость для сушки, кг",
+        "sourceValue": "11"
+      },
+      {
+        "value": "HeatPump",
+        "label": "Сушка с тепловым насосом",
+        "sourceUrl": "https://online-samsung.ru/product/wd18db8995bzld",
+        "sourceSpec": "Тип сушки",
+        "sourceValue": "Тепловой насос"
+      }
+    ],
+    "includedPackage": [],
+    "variants": [],
+    "gallery": [
+      {
+        "file": "assets/products/samsung-washer/1.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Samsung Bespoke AI — ракурс 1",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-06/WD18DB8995BZLD_1.png",
+        "hasAlpha": true
+      },
+      {
+        "file": "assets/products/samsung-washer/2.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Samsung Bespoke AI — ракурс 2",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-06/WD18DB8995BZLD_2.png",
+        "hasAlpha": true
+      },
+      {
+        "file": "assets/products/samsung-washer/3.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Samsung Bespoke AI — ракурс 3",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-06/WD18DB8995BZLD_3.png",
+        "hasAlpha": true
+      },
+      {
+        "file": "assets/products/samsung-washer/4.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Samsung Bespoke AI — ракурс 4",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-06/WD18DB8995BZLD_4.png",
+        "hasAlpha": true
+      }
+    ],
+    "sourceNotes": [
+      "Price and specifications read directly from the retailer product page on 2026-11-09. Availability must be confirmed with retailer.",
+      "Official retailer product renders exported to WebP without AI modification, cropping, or aspect-ratio changes.",
+      "All gallery renders were visually inspected. Promotion posters and warranty/feature text panels are excluded from the final gallery."
+    ],
+    "allSpecs": [
+      {
+        "label": "Гарантия, месяц",
+        "value": "12"
+      },
+      {
+        "label": "Страна",
+        "value": "Корея"
+      },
+      {
+        "label": "Производитель",
+        "value": "Samsung"
+      },
+      {
+        "label": "Тип стиральной машины",
+        "value": "Стиральная машина с сушкой"
+      },
+      {
+        "label": "Тип сушки",
+        "value": "Тепловой насос"
+      },
+      {
+        "label": "Серия",
+        "value": "Bespoke ИИ"
+      },
+      {
+        "label": "Модель",
+        "value": "WD18DB8995BZLD"
+      },
+      {
+        "label": "Цвет корпуса",
+        "value": "Темная сталь"
+      },
+      {
+        "label": "Цвет палитра",
+        "value": "серый"
+      },
+      {
+        "label": "Цвет люка",
+        "value": "закаленное стекло / чёрный"
+      },
+      {
+        "label": "Тип загрузки",
+        "value": "фронтальная"
+      },
+      {
+        "label": "Максимальная загрузка (стирка), кг",
+        "value": "18.00"
+      },
+      {
+        "label": "Максимальная загрузка (стирка), диапазон",
+        "value": "от 10 кг и более"
+      },
+      {
+        "label": "Вместимость для сушки, кг",
+        "value": "11"
+      },
+      {
+        "label": "Вместимость для сушки, диапазон",
+        "value": "от 10 кг и более"
+      },
+      {
+        "label": "Стирка+сушка",
+        "value": "Да"
+      },
+      {
+        "label": "Сушка",
+        "value": "Да"
+      },
+      {
+        "label": "Мотор",
+        "value": "инверторный"
+      },
+      {
+        "label": "Программы стирки",
+        "value": "ИИ стирка и сушка, Сушка постельного белья, Детские вещи, Постельное белье, Холодный воздух, Хлопок, Деликатный цикл (Delicates), Джинсы, Пуховики, Меньше микроволокон, Программа для владельцев питомцев, Уход за стиральной машиной, Полоскание+отжим, Гигиеническая обработка, Рубашки, Просто вращение, Режим Супер скорость, Время сушки, Полотенца, Шерсть"
+      },
+      {
+        "label": "Быстрая стирка",
+        "value": "Да"
+      },
+      {
+        "label": "Дополнительное полоскание",
+        "value": "Нет"
+      },
+      {
+        "label": "Макс. скорость отжима, об/мин",
+        "value": "1000"
+      },
+      {
+        "label": "Регулировка скорости отжима",
+        "value": "Да"
+      },
+      {
+        "label": "Отложенный старт",
+        "value": "Да"
+      },
+      {
+        "label": "Звуковой сигнал",
+        "value": "Да"
+      },
+      {
+        "label": "Холодная вода",
+        "value": "Да"
+      },
+      {
+        "label": "Горячая вода",
+        "value": "Нет"
+      },
+      {
+        "label": "Защита от детей",
+        "value": "Да"
+      },
+      {
+        "label": "Контроль дисбаланса",
+        "value": "Да"
+      },
+      {
+        "label": "Стабилизатор напряжения",
+        "value": "Нет"
+      },
+      {
+        "label": "Защитное отключение при скачках напряжения",
+        "value": "Нет"
+      },
+      {
+        "label": "Контроль пенообразования",
+        "value": "Нет"
+      },
+      {
+        "label": "Механич. блокировка дверцы",
+        "value": "Нет"
+      },
+      {
+        "label": "Индикация этапов программы",
+        "value": "Да"
+      },
+      {
+        "label": "Индикация режима работы",
+        "value": "Да"
+      },
+      {
+        "label": "Генератор пузырьков",
+        "value": "Да"
+      },
+      {
+        "label": "Обработка паром",
+        "value": "Да"
+      },
+      {
+        "label": "Дозагрузка белья во время программы",
+        "value": "Да"
+      },
+      {
+        "label": "Управление со смартфона",
+        "value": "Да"
+      },
+      {
+        "label": "Автоматическая подача моющих средств",
+        "value": "Да"
+      },
+      {
+        "label": "Источник питания",
+        "value": "220-240В/50Гц"
+      },
+      {
+        "label": "Вес (устройства), кг",
+        "value": "147.00"
+      },
+      {
+        "label": "Вес (с упаковкой), кг",
+        "value": "152.00"
+      },
+      {
+        "label": "Высота, мм",
+        "value": "1110.00"
+      },
+      {
+        "label": "Ширина, мм",
+        "value": "686.00"
+      },
+      {
+        "label": "Глубина, мм",
+        "value": "875.00"
+      },
+      {
+        "label": "Глубина (диапазон)",
+        "value": "от 65 см и более"
+      },
+      {
+        "label": "Высота, мм",
+        "value": "1250"
+      },
+      {
+        "label": "Ширина, мм",
+        "value": "746"
+      },
+      {
+        "label": "Глубина, мм",
+        "value": "915"
+      }
+    ],
+    "packageNotes": "Only confirmed items are listed; full package contents must be confirmed with the retailer."
+  },
+  "samsung-dryer": {
+    "title": "Сушильная машина Samsung Стандарт + Hybrid HeatPump Wi-Fi, 16 кг Чёрный",
+    "shortName": "Samsung Hybrid HeatPump",
+    "category": "Для дома",
+    "sourceUrl": "https://online-samsung.ru/product/dv16dg8600bvld",
+    "sku": "DV16DG8600BVLD",
+    "price": 147990,
+    "variant": "Чёрный",
+    "specs": [
+      {
+        "label": "Модель",
+        "value": "DV16DG8600BVLD"
+      },
+      {
+        "label": "Тип сушки",
+        "value": "Гибридный тепловой насос"
+      },
+      {
+        "label": "Вместимость для сушки, кг",
+        "value": "16"
+      },
+      {
+        "label": "Класс энергоэффективности",
+        "value": "A+++"
+      },
+      {
+        "label": "Уровень шума (сушка), дБ",
+        "value": "64"
+      },
+      {
+        "label": "Управление со смартфона",
+        "value": "Да"
+      },
+      {
+        "label": "Автоматическая подача моющих средств",
+        "value": "Нет"
+      },
+      {
+        "label": "Цвет корпуса",
+        "value": "черный"
+      },
+      {
+        "label": "Гарантия, месяц",
+        "value": "12"
+      }
+    ],
+    "stats": [
+      {
+        "value": "16 кг",
+        "label": "Загрузка для сушки",
+        "sourceUrl": "https://online-samsung.ru/product/dv16dg8600bvld",
+        "sourceSpec": "Вместимость для сушки, кг",
+        "sourceValue": "16"
+      },
+      {
+        "value": "A+++",
+        "label": "Энергоэффективность",
+        "sourceUrl": "https://online-samsung.ru/product/dv16dg8600bvld",
+        "sourceSpec": "Класс энергоэффективности",
+        "sourceValue": "A+++"
+      },
+      {
+        "value": "HeatPump",
+        "label": "Гибридный тепловой насос",
+        "sourceUrl": "https://online-samsung.ru/product/dv16dg8600bvld",
+        "sourceSpec": "Тип сушки",
+        "sourceValue": "Гибридный тепловой насос"
+      }
+    ],
+    "includedPackage": [],
+    "variants": [],
+    "gallery": [
+      {
+        "file": "assets/products/samsung-dryer/1.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Samsung Hybrid HeatPump — ракурс 1",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-06/DV16DG8600BVLD_1.png",
+        "hasAlpha": true
+      },
+      {
+        "file": "assets/products/samsung-dryer/2.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Samsung Hybrid HeatPump — ракурс 2",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-06/DV16DG8600BVLD_2.png",
+        "hasAlpha": true
+      },
+      {
+        "file": "assets/products/samsung-dryer/3.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Samsung Hybrid HeatPump — ракурс 3",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-06/DV16DG8600BVLD_3.png",
+        "hasAlpha": true
+      },
+      {
+        "file": "assets/products/samsung-dryer/4.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Samsung Hybrid HeatPump — ракурс 4",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-06/DV16DG8600BVLD_4.png",
+        "hasAlpha": true
+      }
+    ],
+    "sourceNotes": [
+      "Price and specifications read directly from the retailer product page on 2026-11-09. Availability must be confirmed with retailer.",
+      "Official retailer product renders exported to WebP without AI modification, cropping, or aspect-ratio changes.",
+      "All gallery renders were visually inspected. Promotion posters and warranty/feature text panels are excluded from the final gallery."
+    ],
+    "allSpecs": [
+      {
+        "label": "Гарантия, месяц",
+        "value": "12"
+      },
+      {
+        "label": "Страна",
+        "value": "Корея"
+      },
+      {
+        "label": "Производитель",
+        "value": "Samsung"
+      },
+      {
+        "label": "Тип стиральной машины",
+        "value": "Сушильная машина"
+      },
+      {
+        "label": "Тип сушки",
+        "value": "Гибридный тепловой насос"
+      },
+      {
+        "label": "Модель",
+        "value": "DV16DG8600BVLD"
+      },
+      {
+        "label": "Цвет корпуса",
+        "value": "черный"
+      },
+      {
+        "label": "Цвет палитра",
+        "value": "черный"
+      },
+      {
+        "label": "Цвет люка",
+        "value": "тонировка двери + черный декор"
+      },
+      {
+        "label": "Тип загрузки",
+        "value": "фронтальная"
+      },
+      {
+        "label": "Вместимость для сушки, кг",
+        "value": "16"
+      },
+      {
+        "label": "Вместимость для сушки, диапазон",
+        "value": "от 10 кг и более"
+      },
+      {
+        "label": "Сушка",
+        "value": "Да"
+      },
+      {
+        "label": "Стирка+сушка",
+        "value": "Нет"
+      },
+      {
+        "label": "Быстрая стирка",
+        "value": "Нет"
+      },
+      {
+        "label": "Дополнительное полоскание",
+        "value": "Нет"
+      },
+      {
+        "label": "Регулировка скорости отжима",
+        "value": "Нет"
+      },
+      {
+        "label": "Класс энергоэффективности",
+        "value": "A+++"
+      },
+      {
+        "label": "Уровень шума (сушка), дБ",
+        "value": "64"
+      },
+      {
+        "label": "Звуковой сигнал",
+        "value": "Да"
+      },
+      {
+        "label": "Защита от детей",
+        "value": "Да"
+      },
+      {
+        "label": "Стабилизатор напряжения",
+        "value": "Нет"
+      },
+      {
+        "label": "Защитное отключение при скачках напряжения",
+        "value": "Нет"
+      },
+      {
+        "label": "Контроль дисбаланса",
+        "value": "Нет"
+      },
+      {
+        "label": "Контроль пенообразования",
+        "value": "Нет"
+      },
+      {
+        "label": "Механич. блокировка дверцы",
+        "value": "Нет"
+      },
+      {
+        "label": "Индикация этапов программы",
+        "value": "Да"
+      },
+      {
+        "label": "Индикация режима работы",
+        "value": "Да"
+      },
+      {
+        "label": "Управление со смартфона",
+        "value": "Да"
+      },
+      {
+        "label": "Генератор пузырьков",
+        "value": "Нет"
+      },
+      {
+        "label": "Обработка паром",
+        "value": "Нет"
+      },
+      {
+        "label": "Дозагрузка белья во время программы",
+        "value": "Нет"
+      },
+      {
+        "label": "Автоматическая подача моющих средств",
+        "value": "Нет"
+      },
+      {
+        "label": "Вес (устройства), кг",
+        "value": "72.00"
+      },
+      {
+        "label": "Вес (с упаковкой), кг",
+        "value": "76.50"
+      },
+      {
+        "label": "Высота, мм",
+        "value": "984.00"
+      },
+      {
+        "label": "Ширина, мм",
+        "value": "686.00"
+      },
+      {
+        "label": "Глубина, мм",
+        "value": "844.00"
+      },
+      {
+        "label": "Глубина (диапазон)",
+        "value": "от 65 см и более"
+      },
+      {
+        "label": "Высота, мм",
+        "value": "1116"
+      },
+      {
+        "label": "Ширина, мм",
+        "value": "746"
+      },
+      {
+        "label": "Глубина, мм",
+        "value": "885"
+      },
+      {
+        "label": "Отложенный старт",
+        "value": "Нет"
+      },
+      {
+        "label": "Холодная вода",
+        "value": "Нет"
+      },
+      {
+        "label": "Горячая вода",
+        "value": "Нет"
+      }
+    ],
+    "packageNotes": "Only confirmed items are listed; full package contents must be confirmed with the retailer."
+  },
+  "galaxy-tab-ultra": {
+    "title": "Планшет Samsung Galaxy Tab S12 Ультра 5G, 14.6\" 512 Гб, Серый",
+    "shortName": "Galaxy Tab S12 Ultra",
+    "category": "Планшеты",
+    "sourceUrl": "https://online-samsung.ru/product/sm-x946bzaecau",
+    "sku": "SM-X946BZAECAU",
+    "price": 171990,
+    "variant": "512 Гб, Серый",
+    "specs": [
+      {
+        "label": "Модель",
+        "value": "Galaxy Tab S12 Ультра 5G"
+      },
+      {
+        "label": "Операционная система",
+        "value": "Android 17"
+      },
+      {
+        "label": "Диагональ, Дюймы",
+        "value": "14.60"
+      },
+      {
+        "label": "Технология экрана",
+        "value": "Dynamic AMOLED 2X"
+      },
+      {
+        "label": "Экран (Разрешение), Пикс.",
+        "value": "2960 x 1848"
+      },
+      {
+        "label": "Тип процессора",
+        "value": "Dimensity 9500"
+      },
+      {
+        "label": "Оперативная память (RAM), Гб",
+        "value": "12"
+      },
+      {
+        "label": "Встроенная память (ROM), Гб",
+        "value": "512"
+      },
+      {
+        "label": "Емкость аккумулятора, мАч",
+        "value": "11600"
+      },
+      {
+        "label": "Материал корпуса",
+        "value": "алюминий"
+      },
+      {
+        "label": "Цвет",
+        "value": "Серый"
+      },
+      {
+        "label": "Гарантия, месяц",
+        "value": "12"
+      }
+    ],
+    "stats": [
+      {
+        "value": "14,6″",
+        "label": "Dynamic AMOLED 2X",
+        "sourceUrl": "https://online-samsung.ru/product/sm-x946bzaecau",
+        "sourceSpec": "Диагональ, Дюймы",
+        "sourceValue": "14.60"
+      },
+      {
+        "value": "512 ГБ",
+        "label": "Встроенная память",
+        "sourceUrl": "https://online-samsung.ru/product/sm-x946bzaecau",
+        "sourceSpec": "Встроенная память (ROM), Гб",
+        "sourceValue": "512"
+      },
+      {
+        "value": "11 600 мАч",
+        "label": "Ёмкость аккумулятора",
+        "sourceUrl": "https://online-samsung.ru/product/sm-x946bzaecau",
+        "sourceSpec": "Емкость аккумулятора, мАч",
+        "sourceValue": "11600"
+      }
+    ],
+    "includedPackage": [
+      {
+        "label": "Кабель USB",
+        "value": "Да",
+        "sourceUrl": "https://online-samsung.ru/product/sm-x946bzaecau"
+      },
+      {
+        "label": "Количество стилусов",
+        "value": "1",
+        "sourceUrl": "https://online-samsung.ru/product/sm-x946bzaecau"
+      }
+    ],
+    "variants": [],
+    "gallery": [
+      {
+        "file": "assets/products/galaxy-tab-ultra/1.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Galaxy Tab S12 Ultra — ракурс 1",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-09/SM-X946BZAECAU_1_0.png",
+        "sourceGalleryIndex": 15,
+        "hasAlpha": true
+      },
+      {
+        "file": "assets/products/galaxy-tab-ultra/2.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Galaxy Tab S12 Ultra — ракурс 2",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-09/SM-X946BZAECAU_5_0.png",
+        "sourceGalleryIndex": 19,
+        "hasAlpha": true
+      },
+      {
+        "file": "assets/products/galaxy-tab-ultra/3.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Galaxy Tab S12 Ultra — ракурс 3",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-09/SM-X946BZAECAU_4_0.png",
+        "sourceGalleryIndex": 18,
+        "hasAlpha": true
+      },
+      {
+        "file": "assets/products/galaxy-tab-ultra/4.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Galaxy Tab S12 Ultra — ракурс 4",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-09/SM-X946BZAECAU_7_0.png",
+        "sourceGalleryIndex": 21,
+        "hasAlpha": true
+      }
+    ],
+    "sourceNotes": [
+      "Price and specifications read directly from the retailer product page on 2026-11-09. Availability must be confirmed with retailer.",
+      "Official retailer product renders exported to WebP without AI modification, cropping, or aspect-ratio changes.",
+      "All gallery renders were visually inspected. Promotion posters and warranty/feature text panels are excluded from the final gallery."
+    ],
+    "allSpecs": [
+      {
+        "label": "Гарантия, месяц",
+        "value": "12"
+      },
+      {
+        "label": "Страна",
+        "value": "Вьетнам"
+      },
+      {
+        "label": "Производитель",
+        "value": "Samsung"
+      },
+      {
+        "label": "Декларация / Сертификат соответствия",
+        "value": "ЕАЭС RU С-KR.АЯ46.В.50035/26"
+      },
+      {
+        "label": "Поддержка сотовой передачи данных",
+        "value": "Да"
+      },
+      {
+        "label": "Передача по Wi-Fi",
+        "value": "Да"
+      },
+      {
+        "label": "Поддержка стандартов",
+        "value": "2G/3G/4G LTE/5G"
+      },
+      {
+        "label": "Поддержка Wi-Fi",
+        "value": "a/b/g/n/ac/ax/be"
+      },
+      {
+        "label": "Встроенный модуль Bluetooth",
+        "value": "Да"
+      },
+      {
+        "label": "Bluetooth, версия",
+        "value": "6.0"
+      },
+      {
+        "label": "Серия",
+        "value": "Galaxy Tab S"
+      },
+      {
+        "label": "Модель",
+        "value": "Galaxy Tab S12 Ультра 5G"
+      },
+      {
+        "label": "Операционная система",
+        "value": "Android 17"
+      },
+      {
+        "label": "Разрешение (диапазон), Пикс.",
+        "value": "от 2560 × 1600 до 3200 × 1800"
+      },
+      {
+        "label": "Экран (Разрешение), Пикс.",
+        "value": "2960 x 1848"
+      },
+      {
+        "label": "Формат разрешения",
+        "value": "WQXGA+"
+      },
+      {
+        "label": "Технология экрана",
+        "value": "Dynamic AMOLED 2X"
+      },
+      {
+        "label": "Поддерживаемые цвета",
+        "value": "16 млн. цветов"
+      },
+      {
+        "label": "Диагональ, Дюймы",
+        "value": "14.60"
+      },
+      {
+        "label": "Диагональ (диапазон)",
+        "value": "от 12,4\" и более"
+      },
+      {
+        "label": "Поддержка стилуса",
+        "value": "Да"
+      },
+      {
+        "label": "Производитель процессора",
+        "value": "MediaTek"
+      },
+      {
+        "label": "Тип процессора",
+        "value": "Dimensity 9500"
+      },
+      {
+        "label": "Количество ядер",
+        "value": "8"
+      },
+      {
+        "label": "Частота процессора",
+        "value": "4.21 ГГц + 3.5 ГГц + 2.7 ГГц"
+      },
+      {
+        "label": "Максимальная тактовая частота, ГГц",
+        "value": "4.21"
+      },
+      {
+        "label": "Оперативная память (RAM), Гб",
+        "value": "12"
+      },
+      {
+        "label": "Встроенная память (ROM), Гб",
+        "value": "512"
+      },
+      {
+        "label": "Количество основных камер",
+        "value": "2"
+      },
+      {
+        "label": "Камера максимального разрешения, МПикс",
+        "value": "13"
+      },
+      {
+        "label": "Основные камеры разрешение, МП",
+        "value": "13.0 + 8.0"
+      },
+      {
+        "label": "Вспышка",
+        "value": "Да"
+      },
+      {
+        "label": "Количество фронтальных камер",
+        "value": "1"
+      },
+      {
+        "label": "Максимальная емкость карты памяти, Тб",
+        "value": "2.00"
+      },
+      {
+        "label": "Тип карты памяти",
+        "value": "MicroSD"
+      },
+      {
+        "label": "SIM карта, Шт",
+        "value": "1"
+      },
+      {
+        "label": "Тип (SIM карты)",
+        "value": "eSIM, nano-SIM"
+      },
+      {
+        "label": "Поддержка GPS",
+        "value": "Да"
+      },
+      {
+        "label": "Поддержка ГЛОНАСС",
+        "value": "Да"
+      },
+      {
+        "label": "Цифровой компас (датчик Холла)",
+        "value": "Да"
+      },
+      {
+        "label": "Wi-Fi точка доступа",
+        "value": "Да"
+      },
+      {
+        "label": "Технология Wi-Fi Direct",
+        "value": "Да"
+      },
+      {
+        "label": "Датчик ориентации экрана",
+        "value": "Да"
+      },
+      {
+        "label": "Датчик ускорения (Акселерометр)",
+        "value": "Да"
+      },
+      {
+        "label": "Поддержка USB Host (OTG)",
+        "value": "Да"
+      },
+      {
+        "label": "Технология ANT+",
+        "value": "Нет"
+      },
+      {
+        "label": "Встроенный микрофон",
+        "value": "Да"
+      },
+      {
+        "label": "Датчик (Сканер) отпечатков пальцев",
+        "value": "Да"
+      },
+      {
+        "label": "Сканер отпечатка пальца под экраном",
+        "value": "Да"
+      },
+      {
+        "label": "Порт USB",
+        "value": "USB 3.2 Gen 1 (type-C)"
+      },
+      {
+        "label": "Разъем для наушников",
+        "value": "USB Type-C"
+      },
+      {
+        "label": "Материал корпуса",
+        "value": "алюминий"
+      },
+      {
+        "label": "Кабель USB",
+        "value": "Да"
+      },
+      {
+        "label": "Количество стилусов",
+        "value": "1"
+      },
+      {
+        "label": "Блок питания",
+        "value": "Нет"
+      },
+      {
+        "label": "Время работы от аккумулятора до",
+        "value": "21"
+      },
+      {
+        "label": "Время работы от аккумулятора (диапазон)",
+        "value": "от 13 ч и более"
+      },
+      {
+        "label": "Емкость аккумулятора (диапазон)",
+        "value": "от 10,000 мАч и более"
+      },
+      {
+        "label": "Емкость аккумулятора, мАч",
+        "value": "11600"
+      },
+      {
+        "label": "Тип аккумулятора",
+        "value": "Li-Ion"
+      },
+      {
+        "label": "Цвет",
+        "value": "Серый"
+      },
+      {
+        "label": "Цвет палитра",
+        "value": "серый"
+      },
+      {
+        "label": "Вес (устройства), гр",
+        "value": "695"
+      },
+      {
+        "label": "Вес (с упаковкой), гр",
+        "value": "1062"
+      },
+      {
+        "label": "Высота, мм",
+        "value": "326.30"
+      },
+      {
+        "label": "Ширина, мм",
+        "value": "208.50"
+      },
+      {
+        "label": "Глубина, мм",
+        "value": "5.10"
+      },
+      {
+        "label": "Высота, мм",
+        "value": "344.50"
+      },
+      {
+        "label": "Ширина, мм",
+        "value": "255.60"
+      },
+      {
+        "label": "Глубина, мм",
+        "value": "21.00"
+      }
+    ],
+    "packageNotes": "Only confirmed items are listed; full package contents must be confirmed with the retailer."
+  },
+  "galaxy-case": {
+    "title": "Чехол-накладка Samsung Carbon Magnet Case S26 Ultra Серый",
+    "shortName": "Samsung Carbon Magnet Case",
+    "category": "Аксессуары",
+    "sourceUrl": "https://online-samsung.ru/product/ef-ks948ssegru",
+    "sku": "EF-KS948SSEGRU",
+    "price": 7990,
+    "variant": "Серый",
+    "specs": [
+      {
+        "label": "Совместимость",
+        "value": "Galaxy S26 Ultra"
+      },
+      {
+        "label": "материал",
+        "value": "Арамид, Магниты, Поликарбонат, алюминий"
+      },
+      {
+        "label": "Вес чехла, г",
+        "value": "22.00"
+      },
+      {
+        "label": "цвет",
+        "value": "Серый"
+      },
+      {
+        "label": "Гарантия, месяц",
+        "value": "1"
+      },
+      {
+        "label": "Страна",
+        "value": "Китай"
+      },
+      {
+        "label": "Производитель",
+        "value": "Samsung"
+      },
+      {
+        "label": "Тип",
+        "value": "Чехол-накладка"
+      }
+    ],
+    "stats": [
+      {
+        "value": "22 г",
+        "label": "Вес чехла",
+        "sourceUrl": "https://online-samsung.ru/product/ef-ks948ssegru",
+        "sourceSpec": "Вес чехла, г",
+        "sourceValue": "22.00"
+      },
+      {
+        "value": "Арамид",
+        "label": "В составе материалов",
+        "sourceUrl": "https://online-samsung.ru/product/ef-ks948ssegru",
+        "sourceSpec": "материал",
+        "sourceValue": "Арамид, Магниты, Поликарбонат, алюминий"
+      },
+      {
+        "value": "S26 Ultra",
+        "label": "Совместимость",
+        "sourceUrl": "https://online-samsung.ru/product/ef-ks948ssegru",
+        "sourceSpec": "Совместимость",
+        "sourceValue": "Galaxy S26 Ultra"
+      }
+    ],
+    "includedPackage": [],
+    "variants": [],
+    "gallery": [
+      {
+        "file": "assets/products/galaxy-case/1.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Samsung Carbon Magnet Case — ракурс 1",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-06/EF-KS948SSEGRU_1.png",
+        "hasAlpha": true
+      },
+      {
+        "file": "assets/products/galaxy-case/2.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Samsung Carbon Magnet Case — ракурс 2",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-06/EF-KS948SSEGRU_2.png",
+        "hasAlpha": true
+      },
+      {
+        "file": "assets/products/galaxy-case/3.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Samsung Carbon Magnet Case — ракурс 3",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-06/EF-KS948SSEGRU_3.png",
+        "hasAlpha": true
+      },
+      {
+        "file": "assets/products/galaxy-case/4.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Samsung Carbon Magnet Case — ракурс 4",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-06/EF-KS948SSEGRU_4.png",
+        "hasAlpha": true
+      }
+    ],
+    "sourceNotes": [
+      "Price and specifications read directly from the retailer product page on 2026-11-09. Availability must be confirmed with retailer.",
+      "Official retailer product renders exported to WebP without AI modification, cropping, or aspect-ratio changes.",
+      "All gallery renders were visually inspected. Promotion posters and warranty/feature text panels are excluded from the final gallery."
+    ],
+    "allSpecs": [
+      {
+        "label": "Гарантия, месяц",
+        "value": "1"
+      },
+      {
+        "label": "Страна",
+        "value": "Китай"
+      },
+      {
+        "label": "Производитель",
+        "value": "Samsung"
+      },
+      {
+        "label": "Тип",
+        "value": "Чехол-накладка"
+      },
+      {
+        "label": "Назначение",
+        "value": "Для смартфона"
+      },
+      {
+        "label": "Совместимость",
+        "value": "Galaxy S26 Ultra"
+      },
+      {
+        "label": "материал",
+        "value": "Арамид, Магниты, Поликарбонат, алюминий"
+      },
+      {
+        "label": "Цвет палитра",
+        "value": "Серый"
+      },
+      {
+        "label": "цвет",
+        "value": "Серый"
+      },
+      {
+        "label": "Вес чехла, г",
+        "value": "22.00"
+      },
+      {
+        "label": "Высота, мм",
+        "value": "165.50"
+      },
+      {
+        "label": "Ширина, мм",
+        "value": "80.00"
+      },
+      {
+        "label": "Глубина, мм",
+        "value": "13.40"
+      },
+      {
+        "label": "Высота, мм",
+        "value": "180.00"
+      },
+      {
+        "label": "Ширина, мм",
+        "value": "105.00"
+      },
+      {
+        "label": "Глубина, мм",
+        "value": "25.00"
+      }
+    ],
+    "packageNotes": "Only confirmed items are listed; full package contents must be confirmed with the retailer."
+  }
+}

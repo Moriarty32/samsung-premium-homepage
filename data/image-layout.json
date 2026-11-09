@@ -1,0 +1,262 @@
+{
+  "assets/products/galaxy-buds4-pro/1.webp": {
+    "bounds": [247, 117, 953, 1144],
+    "width": 1200,
+    "height": 1200
+  },
+  "assets/products/galaxy-buds4-pro/2.webp": {
+    "bounds": [237, 232, 962, 1023],
+    "width": 1200,
+    "height": 1200
+  },
+  "assets/products/galaxy-buds4-pro/3.webp": {
+    "bounds": [284, 362, 917, 827],
+    "width": 1200,
+    "height": 1200
+  },
+  "assets/products/galaxy-buds4-pro/4.webp": {
+    "bounds": [197, 361, 1004, 827],
+    "width": 1200,
+    "height": 1200
+  },
+  "assets/products/galaxy-case/1.webp": {
+    "bounds": [417, 26, 783, 774],
+    "width": 1200,
+    "height": 800
+  },
+  "assets/products/galaxy-case/2.webp": {
+    "bounds": [417, 26, 783, 774],
+    "width": 1200,
+    "height": 800
+  },
+  "assets/products/galaxy-case/3.webp": {
+    "bounds": [417, 26, 783, 774],
+    "width": 1200,
+    "height": 800
+  },
+  "assets/products/galaxy-case/4.webp": {
+    "bounds": [466, 26, 734, 774],
+    "width": 1200,
+    "height": 800
+  },
+  "assets/products/galaxy-s26/1.webp": {
+    "bounds": [333, 78, 867, 722],
+    "width": 1200,
+    "height": 800
+  },
+  "assets/products/galaxy-s26/2.webp": {
+    "bounds": [461, 67, 740, 733],
+    "width": 1200,
+    "height": 800
+  },
+  "assets/products/galaxy-s26/3.webp": {
+    "bounds": [443, 78, 755, 722],
+    "width": 1200,
+    "height": 800
+  },
+  "assets/products/galaxy-s26/4.webp": {
+    "bounds": [461, 67, 740, 733],
+    "width": 1200,
+    "height": 800
+  },
+  "assets/products/galaxy-s26-ultra/1.webp": {
+    "bounds": [221, 48, 918, 754],
+    "width": 1200,
+    "height": 800
+  },
+  "assets/products/galaxy-s26-ultra/2.webp": {
+    "bounds": [334, 34, 752, 778],
+    "width": 1200,
+    "height": 800
+  },
+  "assets/products/galaxy-s26-ultra/3.webp": {
+    "bounds": [313, 48, 769, 752],
+    "width": 1200,
+    "height": 800
+  },
+  "assets/products/galaxy-s26-ultra/4.webp": {
+    "bounds": [334, 34, 752, 778],
+    "width": 1200,
+    "height": 800
+  },
+  "assets/products/galaxy-s26-ultra/black-1.webp": {
+    "bounds": [221, 48, 918, 754],
+    "width": 1200,
+    "height": 800
+  },
+  "assets/products/galaxy-s26-ultra/black-2.webp": {
+    "bounds": [333, 34, 752, 778],
+    "width": 1200,
+    "height": 800
+  },
+  "assets/products/galaxy-s26-ultra/black-3.webp": {
+    "bounds": [313, 48, 769, 752],
+    "width": 1200,
+    "height": 800
+  },
+  "assets/products/galaxy-s26-ultra/black-4.webp": {
+    "bounds": [334, 34, 752, 778],
+    "width": 1200,
+    "height": 800
+  },
+  "assets/products/galaxy-s26-ultra/blue-1.webp": {
+    "bounds": [220, 47, 918, 753],
+    "width": 1200,
+    "height": 800
+  },
+  "assets/products/galaxy-s26-ultra/blue-2.webp": {
+    "bounds": [333, 34, 752, 778],
+    "width": 1200,
+    "height": 800
+  },
+  "assets/products/galaxy-s26-ultra/blue-3.webp": {
+    "bounds": [312, 47, 769, 752],
+    "width": 1200,
+    "height": 800
+  },
+  "assets/products/galaxy-s26-ultra/blue-4.webp": {
+    "bounds": [333, 34, 752, 778],
+    "width": 1200,
+    "height": 800
+  },
+  "assets/products/galaxy-s26-ultra/white-1.webp": {
+    "bounds": [9, 0, 1189, 800],
+    "width": 1200,
+    "height": 800
+  },
+  "assets/products/galaxy-s26-ultra/white-2.webp": {
+    "bounds": [333, 33, 752, 778],
+    "width": 1200,
+    "height": 800
+  },
+  "assets/products/galaxy-s26-ultra/white-3.webp": {
+    "bounds": [311, 47, 769, 753],
+    "width": 1200,
+    "height": 800
+  },
+  "assets/products/galaxy-s26-ultra/white-4.webp": {
+    "bounds": [29, 0, 1200, 799],
+    "width": 1200,
+    "height": 800
+  },
+  "assets/products/galaxy-tab-ultra/1.webp": {
+    "bounds": [87, 51, 1112, 750],
+    "width": 1200,
+    "height": 800
+  },
+  "assets/products/galaxy-tab-ultra/2.webp": {
+    "bounds": [136, 35, 1059, 762],
+    "width": 1200,
+    "height": 800
+  },
+  "assets/products/galaxy-tab-ultra/3.webp": {
+    "bounds": [75, 64, 1122, 735],
+    "width": 1200,
+    "height": 800
+  },
+  "assets/products/galaxy-tab-ultra/4.webp": {
+    "bounds": [583, 64, 608, 735],
+    "width": 1200,
+    "height": 800
+  },
+  "assets/products/galaxy-watch-ultra/1.webp": {
+    "bounds": [322, 48, 938, 758],
+    "width": 1200,
+    "height": 800
+  },
+  "assets/products/galaxy-watch-ultra/2.webp": {
+    "bounds": [376, 28, 850, 775],
+    "width": 1200,
+    "height": 800
+  },
+  "assets/products/galaxy-watch-ultra/3.webp": {
+    "bounds": [289, 39, 944, 768],
+    "width": 1200,
+    "height": 800
+  },
+  "assets/products/galaxy-watch-ultra/4.webp": {
+    "bounds": [268, 116, 928, 746],
+    "width": 1200,
+    "height": 800
+  },
+  "assets/products/galaxy-z-fold7/1.webp": {
+    "bounds": [325, 30, 873, 769],
+    "width": 1200,
+    "height": 800
+  },
+  "assets/products/galaxy-z-fold7/2.webp": {
+    "bounds": [264, 31, 933, 768],
+    "width": 1200,
+    "height": 800
+  },
+  "assets/products/galaxy-z-fold7/3.webp": {
+    "bounds": [311, 31, 888, 768],
+    "width": 1200,
+    "height": 800
+  },
+  "assets/products/galaxy-z-fold7/4.webp": {
+    "bounds": [266, 31, 935, 768],
+    "width": 1200,
+    "height": 800
+  },
+  "assets/products/samsung-dryer/1.webp": {
+    "bounds": [322, 13, 878, 787],
+    "width": 1200,
+    "height": 800
+  },
+  "assets/products/samsung-dryer/2.webp": {
+    "bounds": [322, 13, 878, 787],
+    "width": 1200,
+    "height": 800
+  },
+  "assets/products/samsung-dryer/3.webp": {
+    "bounds": [289, 13, 911, 787],
+    "width": 1200,
+    "height": 800
+  },
+  "assets/products/samsung-dryer/4.webp": {
+    "bounds": [287, 13, 913, 787],
+    "width": 1200,
+    "height": 800
+  },
+  "assets/products/samsung-tv-75/1.webp": {
+    "bounds": [242, 20, 958, 780],
+    "width": 1200,
+    "height": 800
+  },
+  "assets/products/samsung-tv-75/2.webp": {
+    "bounds": [242, 20, 958, 780],
+    "width": 1200,
+    "height": 800
+  },
+  "assets/products/samsung-tv-75/3.webp": {
+    "bounds": [505, 20, 695, 780],
+    "width": 1200,
+    "height": 800
+  },
+  "assets/products/samsung-tv-75/4.webp": {
+    "bounds": [0, 75, 691, 800],
+    "width": 1200,
+    "height": 800
+  },
+  "assets/products/samsung-washer/1.webp": {
+    "bounds": [358, 20, 842, 780],
+    "width": 1200,
+    "height": 800
+  },
+  "assets/products/samsung-washer/2.webp": {
+    "bounds": [331, 20, 869, 780],
+    "width": 1200,
+    "height": 800
+  },
+  "assets/products/samsung-washer/3.webp": {
+    "bounds": [129, 171, 1072, 800],
+    "width": 1200,
+    "height": 800
+  },
+  "assets/products/samsung-washer/4.webp": {
+    "bounds": [215, 0, 1200, 800],
+    "width": 1200,
+    "height": 800
+  }
+}

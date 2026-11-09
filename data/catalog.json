@@ -1,0 +1,122 @@
+[
+  {
+    "slug": "galaxy-s26-ultra",
+    "name": "Samsung Galaxy S26 Ultra",
+    "shortName": "Galaxy S26 Ultra",
+    "variant": "256 ГБ, Фиолетовый",
+    "price": 124990,
+    "sku": "SM-S948BZVBCAU",
+    "image": "assets/products/galaxy-s26-ultra/1.webp",
+    "url": "galaxy-s26-ultra.html",
+    "sourceUrl": "https://online-samsung.ru/product/sm-s948bzvbcau",
+    "group": "smartphones"
+  },
+  {
+    "slug": "galaxy-s26",
+    "name": "Samsung Galaxy S26",
+    "shortName": "Galaxy S26",
+    "variant": "256 ГБ, Фиолетовый",
+    "price": 84990,
+    "sku": "SM-S942BZVCCAU",
+    "image": "assets/products/galaxy-s26/1.webp",
+    "url": "galaxy-s26.html",
+    "sourceUrl": "https://online-samsung.ru/product/sm-s942bzvccau",
+    "group": "smartphones"
+  },
+  {
+    "slug": "galaxy-z-fold7",
+    "name": "Samsung Galaxy Z Fold7",
+    "shortName": "Galaxy Z Fold7",
+    "variant": "256 ГБ, Чёрный",
+    "price": 142990,
+    "sku": "SM-F966BZKBCAU",
+    "image": "assets/products/galaxy-z-fold7/1.webp",
+    "url": "galaxy-z-fold7.html",
+    "sourceUrl": "https://online-samsung.ru/product/sm-f966bzkbcau",
+    "group": "smartphones"
+  },
+  {
+    "slug": "galaxy-watch-ultra",
+    "name": "Samsung Galaxy Watch Ultra",
+    "shortName": "Galaxy Watch Ultra",
+    "variant": "Синий титан",
+    "price": 36990,
+    "sku": "SM-L705FZB1CAU",
+    "image": "assets/products/galaxy-watch-ultra/1.webp",
+    "url": "galaxy-watch-ultra.html",
+    "sourceUrl": "https://online-samsung.ru/product/sm-l705fzb1cau",
+    "group": "watches"
+  },
+  {
+    "slug": "galaxy-buds4-pro",
+    "name": "Samsung Galaxy Buds4 Pro",
+    "shortName": "Galaxy Buds4 Pro",
+    "variant": "Чёрный",
+    "price": 19990,
+    "sku": "SM-R640NZKACIS",
+    "image": "assets/products/galaxy-buds4-pro/1.webp",
+    "url": "galaxy-buds4-pro.html",
+    "sourceUrl": "https://online-samsung.ru/product/sm-r640nzkacis",
+    "group": "audio"
+  },
+  {
+    "slug": "samsung-tv-75",
+    "name": "Samsung Mini LED 75″",
+    "shortName": "Samsung Mini LED 75″",
+    "variant": "75\", Чёрный титан",
+    "price": 82990,
+    "sku": "UE75M1EHAUXPY",
+    "image": "assets/products/samsung-tv-75/1.webp",
+    "url": "samsung-tv-75.html",
+    "sourceUrl": "https://online-samsung.ru/product/ue75m1ehauxpy",
+    "group": "tv"
+  },
+  {
+    "slug": "samsung-washer",
+    "name": "Samsung Bespoke AI",
+    "shortName": "Samsung Bespoke AI",
+    "variant": "Тёмная сталь",
+    "price": 269990,
+    "sku": "WD18DB8995BZLD",
+    "image": "assets/products/samsung-washer/1.webp",
+    "url": "samsung-washer.html",
+    "sourceUrl": "https://online-samsung.ru/product/wd18db8995bzld",
+    "group": "home"
+  },
+  {
+    "slug": "samsung-dryer",
+    "name": "Samsung Hybrid HeatPump",
+    "shortName": "Samsung Hybrid HeatPump",
+    "variant": "Чёрный",
+    "price": 147990,
+    "sku": "DV16DG8600BVLD",
+    "image": "assets/products/samsung-dryer/1.webp",
+    "url": "samsung-dryer.html",
+    "sourceUrl": "https://online-samsung.ru/product/dv16dg8600bvld",
+    "group": "home"
+  },
+  {
+    "slug": "galaxy-tab-ultra",
+    "name": "Samsung Galaxy Tab S12 Ultra",
+    "shortName": "Galaxy Tab S12 Ultra",
+    "variant": "512 ГБ, Серый",
+    "price": 171990,
+    "sku": "SM-X946BZAECAU",
+    "image": "assets/products/galaxy-tab-ultra/1.webp",
+    "url": "galaxy-tab-ultra.html",
+    "sourceUrl": "https://online-samsung.ru/product/sm-x946bzaecau",
+    "group": "tablets"
+  },
+  {
+    "slug": "galaxy-case",
+    "name": "Samsung Carbon Magnet Case",
+    "shortName": "Samsung Carbon Magnet Case",
+    "variant": "Серый",
+    "price": 7990,
+    "sku": "EF-KS948SSEGRU",
+    "image": "assets/products/galaxy-case/1.webp",
+    "url": "galaxy-case.html",
+    "sourceUrl": "https://online-samsung.ru/product/ef-ks948ssegru",
+    "group": "accessories"
+  }
+]
