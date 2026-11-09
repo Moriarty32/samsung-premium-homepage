@@ -1,0 +1,9 @@
+{
+  "created": "2026-11-09",
+  "tool": "built-in imagegen",
+  "key": "journal-television",
+  "reference": "D:\\Проекты\\samsung\\assets\\products\\samsung-tv-75\\1.webp",
+  "prompt": "Use case: ads-marketing. Premium editorial article cover for a guide to choosing a Samsung television, landscape 3:2 1536x1024. Use reference television only as an industrial design guide for its very thin even bezel and understated dark finish. Photograph a sophisticated large flat television straight on in an impeccably minimal contemporary living room: cool pale-gray plaster wall, low floating graphite console, a tiny matte white ceramic object far to one side, subtle wall-wash daylight, no people. Television screen shows a restrained silver and muted lavender abstract landscape, not bright neon, not a rainbow. All television corners and its slim supports fully within the frame, screen is the hero with generous balanced margins. Fine realistic screen glass, precise geometry, premium architectural photography. Palette must match accompanying neutral Samsung phone and tablet editorials: white, cool silver-gray, charcoal, a hint of soft lavender only in the screen image. No beige, no warm wood, no green, no cyan, no salespeople, no signage, no text, no logos or watermark. Safe to crop slightly to a 1.55:1 card without clipping the TV.",
+  "generatedSource": "C:\\Users\\Bogomazov\\.codex\\generated_images\\01a1b140-d7cd-73f1-a2df-2cf8f2d82b84\\exec-39c62102-c0e6-4a24-a2fe-6ffd51de3777.png",
+  "destination": "assets/home-editorial/journal-television.webp"
+}

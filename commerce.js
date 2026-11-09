@@ -13,10 +13,12 @@
                 /^[a-zA-Z0-9-]{3,40}$/.test(x.sku) &&
                 typeof x.name === "string" &&
                 typeof x.variant === "string" &&
-                /^assets\/products\/[a-z0-9-]+\/[a-z0-9-]+\.webp$/.test(
+                /^assets\/(?:products\/[a-z0-9-]+\/[a-z0-9-]+|homepage-products\/[a-z0-9-]+)\.webp$/.test(
                   x.image,
                 ) &&
-                /^[a-z0-9-]+\.html(?:\?sku=[A-Za-z0-9-]+)?$/.test(x.url) &&
+                /^(?:[a-z0-9-]+\.html(?:\?sku=[A-Za-z0-9-]+)?|https:\/\/online-samsung\.ru\/product\/[a-z0-9-]+)$/.test(
+                  x.url,
+                ) &&
                 /^https:\/\/online-samsung\.ru\/product\/[a-z0-9-]+$/.test(
                   x.sourceUrl,
                 ) &&

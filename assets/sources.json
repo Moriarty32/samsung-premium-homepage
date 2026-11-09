@@ -492,6 +492,33 @@
       "height": 724,
       "bytes": 51686,
       "sha256": "e8e374281055afd0b9881a985ae8e3cd79ce8ce3f7650b83945728105da7421f"
+    },
+    "home-editorial/journal-interface.webp": {
+      "kind": "generated-editorial",
+      "source": "C:\\Users\\Bogomazov\\.codex\\generated_images\\01a1b140-d7cd-73f1-a2df-2cf8f2d82b84\\exec-71ddcdd4-500b-4ee6-9904-d83314eaeca4.png",
+      "promptFile": "assets/home-editorial-prompts.json",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 66924,
+      "sha256": "51d3f5d672717b0ba5dd15c13b80444bd53031251508683e1fc44991990d3e5d"
+    },
+    "home-editorial/journal-tablet.webp": {
+      "kind": "generated-editorial",
+      "source": "C:\\Users\\Bogomazov\\.codex\\generated_images\\01a1b140-d7cd-73f1-a2df-2cf8f2d82b84\\exec-d538a56a-a0bb-44e3-aee0-c99e9993d4e9.png",
+      "promptFile": "assets/home-editorial-prompts.json",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 63188,
+      "sha256": "1059818035cdf8d07898edf9740d19df64905f944b5bea21bfa828c586932cb0"
+    },
+    "home-editorial/journal-television.webp": {
+      "kind": "generated-editorial",
+      "source": "C:\\Users\\Bogomazov\\.codex\\generated_images\\01a1b140-d7cd-73f1-a2df-2cf8f2d82b84\\exec-39c62102-c0e6-4a24-a2fe-6ffd51de3777.png",
+      "promptFile": "assets/home-television-prompt.json",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 109924,
+      "sha256": "500e986fb31849b2c6a4a212075aba72ae389b45ecb5f42983ee2fdbf78074c5"
     }
   }
 }

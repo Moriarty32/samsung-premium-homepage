@@ -501,6 +501,13 @@
         const categoryMatch =
           category === "all" ||
           card.dataset.group === category ||
+          card.dataset.parentGroup === category ||
+          (category === "mobile" &&
+            ["smartphones", "tablets", "watches", "audio"].includes(
+              card.dataset.group,
+            )) ||
+          (category === "extras" &&
+            ["watches", "audio", "accessories"].includes(card.dataset.group)) ||
           (category === "wearables" &&
             ["audio", "watches"].includes(card.dataset.group));
         card.hidden =

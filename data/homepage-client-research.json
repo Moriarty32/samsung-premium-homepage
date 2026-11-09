@@ -1,0 +1,2258 @@
+{
+  "sourceUrl": "https://online-samsung.ru/",
+  "researchedAt": "2026-11-09",
+  "status": "complete",
+  "sections": [
+    {
+      "id": "new",
+      "title": "Новинки",
+      "tabs": [
+        {
+          "name": "Мобильные",
+          "url": "https://online-samsung.ru/spm/new/128",
+          "responseFormat": "Drupal AJAX commands (JSON array with HTML insert)",
+          "productSkus": [
+            "sm-f976bzvbcau",
+            "sm-f971blvbcau",
+            "sm-f776bzkgcau",
+            "sm-a185flbkcau",
+            "sm-x946bzaicau"
+          ]
+        },
+        {
+          "name": "ТВ и аудио",
+          "url": "https://online-samsung.ru/spm/new/130",
+          "responseFormat": "Drupal AJAX commands (JSON array with HTML insert)",
+          "productSkus": [
+            "qe85ls03hwuxpy",
+            "ue50m1ehauxpy",
+            "mre85r85hauxpy",
+            "ue85m80hauxpy",
+            "qe48s90haexpy"
+          ]
+        },
+        {
+          "name": "Бытовая техника",
+          "url": "https://online-samsung.ru/spm/new/131",
+          "responseFormat": "Drupal AJAX commands (JSON array with HTML insert)",
+          "productSkus": [
+            "rf65db970012wr",
+            "ww11cb944cghlp",
+            "mc32db7746kcbw",
+            "vs90f40dfgev",
+            "vr7md97714gev"
+          ]
+        },
+        {
+          "name": "Аксессуары",
+          "url": "https://online-samsung.ru/spm/new/129",
+          "responseFormat": "Drupal AJAX commands (JSON array with HTML insert)",
+          "productSkus": [
+            "sm-l715fzkacau",
+            "sm-l715fzsacau",
+            "sm-l355fzsacau",
+            "sm-l355fzkacau",
+            "sm-l345fzeacau"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hits",
+      "title": "Хиты продаж",
+      "tabs": [
+        {
+          "name": "Все",
+          "url": "https://online-samsung.ru/spm/hits/all",
+          "responseFormat": "Drupal AJAX commands (JSON array with HTML insert)",
+          "productSkus": [
+            "sm-f976bzkccau",
+            "ue75m80hauxpy",
+            "ww11cgp44csblp",
+            "sm-l505fzwacau",
+            "mz-77q8t0bw"
+          ]
+        },
+        {
+          "name": "Мобильные",
+          "url": "https://online-samsung.ru/spm/hits/128",
+          "responseFormat": "Drupal AJAX commands (JSON array with HTML insert)",
+          "productSkus": [
+            "sm-f976bzkccau",
+            "sm-s948bzkccau",
+            "sm-s947bzvbcau",
+            "sm-a576bzvfcau",
+            "sm-x936bzaecau"
+          ]
+        },
+        {
+          "name": "ТВ и аудио",
+          "url": "https://online-samsung.ru/spm/hits/130",
+          "responseFormat": "Drupal AJAX commands (JSON array with HTML insert)",
+          "productSkus": [
+            "ue75m80hauxpy",
+            "qe55s85haexpy",
+            "qe43ls03heuxpy",
+            "mre55r85hauxpy",
+            "qe65q7f5auxru"
+          ]
+        },
+        {
+          "name": "Бытовая техника",
+          "url": "https://online-samsung.ru/spm/hits/131",
+          "responseFormat": "Drupal AJAX commands (JSON array with HTML insert)",
+          "productSkus": [
+            "ww11cgp44csblp",
+            "ww11cg604clblp",
+            "vs15a6031r5ev",
+            "vcc4135s37bol",
+            "nv68a1110rbwt"
+          ]
+        },
+        {
+          "name": "Аксессуары",
+          "url": "https://online-samsung.ru/spm/hits/129",
+          "responseFormat": "Drupal AJAX commands (JSON array with HTML insert)",
+          "productSkus": [
+            "sm-l505fzwacau",
+            "sm-l335fdaacau",
+            "sm-l505fzkacau",
+            "sm-r540nzwacis",
+            "ep-t4511xbegeu"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "daily",
+      "title": "Товары дня",
+      "products": [
+        {
+          "sku": "sm-x946bzaecau",
+          "title": "Планшет Samsung Galaxy Tab S12 Ультра 5G, 14.6\", 512 Гб, Серый",
+          "priceText": "171 990 ₽",
+          "sourceUrl": "https://online-samsung.ru/product/sm-x946bzaecau",
+          "deadline": null
+        },
+        {
+          "sku": "sm-a185fzsncau",
+          "title": "Смартфон Samsung Galaxy A18, 256 Гб, Серый",
+          "priceText": "30 990 ₽",
+          "sourceUrl": "https://online-samsung.ru/product/sm-a185fzsncau",
+          "deadline": null
+        },
+        {
+          "sku": "sm-l715fzkacau",
+          "title": "Смарт-часы Samsung Galaxy Watch Ультра 2 47 мм LTE, Черный-титан",
+          "priceText": "44 990 ₽",
+          "sourceUrl": "https://online-samsung.ru/product/sm-l715fzkacau",
+          "deadline": null
+        },
+        {
+          "sku": "sm-s948blbbcau",
+          "title": "Смартфон Samsung Galaxy S26 Ультра, 256 Гб, Голубой",
+          "priceText": "124 990 ₽",
+          "sourceUrl": "https://online-samsung.ru/product/sm-s948blbbcau",
+          "deadline": null
+        },
+        {
+          "sku": "sm-s942bzwqcau",
+          "title": "Смартфон Samsung Galaxy S26, 512 Гб, белый",
+          "priceText": "99 990 ₽",
+          "sourceUrl": "https://online-samsung.ru/product/sm-s942bzwqcau",
+          "deadline": null
+        },
+        {
+          "sku": "sm-s947bzkbcau",
+          "title": "Смартфон Samsung Galaxy S26+, 256 Гб, Чёрный",
+          "priceText": "99 990 ₽",
+          "sourceUrl": "https://online-samsung.ru/product/sm-s947bzkbcau",
+          "deadline": null
+        },
+        {
+          "sku": "qe55s85haexpy",
+          "title": "Телевизор Samsung OLED S85H, 4K Ultra HD, 55\", Черный-графит",
+          "priceText": "169 990 ₽",
+          "sourceUrl": "https://online-samsung.ru/product/qe55s85haexpy",
+          "deadline": null
+        },
+        {
+          "sku": "ue65m80hauxpy",
+          "title": "Телевизор Samsung Мини LED M80H, 4K Ultra HD, 65\", Черный-титан",
+          "priceText": "89 990 ₽",
+          "sourceUrl": "https://online-samsung.ru/product/ue65m80hauxpy",
+          "deadline": null
+        },
+        {
+          "sku": "sm-f971bzkncau",
+          "title": "Смартфон Samsung Galaxy Z Fold8, 1024 Гб, Графитовый",
+          "priceText": "239 990 ₽",
+          "sourceUrl": "https://online-samsung.ru/product/sm-f971bzkncau",
+          "deadline": null
+        },
+        {
+          "sku": "sm-x846bzaacau",
+          "title": "Планшет Samsung Galaxy Tab S12+ 5G 12.6\", 256 Гб, Серый",
+          "priceText": "131 990 ₽",
+          "sourceUrl": "https://online-samsung.ru/product/sm-x846bzaacau",
+          "deadline": null
+        },
+        {
+          "sku": "sm-f971bzkbcau",
+          "title": "Смартфон Samsung Galaxy Z Fold8, 256 Гб, Графитовый",
+          "priceText": "149 990 ₽",
+          "sourceUrl": "https://online-samsung.ru/product/sm-f971bzkbcau",
+          "deadline": null
+        },
+        {
+          "sku": "sm-f976bzkncau",
+          "title": "Смартфон Samsung Galaxy Z Fold8 Ультра, 1024 Гб, Графитовый",
+          "priceText": "254 990 ₽",
+          "sourceUrl": "https://online-samsung.ru/product/sm-f976bzkncau",
+          "deadline": null
+        },
+        {
+          "sku": "sm-f976bzvccau",
+          "title": "Смартфон Samsung Galaxy Z Fold8 Ультра, 512 Гб, Фиолетовый",
+          "priceText": "194 990 ₽",
+          "sourceUrl": "https://online-samsung.ru/product/sm-f976bzvccau",
+          "deadline": null
+        },
+        {
+          "sku": "sm-f976bzvbcau",
+          "title": "Смартфон Samsung Galaxy Z Fold8 Ультра, 256 Гб, Фиолетовый",
+          "priceText": "164 990 ₽",
+          "sourceUrl": "https://online-samsung.ru/product/sm-f976bzvbcau",
+          "deadline": null
+        },
+        {
+          "sku": "sm-a185flbkcau",
+          "title": "Смартфон Samsung Galaxy A18, 128 Гб, Голубой",
+          "priceText": "21 990 ₽",
+          "sourceUrl": "https://online-samsung.ru/product/sm-a185flbkcau",
+          "deadline": null
+        },
+        {
+          "sku": "sm-f776bzwgcau",
+          "title": "Смартфон Samsung Galaxy Z Флип8, 256 Гб, Кремовый",
+          "priceText": "104 990 ₽",
+          "sourceUrl": "https://online-samsung.ru/product/sm-f776bzwgcau",
+          "deadline": null
+        },
+        {
+          "sku": "sm-l355fzkacau",
+          "title": "Смарт-часы Samsung Galaxy Watch 9 44 мм LTE, Графит",
+          "priceText": "28 990 ₽",
+          "sourceUrl": "https://online-samsung.ru/product/sm-l355fzkacau",
+          "deadline": null
+        }
+      ],
+      "deadline": null,
+      "note": "No end date or countdown is exposed in the sampled public homepage HTML."
+    }
+  ],
+  "sectionMembershipBySku": {
+    "sm-f976bzvbcau": [
+      {
+        "section": "new",
+        "tab": "Мобильные",
+        "sourceUrl": "https://online-samsung.ru/spm/new/128"
+      },
+      {
+        "section": "daily",
+        "tab": null,
+        "sourceUrl": "https://online-samsung.ru/"
+      }
+    ],
+    "sm-f971blvbcau": [
+      {
+        "section": "new",
+        "tab": "Мобильные",
+        "sourceUrl": "https://online-samsung.ru/spm/new/128"
+      }
+    ],
+    "sm-f776bzkgcau": [
+      {
+        "section": "new",
+        "tab": "Мобильные",
+        "sourceUrl": "https://online-samsung.ru/spm/new/128"
+      }
+    ],
+    "sm-a185flbkcau": [
+      {
+        "section": "new",
+        "tab": "Мобильные",
+        "sourceUrl": "https://online-samsung.ru/spm/new/128"
+      },
+      {
+        "section": "daily",
+        "tab": null,
+        "sourceUrl": "https://online-samsung.ru/"
+      }
+    ],
+    "sm-x946bzaicau": [
+      {
+        "section": "new",
+        "tab": "Мобильные",
+        "sourceUrl": "https://online-samsung.ru/spm/new/128"
+      }
+    ],
+    "qe85ls03hwuxpy": [
+      {
+        "section": "new",
+        "tab": "ТВ и аудио",
+        "sourceUrl": "https://online-samsung.ru/spm/new/130"
+      }
+    ],
+    "ue50m1ehauxpy": [
+      {
+        "section": "new",
+        "tab": "ТВ и аудио",
+        "sourceUrl": "https://online-samsung.ru/spm/new/130"
+      }
+    ],
+    "mre85r85hauxpy": [
+      {
+        "section": "new",
+        "tab": "ТВ и аудио",
+        "sourceUrl": "https://online-samsung.ru/spm/new/130"
+      }
+    ],
+    "ue85m80hauxpy": [
+      {
+        "section": "new",
+        "tab": "ТВ и аудио",
+        "sourceUrl": "https://online-samsung.ru/spm/new/130"
+      }
+    ],
+    "qe48s90haexpy": [
+      {
+        "section": "new",
+        "tab": "ТВ и аудио",
+        "sourceUrl": "https://online-samsung.ru/spm/new/130"
+      }
+    ],
+    "rf65db970012wr": [
+      {
+        "section": "new",
+        "tab": "Бытовая техника",
+        "sourceUrl": "https://online-samsung.ru/spm/new/131"
+      }
+    ],
+    "ww11cb944cghlp": [
+      {
+        "section": "new",
+        "tab": "Бытовая техника",
+        "sourceUrl": "https://online-samsung.ru/spm/new/131"
+      }
+    ],
+    "mc32db7746kcbw": [
+      {
+        "section": "new",
+        "tab": "Бытовая техника",
+        "sourceUrl": "https://online-samsung.ru/spm/new/131"
+      }
+    ],
+    "vs90f40dfgev": [
+      {
+        "section": "new",
+        "tab": "Бытовая техника",
+        "sourceUrl": "https://online-samsung.ru/spm/new/131"
+      }
+    ],
+    "vr7md97714gev": [
+      {
+        "section": "new",
+        "tab": "Бытовая техника",
+        "sourceUrl": "https://online-samsung.ru/spm/new/131"
+      }
+    ],
+    "sm-l715fzkacau": [
+      {
+        "section": "new",
+        "tab": "Аксессуары",
+        "sourceUrl": "https://online-samsung.ru/spm/new/129"
+      },
+      {
+        "section": "daily",
+        "tab": null,
+        "sourceUrl": "https://online-samsung.ru/"
+      }
+    ],
+    "sm-l715fzsacau": [
+      {
+        "section": "new",
+        "tab": "Аксессуары",
+        "sourceUrl": "https://online-samsung.ru/spm/new/129"
+      }
+    ],
+    "sm-l355fzsacau": [
+      {
+        "section": "new",
+        "tab": "Аксессуары",
+        "sourceUrl": "https://online-samsung.ru/spm/new/129"
+      }
+    ],
+    "sm-l355fzkacau": [
+      {
+        "section": "new",
+        "tab": "Аксессуары",
+        "sourceUrl": "https://online-samsung.ru/spm/new/129"
+      },
+      {
+        "section": "daily",
+        "tab": null,
+        "sourceUrl": "https://online-samsung.ru/"
+      }
+    ],
+    "sm-l345fzeacau": [
+      {
+        "section": "new",
+        "tab": "Аксессуары",
+        "sourceUrl": "https://online-samsung.ru/spm/new/129"
+      }
+    ],
+    "sm-f976bzkccau": [
+      {
+        "section": "hits",
+        "tab": "Все",
+        "sourceUrl": "https://online-samsung.ru/spm/hits/all"
+      },
+      {
+        "section": "hits",
+        "tab": "Мобильные",
+        "sourceUrl": "https://online-samsung.ru/spm/hits/128"
+      }
+    ],
+    "ue75m80hauxpy": [
+      {
+        "section": "hits",
+        "tab": "Все",
+        "sourceUrl": "https://online-samsung.ru/spm/hits/all"
+      },
+      {
+        "section": "hits",
+        "tab": "ТВ и аудио",
+        "sourceUrl": "https://online-samsung.ru/spm/hits/130"
+      }
+    ],
+    "ww11cgp44csblp": [
+      {
+        "section": "hits",
+        "tab": "Все",
+        "sourceUrl": "https://online-samsung.ru/spm/hits/all"
+      },
+      {
+        "section": "hits",
+        "tab": "Бытовая техника",
+        "sourceUrl": "https://online-samsung.ru/spm/hits/131"
+      }
+    ],
+    "sm-l505fzwacau": [
+      {
+        "section": "hits",
+        "tab": "Все",
+        "sourceUrl": "https://online-samsung.ru/spm/hits/all"
+      },
+      {
+        "section": "hits",
+        "tab": "Аксессуары",
+        "sourceUrl": "https://online-samsung.ru/spm/hits/129"
+      }
+    ],
+    "mz-77q8t0bw": [
+      {
+        "section": "hits",
+        "tab": "Все",
+        "sourceUrl": "https://online-samsung.ru/spm/hits/all"
+      }
+    ],
+    "sm-s948bzkccau": [
+      {
+        "section": "hits",
+        "tab": "Мобильные",
+        "sourceUrl": "https://online-samsung.ru/spm/hits/128"
+      }
+    ],
+    "sm-s947bzvbcau": [
+      {
+        "section": "hits",
+        "tab": "Мобильные",
+        "sourceUrl": "https://online-samsung.ru/spm/hits/128"
+      }
+    ],
+    "sm-a576bzvfcau": [
+      {
+        "section": "hits",
+        "tab": "Мобильные",
+        "sourceUrl": "https://online-samsung.ru/spm/hits/128"
+      }
+    ],
+    "sm-x936bzaecau": [
+      {
+        "section": "hits",
+        "tab": "Мобильные",
+        "sourceUrl": "https://online-samsung.ru/spm/hits/128"
+      }
+    ],
+    "qe55s85haexpy": [
+      {
+        "section": "hits",
+        "tab": "ТВ и аудио",
+        "sourceUrl": "https://online-samsung.ru/spm/hits/130"
+      },
+      {
+        "section": "daily",
+        "tab": null,
+        "sourceUrl": "https://online-samsung.ru/"
+      }
+    ],
+    "qe43ls03heuxpy": [
+      {
+        "section": "hits",
+        "tab": "ТВ и аудио",
+        "sourceUrl": "https://online-samsung.ru/spm/hits/130"
+      }
+    ],
+    "mre55r85hauxpy": [
+      {
+        "section": "hits",
+        "tab": "ТВ и аудио",
+        "sourceUrl": "https://online-samsung.ru/spm/hits/130"
+      }
+    ],
+    "qe65q7f5auxru": [
+      {
+        "section": "hits",
+        "tab": "ТВ и аудио",
+        "sourceUrl": "https://online-samsung.ru/spm/hits/130"
+      }
+    ],
+    "ww11cg604clblp": [
+      {
+        "section": "hits",
+        "tab": "Бытовая техника",
+        "sourceUrl": "https://online-samsung.ru/spm/hits/131"
+      }
+    ],
+    "vs15a6031r5ev": [
+      {
+        "section": "hits",
+        "tab": "Бытовая техника",
+        "sourceUrl": "https://online-samsung.ru/spm/hits/131"
+      }
+    ],
+    "vcc4135s37bol": [
+      {
+        "section": "hits",
+        "tab": "Бытовая техника",
+        "sourceUrl": "https://online-samsung.ru/spm/hits/131"
+      }
+    ],
+    "nv68a1110rbwt": [
+      {
+        "section": "hits",
+        "tab": "Бытовая техника",
+        "sourceUrl": "https://online-samsung.ru/spm/hits/131"
+      }
+    ],
+    "sm-l335fdaacau": [
+      {
+        "section": "hits",
+        "tab": "Аксессуары",
+        "sourceUrl": "https://online-samsung.ru/spm/hits/129"
+      }
+    ],
+    "sm-l505fzkacau": [
+      {
+        "section": "hits",
+        "tab": "Аксессуары",
+        "sourceUrl": "https://online-samsung.ru/spm/hits/129"
+      }
+    ],
+    "sm-r540nzwacis": [
+      {
+        "section": "hits",
+        "tab": "Аксессуары",
+        "sourceUrl": "https://online-samsung.ru/spm/hits/129"
+      }
+    ],
+    "ep-t4511xbegeu": [
+      {
+        "section": "hits",
+        "tab": "Аксессуары",
+        "sourceUrl": "https://online-samsung.ru/spm/hits/129"
+      }
+    ],
+    "sm-x946bzaecau": [
+      {
+        "section": "daily",
+        "tab": null,
+        "sourceUrl": "https://online-samsung.ru/"
+      }
+    ],
+    "sm-a185fzsncau": [
+      {
+        "section": "daily",
+        "tab": null,
+        "sourceUrl": "https://online-samsung.ru/"
+      }
+    ],
+    "sm-s948blbbcau": [
+      {
+        "section": "daily",
+        "tab": null,
+        "sourceUrl": "https://online-samsung.ru/"
+      }
+    ],
+    "sm-s942bzwqcau": [
+      {
+        "section": "daily",
+        "tab": null,
+        "sourceUrl": "https://online-samsung.ru/"
+      }
+    ],
+    "sm-s947bzkbcau": [
+      {
+        "section": "daily",
+        "tab": null,
+        "sourceUrl": "https://online-samsung.ru/"
+      }
+    ],
+    "ue65m80hauxpy": [
+      {
+        "section": "daily",
+        "tab": null,
+        "sourceUrl": "https://online-samsung.ru/"
+      }
+    ],
+    "sm-f971bzkncau": [
+      {
+        "section": "daily",
+        "tab": null,
+        "sourceUrl": "https://online-samsung.ru/"
+      }
+    ],
+    "sm-x846bzaacau": [
+      {
+        "section": "daily",
+        "tab": null,
+        "sourceUrl": "https://online-samsung.ru/"
+      }
+    ],
+    "sm-f971bzkbcau": [
+      {
+        "section": "daily",
+        "tab": null,
+        "sourceUrl": "https://online-samsung.ru/"
+      }
+    ],
+    "sm-f976bzkncau": [
+      {
+        "section": "daily",
+        "tab": null,
+        "sourceUrl": "https://online-samsung.ru/"
+      }
+    ],
+    "sm-f976bzvccau": [
+      {
+        "section": "daily",
+        "tab": null,
+        "sourceUrl": "https://online-samsung.ru/"
+      }
+    ],
+    "sm-f776bzwgcau": [
+      {
+        "section": "daily",
+        "tab": null,
+        "sourceUrl": "https://online-samsung.ru/"
+      }
+    ]
+  },
+  "products": {
+    "sm-f976bzvbcau": {
+      "sku": "SM-F976BZVBCAU",
+      "title": "Смартфон Samsung Galaxy Z Fold8 Ультра 256 Гб, Фиолетовый",
+      "shortName": "Galaxy Z Fold8 Ultra",
+      "variant": "256 Гб, Фиолетовый",
+      "price": 164990,
+      "oldPrice": 179990,
+      "sourceUrl": "https://online-samsung.ru/product/sm-f976bzvbcau",
+      "group": "mobile",
+      "category": "smartphones",
+      "image": {
+        "file": "assets/homepage-products/sm-f976bzvbcau.webp",
+        "width": 1200,
+        "height": 800,
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-F976BZVBCAU_11.png",
+        "sourceGalleryIndex": 11,
+        "alpha": true,
+        "bounds": {
+          "x": 264,
+          "y": 31,
+          "width": 669,
+          "height": 737
+        },
+        "boundsMethod": "alpha > 5"
+      },
+      "clientSections": [
+        {
+          "section": "new",
+          "tab": "Мобильные",
+          "sourceUrl": "https://online-samsung.ru/spm/new/128"
+        },
+        {
+          "section": "daily",
+          "tab": null,
+          "sourceUrl": "https://online-samsung.ru/"
+        }
+      ],
+      "offerDeadline": null,
+      "offerNotes": "Only the displayed unconditional current/old product prices are recorded; conditional trade-in, bundle and loyalty offers are not treated as direct discounts."
+    },
+    "sm-f971blvbcau": {
+      "sku": "SM-F971BLVBCAU",
+      "title": "Смартфон Samsung Galaxy Z Fold8 256 Гб, Лавандовый",
+      "shortName": "Galaxy Z Fold8",
+      "variant": "256 Гб, Лавандовый",
+      "price": 149990,
+      "oldPrice": 159990,
+      "sourceUrl": "https://online-samsung.ru/product/sm-f971blvbcau",
+      "group": "mobile",
+      "category": "smartphones",
+      "image": {
+        "file": "assets/homepage-products/sm-f971blvbcau.webp",
+        "width": 1200,
+        "height": 800,
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-F971BLVBCAU_11.png",
+        "sourceGalleryIndex": 11,
+        "alpha": true,
+        "bounds": {
+          "x": 112,
+          "y": 31,
+          "width": 966,
+          "height": 739
+        },
+        "boundsMethod": "alpha > 5"
+      },
+      "clientSections": [
+        {
+          "section": "new",
+          "tab": "Мобильные",
+          "sourceUrl": "https://online-samsung.ru/spm/new/128"
+        }
+      ],
+      "offerDeadline": null,
+      "offerNotes": "Only the displayed unconditional current/old product prices are recorded; conditional trade-in, bundle and loyalty offers are not treated as direct discounts."
+    },
+    "sm-f976bzkccau": {
+      "sku": "SM-F976BZKCCAU",
+      "title": "Смартфон Samsung Galaxy Z Fold8 Ультра 512 Гб, Графитовый",
+      "shortName": "Galaxy Z Fold8 Ultra",
+      "variant": "512 Гб, Графитовый",
+      "price": 194990,
+      "oldPrice": 209990,
+      "sourceUrl": "https://online-samsung.ru/product/sm-f976bzkccau",
+      "group": "mobile",
+      "category": "smartphones",
+      "image": {
+        "file": "assets/homepage-products/sm-f976bzkccau.webp",
+        "width": 1200,
+        "height": 800,
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-F976BZKCCAU_11.png",
+        "sourceGalleryIndex": 11,
+        "alpha": true,
+        "bounds": {
+          "x": 264,
+          "y": 31,
+          "width": 669,
+          "height": 737
+        },
+        "boundsMethod": "alpha > 5"
+      },
+      "clientSections": [
+        {
+          "section": "hits",
+          "tab": "Все",
+          "sourceUrl": "https://online-samsung.ru/spm/hits/all"
+        },
+        {
+          "section": "hits",
+          "tab": "Мобильные",
+          "sourceUrl": "https://online-samsung.ru/spm/hits/128"
+        }
+      ],
+      "offerDeadline": null,
+      "offerNotes": "Only the displayed unconditional current/old product prices are recorded; conditional trade-in, bundle and loyalty offers are not treated as direct discounts."
+    },
+    "sm-s948bzkccau": {
+      "sku": "SM-S948BZKCCAU",
+      "title": "Смартфон Samsung Galaxy S26 Ультра 512 Гб, Чёрный",
+      "shortName": "Galaxy S26 Ultra",
+      "variant": "512 Гб, Чёрный",
+      "price": 144990,
+      "oldPrice": 159990,
+      "sourceUrl": "https://online-samsung.ru/product/sm-s948bzkccau",
+      "group": "mobile",
+      "category": "smartphones",
+      "image": {
+        "file": "assets/products/galaxy-s26-ultra/black-1.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Galaxy S26 Ultra — Чёрный — ракурс 1",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BZKBCAU_10.png",
+        "sourceGalleryIndex": 9,
+        "alpha": true,
+        "bounds": {
+          "x": 220,
+          "y": 47,
+          "width": 699,
+          "height": 707
+        },
+        "boundsMethod": "alpha > 5"
+      },
+      "clientSections": [
+        {
+          "section": "hits",
+          "tab": "Мобильные",
+          "sourceUrl": "https://online-samsung.ru/spm/hits/128"
+        }
+      ],
+      "offerDeadline": null,
+      "offerNotes": "Only the displayed unconditional current/old product prices are recorded; conditional trade-in, bundle and loyalty offers are not treated as direct discounts."
+    },
+    "sm-s942bzvccau": {
+      "sku": "SM-S942BZVCCAU",
+      "title": "Смартфон Samsung Galaxy S26 256 Гб, Фиолетовый",
+      "shortName": "Galaxy S26",
+      "variant": "256 Гб, Фиолетовый",
+      "price": 84990,
+      "oldPrice": 94990,
+      "sourceUrl": "https://online-samsung.ru/product/sm-s942bzvccau",
+      "group": "mobile",
+      "category": "smartphones",
+      "image": {
+        "file": "assets/products/galaxy-s26/1.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Galaxy S26 — ракурс 1",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S942BZVCCAU_10.png",
+        "sourceGalleryIndex": 9,
+        "alpha": true,
+        "bounds": {
+          "x": 332,
+          "y": 77,
+          "width": 536,
+          "height": 646
+        },
+        "boundsMethod": "alpha > 5"
+      },
+      "clientSections": [],
+      "offerDeadline": null,
+      "offerNotes": "Only the displayed unconditional current/old product prices are recorded; conditional trade-in, bundle and loyalty offers are not treated as direct discounts."
+    },
+    "sm-x946bzaecau": {
+      "sku": "SM-X946BZAECAU",
+      "title": "Планшет Samsung Galaxy Tab S12 Ультра 5G, 14.6\" 512 Гб, Серый",
+      "shortName": "Galaxy Tab S12 Ultra",
+      "variant": "512 Гб, Серый",
+      "price": 171990,
+      "oldPrice": null,
+      "sourceUrl": "https://online-samsung.ru/product/sm-x946bzaecau",
+      "group": "mobile",
+      "category": "tablets",
+      "image": {
+        "file": "assets/products/galaxy-tab-ultra/1.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Galaxy Tab S12 Ultra — ракурс 1",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-09/SM-X946BZAECAU_1_0.png",
+        "sourceGalleryIndex": 15,
+        "alpha": true,
+        "bounds": {
+          "x": 87,
+          "y": 51,
+          "width": 1025,
+          "height": 699
+        },
+        "boundsMethod": "alpha > 5"
+      },
+      "clientSections": [
+        {
+          "section": "daily",
+          "tab": null,
+          "sourceUrl": "https://online-samsung.ru/"
+        }
+      ],
+      "offerDeadline": null,
+      "offerNotes": "Only the displayed unconditional current/old product prices are recorded; conditional trade-in, bundle and loyalty offers are not treated as direct discounts."
+    },
+    "sm-x946bzaicau": {
+      "sku": "SM-X946BZAICAU",
+      "title": "Планшет Samsung Galaxy Tab S12 Ультра 5G, 14.6\" 1024 Гб, Серый",
+      "shortName": "Galaxy Tab S12 Ultra",
+      "variant": "1024 Гб, Серый",
+      "price": 211990,
+      "oldPrice": null,
+      "sourceUrl": "https://online-samsung.ru/product/sm-x946bzaicau",
+      "group": "mobile",
+      "category": "tablets",
+      "image": {
+        "file": "assets/products/galaxy-tab-ultra/1.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Galaxy Tab S12 Ultra — ракурс 1",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-09/SM-X946BZAECAU_1_0.png",
+        "sourceGalleryIndex": 15,
+        "alpha": true,
+        "bounds": {
+          "x": 87,
+          "y": 51,
+          "width": 1025,
+          "height": 699
+        },
+        "boundsMethod": "alpha > 5"
+      },
+      "clientSections": [
+        {
+          "section": "new",
+          "tab": "Мобильные",
+          "sourceUrl": "https://online-samsung.ru/spm/new/128"
+        }
+      ],
+      "offerDeadline": null,
+      "offerNotes": "Only the displayed unconditional current/old product prices are recorded; conditional trade-in, bundle and loyalty offers are not treated as direct discounts."
+    },
+    "sm-a185fzsncau": {
+      "sku": "SM-A185FZSNCAU",
+      "title": "Смартфон Samsung Galaxy A18 256 Гб, Серый",
+      "shortName": "Galaxy A18",
+      "variant": "256 Гб, Серый",
+      "price": 30990,
+      "oldPrice": 32990,
+      "sourceUrl": "https://online-samsung.ru/product/sm-a185fzsncau",
+      "group": "mobile",
+      "category": "smartphones",
+      "image": {
+        "file": "assets/homepage-products/sm-a185fzsncau.webp",
+        "width": 1200,
+        "height": 800,
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-09/SM-A185FZSNCAU_13.png",
+        "sourceGalleryIndex": 13,
+        "alpha": true,
+        "bounds": {
+          "x": 307,
+          "y": 44,
+          "width": 587,
+          "height": 712
+        },
+        "boundsMethod": "alpha > 5"
+      },
+      "clientSections": [
+        {
+          "section": "daily",
+          "tab": null,
+          "sourceUrl": "https://online-samsung.ru/"
+        }
+      ],
+      "offerDeadline": null,
+      "offerNotes": "Only the displayed unconditional current/old product prices are recorded; conditional trade-in, bundle and loyalty offers are not treated as direct discounts."
+    },
+    "sm-s947bzvbcau": {
+      "sku": "SM-S947BZVBCAU",
+      "title": "Смартфон Samsung Galaxy S26+ 256 Гб, Фиолетовый",
+      "shortName": "Galaxy S26+",
+      "variant": "256 Гб, Фиолетовый",
+      "price": 99990,
+      "oldPrice": 109990,
+      "sourceUrl": "https://online-samsung.ru/product/sm-s947bzvbcau",
+      "group": "mobile",
+      "category": "smartphones",
+      "image": {
+        "file": "assets/homepage-products/sm-s947bzvbcau.webp",
+        "width": 1200,
+        "height": 800,
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S947BZVBCAU_10.png",
+        "sourceGalleryIndex": 9,
+        "alpha": true,
+        "bounds": {
+          "x": 321,
+          "y": 58,
+          "width": 558,
+          "height": 684
+        },
+        "boundsMethod": "alpha > 5"
+      },
+      "clientSections": [
+        {
+          "section": "hits",
+          "tab": "Мобильные",
+          "sourceUrl": "https://online-samsung.ru/spm/hits/128"
+        }
+      ],
+      "offerDeadline": null,
+      "offerNotes": "Only the displayed unconditional current/old product prices are recorded; conditional trade-in, bundle and loyalty offers are not treated as direct discounts."
+    },
+    "ue75m1ehauxpy": {
+      "sku": "UE75M1EHAUXPY",
+      "title": "Телевизор Samsung Мини LED M1EH, 4K Ultra HD 75\", Черный-титан",
+      "shortName": "Mini LED M1EH",
+      "variant": "75\", Черный-титан",
+      "price": 82990,
+      "oldPrice": 109990,
+      "sourceUrl": "https://online-samsung.ru/product/ue75m1ehauxpy",
+      "group": "tv",
+      "category": "tv",
+      "image": {
+        "file": "assets/products/samsung-tv-75/1.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Samsung Mini LED 75″ — ракурс 1",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-10/UE75M1EHAUXPY_2.png",
+        "sourceGalleryIndex": 2,
+        "alpha": true,
+        "bounds": {
+          "x": 242,
+          "y": 19,
+          "width": 716,
+          "height": 762
+        },
+        "boundsMethod": "alpha > 5"
+      },
+      "clientSections": [],
+      "offerDeadline": null,
+      "offerNotes": "Only the displayed unconditional current/old product prices are recorded; conditional trade-in, bundle and loyalty offers are not treated as direct discounts."
+    },
+    "ue75m80hauxpy": {
+      "sku": "UE75M80HAUXPY",
+      "title": "Телевизор Samsung Мини LED M80H, 4K Ultra HD 75\", Черный-титан",
+      "shortName": "Mini LED M80H",
+      "variant": "75\", Черный-титан",
+      "price": 129990,
+      "oldPrice": null,
+      "sourceUrl": "https://online-samsung.ru/product/ue75m80hauxpy",
+      "group": "tv",
+      "category": "tv",
+      "image": {
+        "file": "assets/homepage-products/ue75m80hauxpy.webp",
+        "width": 1200,
+        "height": 800,
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-05/UE75M80HAUXPY_2.png",
+        "sourceGalleryIndex": 2,
+        "alpha": true,
+        "bounds": {
+          "x": 62,
+          "y": 68,
+          "width": 1081,
+          "height": 663
+        },
+        "boundsMethod": "alpha > 5"
+      },
+      "clientSections": [
+        {
+          "section": "hits",
+          "tab": "Все",
+          "sourceUrl": "https://online-samsung.ru/spm/hits/all"
+        },
+        {
+          "section": "hits",
+          "tab": "ТВ и аудио",
+          "sourceUrl": "https://online-samsung.ru/spm/hits/130"
+        }
+      ],
+      "offerDeadline": null,
+      "offerNotes": "Only the displayed unconditional current/old product prices are recorded; conditional trade-in, bundle and loyalty offers are not treated as direct discounts."
+    },
+    "qe85ls03hwuxpy": {
+      "sku": "QE85LS03HWUXPY",
+      "title": "Телевизор Samsung Lifestyle QLED The Frame, 4K Ultra HD 85\", Чёрный",
+      "shortName": "The Frame",
+      "variant": "85\", Чёрный",
+      "price": 349990,
+      "oldPrice": null,
+      "sourceUrl": "https://online-samsung.ru/product/qe85ls03hwuxpy",
+      "group": "tv",
+      "category": "tv",
+      "image": {
+        "file": "assets/homepage-products/qe85ls03hwuxpy.webp",
+        "width": 1200,
+        "height": 800,
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-05/QE85LS03HWUXPY_2.png",
+        "sourceGalleryIndex": 2,
+        "alpha": true,
+        "bounds": {
+          "x": 36,
+          "y": 53,
+          "width": 1129,
+          "height": 693
+        },
+        "boundsMethod": "alpha > 5"
+      },
+      "clientSections": [
+        {
+          "section": "new",
+          "tab": "ТВ и аудио",
+          "sourceUrl": "https://online-samsung.ru/spm/new/130"
+        }
+      ],
+      "offerDeadline": null,
+      "offerNotes": "Only the displayed unconditional current/old product prices are recorded; conditional trade-in, bundle and loyalty offers are not treated as direct discounts."
+    },
+    "qe55s85haexpy": {
+      "sku": "QE55S85HAEXPY",
+      "title": "Телевизор Samsung OLED S85H, 4K Ultra HD 55\", Черный-графит",
+      "shortName": "OLED S85H",
+      "variant": "55\", Черный-графит",
+      "price": 169990,
+      "oldPrice": null,
+      "sourceUrl": "https://online-samsung.ru/product/qe55s85haexpy",
+      "group": "tv",
+      "category": "tv",
+      "image": {
+        "file": "assets/homepage-products/qe55s85haexpy.webp",
+        "width": 1200,
+        "height": 800,
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-05/QE55S85HAEXPY_4.png",
+        "sourceGalleryIndex": 4,
+        "alpha": true,
+        "bounds": {
+          "x": 72,
+          "y": 67,
+          "width": 1056,
+          "height": 666
+        },
+        "boundsMethod": "alpha > 5"
+      },
+      "clientSections": [
+        {
+          "section": "hits",
+          "tab": "ТВ и аудио",
+          "sourceUrl": "https://online-samsung.ru/spm/hits/130"
+        },
+        {
+          "section": "daily",
+          "tab": null,
+          "sourceUrl": "https://online-samsung.ru/"
+        }
+      ],
+      "offerDeadline": null,
+      "offerNotes": "Only the displayed unconditional current/old product prices are recorded; conditional trade-in, bundle and loyalty offers are not treated as direct discounts."
+    },
+    "ue50m1ehauxpy": {
+      "sku": "UE50M1EHAUXPY",
+      "title": "Телевизор Samsung Мини LED M1EH, 4K Ultra HD 50\", Черный-титан",
+      "shortName": "Mini LED M1EH",
+      "variant": "50\", Черный-титан",
+      "price": 43990,
+      "oldPrice": 53990,
+      "sourceUrl": "https://online-samsung.ru/product/ue50m1ehauxpy",
+      "group": "tv",
+      "category": "tv",
+      "image": {
+        "file": "assets/homepage-products/ue50m1ehauxpy.webp",
+        "width": 1200,
+        "height": 800,
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-09/UE50M1EHAUXPY_2.png",
+        "sourceGalleryIndex": 2,
+        "alpha": true,
+        "bounds": {
+          "x": 249,
+          "y": 19,
+          "width": 702,
+          "height": 762
+        },
+        "boundsMethod": "alpha > 5"
+      },
+      "clientSections": [
+        {
+          "section": "new",
+          "tab": "ТВ и аудио",
+          "sourceUrl": "https://online-samsung.ru/spm/new/130"
+        }
+      ],
+      "offerDeadline": null,
+      "offerNotes": "Only the displayed unconditional current/old product prices are recorded; conditional trade-in, bundle and loyalty offers are not treated as direct discounts."
+    },
+    "mre85r85hauxpy": {
+      "sku": "MRE85R85HAUXPY",
+      "title": "Телевизор Samsung Микро RGB R85H, 4K Ultra HD 85\", Чёрный",
+      "shortName": "Micro RGB R85H",
+      "variant": "85\", Чёрный",
+      "price": 449990,
+      "oldPrice": null,
+      "sourceUrl": "https://online-samsung.ru/product/mre85r85hauxpy",
+      "group": "tv",
+      "category": "tv",
+      "image": {
+        "file": "assets/homepage-products/mre85r85hauxpy.webp",
+        "width": 1200,
+        "height": 800,
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-05/MRE85R85HAUXPY_2.png",
+        "sourceGalleryIndex": 2,
+        "alpha": true,
+        "bounds": {
+          "x": 73,
+          "y": 77,
+          "width": 1054,
+          "height": 644
+        },
+        "boundsMethod": "alpha > 5"
+      },
+      "clientSections": [
+        {
+          "section": "new",
+          "tab": "ТВ и аудио",
+          "sourceUrl": "https://online-samsung.ru/spm/new/130"
+        }
+      ],
+      "offerDeadline": null,
+      "offerNotes": "Only the displayed unconditional current/old product prices are recorded; conditional trade-in, bundle and loyalty offers are not treated as direct discounts."
+    },
+    "qe43ls03heuxpy": {
+      "sku": "QE43LS03HEUXPY",
+      "title": "Телевизор Samsung Lifestyle QLED The Frame, 4K Ultra HD 43\", Чёрный",
+      "shortName": "The Frame",
+      "variant": "43\", Чёрный",
+      "price": 84990,
+      "oldPrice": null,
+      "sourceUrl": "https://online-samsung.ru/product/qe43ls03heuxpy",
+      "group": "tv",
+      "category": "tv",
+      "image": {
+        "file": "assets/homepage-products/qe43ls03heuxpy.webp",
+        "width": 1200,
+        "height": 830,
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-05/QE43LS03HEUXPY_2.png",
+        "sourceGalleryIndex": 2,
+        "alpha": true,
+        "bounds": {
+          "x": 52,
+          "y": 63,
+          "width": 1096,
+          "height": 705
+        },
+        "boundsMethod": "alpha > 5"
+      },
+      "clientSections": [
+        {
+          "section": "hits",
+          "tab": "ТВ и аудио",
+          "sourceUrl": "https://online-samsung.ru/spm/hits/130"
+        }
+      ],
+      "offerDeadline": null,
+      "offerNotes": "Only the displayed unconditional current/old product prices are recorded; conditional trade-in, bundle and loyalty offers are not treated as direct discounts."
+    },
+    "wd18db8995bzld": {
+      "sku": "WD18DB8995BZLD",
+      "title": "Стиральная машина с сушкой Samsung Bespoke ИИ WD18DB8995BZLD 18/11 кг Темная-сталь",
+      "shortName": "Bespoke AI",
+      "variant": "Темная-сталь",
+      "price": 269990,
+      "oldPrice": null,
+      "sourceUrl": "https://online-samsung.ru/product/wd18db8995bzld",
+      "group": "home",
+      "category": "home",
+      "image": {
+        "file": "assets/products/samsung-washer/1.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Samsung Bespoke AI — ракурс 1",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-06/WD18DB8995BZLD_1.png",
+        "alpha": true,
+        "bounds": {
+          "x": 358,
+          "y": 19,
+          "width": 484,
+          "height": 762
+        },
+        "boundsMethod": "alpha > 5"
+      },
+      "clientSections": [],
+      "offerDeadline": null,
+      "offerNotes": "Only the displayed unconditional current/old product prices are recorded; conditional trade-in, bundle and loyalty offers are not treated as direct discounts."
+    },
+    "rf65db970012wr": {
+      "sku": "RF65DB970012WR",
+      "title": "Холодильник многодверный Samsung Bespoke RF9000T, 551 л Белое-стекло",
+      "shortName": "Bespoke RF9000T",
+      "variant": "Белое-стекло",
+      "price": 366990,
+      "oldPrice": 449990,
+      "sourceUrl": "https://online-samsung.ru/product/rf65db970012wr",
+      "group": "home",
+      "category": "refrigerators",
+      "image": {
+        "file": "assets/homepage-products/rf65db970012wr.webp",
+        "width": 1920,
+        "height": 1280,
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-03/RF65DB970012WR_2.png",
+        "sourceGalleryIndex": 2,
+        "alpha": true,
+        "bounds": {
+          "x": 652,
+          "y": 20,
+          "width": 616,
+          "height": 1240
+        },
+        "boundsMethod": "alpha > 5"
+      },
+      "clientSections": [
+        {
+          "section": "new",
+          "tab": "Бытовая техника",
+          "sourceUrl": "https://online-samsung.ru/spm/new/131"
+        }
+      ],
+      "offerDeadline": null,
+      "offerNotes": "Only the displayed unconditional current/old product prices are recorded; conditional trade-in, bundle and loyalty offers are not treated as direct discounts."
+    },
+    "vs90f40dfgev": {
+      "sku": "VS90F40DFGEV",
+      "title": "Вертикальный пылесос Samsung Bespoke AI Jet Ultra Complete Extra Серый",
+      "shortName": "Bespoke AI Jet Ultra",
+      "variant": "Серый",
+      "price": 89990,
+      "oldPrice": 111999,
+      "sourceUrl": "https://online-samsung.ru/product/vs90f40dfgev",
+      "group": "home",
+      "category": "vacuums",
+      "image": {
+        "file": "assets/homepage-products/vs90f40dfgev.webp",
+        "width": 1200,
+        "height": 800,
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-10/VS90F40DFGEV_2-min.png",
+        "sourceGalleryIndex": 2,
+        "alpha": true,
+        "bounds": {
+          "x": 505,
+          "y": 13,
+          "width": 190,
+          "height": 775
+        },
+        "boundsMethod": "alpha > 5"
+      },
+      "clientSections": [
+        {
+          "section": "new",
+          "tab": "Бытовая техника",
+          "sourceUrl": "https://online-samsung.ru/spm/new/131"
+        }
+      ],
+      "offerDeadline": null,
+      "offerNotes": "Only the displayed unconditional current/old product prices are recorded; conditional trade-in, bundle and loyalty offers are not treated as direct discounts.",
+      "conditionNote": {
+        "label": "Витринный образец",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/styles/product_full/public/2026-10/image_2026-10-05_15-13-20.png.webp?itok=_iuRnzXt",
+        "evidence": "Explicit orange label embedded in the first official gallery image. The chosen alternate product angle is unmodified and does not include the label. Confirm unit condition with retailer."
+      }
+    },
+    "ww11cgp44csblp": {
+      "sku": "WW11CGP44CSBLP",
+      "title": "Стиральная машина Samsung WW7400T(AI Control и AI Ecobubble), 11 кг Чёрный",
+      "shortName": "Samsung WW7400T",
+      "variant": "Чёрный",
+      "price": 74990,
+      "oldPrice": 84990,
+      "sourceUrl": "https://online-samsung.ru/product/ww11cgp44csblp",
+      "group": "home",
+      "category": "home",
+      "image": {
+        "file": "assets/homepage-products/ww11cgp44csblp.webp",
+        "width": 1200,
+        "height": 800,
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2025-05/WW11CGP44CSBLP_1-min.png",
+        "sourceGalleryIndex": 1,
+        "alpha": true,
+        "bounds": {
+          "x": 324,
+          "y": 12,
+          "width": 552,
+          "height": 775
+        },
+        "boundsMethod": "alpha > 5"
+      },
+      "clientSections": [
+        {
+          "section": "hits",
+          "tab": "Все",
+          "sourceUrl": "https://online-samsung.ru/spm/hits/all"
+        },
+        {
+          "section": "hits",
+          "tab": "Бытовая техника",
+          "sourceUrl": "https://online-samsung.ru/spm/hits/131"
+        }
+      ],
+      "offerDeadline": null,
+      "offerNotes": "Only the displayed unconditional current/old product prices are recorded; conditional trade-in, bundle and loyalty offers are not treated as direct discounts."
+    },
+    "ww11cb944cghlp": {
+      "sku": "WW11CB944CGHLP",
+      "title": "Стиральная машина Samsung WW9400B (EcoBubble и AI Wash), 11 кг белый",
+      "shortName": "Samsung WW9400B",
+      "variant": "белый",
+      "price": 75990,
+      "oldPrice": 99990,
+      "sourceUrl": "https://online-samsung.ru/product/ww11cb944cghlp",
+      "group": "home",
+      "category": "home",
+      "image": {
+        "file": "assets/homepage-products/ww11cb944cghlp.webp",
+        "width": 1200,
+        "height": 800,
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-10/WW11CB944CGHLP_2-min.png",
+        "sourceGalleryIndex": 8,
+        "alpha": true,
+        "bounds": {
+          "x": 287,
+          "y": 13,
+          "width": 626,
+          "height": 775
+        },
+        "boundsMethod": "alpha > 5"
+      },
+      "clientSections": [
+        {
+          "section": "new",
+          "tab": "Бытовая техника",
+          "sourceUrl": "https://online-samsung.ru/spm/new/131"
+        }
+      ],
+      "offerDeadline": null,
+      "offerNotes": "Only the displayed unconditional current/old product prices are recorded; conditional trade-in, bundle and loyalty offers are not treated as direct discounts.",
+      "conditionNote": {
+        "label": "Витринный образец",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/styles/product_full/public/2026-10/1000140061.png.webp?itok=kYWrBXZv",
+        "evidence": "Explicit orange label embedded in the first official gallery image. The chosen alternate product angle is unmodified and does not include the label. Confirm unit condition with retailer."
+      }
+    },
+    "ww11cg604clblp": {
+      "sku": "WW11CG604CLBLP",
+      "title": "Стиральная машина Samsung WW6000T (AI Control и AI Ecobubble), 11 кг Чёрный",
+      "shortName": "Samsung WW11CG604",
+      "variant": "Чёрный",
+      "price": 75990,
+      "oldPrice": 86990,
+      "sourceUrl": "https://online-samsung.ru/product/ww11cg604clblp",
+      "group": "home",
+      "category": "home",
+      "image": {
+        "file": "assets/homepage-products/ww11cg604clblp.webp",
+        "width": 1200,
+        "height": 800,
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2025-11/WW11CG604CLBLP_1-min-min.png",
+        "sourceGalleryIndex": 1,
+        "alpha": true,
+        "bounds": {
+          "x": 318,
+          "y": 13,
+          "width": 564,
+          "height": 775
+        },
+        "boundsMethod": "alpha > 5"
+      },
+      "clientSections": [
+        {
+          "section": "hits",
+          "tab": "Бытовая техника",
+          "sourceUrl": "https://online-samsung.ru/spm/hits/131"
+        }
+      ],
+      "offerDeadline": null,
+      "offerNotes": "Only the displayed unconditional current/old product prices are recorded; conditional trade-in, bundle and loyalty offers are not treated as direct discounts."
+    },
+    "vs15a6031r5ev": {
+      "sku": "VS15A6031R5EV",
+      "title": "Вертикальный пылесос Samsung VS15A6031R, Jet 60 turbo, 150 Вт Серебряный",
+      "shortName": "Samsung Jet 60",
+      "variant": "Серебряный",
+      "price": 19990,
+      "oldPrice": 25990,
+      "sourceUrl": "https://online-samsung.ru/product/vs15a6031r5ev",
+      "group": "home",
+      "category": "vacuums",
+      "image": {
+        "file": "assets/homepage-products/vs15a6031r5ev.webp",
+        "width": 1200,
+        "height": 800,
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2025-06/Samsung-90435607-ru-vc-hand-stick-vs6700-vs15a6031r5-ev-458286035Download-Source%2520%25281%2529-min.png",
+        "sourceGalleryIndex": 2,
+        "alpha": true,
+        "bounds": {
+          "x": 508,
+          "y": 13,
+          "width": 184,
+          "height": 775
+        },
+        "boundsMethod": "alpha > 5"
+      },
+      "clientSections": [
+        {
+          "section": "hits",
+          "tab": "Бытовая техника",
+          "sourceUrl": "https://online-samsung.ru/spm/hits/131"
+        }
+      ],
+      "offerDeadline": null,
+      "offerNotes": "Only the displayed unconditional current/old product prices are recorded; conditional trade-in, bundle and loyalty offers are not treated as direct discounts."
+    },
+    "sm-l715fzkacau": {
+      "sku": "SM-L715FZKACAU",
+      "title": "Смарт-часы Samsung Galaxy Watch Ультра 2 47 мм LTE Черный-титан",
+      "shortName": "Galaxy Watch Ultra 2",
+      "variant": "Черный-титан",
+      "price": 44990,
+      "oldPrice": 49990,
+      "sourceUrl": "https://online-samsung.ru/product/sm-l715fzkacau",
+      "group": "accessories",
+      "category": "watches",
+      "image": {
+        "file": "assets/homepage-products/sm-l715fzkacau.webp",
+        "width": 1200,
+        "height": 800,
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-L715FZKACAU_13.png",
+        "sourceGalleryIndex": 13,
+        "alpha": true,
+        "bounds": {
+          "x": 303,
+          "y": 55,
+          "width": 601,
+          "height": 691
+        },
+        "boundsMethod": "alpha > 5"
+      },
+      "clientSections": [
+        {
+          "section": "new",
+          "tab": "Аксессуары",
+          "sourceUrl": "https://online-samsung.ru/spm/new/129"
+        },
+        {
+          "section": "daily",
+          "tab": null,
+          "sourceUrl": "https://online-samsung.ru/"
+        }
+      ],
+      "offerDeadline": null,
+      "offerNotes": "Only the displayed unconditional current/old product prices are recorded; conditional trade-in, bundle and loyalty offers are not treated as direct discounts."
+    },
+    "sm-l505fzwacau": {
+      "sku": "SM-L505FZWACAU",
+      "title": "Смарт-часы Samsung Galaxy Watch8 Класcика 46 мм LTE белый",
+      "shortName": "Galaxy Watch8 Classic",
+      "variant": "белый",
+      "price": 32490,
+      "oldPrice": 41490,
+      "sourceUrl": "https://online-samsung.ru/product/sm-l505fzwacau",
+      "group": "accessories",
+      "category": "watches",
+      "image": {
+        "file": "assets/homepage-products/sm-l505fzwacau.webp",
+        "width": 1200,
+        "height": 800,
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2025-12/SM-L505FZWACAU_1.png",
+        "sourceGalleryIndex": 15,
+        "alpha": true,
+        "bounds": {
+          "x": 306,
+          "y": 73,
+          "width": 559,
+          "height": 655
+        },
+        "boundsMethod": "alpha > 5"
+      },
+      "clientSections": [
+        {
+          "section": "hits",
+          "tab": "Все",
+          "sourceUrl": "https://online-samsung.ru/spm/hits/all"
+        },
+        {
+          "section": "hits",
+          "tab": "Аксессуары",
+          "sourceUrl": "https://online-samsung.ru/spm/hits/129"
+        }
+      ],
+      "offerDeadline": null,
+      "offerNotes": "Only the displayed unconditional current/old product prices are recorded; conditional trade-in, bundle and loyalty offers are not treated as direct discounts."
+    },
+    "sm-r540nzwacis": {
+      "sku": "SM-R540NZWACIS",
+      "title": "Наушники Samsung Galaxy Buds 4 белый",
+      "shortName": "Galaxy Buds4",
+      "variant": "белый",
+      "price": 14490,
+      "oldPrice": null,
+      "sourceUrl": "https://online-samsung.ru/product/sm-r540nzwacis",
+      "group": "accessories",
+      "category": "headphones",
+      "image": {
+        "file": "assets/homepage-products/sm-r540nzwacis.webp",
+        "width": 1200,
+        "height": 1200,
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-03/SM-R540NZWACIS_7.png",
+        "sourceGalleryIndex": 6,
+        "alpha": true,
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1200,
+          "height": 1200
+        },
+        "boundsMethod": "alpha > 5"
+      },
+      "clientSections": [
+        {
+          "section": "hits",
+          "tab": "Аксессуары",
+          "sourceUrl": "https://online-samsung.ru/spm/hits/129"
+        }
+      ],
+      "offerDeadline": null,
+      "offerNotes": "Only the displayed unconditional current/old product prices are recorded; conditional trade-in, bundle and loyalty offers are not treated as direct discounts."
+    },
+    "sm-r640nzkacis": {
+      "sku": "SM-R640NZKACIS",
+      "title": "Наушники Samsung Galaxy Buds 4 Про Чёрный",
+      "shortName": "Galaxy Buds4 Pro",
+      "variant": "Чёрный",
+      "price": 19990,
+      "oldPrice": null,
+      "sourceUrl": "https://online-samsung.ru/product/sm-r640nzkacis",
+      "group": "accessories",
+      "category": "headphones",
+      "image": {
+        "file": "assets/products/galaxy-buds4-pro/1.webp",
+        "width": 1200,
+        "height": 1200,
+        "alt": "Galaxy Buds4 Pro — ракурс 1",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-03/SM-R640NZKACIS_7.png",
+        "sourceGalleryIndex": 6,
+        "alpha": false,
+        "bounds": {
+          "x": 247,
+          "y": 117,
+          "width": 706,
+          "height": 1037
+        },
+        "boundsMethod": "difference from white > 15"
+      },
+      "clientSections": [],
+      "offerDeadline": null,
+      "offerNotes": "Only the displayed unconditional current/old product prices are recorded; conditional trade-in, bundle and loyalty offers are not treated as direct discounts."
+    },
+    "ef-ks948ssegru": {
+      "sku": "EF-KS948SSEGRU",
+      "title": "Чехол-накладка Samsung Carbon Magnet Case S26 Ultra Серый",
+      "shortName": "Carbon Magnet Case",
+      "variant": "Серый",
+      "price": 7990,
+      "oldPrice": null,
+      "sourceUrl": "https://online-samsung.ru/product/ef-ks948ssegru",
+      "group": "accessories",
+      "category": "accessories",
+      "image": {
+        "file": "assets/products/galaxy-case/1.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Samsung Carbon Magnet Case — ракурс 1",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-06/EF-KS948SSEGRU_1.png",
+        "alpha": true,
+        "bounds": {
+          "x": 417,
+          "y": 26,
+          "width": 366,
+          "height": 748
+        },
+        "boundsMethod": "alpha > 5"
+      },
+      "clientSections": [],
+      "offerDeadline": null,
+      "offerNotes": "Only the displayed unconditional current/old product prices are recorded; conditional trade-in, bundle and loyalty offers are not treated as direct discounts."
+    },
+    "ep-t4511xbegeu": {
+      "sku": "EP-T4511XBEGEU",
+      "title": "Сетевое ЗУ Samsung EP-T4511, USB Type-C, Power Delivery 45 Вт Чёрный",
+      "shortName": "Samsung EP-T4511",
+      "variant": "Чёрный",
+      "price": 4990,
+      "oldPrice": null,
+      "sourceUrl": "https://online-samsung.ru/product/ep-t4511xbegeu",
+      "group": "accessories",
+      "category": "accessories",
+      "image": {
+        "file": "assets/homepage-products/ep-t4511xbegeu.webp",
+        "width": 1200,
+        "height": 800,
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2025-08/EP-T4511XBEGEU_1.png",
+        "sourceGalleryIndex": 1,
+        "alpha": true,
+        "bounds": {
+          "x": 110,
+          "y": 13,
+          "width": 979,
+          "height": 774
+        },
+        "boundsMethod": "alpha > 5"
+      },
+      "clientSections": [
+        {
+          "section": "hits",
+          "tab": "Аксессуары",
+          "sourceUrl": "https://online-samsung.ru/spm/hits/129"
+        }
+      ],
+      "offerDeadline": null,
+      "offerNotes": "Only the displayed unconditional current/old product prices are recorded; conditional trade-in, bundle and loyalty offers are not treated as direct discounts."
+    },
+    "sm-l355fzsacau": {
+      "sku": "SM-L355FZSACAU",
+      "title": "Смарт-часы Samsung Galaxy Watch 9 44 мм LTE Серебристый",
+      "shortName": "Galaxy Watch9",
+      "variant": "Серебристый",
+      "price": 28990,
+      "oldPrice": 30990,
+      "sourceUrl": "https://online-samsung.ru/product/sm-l355fzsacau",
+      "group": "accessories",
+      "category": "watches",
+      "image": {
+        "file": "assets/homepage-products/sm-l355fzsacau.webp",
+        "width": 1200,
+        "height": 800,
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-L355FZSACAU_11.png",
+        "sourceGalleryIndex": 11,
+        "alpha": true,
+        "bounds": {
+          "x": 318,
+          "y": 72,
+          "width": 564,
+          "height": 657
+        },
+        "boundsMethod": "alpha > 5"
+      },
+      "clientSections": [
+        {
+          "section": "new",
+          "tab": "Аксессуары",
+          "sourceUrl": "https://online-samsung.ru/spm/new/129"
+        }
+      ],
+      "offerDeadline": null,
+      "offerNotes": "Only the displayed unconditional current/old product prices are recorded; conditional trade-in, bundle and loyalty offers are not treated as direct discounts."
+    },
+    "sm-l345fzeacau": {
+      "sku": "SM-L345FZEACAU",
+      "title": "Смарт-часы Samsung Galaxy Watch 9 40 мм LTE белое-золото",
+      "shortName": "Galaxy Watch9",
+      "variant": "белое-золото",
+      "price": 26990,
+      "oldPrice": 28990,
+      "sourceUrl": "https://online-samsung.ru/product/sm-l345fzeacau",
+      "group": "accessories",
+      "category": "watches",
+      "image": {
+        "file": "assets/homepage-products/sm-l345fzeacau.webp",
+        "width": 1200,
+        "height": 800,
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-L345FZEACAU_11.png",
+        "sourceGalleryIndex": 11,
+        "alpha": true,
+        "bounds": {
+          "x": 331,
+          "y": 87,
+          "width": 537,
+          "height": 627
+        },
+        "boundsMethod": "alpha > 5"
+      },
+      "clientSections": [
+        {
+          "section": "new",
+          "tab": "Аксессуары",
+          "sourceUrl": "https://online-samsung.ru/spm/new/129"
+        }
+      ],
+      "offerDeadline": null,
+      "offerNotes": "Only the displayed unconditional current/old product prices are recorded; conditional trade-in, bundle and loyalty offers are not treated as direct discounts."
+    }
+  },
+  "categories": [
+    {
+      "id": "smartphones",
+      "title": "Смартфоны",
+      "url": "https://online-samsung.ru/catalog/smartfony",
+      "httpStatus": 200,
+      "clientPageTitle": "Смартфоны Samsung",
+      "representativeSku": "sm-s948bzkccau",
+      "canonicalUrl": "https://online-samsung.ru/catalog/smartfony",
+      "image": {
+        "file": "assets/products/galaxy-s26-ultra/black-1.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Galaxy S26 Ultra — Чёрный — ракурс 1",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BZKBCAU_10.png",
+        "sourceGalleryIndex": 9,
+        "alpha": true,
+        "bounds": {
+          "x": 220,
+          "y": 47,
+          "width": 699,
+          "height": 707
+        },
+        "boundsMethod": "alpha > 5"
+      }
+    },
+    {
+      "id": "tv",
+      "title": "Телевизоры",
+      "url": "https://online-samsung.ru/catalog/televizory/in-stock",
+      "httpStatus": 200,
+      "clientPageTitle": "Телевизоры Samsung в наличии",
+      "representativeSku": "qe55s85haexpy",
+      "canonicalUrl": "https://online-samsung.ru/catalog/televizory",
+      "image": {
+        "file": "assets/homepage-products/qe55s85haexpy.webp",
+        "width": 1200,
+        "height": 800,
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-05/QE55S85HAEXPY_4.png",
+        "sourceGalleryIndex": 4,
+        "alpha": true,
+        "bounds": {
+          "x": 72,
+          "y": 67,
+          "width": 1056,
+          "height": 666
+        },
+        "boundsMethod": "alpha > 5"
+      }
+    },
+    {
+      "id": "home",
+      "title": "Техника для дома",
+      "url": "https://online-samsung.ru/catalog/bytovaja-tehnika/in-stock",
+      "httpStatus": 200,
+      "clientPageTitle": "Бытовая техника Samsung в наличии",
+      "representativeSku": "wd18db8995bzld",
+      "canonicalUrl": "https://online-samsung.ru/catalog/bytovaja-tehnika",
+      "image": {
+        "file": "assets/products/samsung-washer/1.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Samsung Bespoke AI — ракурс 1",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-06/WD18DB8995BZLD_1.png",
+        "alpha": true,
+        "bounds": {
+          "x": 358,
+          "y": 19,
+          "width": 484,
+          "height": 762
+        },
+        "boundsMethod": "alpha > 5"
+      }
+    },
+    {
+      "id": "tablets",
+      "title": "Планшеты",
+      "url": "https://online-samsung.ru/catalog/planshety",
+      "httpStatus": 200,
+      "clientPageTitle": "Планшеты Samsung Galaxy",
+      "representativeSku": "sm-x946bzaecau",
+      "canonicalUrl": "https://online-samsung.ru/catalog/planshety",
+      "image": {
+        "file": "assets/products/galaxy-tab-ultra/1.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Galaxy Tab S12 Ultra — ракурс 1",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-09/SM-X946BZAECAU_1_0.png",
+        "sourceGalleryIndex": 15,
+        "alpha": true,
+        "bounds": {
+          "x": 87,
+          "y": 51,
+          "width": 1025,
+          "height": 699
+        },
+        "boundsMethod": "alpha > 5"
+      }
+    },
+    {
+      "id": "watches",
+      "title": "Часы",
+      "url": "https://online-samsung.ru/catalog/smart-chasy",
+      "httpStatus": 200,
+      "clientPageTitle": "Смарт-часы Samsung",
+      "representativeSku": "sm-l715fzkacau",
+      "canonicalUrl": "https://online-samsung.ru/catalog/smart-chasy",
+      "image": {
+        "file": "assets/homepage-products/sm-l715fzkacau.webp",
+        "width": 1200,
+        "height": 800,
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-07/SM-L715FZKACAU_13.png",
+        "sourceGalleryIndex": 13,
+        "alpha": true,
+        "bounds": {
+          "x": 303,
+          "y": 55,
+          "width": 601,
+          "height": 691
+        },
+        "boundsMethod": "alpha > 5"
+      }
+    },
+    {
+      "id": "headphones",
+      "title": "Наушники",
+      "url": "https://online-samsung.ru/catalog/naushniki",
+      "httpStatus": 200,
+      "clientPageTitle": "Наушники",
+      "representativeSku": "sm-r640nzkacis",
+      "canonicalUrl": "https://online-samsung.ru/catalog/naushniki",
+      "image": {
+        "file": "assets/products/galaxy-buds4-pro/1.webp",
+        "width": 1200,
+        "height": 1200,
+        "alt": "Galaxy Buds4 Pro — ракурс 1",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-03/SM-R640NZKACIS_7.png",
+        "sourceGalleryIndex": 6,
+        "alpha": false,
+        "bounds": {
+          "x": 247,
+          "y": 117,
+          "width": 706,
+          "height": 1037
+        },
+        "boundsMethod": "difference from white > 15"
+      }
+    },
+    {
+      "id": "accessories",
+      "title": "Аксессуары",
+      "url": "https://online-samsung.ru/catalog/aksessuary/dlya_ustroystv",
+      "httpStatus": 200,
+      "clientPageTitle": "Аксессуары для устройств Samsung",
+      "representativeSku": "ef-ks948ssegru",
+      "canonicalUrl": "https://online-samsung.ru/catalog/aksessuary/dlya_ustroystv",
+      "image": {
+        "file": "assets/products/galaxy-case/1.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Samsung Carbon Magnet Case — ракурс 1",
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-06/EF-KS948SSEGRU_1.png",
+        "alpha": true,
+        "bounds": {
+          "x": 417,
+          "y": 26,
+          "width": 366,
+          "height": 748
+        },
+        "boundsMethod": "alpha > 5"
+      }
+    },
+    {
+      "id": "refrigerators",
+      "title": "Холодильники",
+      "url": "https://online-samsung.ru/catalog/tehnika-dlja-kuhni/holodilniki/in-stock",
+      "httpStatus": 200,
+      "clientPageTitle": "Холодильники Samsung в наличии",
+      "representativeSku": "rf65db970012wr",
+      "canonicalUrl": "https://online-samsung.ru/catalog/tehnika-dlja-kuhni/holodilniki",
+      "image": {
+        "file": "assets/homepage-products/rf65db970012wr.webp",
+        "width": 1920,
+        "height": 1280,
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-03/RF65DB970012WR_2.png",
+        "sourceGalleryIndex": 2,
+        "alpha": true,
+        "bounds": {
+          "x": 652,
+          "y": 20,
+          "width": 616,
+          "height": 1240
+        },
+        "boundsMethod": "alpha > 5"
+      }
+    },
+    {
+      "id": "vacuums",
+      "title": "Пылесосы",
+      "url": "https://online-samsung.ru/catalog/bytovaja-tehnika/pylesosy/in-stock",
+      "httpStatus": 200,
+      "clientPageTitle": "Пылесосы Samsung в наличии",
+      "representativeSku": "vs15a6031r5ev",
+      "canonicalUrl": "https://online-samsung.ru/catalog/bytovaja-tehnika/pylesosy",
+      "image": {
+        "file": "assets/homepage-products/vs15a6031r5ev.webp",
+        "width": 1200,
+        "height": 800,
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2025-06/Samsung-90435607-ru-vc-hand-stick-vs6700-vs15a6031r5-ev-458286035Download-Source%2520%25281%2529-min.png",
+        "sourceGalleryIndex": 2,
+        "alpha": true,
+        "bounds": {
+          "x": 508,
+          "y": 13,
+          "width": 184,
+          "height": 775
+        },
+        "boundsMethod": "alpha > 5"
+      }
+    }
+  ],
+  "articles": [],
+  "integration": {
+    "cmsEvidence": "Drupal drupalSettings + use-ajax response commands; commerce_product and commerce_cart libraries visible in public HTML.",
+    "publicAjaxEndpoints": [
+      "https://online-samsung.ru/spm/new/128",
+      "https://online-samsung.ru/spm/new/130",
+      "https://online-samsung.ru/spm/new/131",
+      "https://online-samsung.ru/spm/new/129",
+      "https://online-samsung.ru/spm/hits/all",
+      "https://online-samsung.ru/spm/hits/128",
+      "https://online-samsung.ru/spm/hits/130",
+      "https://online-samsung.ru/spm/hits/131",
+      "https://online-samsung.ru/spm/hits/129"
+    ],
+    "rssUrl": null,
+    "notes": [
+      "These endpoints return presentation commands and HTML, not a documented product JSON API."
+    ],
+    "corsObservation": {
+      "testedUrl": "https://online-samsung.ru/spm/new/128",
+      "testedOrigin": "https://moriarty32.github.io",
+      "accessControlAllowOrigin": null,
+      "contentType": "application/json"
+    },
+    "recommendedImport": "Fetch and parse the public source on a build job or server, then publish a local snapshot JSON. Do not depend on cross-origin browser fetch from GitHub Pages: the sampled AJAX response does not advertise Access-Control-Allow-Origin.",
+    "productSelectors": {
+      "title": "h1",
+      "settings": "script[type=\"application/json\"] (Drupal settings), mindboxData.sku and mindboxData.price",
+      "oldPrice": ".good-page__price-old",
+      "variant": ".good-page__header-characteristics",
+      "galleryLinks": ".product-gallery__nav a[href]",
+      "specRows": ".spec-level2 .item-tit and .item-value"
+    },
+    "blogSelectors": {
+      "listUrl": "https://online-samsung.ru/station",
+      "card": "article.catalog-news__item",
+      "url": "a.catalog-news__item-link[href]",
+      "title": "h3 (fallback: link title attribute)",
+      "date": "time.catalog-news__item-date[datetime]",
+      "image": ".catalog-news__item-img img[src]",
+      "ordering": "Sort explicit ISO dates descending, deduplicate article URL, take six.",
+      "excludeFeatured": ".banner-news__item duplicates some catalog-news entries."
+    }
+  },
+  "capturedAt": "2026-11-09T12:49:56.679172+00:00",
+  "source": "https://online-samsung.ru/",
+  "collections": {
+    "new": {
+      "mobile": [
+        "sm-f976bzvbcau",
+        "sm-f971blvbcau",
+        "sm-x946bzaicau"
+      ],
+      "tv": [
+        "qe85ls03hwuxpy",
+        "ue50m1ehauxpy",
+        "mre85r85hauxpy"
+      ],
+      "home": [
+        "rf65db970012wr",
+        "ww11cb944cghlp",
+        "vs90f40dfgev"
+      ],
+      "accessories": [
+        "sm-l715fzkacau",
+        "sm-l355fzsacau",
+        "sm-l345fzeacau"
+      ]
+    },
+    "hits": {
+      "all": [
+        "sm-f976bzkccau",
+        "ue75m80hauxpy",
+        "ww11cgp44csblp",
+        "sm-l505fzwacau"
+      ],
+      "mobile": [
+        "sm-f976bzkccau",
+        "sm-s948bzkccau",
+        "sm-s947bzvbcau"
+      ],
+      "tv": [
+        "ue75m80hauxpy",
+        "qe55s85haexpy",
+        "qe43ls03heuxpy"
+      ],
+      "home": [
+        "ww11cgp44csblp",
+        "ww11cg604clblp",
+        "vs15a6031r5ev"
+      ],
+      "accessories": [
+        "sm-l505fzwacau",
+        "sm-r540nzwacis",
+        "ep-t4511xbegeu"
+      ]
+    },
+    "daily": [
+      "sm-x946bzaecau",
+      "sm-a185fzsncau",
+      "sm-l715fzkacau"
+    ]
+  },
+  "blog": {
+    "sourceUrl": "https://online-samsung.ru/station",
+    "articles": [
+      {
+        "title": "Функции One UI 9, которые стоит опробовать на вашем Samsung Galaxy",
+        "url": "https://online-samsung.ru/station/layfkhaki-i-prochee/funkcii-one-ui-9-kotorye-stoit-oprobovat-na-vashem-samsung-galaxy",
+        "date": "2026-11-06T16:34:18+03:00",
+        "sourceUrl": "https://online-samsung.ru/station/layfkhaki-i-prochee/funkcii-one-ui-9-kotorye-stoit-oprobovat-na-vashem-samsung-galaxy",
+        "image": {
+          "file": "assets/homepage-products/blog-1.webp",
+          "width": 390,
+          "height": 260,
+          "bounds": [
+            0,
+            0,
+            390,
+            260
+          ],
+          "alpha": false,
+          "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-11/result_oneui_10_enhanced_usability_pc_570x448_ru.png"
+        }
+      },
+      {
+        "title": "Galaxy Tab S12 Ultra и S12 plus: обзор новинок Samsung",
+        "url": "https://online-samsung.ru/station/planshety/galaxy-tab-s12-ultra-i-s12-plus-obzor-novinok-samsung",
+        "date": "2026-09-30T19:29:29+03:00",
+        "sourceUrl": "https://online-samsung.ru/station/planshety/galaxy-tab-s12-ultra-i-s12-plus-obzor-novinok-samsung",
+        "image": {
+          "file": "assets/homepage-products/blog-2.webp",
+          "width": 390,
+          "height": 260,
+          "bounds": [
+            0,
+            0,
+            390,
+            260
+          ],
+          "alpha": false,
+          "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-09/result_ru-feature-galaxy-tab-s-554966922.webp"
+        }
+      },
+      {
+        "title": "Samsung Galaxy A18 — обзор, характеристики, отличия от A17",
+        "url": "https://online-samsung.ru/station/smartfony/samsung-galaxy-a18-obzor-kharakteristiki-otlichiya-ot-a17",
+        "date": "2026-09-22T00:17:17+03:00",
+        "sourceUrl": "https://online-samsung.ru/station/smartfony/samsung-galaxy-a18-obzor-kharakteristiki-otlichiya-ot-a17",
+        "image": {
+          "file": "assets/homepage-products/blog-3.webp",
+          "width": 390,
+          "height": 260,
+          "bounds": [
+            0,
+            0,
+            390,
+            260
+          ],
+          "alpha": false,
+          "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-09/result_ru-feature-comfortably-slim-styled-to-stand-out-554554206.png"
+        }
+      },
+      {
+        "title": "Samsung Galaxy S26 FE: характеристики, отличия от S25 FE и дата начала продаж",
+        "url": "https://online-samsung.ru/station/smartfony/samsung-galaxy-s26-fe-kharakteristiki-otlichiya-ot-s25-fe-i-data-nachala-prodazh",
+        "date": "2026-08-29T00:40:20+03:00",
+        "sourceUrl": "https://online-samsung.ru/station/smartfony/samsung-galaxy-s26-fe-kharakteristiki-otlichiya-ot-s25-fe-i-data-nachala-prodazh",
+        "image": {
+          "file": "assets/homepage-products/blog-4.webp",
+          "width": 390,
+          "height": 260,
+          "bounds": [
+            0,
+            0,
+            390,
+            260
+          ],
+          "alpha": false,
+          "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-08/result_ru-feature--nbsp--554296760.png"
+        }
+      },
+      {
+        "title": "Samsung Galaxy Z Fold8, Fold8 Ultra и Flip8: новая линейка складных смартфонов",
+        "url": "https://online-samsung.ru/station/smartfony/samsung-galaxy-z-fold8-fold8-ultra-i-flip8-novaya-lineyka-skladnykh-smartfonov",
+        "date": "2026-08-25T21:51:22+03:00",
+        "sourceUrl": "https://online-samsung.ru/station/smartfony/samsung-galaxy-z-fold8-fold8-ultra-i-flip8-novaya-lineyka-skladnykh-smartfonov",
+        "image": {
+          "file": "assets/homepage-products/blog-5.webp",
+          "width": 390,
+          "height": 260,
+          "bounds": [
+            0,
+            0,
+            390,
+            260
+          ],
+          "alpha": false,
+          "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-08/result_410-kv-family-galaxy-zfold8-lavender-galaxy-zfold8-ultra-violetshadow-galaxy-zflip8-pink-510x370%20%283%29%20%281%29_1.png"
+        }
+      },
+      {
+        "title": "Обзор Galaxy Z Fold8: обновленный формат складного смартфона от Samsung",
+        "url": "https://online-samsung.ru/station/smartfony/obzor-galaxy-z-fold8-obnovlennyy-format-skladnogo-smartfona-ot-samsung",
+        "date": "2026-08-07T19:51:27+03:00",
+        "sourceUrl": "https://online-samsung.ru/station/smartfony/obzor-galaxy-z-fold8-obnovlennyy-format-skladnogo-smartfona-ot-samsung",
+        "image": {
+          "file": "assets/homepage-products/blog-6.webp",
+          "width": 390,
+          "height": 260,
+          "bounds": [
+            0,
+            0,
+            390,
+            260
+          ],
+          "alpha": false,
+          "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-08/result_videoframe_3633.png"
+        }
+      }
+    ],
+    "feedUrl": null,
+    "cms": "Drupal (version not asserted)",
+    "latestSelectionBasis": "Six newest publication dates among the 94 article cards exposed in /station HTML on capture date.",
+    "notes": [
+      "No RSS or Atom discovery link is present on /station. No documented article JSON API was identified in the inspected HTML.",
+      "Article date is the explicit time[datetime] publication date displayed on the blog index, not a date inferred from filenames."
+    ],
+    "suggestedEvergreen": [
+      {
+        "title": "Как техника Bespoke AI превращает бытовые задачи в искусство комфорта",
+        "url": "https://online-samsung.ru/station/bytovaya-tekhnika/kak-tekhnika-bespoke-ai-prevraschaet-bytovye-zadachi-v-iskusstvo-komforta",
+        "date": "2025-08-08T21:18:34+03:00",
+        "imageUrl": "https://online-samsung.ru/sites/default/files/2025-08/result_BESPOKE_AI_highlight_info_Thumb728.jpg"
+      },
+      {
+        "title": "Smart Switch от Samsung: Полное руководство по переносу данных",
+        "url": "https://online-samsung.ru/station/layfkhaki-i-prochee/smart-switch-ot-samsung-polnoe-rukovodstvo-po-perenosu-dannykh",
+        "date": "2026-05-28T18:47:58+03:00",
+        "imageUrl": "https://online-samsung.ru/sites/default/files/2026-05/result_1200x630wa.png"
+      },
+      {
+        "title": "Как выбрать телевизор Samsung: полное руководство для идеального выбора",
+        "url": "https://online-samsung.ru/station/televizory/kak-vybrat-televizor-samsung-polnoe-rukovodstvo-dlya-idealnogo-vybora",
+        "date": "2025-03-12T00:54:14+03:00",
+        "imageUrl": "https://online-samsung.ru/sites/default/files/2025-03/2019-tv-buying-guide-all-about-tv-home-f00-pc%20%283%29.png"
+      }
+    ]
+  },
+  "notes": [
+    "Selected31 verified products form compact snapshots of actual tab contents. Products with empty clientSections are category/catalog selections only; they are not asserted to appear in client new/hits/day blocks.",
+    "The source daily carousel contains17 cards. The redesign selection uses the first3; the full source list is retained in sections[id=daily].products.",
+    "Prices and old prices are source observations at capture time. No generated discount amounts, artificial scarcity, countdown, or offer end dates.",
+    "Two source products have an explicit display-sample label embedded in their first gallery image; see conditionNote.",
+    "All downloaded product files are unchanged official product angles converted to WebP, preserving proportions and complete source canvas. No generation, object removal, recoloring or promotional-poster imagery.",
+    "Bounds identify the visible product within the original source canvas. They are metadata only; no crop was applied."
+  ]
+}

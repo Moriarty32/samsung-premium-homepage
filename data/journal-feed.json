@@ -1,0 +1,83 @@
+{
+  "sourceUrl": "https://online-samsung.ru/station",
+  "capturedAt": "2026-11-09T13:02:42.752Z",
+  "selection": "Six newest dated catalog-news articles; featured duplicates excluded.",
+  "articles": [
+    {
+      "title": "Функции One UI 9, которые стоит опробовать на вашем Samsung Galaxy",
+      "url": "https://online-samsung.ru/station/layfkhaki-i-prochee/funkcii-one-ui-9-kotorye-stoit-oprobovat-na-vashem-samsung-galaxy",
+      "date": "2026-11-06T16:34:18+03:00",
+      "sourceUrl": "https://online-samsung.ru/station/layfkhaki-i-prochee/funkcii-one-ui-9-kotorye-stoit-oprobovat-na-vashem-samsung-galaxy",
+      "image": {
+        "file": "assets/home-editorial/journal-interface.webp",
+        "width": 1536,
+        "height": 1024,
+        "alt": "Смартфон Galaxy и интерфейсные формы — рекламная иллюстрация"
+      }
+    },
+    {
+      "title": "Galaxy Tab S12 Ultra и S12 plus: обзор новинок Samsung",
+      "url": "https://online-samsung.ru/station/planshety/galaxy-tab-s12-ultra-i-s12-plus-obzor-novinok-samsung",
+      "date": "2026-09-30T19:29:29+03:00",
+      "sourceUrl": "https://online-samsung.ru/station/planshety/galaxy-tab-s12-ultra-i-s12-plus-obzor-novinok-samsung",
+      "image": {
+        "file": "assets/home-editorial/journal-tablet.webp",
+        "width": 1536,
+        "height": 1024,
+        "alt": "Планшет Galaxy Tab и S Pen на светлом столе — рекламная иллюстрация"
+      }
+    },
+    {
+      "title": "Samsung Galaxy A18 — обзор, характеристики, отличия от A17",
+      "url": "https://online-samsung.ru/station/smartfony/samsung-galaxy-a18-obzor-kharakteristiki-otlichiya-ot-a17",
+      "date": "2026-09-22T00:17:17+03:00",
+      "sourceUrl": "https://online-samsung.ru/station/smartfony/samsung-galaxy-a18-obzor-kharakteristiki-otlichiya-ot-a17",
+      "image": {
+        "file": "assets/journal-feed/e9e889f1ab0d55.png",
+        "width": 390,
+        "height": 260,
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-09/result_ru-feature-comfortably-slim-styled-to-stand-out-554554206.png",
+        "alt": "Samsung Galaxy A18 — обзор, характеристики, отличия от A17"
+      }
+    },
+    {
+      "title": "Samsung Galaxy S26 FE: характеристики, отличия от S25 FE и дата начала продаж",
+      "url": "https://online-samsung.ru/station/smartfony/samsung-galaxy-s26-fe-kharakteristiki-otlichiya-ot-s25-fe-i-data-nachala-prodazh",
+      "date": "2026-08-29T00:40:20+03:00",
+      "sourceUrl": "https://online-samsung.ru/station/smartfony/samsung-galaxy-s26-fe-kharakteristiki-otlichiya-ot-s25-fe-i-data-nachala-prodazh",
+      "image": {
+        "file": "assets/journal-feed/21abe8a3bba40c.png",
+        "width": 390,
+        "height": 260,
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-08/result_ru-feature--nbsp--554296760.png",
+        "alt": "Samsung Galaxy S26 FE: характеристики, отличия от S25 FE и дата начала продаж"
+      }
+    },
+    {
+      "title": "Samsung Galaxy Z Fold8, Fold8 Ultra и Flip8: новая линейка складных смартфонов",
+      "url": "https://online-samsung.ru/station/smartfony/samsung-galaxy-z-fold8-fold8-ultra-i-flip8-novaya-lineyka-skladnykh-smartfonov",
+      "date": "2026-08-25T21:51:22+03:00",
+      "sourceUrl": "https://online-samsung.ru/station/smartfony/samsung-galaxy-z-fold8-fold8-ultra-i-flip8-novaya-lineyka-skladnykh-smartfonov",
+      "image": {
+        "file": "assets/journal-feed/e9d1591363b09e.png",
+        "width": 390,
+        "height": 260,
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-08/result_410-kv-family-galaxy-zfold8-lavender-galaxy-zfold8-ultra-violetshadow-galaxy-zflip8-pink-510x370%20%283%29%20%281%29_1.png",
+        "alt": "Samsung Galaxy Z Fold8, Fold8 Ultra и Flip8: новая линейка складных смартфонов"
+      }
+    },
+    {
+      "title": "Обзор Galaxy Z Fold8: обновленный формат складного смартфона от Samsung",
+      "url": "https://online-samsung.ru/station/smartfony/obzor-galaxy-z-fold8-obnovlennyy-format-skladnogo-smartfona-ot-samsung",
+      "date": "2026-08-07T19:51:27+03:00",
+      "sourceUrl": "https://online-samsung.ru/station/smartfony/obzor-galaxy-z-fold8-obnovlennyy-format-skladnogo-smartfona-ot-samsung",
+      "image": {
+        "file": "assets/journal-feed/bcc77333368cd9.png",
+        "width": 390,
+        "height": 260,
+        "sourceUrl": "https://online-samsung.ru/sites/default/files/2026-08/result_videoframe_3633.png",
+        "alt": "Обзор Galaxy Z Fold8: обновленный формат складного смартфона от Samsung"
+      }
+    }
+  ]
+}

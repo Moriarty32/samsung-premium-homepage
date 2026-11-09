@@ -1,0 +1,51 @@
+{
+  "version": "20261109-merch-2",
+  "collections": {
+    "new": {
+      "title": "Новинки",
+      "eyebrow": "Новое в мире Samsung"
+    },
+    "hits": {
+      "title": "Хиты продаж",
+      "eyebrow": "Выбор покупателей"
+    }
+  },
+  "journal": {
+    "latestCount": 2,
+    "pinned": [
+      {
+        "title": "Как выбрать телевизор для вашего дома",
+        "url": "https://online-samsung.ru/station/televizory/kak-vybrat-televizor-samsung-polnoe-rukovodstvo-dlya-idealnogo-vybora",
+        "category": "Гид · Телевизоры",
+        "image": {
+          "file": "assets/home-editorial/journal-television.webp",
+          "width": 1536,
+          "height": 1024,
+          "alt": "Телевизор в современном интерьере — рекламная иллюстрация"
+        }
+      }
+    ],
+    "overrides": {
+      "https://online-samsung.ru/station/layfkhaki-i-prochee/funkcii-one-ui-9-kotorye-stoit-oprobovat-na-vashem-samsung-galaxy": {
+        "title": "One UI 9: что стоит попробовать на вашем Galaxy",
+        "category": "Возможности · Galaxy",
+        "image": {
+          "file": "assets/home-editorial/journal-interface.webp",
+          "width": 1536,
+          "height": 1024,
+          "alt": "Смартфон Galaxy и интерфейсные формы — рекламная иллюстрация"
+        }
+      },
+      "https://online-samsung.ru/station/planshety/galaxy-tab-s12-ultra-i-s12-plus-obzor-novinok-samsung": {
+        "title": "Galaxy Tab S12 Ultra и S12+: обзор новинок",
+        "category": "Обзор · Планшеты",
+        "image": {
+          "file": "assets/home-editorial/journal-tablet.webp",
+          "width": 1536,
+          "height": 1024,
+          "alt": "Планшет Galaxy Tab и S Pen на светлом столе — рекламная иллюстрация"
+        }
+      }
+    }
+  }
+}

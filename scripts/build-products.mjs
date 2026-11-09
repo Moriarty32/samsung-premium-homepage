@@ -17,7 +17,7 @@ for (const source of Object.values(sources)) {
   ])
     for (const g of gallery || []) g.bounds = imageLayout[g.file]?.bounds;
 }
-const version = "20261109-products-1";
+const version = "20261109-merch-2";
 const esc = (s) =>
   String(s ?? "").replace(
     /[&<>"']/g,
@@ -548,9 +548,6 @@ home = home.replace(
   /(commerce\.css|commerce\.js)\?v=[^"\s]+/g,
   `$1?v=${version}`,
 );
-home = home
-  .replace(/34[ \u00a0\u202f]990/g, "36 990")
-  .replace(/18[ \u00a0\u202f]990/g, "19 990");
 write("index.html", home);
 const header = home
   .match(/<header\b[\s\S]*?<\/header>/)[0]
@@ -727,7 +724,7 @@ function productPage(p) {
    .join("")}</div></nav>
  <section id="overview" class="p-overview"><div class="shell p-stat-row reveal">${stats.map((s) => `<div><strong>${esc(s.value)}</strong><span>${esc(s.label)}</span></div>`).join("")}</div><div class="p-story ${p.scene ? "" : "p-story-contained"} ${p.group === "home" ? "p-story-home" : ""}">${scene}<div class="shell p-story-inner"><div class="p-story-copy reveal"><h2>${p.story.map(esc).join("<br/>")}</h2><p>${esc(p.storyText)}</p></div></div></div><div class="shell p-features-wrap"><h2 class="p-section-title reveal">${esc(p.featureTitle)}</h2><div class="p-features">${featureHtml}</div></div></section>
  <section class="shell p-details-section" id="specifications"><h2 class="p-section-title reveal">Всё важное — в деталях.</h2><div class="p-details-grid"><div class="p-details-image reveal">${img(gallery[p.detail % gallery.length])}</div><div class="reveal">${shortSpecRows(p.selected)}<details class="p-full-specs"><summary class="button p-button-outline">Все характеристики <span aria-hidden="true">+</span></summary>${shortSpecRows(p.specs.filter((x) => !/^Декларация|\(диапазон\)/.test(x.label)))}</details><p class="p-source-note">Характеристики версии <span data-spec-sku>${esc(p.sku)}</span>. ${out(p.sourceUrl, "Данные магазина ↗", "p-source-link")}</p></div></div></section>
- <section class="shell p-package-section" id="package"><h2 class="p-section-title reveal">Комплектация и документы</h2><div class="p-package-grid reveal"><div>${icon("box")}<div><h3>Комплектация выбранной версии</h3>${packageItems.length ? `<p>${packageItems.map(esc).join(" · ")}</p>` : "<p>Актуальный состав подтвердит магазин.</p>"}${out(p.sourceUrl, 'Уточнить состав <span aria-hidden="true">↗</span>', "p-underlink")}</div></div><div>${icon("doc")}<div><h3>${p.group==="accessories"?"Совместимость и уход":"Руководство пользователя"}</h3><p>${p.group==="accessories"?"Информация об аксессуаре и совместимости.":"Документы для модели "+esc(p.sku)+"."}</p>${out(p.group === "accessories" ? "https://online-samsung.ru/product/" + p.sku.toLowerCase() : "https://www.samsung.com/ru/support/model/" + p.sku + "/", (p.group==="accessories"?'Подробнее об аксессуаре <span aria-hidden="true">↗</span>':'Найти руководство <span aria-hidden="true">↗</span>'), "p-underlink")}</div></div></div><div class="p-service-grid reveal">${serviceCard}<a href="https://online-samsung.ru/service" target="_blank" rel="noopener" class="p-service-card">${icon("shield")}<div><h3>Забота о вашем устройстве</h3><p>Сервисное обслуживание<br/>и поддержка.</p><span class="p-underlink">Гарантия и сервис ↗</span></div><svg class="icon p-service-symbol" aria-hidden="true"><use href="#i-shield"/></svg></a></div></section>
+ <section class="shell p-package-section" id="package"><h2 class="p-section-title reveal">Комплектация и документы</h2><div class="p-package-grid reveal"><div>${icon("box")}<div><h3>Комплектация выбранной версии</h3>${packageItems.length ? `<p>${packageItems.map(esc).join(" · ")}</p>` : "<p>Актуальный состав подтвердит магазин.</p>"}${out(p.sourceUrl, 'Уточнить состав <span aria-hidden="true">↗</span>', "p-underlink")}</div></div><div>${icon("doc")}<div><h3>${p.group === "accessories" ? "Совместимость и уход" : "Руководство пользователя"}</h3><p>${p.group === "accessories" ? "Информация об аксессуаре и совместимости." : "Документы для модели " + esc(p.sku) + "."}</p>${out(p.group === "accessories" ? "https://online-samsung.ru/product/" + p.sku.toLowerCase() : "https://www.samsung.com/ru/support/model/" + p.sku + "/", p.group === "accessories" ? 'Подробнее об аксессуаре <span aria-hidden="true">↗</span>' : 'Найти руководство <span aria-hidden="true">↗</span>', "p-underlink")}</div></div></div><div class="p-service-grid reveal">${serviceCard}<a href="https://online-samsung.ru/service" target="_blank" rel="noopener" class="p-service-card">${icon("shield")}<div><h3>Забота о вашем устройстве</h3><p>Сервисное обслуживание<br/>и поддержка.</p><span class="p-underlink">Гарантия и сервис ↗</span></div><svg class="icon p-service-symbol" aria-hidden="true"><use href="#i-shield"/></svg></a></div></section>
  <section class="shell p-accessories-section" id="accessories"><h2 class="p-section-title reveal">${p.group === "home" ? "Дополните пространство дома." : p.group === "accessories" ? "Продолжите знакомство с Galaxy." : "Дополните свой " + p.family + "."}</h2><div class="p-related-grid reveal">${p.related
    .filter((s) => bySlug[s])
    .map((s) => card(bySlug[s]))

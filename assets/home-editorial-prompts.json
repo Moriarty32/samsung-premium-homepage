@@ -1,0 +1,20 @@
+{
+  "created": "2026-11-09",
+  "tool": "built-in imagegen",
+  "jobs": [
+    {
+      "key": "journal-interface",
+      "reference": "D:\\Проекты\\samsung\\assets\\products\\galaxy-s26-ultra\\1.webp",
+      "prompt": "Use case: ads-marketing. Asset: premium editorial cover for an article about a Samsung Galaxy software update, landscape 3:2 1536x1024. Reference image shows the exact violet Samsung Galaxy smartphone industrial design. Create a NEW photoreal editorial photograph: one phone in front view, gently propped at an elegant angle on a seamless matte cool-gray desk, its thin violet metal edge, slim even bezels and centered tiny punch-hole camera accurate to reference. The display shows a very quiet abstract silver and muted lavender geometric interface wallpaper, absolutely no legible UI, no numbers, no invented screenshots or app logos. Beside the phone, a few softly out-of-focus translucent frosted glass rectangles suggest interface layers, minimalist and physically plausible, restrained. No S Pen needed. Phone is the main hero and fully inside frame with generous 10% margins on all sides, slightly right of center. Fine studio softbox reflections, exquisite material realism. Palette white, cool silver gray, graphite, subtle lavender only on the phone screen and frame. No beige, no warm wood, no saturated cyan, no blue glow. No text, no logo overlay, no border, no watermark. Designed to crop safely to 16:10 without cutting the device.",
+      "generatedSource": "C:\\Users\\Bogomazov\\.codex\\generated_images\\01a1b140-d7cd-73f1-a2df-2cf8f2d82b84\\exec-71ddcdd4-500b-4ee6-9904-d83314eaeca4.png",
+      "destination": "assets/home-editorial/journal-interface.webp"
+    },
+    {
+      "key": "journal-tablet",
+      "reference": "D:\\Проекты\\samsung\\assets\\products\\galaxy-tab-ultra\\1.webp",
+      "prompt": "Use case: ads-marketing. Asset: editorial blog cover for Galaxy Tab Ultra tablet review, landscape 3:2 1536x1024. Use the reference gray Samsung tablet as the exact device design guide, preserve its slim landscape frame, small centered top camera notch and white stylus shape. NEW photoreal studio photograph: one large gray tablet in landscape orientation resting at a graceful slight angle on a minimal discreet graphite folio stand on a pristine cool white desk, white S Pen lying neatly on desk beside it. Display shows sophisticated silver and subdued lavender abstract folded-paper shapes, no bright rainbow, no text or fake interface. Quiet premium architectural studio, matte cool-gray wall, one subtle soft shadow, a softly out-of-focus silver desk lamp corner is optional but no clutter. Full tablet and stylus fully inside frame with at least 10% generous margins, no cropped corners, no perspective distortion. Real metal reflections, exquisite screen glass and meticulous thin frame. Neutral white, light-gray and graphite palette, purple only as a muted screen detail. No beige, no wood, no teal, no blue glow, no text, no graphics, no logo overlay, no borders. Safe to crop slightly to 16:10 while preserving all devices.",
+      "generatedSource": "C:\\Users\\Bogomazov\\.codex\\generated_images\\01a1b140-d7cd-73f1-a2df-2cf8f2d82b84\\exec-d538a56a-a0bb-44e3-aee0-c99e9993d4e9.png",
+      "destination": "assets/home-editorial/journal-tablet.webp"
+    }
+  ]
+}
