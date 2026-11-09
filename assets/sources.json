@@ -120,6 +120,26 @@
     "client-logo.svg": {
       "kind": "client-logo",
       "source": "Online Samsung; unchanged from backup commit 9c2c73d"
+    },
+    "hero-television.webp": {
+      "kind": "generated-category-illustration",
+      "tool": "built-in imagegen",
+      "original": "exec-11029ae3-ae1f-47ec-b515-0720e0b0139f.png",
+      "prompt": "Use case: product-mockup. Asset type: high-end television ecommerce hero isolated product render, landscape 3:2 canvas, ideally 2048 x 1360 pixels, truly transparent alpha background. One exquisite generic modern flagship flat-screen television, exceptionally thin graphite aluminium bezel, accurate flat rectangular 16:9 screen, two elegant slim dark aluminium feet, believable contemporary industrial design. Almost frontal three-quarter camera view with only a very subtle perspective, whole TV and both feet completely visible, 8 percent breathing room around product. Large screen shows a refined abstract flowing silk light pattern in midnight blue, muted sapphire and silver-white with deep black negative areas, restrained vividness, no neon, no purple, no pink. Exceptional photographic studio quality, crisp metal edges, realistic restrained glass reflections, soft tiny contact shadows directly under feet, no floor plane, premium product advertising. The screen takes up most of image width, harmonious silhouette. No wall, no living room, no furniture, no people, no props, no visible text or logos, no watermark, no captions, no badges, no decorative glow rings. This is an illustrative category television, do not imply any exact marketed model.",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGBA",
+      "bytes": 174168,
+      "sha256": "4d288184c58c8f5b796f30cca3e1551eb769e190c602b295b1f7c151e00f25e2"
+    },
+    "product-washer.webp": {
+      "kind": "restored-generated-category-illustration",
+      "source": "Exact asset restored from commit 9c2c73d at user request; previous graphite washer illustration.",
+      "width": 900,
+      "height": 1125,
+      "mode": "RGBA",
+      "bytes": 90470,
+      "sha256": "29a6e32e96de3509501171902c0087d5f129837d64a52c598ccbca83eba58a1a"
     }
   }
 }

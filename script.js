@@ -201,3 +201,159 @@ reduceMotion.addEventListener("change", (event) => {
     });
   }
 });
+// Category carousel: automatic playback yields to focus, hover and user preference.
+const categoryHero = document.querySelector(".hero-carousel");
+if (categoryHero) {
+  const slides = [...categoryHero.querySelectorAll(".hero-slide")];
+  const tabs = [...categoryHero.querySelectorAll(".hero-tab")];
+  const pause = document.getElementById("hero-pause");
+  const status = document.getElementById("hero-status");
+  const currentLabel = document.getElementById("hero-current");
+  const hoverDevice = window.matchMedia("(hover: hover)");
+  let active = 0;
+  let paused = false;
+  let inView = true;
+  let timer;
+  let selectionSerial = 0;
+  let pointerStart = null;
+  const interval = 9000;
+  function stopTimer() {
+    window.clearTimeout(timer);
+    timer = undefined;
+  }
+  function syncTimer() {
+    stopTimer();
+    pause.hidden = reduceMotion.matches;
+    const blocked =
+      paused ||
+      reduceMotion.matches ||
+      !inView ||
+      document.hidden ||
+      comparisonDialog.open ||
+      categoryHero.contains(document.activeElement) ||
+      (hoverDevice.matches && categoryHero.matches(":hover"));
+    if (!blocked)
+      timer = window.setTimeout(() => selectSlide(active + 1), interval);
+  }
+  async function selectSlide(index, manual = false) {
+    const ticket = ++selectionSerial;
+    const next = (index + slides.length) % slides.length;
+    stopTimer();
+    const image = slides[next].querySelector("img");
+    image.loading = "eager";
+    if (!image.complete || !image.naturalWidth)
+      await image.decode().catch(() => {});
+    if (ticket !== selectionSerial) return;
+    const previousFocused = slides[active].contains(document.activeElement);
+    active = next;
+    slides.forEach((slide, i) => {
+      const selected = i === active;
+      slide.classList.toggle("is-active", selected);
+      slide.setAttribute("aria-hidden", String(!selected));
+      slide.inert = !selected;
+      tabs[i].classList.toggle("is-active", selected);
+      tabs[i].setAttribute("aria-selected", String(selected));
+      tabs[i].tabIndex = selected ? 0 : -1;
+    });
+    categoryHero.dataset.theme = slides[active].dataset.theme;
+    currentLabel.textContent = String(active + 1).padStart(2, "0");
+    if (manual)
+      status.textContent =
+        tabs[active].textContent.replace(/^\s*0\d\s*/, "").trim() +
+        ". Слайд " +
+        (active + 1) +
+        " из " +
+        slides.length +
+        ".";
+    if (previousFocused) tabs[active].focus({ preventScroll: true });
+    syncTimer();
+  }
+  tabs.forEach((tab, i) => {
+    tab.addEventListener("click", () => selectSlide(i, true));
+    tab.addEventListener("keydown", (event) => {
+      let next;
+      if (event.key === "ArrowRight") next = (i + 1) % tabs.length;
+      else if (event.key === "ArrowLeft")
+        next = (i - 1 + tabs.length) % tabs.length;
+      else if (event.key === "Home") next = 0;
+      else if (event.key === "End") next = tabs.length - 1;
+      else return;
+      event.preventDefault();
+      tabs[next].focus({ preventScroll: true });
+      selectSlide(next, true);
+    });
+  });
+  document
+    .getElementById("hero-prev")
+    .addEventListener("click", () => selectSlide(active - 1, true));
+  document
+    .getElementById("hero-next")
+    .addEventListener("click", () => selectSlide(active + 1, true));
+  pause.addEventListener("click", () => {
+    paused = !paused;
+    pause.setAttribute("aria-pressed", String(paused));
+    pause.setAttribute(
+      "aria-label",
+      paused ? "Продолжить смену слайдов" : "Приостановить смену слайдов",
+    );
+    pause.firstElementChild.textContent = paused ? "▶" : "Ⅱ";
+    syncTimer();
+  });
+  categoryHero.addEventListener("pointerenter", (event) => {
+    if (event.pointerType !== "touch") stopTimer();
+  });
+  categoryHero.addEventListener("pointerleave", syncTimer);
+  categoryHero.addEventListener("focusin", stopTimer);
+  categoryHero.addEventListener("focusout", () =>
+    window.setTimeout(syncTimer, 0),
+  );
+  categoryHero.addEventListener(
+    "pointerdown",
+    (event) => {
+      if (
+        event.pointerType !== "touch" ||
+        event.target.closest("a,button,input")
+      )
+        return;
+      pointerStart = { x: event.clientX, y: event.clientY };
+    },
+    { passive: true },
+  );
+  categoryHero.addEventListener(
+    "pointerup",
+    (event) => {
+      if (!pointerStart || event.pointerType !== "touch") return;
+      const dx = event.clientX - pointerStart.x;
+      const dy = event.clientY - pointerStart.y;
+      pointerStart = null;
+      if (Math.abs(dx) > 48 && Math.abs(dx) > Math.abs(dy) * 1.4)
+        selectSlide(active + (dx < 0 ? 1 : -1), true);
+    },
+    { passive: true },
+  );
+  categoryHero.addEventListener(
+    "pointercancel",
+    () => {
+      pointerStart = null;
+    },
+    { passive: true },
+  );
+  document.addEventListener("visibilitychange", syncTimer);
+  reduceMotion.addEventListener("change", syncTimer);
+  comparisonDialog.addEventListener("close", syncTimer);
+  comparisonDialog.addEventListener("toggle", syncTimer);
+  if ("IntersectionObserver" in window)
+    new IntersectionObserver(
+      ([entry]) => {
+        inView = entry.isIntersecting;
+        syncTimer();
+      },
+      { threshold: 0.15 },
+    ).observe(categoryHero);
+  categoryHero.dataset.ready = "true";
+  // Fetch secondary scenes at low priority so a manual transition has no empty frame.
+  slides.slice(1).forEach((slide) => {
+    slide.querySelector("img").loading = "eager";
+  });
+  syncTimer();
+}

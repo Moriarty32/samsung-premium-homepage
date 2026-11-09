@@ -25,7 +25,7 @@
       crossorigin
     />
     <link rel="preload" as="image" href="assets/catalog-phone.webp" />
-    <link rel="stylesheet" href="design.css?v=20261109-premium-6" />
+    <link rel="stylesheet" href="design.css?v=20261109-category-slider-7" />
   </head>
   <body>
     <a class="skip-link" href="#main">Перейти к содержимому</a>
@@ -243,48 +243,233 @@
     </header>
 
     <main id="main">
-      <section class="hero" aria-labelledby="hero-title">
-        <div class="hero-grid shell">
-          <div class="hero-copy">
-            <p class="eyebrow light">Galaxy AI · S Pen</p>
-            <h1 id="hero-title">Galaxy S26 Ultra</h1>
-            <p class="hero-subtitle">
-              Камера для ваших историй. <br />S Pen — для ваших идей.
-            </p>
-            <div class="button-row">
-              <a
-                class="button button-light"
-                href="https://online-samsung.ru/product/sm-s948bzvbcau"
-                target="_blank"
-                rel="noopener"
-                >Выбрать Galaxy <span aria-hidden="true">↗</span></a
-              ><button
-                class="button button-outline-light"
-                data-open-comparison
-                type="button"
-              >
-                Сравнить модели
-              </button>
-            </div>
-            <p class="hero-note">Galaxy S26 Ultra · 256 ГБ · Фиолетовый</p>
-          </div>
-          <div class="hero-art">
-            <div class="hero-halo" aria-hidden="true"></div>
-            <img
-              src="assets/catalog-phone.webp"
-              width="1200"
-              height="800"
-              alt="Galaxy S26 Ultra в фиолетовом цвете со встроенным S Pen — точный рендер устройства"
-              fetchpriority="high"
-            />
-          </div>
-        </div>
-        <div class="hero-bottom shell">
-          <span>Технологии, которые становятся частью жизни</span
-          ><a href="#categories" aria-label="Перейти к категориям"
-            >Откройте больше <span aria-hidden="true">↓</span></a
+      <section
+        class="hero hero-carousel"
+        data-theme="dark"
+        aria-label="Смартфоны, телевизоры и техника для дома"
+        aria-roledescription="карусель"
+      >
+        <div class="hero-slides">
+          <article
+            class="hero-slide hero-slide--phone is-active"
+            id="hero-slide-phone"
+            role="tabpanel"
+            aria-labelledby="hero-tab-phone"
+            aria-hidden="false"
+            data-theme="dark"
           >
+            <div class="hero-grid shell">
+              <div class="hero-copy">
+                <p class="eyebrow light">Смартфоны Galaxy</p>
+                <h1 id="hero-title">Galaxy S26 Ultra</h1>
+                <p class="hero-subtitle">
+                  Камера для ваших историй. <br />S Pen — для ваших идей.
+                </p>
+                <div class="button-row">
+                  <a
+                    class="button button-light"
+                    href="https://online-samsung.ru/product/sm-s948bzvbcau"
+                    target="_blank"
+                    rel="noopener"
+                    >Выбрать Galaxy <span aria-hidden="true">↗</span></a
+                  ><button
+                    class="button button-outline-light"
+                    data-open-comparison
+                    type="button"
+                  >
+                    Сравнить
+                  </button>
+                </div>
+                <p class="hero-note">Galaxy S26 Ultra · 256 ГБ · Фиолетовый</p>
+              </div>
+              <div class="hero-art">
+                <div class="hero-halo" aria-hidden="true"></div>
+                <img
+                  src="assets/catalog-phone.webp"
+                  width="1200"
+                  height="800"
+                  alt="Фиолетовый Galaxy S26 Ultra и электронное перо S Pen"
+                  fetchpriority="high"
+                />
+              </div>
+            </div>
+          </article>
+          <article
+            class="hero-slide hero-slide--tv"
+            id="hero-slide-tv"
+            role="tabpanel"
+            aria-labelledby="hero-tab-tv"
+            aria-hidden="true"
+            data-theme="dark"
+            inert
+          >
+            <div class="hero-grid shell">
+              <div class="hero-copy">
+                <p class="eyebrow light">Телевизоры Samsung</p>
+                <h2>Кино начинается <br />у вас дома</h2>
+                <p class="hero-subtitle">
+                  Для любимых фильмов. <br />И больших впечатлений.
+                </p>
+                <div class="button-row">
+                  <a
+                    class="button button-light"
+                    href="https://online-samsung.ru/catalog/televizory/in-stock"
+                    target="_blank"
+                    rel="noopener"
+                    >Выбрать ТВ <span aria-hidden="true">↗</span></a
+                  ><a
+                    class="button button-outline-light"
+                    href="https://online-samsung.ru/station/televizory/kak-vybrat-televizor-samsung-polnoe-rukovodstvo-dlya-idealnogo-vybora"
+                    target="_blank"
+                    rel="noopener"
+                    >Как выбрать <span aria-hidden="true">↗</span></a
+                  >
+                </div>
+                <p class="hero-note">Тонкий дизайн · Большой экран</p>
+              </div>
+              <div class="hero-art television-stage">
+                <div class="hero-halo" aria-hidden="true"></div>
+                <img
+                  src="assets/hero-television.webp"
+                  width="1536"
+                  height="1024"
+                  alt="Телевизор с тонкой графитовой рамкой и синим абстрактным изображением — рекламная иллюстрация категории"
+                  loading="lazy"
+                  fetchpriority="low"
+                />
+              </div>
+            </div>
+          </article>
+          <article
+            class="hero-slide hero-slide--home"
+            id="hero-slide-home"
+            role="tabpanel"
+            aria-labelledby="hero-tab-home"
+            aria-hidden="true"
+            data-theme="light"
+            inert
+          >
+            <div class="hero-grid shell">
+              <div class="hero-copy">
+                <p class="eyebrow">Техника для дома</p>
+                <h2>Комфорт дома. <br />Каждый день.</h2>
+                <p class="hero-subtitle">
+                  Техника, которая бережёт <br />ваше время и любимые вещи.
+                </p>
+                <div class="button-row">
+                  <a
+                    class="button button-dark"
+                    href="https://online-samsung.ru/catalog/bytovaya-tehnika/in-stock"
+                    target="_blank"
+                    rel="noopener"
+                    >Выбрать технику <span aria-hidden="true">↗</span></a
+                  ><a class="button button-outline-dark" href="#services"
+                    >О сервисе <span aria-hidden="true">→</span></a
+                  >
+                </div>
+                <p class="hero-note">Для заботы о доме и самых близких</p>
+              </div>
+              <div class="hero-art home-stage">
+                <img
+                  src="assets/product-washer.webp"
+                  width="900"
+                  height="1125"
+                  alt="Графитовая стиральная машина с большим фронтальным люком — рекламная иллюстрация категории"
+                  loading="lazy"
+                  fetchpriority="low"
+                />
+              </div>
+            </div>
+          </article>
         </div>
+        <div class="hero-toolbar shell">
+          <div
+            class="hero-tabs"
+            role="tablist"
+            aria-label="Категории на первом экране"
+          >
+            <button
+              id="hero-tab-phone"
+              class="hero-tab is-active"
+              type="button"
+              role="tab"
+              aria-selected="true"
+              aria-controls="hero-slide-phone"
+              tabindex="0"
+            >
+              <span class="hero-tab-index" aria-hidden="true">01</span>
+              Смартфоны<span
+                class="hero-tab-line"
+                aria-hidden="true"
+              ></span></button
+            ><button
+              id="hero-tab-tv"
+              class="hero-tab"
+              type="button"
+              role="tab"
+              aria-selected="false"
+              aria-controls="hero-slide-tv"
+              tabindex="-1"
+            >
+              <span class="hero-tab-index" aria-hidden="true">02</span>
+              Телевизоры<span
+                class="hero-tab-line"
+                aria-hidden="true"
+              ></span></button
+            ><button
+              id="hero-tab-home"
+              class="hero-tab"
+              type="button"
+              role="tab"
+              aria-selected="false"
+              aria-controls="hero-slide-home"
+              tabindex="-1"
+            >
+              <span class="hero-tab-index" aria-hidden="true">03</span> Для
+              дома<span class="hero-tab-line" aria-hidden="true"></span>
+            </button>
+          </div>
+          <div class="hero-count" aria-hidden="true">
+            <span id="hero-current">01</span><span>/ 03</span>
+          </div>
+          <div
+            class="hero-navigation"
+            role="group"
+            aria-label="Управление слайдером"
+          >
+            <button
+              class="hero-control"
+              id="hero-prev"
+              type="button"
+              aria-label="Предыдущий слайд"
+            >
+              <span aria-hidden="true">←</span></button
+            ><button
+              class="hero-control"
+              id="hero-next"
+              type="button"
+              aria-label="Следующий слайд"
+            >
+              <span aria-hidden="true">→</span></button
+            ><button
+              class="hero-control hero-pause"
+              id="hero-pause"
+              type="button"
+              aria-label="Приостановить смену слайдов"
+              aria-pressed="false"
+            >
+              <span aria-hidden="true">Ⅱ</span>
+            </button>
+          </div>
+        </div>
+        <p
+          class="sr-only"
+          id="hero-status"
+          aria-live="polite"
+          aria-atomic="true"
+        >
+          Смартфоны. Слайд 1 из 3.
+        </p>
       </section>
 
       <section
@@ -349,11 +534,12 @@
             </div>
             <div class="category-media">
               <img
-                src="assets/washer-authentic.webp"
-                width="1200"
-                height="800"
-                alt="Стиральная машина Samsung Bespoke"
+                src="assets/product-washer.webp"
+                width="900"
+                height="1125"
+                alt="Графитовая стиральная машина с фронтальной загрузкой"
                 loading="lazy"
+                fetchpriority="low"
               />
             </div>
             <span class="category-caption">Забота в каждой детали</span></a
@@ -1071,8 +1257,8 @@
         <p>
           Демонстрационная страница. Цены приведены для макета; актуальные
           конфигурации, стоимость и условия покупки — в магазине Online Samsung.
-          Интерьер, композиция экосистемы и обложка обзора — рекламные
-          иллюстрации.
+          Интерьер, композиция экосистемы, обложка обзора и изображения
+          категорий — рекламные иллюстрации.
         </p>
       </div>
     </footer>
@@ -1210,6 +1396,6 @@
         <path d="m8 12 2.7 2.7L16 9" />
       </symbol>
     </svg>
-    <script src="script.js?v=20261109-premium-6" defer></script>
+    <script src="script.js?v=20261109-category-slider-7" defer></script>
   </body>
 </html>
