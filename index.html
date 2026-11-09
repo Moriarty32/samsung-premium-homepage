@@ -24,15 +24,15 @@
       type="font/woff"
       crossorigin
     />
-    <link rel="preload" as="image" href="assets/catalog-phone.webp" />
+    <link rel="preload" as="image" href="assets/hero-galaxy-pair.webp" />
     <link
       rel="preload"
       as="image"
-      href="assets/hero-background-galaxy.webp"
-      imagesrcset="assets/hero-background-galaxy-small.webp 960w, assets/hero-background-galaxy.webp 1942w"
-      imagesizes="100vw"
+      href="assets/hero-neutral-graphite.webp"
+      imagesrcset="assets/hero-neutral-graphite-small.webp 960w, assets/hero-neutral-graphite.webp 1920w"
+      imagesizes="(min-width: 1600px) 1440px, 92vw"
     />
-    <link rel="stylesheet" href="design.css?v=20261109-cinematic-8" />
+    <link rel="stylesheet" href="design.css?v=20261109-neutral-9" />
   </head>
   <body>
     <a class="skip-link" href="#main">Перейти к содержимому</a>
@@ -267,37 +267,48 @@
           >
             <div class="hero-backdrop" aria-hidden="true">
               <img
-                src="assets/hero-background-galaxy.webp"
+                src="assets/hero-neutral-graphite.webp"
                 srcset="
-                  assets/hero-background-galaxy-small.webp  960w,
-                  assets/hero-background-galaxy.webp       1942w
+                  assets/hero-neutral-graphite-small.webp  960w,
+                  assets/hero-neutral-graphite.webp       1920w
                 "
-                sizes="100vw"
-                width="1942"
-                height="809"
+                sizes="(min-width: 1600px) 1440px, 92vw"
+                width="1920"
+                height="819"
                 alt=""
                 fetchpriority="high"
               />
             </div>
-            <div class="hero-content-wrap shell">
+            <div class="hero-content-wrap">
               <div class="hero-message">
-                <h1 id="hero-title">Galaxy S26<br />Ultra</h1>
-                <div class="hero-action">
+                <p class="hero-kicker">GALAXY AI · S PEN</p>
+                <h1 id="hero-title">Galaxy S26 Ultra</h1>
+                <p class="hero-description">
+                  Камера для ваших историй.<br />S Pen — для ваших идей.
+                </p>
+                <div class="hero-actions">
                   <a
                     class="hero-cta button button-light"
                     href="https://online-samsung.ru/product/sm-s948bzvbcau"
                     target="_blank"
                     rel="noopener"
                     >Выбрать Galaxy<span aria-hidden="true">↗</span></a
+                  ><button
+                    class="hero-cta hero-secondary button"
+                    data-open-comparison
+                    type="button"
                   >
+                    Сравнить модели
+                  </button>
                 </div>
+                <p class="hero-meta">Galaxy S26 Ultra · 256 ГБ · Фиолетовый</p>
               </div>
               <div class="hero-product">
                 <img
-                  src="assets/catalog-phone.webp"
+                  src="assets/hero-galaxy-pair.webp"
                   width="1200"
                   height="800"
-                  alt="Фиолетовый Galaxy S26 Ultra и S Pen"
+                  alt="Galaxy S26 Ultra: фиолетовый корпус, экран и S Pen"
                   fetchpriority="high"
                 />
               </div>
@@ -314,38 +325,49 @@
           >
             <div class="hero-backdrop" aria-hidden="true">
               <img
-                src="assets/hero-background-cinema.webp"
+                src="assets/hero-neutral-cinema.webp"
                 srcset="
-                  assets/hero-background-cinema-small.webp  960w,
-                  assets/hero-background-cinema.webp       1942w
+                  assets/hero-neutral-cinema-small.webp  960w,
+                  assets/hero-neutral-cinema.webp       1920w
                 "
-                sizes="100vw"
-                width="1942"
-                height="809"
+                sizes="(min-width: 1600px) 1440px, 92vw"
+                width="1920"
+                height="819"
                 alt=""
                 loading="lazy"
                 fetchpriority="low"
               />
             </div>
-            <div class="hero-content-wrap shell">
+            <div class="hero-content-wrap">
               <div class="hero-message">
-                <h2>Ваш личный<br />кинотеатр</h2>
-                <div class="hero-action">
+                <p class="hero-kicker">ТЕЛЕВИЗОРЫ SAMSUNG</p>
+                <h2>Кино начинается<br />у вас дома</h2>
+                <p class="hero-description">
+                  Любимые фильмы и игры.<br />Впечатления в каждой детали.
+                </p>
+                <div class="hero-actions">
                   <a
                     class="hero-cta button button-light"
                     href="https://online-samsung.ru/catalog/televizory/in-stock"
                     target="_blank"
                     rel="noopener"
                     >Выбрать ТВ<span aria-hidden="true">↗</span></a
+                  ><a
+                    class="hero-cta hero-secondary button"
+                    href="https://online-samsung.ru/station/televizory/kak-vybrat-televizor-samsung-polnoe-rukovodstvo-dlya-idealnogo-vybora"
+                    target="_blank"
+                    rel="noopener"
+                    >Как выбрать</a
                   >
                 </div>
+                <p class="hero-meta">Большой экран · Тонкий дизайн</p>
               </div>
               <div class="hero-product">
                 <img
-                  src="assets/hero-television.webp"
+                  src="assets/hero-tv-refined.webp"
                   width="1536"
                   height="1024"
-                  alt="Телевизор с тонкой графитовой рамкой — иллюстрация категории"
+                  alt="Телевизор с тонкой графитовой рамкой и серебристым изображением — иллюстрация категории"
                   loading="lazy"
                   fetchpriority="low"
                 />
@@ -363,38 +385,45 @@
           >
             <div class="hero-backdrop" aria-hidden="true">
               <img
-                src="assets/hero-background-home.webp"
+                src="assets/hero-neutral-silver.webp"
                 srcset="
-                  assets/hero-background-home-small.webp  960w,
-                  assets/hero-background-home.webp       1942w
+                  assets/hero-neutral-silver-small.webp  960w,
+                  assets/hero-neutral-silver.webp       1920w
                 "
-                sizes="100vw"
-                width="1942"
-                height="809"
+                sizes="(min-width: 1600px) 1440px, 92vw"
+                width="1920"
+                height="819"
                 alt=""
                 loading="lazy"
                 fetchpriority="low"
               />
             </div>
-            <div class="hero-content-wrap shell">
+            <div class="hero-content-wrap">
               <div class="hero-message">
-                <h2>Комфорт.<br />Каждый день.</h2>
-                <div class="hero-action">
+                <p class="hero-kicker">ТЕХНИКА ДЛЯ ДОМА</p>
+                <h2>Забота о вашем<br />доме</h2>
+                <p class="hero-description">
+                  Больше времени для себя.<br />Меньше повседневных забот.
+                </p>
+                <div class="hero-actions">
                   <a
                     class="hero-cta button button-dark"
                     href="https://online-samsung.ru/catalog/bytovaya-tehnika/in-stock"
                     target="_blank"
                     rel="noopener"
                     >Выбрать технику<span aria-hidden="true">↗</span></a
+                  ><a class="hero-cta hero-secondary button" href="#services"
+                    >О сервисе</a
                   >
                 </div>
+                <p class="hero-meta">Стиральные и сушильные машины</p>
               </div>
               <div class="hero-product">
                 <img
-                  src="assets/product-washer.webp"
-                  width="900"
-                  height="1125"
-                  alt="Графитовая стиральная машина — иллюстрация категории"
+                  src="assets/hero-washer-angle.webp"
+                  width="1200"
+                  height="800"
+                  alt="Графитовая стирально-сушильная машина Samsung в ракурсе три четверти"
                   loading="lazy"
                   fetchpriority="low"
                 />
@@ -1392,6 +1421,6 @@
         <path d="m8 12 2.7 2.7L16 9" />
       </symbol>
     </svg>
-    <script src="script.js?v=20261109-cinematic-8" defer></script>
+    <script src="script.js?v=20261109-neutral-9" defer></script>
   </body>
 </html>

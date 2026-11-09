@@ -212,6 +212,113 @@
       "bytes": 16900,
       "sha256": "41b76561085a3cb30c6140da952e784bc7dbce0a3b067c8a38e7424d6931946b",
       "export": "RGB WebP; smaller derivative resized proportionally for mobile; no generative changes during export."
+    },
+    "hero-neutral-graphite.webp": {
+      "kind": "generated-campaign-background",
+      "tool": "Built-in imagegen",
+      "prompt": "Use case: ads-marketing. Create a photoreal luxury electronics website campaign BACKGROUND PLATE ONLY. Panoramic wide horizontal 12:5 composition, ideally 2400 x 1000 pixels. Our exact brand palette is neutral charcoal #111214, graphite, cool silver grey and off-white. Absolutely no teal, no green, no blue lighting, no purple lighting, no gold, no beige, no pink. The product will be added separately in HTML, so do not draw ANY devices, text, letters, logos, people or decorative graphics. Studio architectural photography with impeccable material realism and subtle soft lighting, restrained monochrome campaign art direction. The LEFT 54 percent is a quiet nearly uniform matte deep charcoal #111214 surface with very little variation, reserved for large white title and buttons. Subtle scene detail exclusively on right. No glowing rings, no neon lines, no sci-fi effects, no busy marbling, no hard bright spot behind text. Real perspective and believable soft contact shadows. Scene: a precise dark product photography studio. On the far right, a single broad softly curved graphite satin-metal background surface, gently illuminated by a large cool-white softbox outside frame, creating a beautiful almost-black to silver-grey falloff, without a hard highlight. At bottom right a dark very low gently raised plinth with an elliptical front, its top at 82% canvas height, subtle rounded edge, matte anodized aluminium. Center of empty display area at 77% canvas width. Sophisticated cinematic tonal separation, calm black architecture, tactile light. Keep all foreground quiet; no giant abstract panels that dominate the eventual phone.",
+      "original": "C:\\Users\\Bogomazov\\.codex\\generated_images\\01a1b140-d7cd-73f1-a2df-2cf8f2d82b84\\exec-f45df6a7-e2e5-44e3-94c5-5832d14ab91f.png",
+      "width": 1920,
+      "height": 819,
+      "mode": "RGB",
+      "bytes": 27504,
+      "sha256": "c3228761d9ff16b8414c27213a26e2c582f89fb24ef019fc54a036a2301baae0",
+      "export": "RGB WebP; responsive derivative resized proportionally. No creative edits during export."
+    },
+    "hero-neutral-graphite-small.webp": {
+      "kind": "generated-campaign-background",
+      "tool": "Built-in imagegen",
+      "prompt": "Use case: ads-marketing. Create a photoreal luxury electronics website campaign BACKGROUND PLATE ONLY. Panoramic wide horizontal 12:5 composition, ideally 2400 x 1000 pixels. Our exact brand palette is neutral charcoal #111214, graphite, cool silver grey and off-white. Absolutely no teal, no green, no blue lighting, no purple lighting, no gold, no beige, no pink. The product will be added separately in HTML, so do not draw ANY devices, text, letters, logos, people or decorative graphics. Studio architectural photography with impeccable material realism and subtle soft lighting, restrained monochrome campaign art direction. The LEFT 54 percent is a quiet nearly uniform matte deep charcoal #111214 surface with very little variation, reserved for large white title and buttons. Subtle scene detail exclusively on right. No glowing rings, no neon lines, no sci-fi effects, no busy marbling, no hard bright spot behind text. Real perspective and believable soft contact shadows. Scene: a precise dark product photography studio. On the far right, a single broad softly curved graphite satin-metal background surface, gently illuminated by a large cool-white softbox outside frame, creating a beautiful almost-black to silver-grey falloff, without a hard highlight. At bottom right a dark very low gently raised plinth with an elliptical front, its top at 82% canvas height, subtle rounded edge, matte anodized aluminium. Center of empty display area at 77% canvas width. Sophisticated cinematic tonal separation, calm black architecture, tactile light. Keep all foreground quiet; no giant abstract panels that dominate the eventual phone.",
+      "original": "C:\\Users\\Bogomazov\\.codex\\generated_images\\01a1b140-d7cd-73f1-a2df-2cf8f2d82b84\\exec-f45df6a7-e2e5-44e3-94c5-5832d14ab91f.png",
+      "width": 960,
+      "height": 410,
+      "mode": "RGB",
+      "bytes": 6412,
+      "sha256": "31670ec7231cbce6cc68cb959cc30df98e439c33c534eb8056b23c0c227d08ed",
+      "export": "RGB WebP; responsive derivative resized proportionally. No creative edits during export."
+    },
+    "hero-neutral-cinema.webp": {
+      "kind": "generated-campaign-background",
+      "tool": "Built-in imagegen",
+      "prompt": "Use case: ads-marketing. Create a photoreal luxury electronics website campaign BACKGROUND PLATE ONLY. Panoramic wide horizontal 12:5 composition, ideally 2400 x 1000 pixels. Our exact brand palette is neutral charcoal #111214, graphite, cool silver grey and off-white. Absolutely no teal, no green, no blue lighting, no purple lighting, no gold, no beige, no pink. The product will be added separately in HTML, so do not draw ANY devices, text, letters, logos, people or decorative graphics. Studio architectural photography with impeccable material realism and subtle soft lighting, restrained monochrome campaign art direction. The LEFT 54 percent is a quiet nearly uniform matte deep charcoal #111214 surface with very little variation, reserved for large white title and buttons. Subtle scene detail exclusively on right. No glowing rings, no neon lines, no sci-fi effects, no busy marbling, no hard bright spot behind text. Real perspective and believable soft contact shadows. Scene: minimalist high-end home cinema interior, almost-black graphite plaster walls. On the RIGHT HALF only a low long monolithic charcoal stone media console, beautifully proportioned, top surface horizontal and perfectly level at 79% canvas height; it runs from 58% to 95% canvas width. It is EMPTY with a clean broad space above it where a wide television cutout will be added later. Subtle silver daylight from far upper right grazes the wall and console top. Empty TV display area spans 59%-94% width and 20%-78% height. Far right one dark sheer curtain at edge. Monochrome, architectural magazine quality, natural straight perspective, beautiful soft light, no furniture on left.",
+      "original": "C:\\Users\\Bogomazov\\.codex\\generated_images\\01a1b140-d7cd-73f1-a2df-2cf8f2d82b84\\exec-2eae88b4-2edc-49ce-a6b4-9002341b8471.png",
+      "width": 1920,
+      "height": 819,
+      "mode": "RGB",
+      "bytes": 50636,
+      "sha256": "2fcbc348ccc848fad73b44276f6dcfed39c7264089501f56d77de668cbca4767",
+      "export": "RGB WebP; responsive derivative resized proportionally. No creative edits during export."
+    },
+    "hero-neutral-cinema-small.webp": {
+      "kind": "generated-campaign-background",
+      "tool": "Built-in imagegen",
+      "prompt": "Use case: ads-marketing. Create a photoreal luxury electronics website campaign BACKGROUND PLATE ONLY. Panoramic wide horizontal 12:5 composition, ideally 2400 x 1000 pixels. Our exact brand palette is neutral charcoal #111214, graphite, cool silver grey and off-white. Absolutely no teal, no green, no blue lighting, no purple lighting, no gold, no beige, no pink. The product will be added separately in HTML, so do not draw ANY devices, text, letters, logos, people or decorative graphics. Studio architectural photography with impeccable material realism and subtle soft lighting, restrained monochrome campaign art direction. The LEFT 54 percent is a quiet nearly uniform matte deep charcoal #111214 surface with very little variation, reserved for large white title and buttons. Subtle scene detail exclusively on right. No glowing rings, no neon lines, no sci-fi effects, no busy marbling, no hard bright spot behind text. Real perspective and believable soft contact shadows. Scene: minimalist high-end home cinema interior, almost-black graphite plaster walls. On the RIGHT HALF only a low long monolithic charcoal stone media console, beautifully proportioned, top surface horizontal and perfectly level at 79% canvas height; it runs from 58% to 95% canvas width. It is EMPTY with a clean broad space above it where a wide television cutout will be added later. Subtle silver daylight from far upper right grazes the wall and console top. Empty TV display area spans 59%-94% width and 20%-78% height. Far right one dark sheer curtain at edge. Monochrome, architectural magazine quality, natural straight perspective, beautiful soft light, no furniture on left.",
+      "original": "C:\\Users\\Bogomazov\\.codex\\generated_images\\01a1b140-d7cd-73f1-a2df-2cf8f2d82b84\\exec-2eae88b4-2edc-49ce-a6b4-9002341b8471.png",
+      "width": 960,
+      "height": 410,
+      "mode": "RGB",
+      "bytes": 10064,
+      "sha256": "aa85e8e07440b8f708772ad99c5474086287a3067c3171769bc16391a29a74d3",
+      "export": "RGB WebP; responsive derivative resized proportionally. No creative edits during export."
+    },
+    "hero-neutral-silver.webp": {
+      "kind": "generated-campaign-background",
+      "tool": "Built-in imagegen edit",
+      "prompt": "EDIT this background plate only. Preserve the current panoramic canvas, exact neutral cool-grey palette, diffuse daylight, broad arched plaster architectural curve at the far right, clean limestone floor, and the very calm empty LEFT 54% for text. Remove the entire cabinet/counter at the far right, the towels, the metal bottle and all furniture/objects. Fill their former area naturally with uninterrupted pale-grey plaster wall and existing stone floor. The RIGHT HALF must become a completely EMPTY uncluttered premium product photography studio, with the arch at the right edge and subtle wall/floor depth. No appliances, no objects, no text, no logos, no hard stripes, no blue, no warm beige. Keep the same floor perspective and understated lighting. Photoreal, immaculate, restrained premium electronics campaign background.",
+      "original": "C:\\Users\\Bogomazov\\.codex\\generated_images\\01a1b140-d7cd-73f1-a2df-2cf8f2d82b84\\exec-bb61b5ae-1435-4a49-a9b8-82765a83d940.png",
+      "width": 1920,
+      "height": 819,
+      "mode": "RGB",
+      "bytes": 28102,
+      "sha256": "3b789fde9f1b30a4d70268c994c37b1d5639dc10823e26c4c2560f0ba12665b0",
+      "export": "RGB WebP; responsive derivative resized proportionally. No creative edits during export."
+    },
+    "hero-neutral-silver-small.webp": {
+      "kind": "generated-campaign-background",
+      "tool": "Built-in imagegen edit",
+      "prompt": "EDIT this background plate only. Preserve the current panoramic canvas, exact neutral cool-grey palette, diffuse daylight, broad arched plaster architectural curve at the far right, clean limestone floor, and the very calm empty LEFT 54% for text. Remove the entire cabinet/counter at the far right, the towels, the metal bottle and all furniture/objects. Fill their former area naturally with uninterrupted pale-grey plaster wall and existing stone floor. The RIGHT HALF must become a completely EMPTY uncluttered premium product photography studio, with the arch at the right edge and subtle wall/floor depth. No appliances, no objects, no text, no logos, no hard stripes, no blue, no warm beige. Keep the same floor perspective and understated lighting. Photoreal, immaculate, restrained premium electronics campaign background.",
+      "original": "C:\\Users\\Bogomazov\\.codex\\generated_images\\01a1b140-d7cd-73f1-a2df-2cf8f2d82b84\\exec-bb61b5ae-1435-4a49-a9b8-82765a83d940.png",
+      "width": 960,
+      "height": 410,
+      "mode": "RGB",
+      "bytes": 7842,
+      "sha256": "dae979fb3deecbf6ee7a4daac1a12b60aaecdd707691b2273fc95308819696b4",
+      "export": "RGB WebP; responsive derivative resized proportionally. No creative edits during export."
+    },
+    "hero-galaxy-pair.webp": {
+      "kind": "official-product",
+      "source": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BZVBCAU_10.png",
+      "width": 1200,
+      "height": 800,
+      "mode": "RGBA",
+      "bytes": 51888,
+      "sha256": "ae32db40e79cc0b00c3b664b785c718de48a476f3520647421bb7fb23325471a",
+      "alpha_bbox": [219, 45, 920, 756],
+      "export": "Original product geometry and RGBA retained; WebP export only."
+    },
+    "hero-washer-angle.webp": {
+      "kind": "official-product",
+      "source": "https://online-samsung.ru/sites/default/files/2026-06/WD18DB8995BZLD_2.png",
+      "width": 1200,
+      "height": 800,
+      "mode": "RGBA",
+      "bytes": 30860,
+      "sha256": "f1a764bde94fae7d3ab03e2b1e06150376994f4dba0d5c29e11715221ebfe26d",
+      "alpha_bbox": [330, 19, 870, 781],
+      "export": "Original product geometry and RGBA retained; WebP export only."
+    },
+    "hero-tv-refined.webp": {
+      "kind": "generated-category-illustration",
+      "tool": "Built-in imagegen edit",
+      "input": "assets/hero-television.webp",
+      "prompt": "Use case: ads-marketing. EDIT the reference product illustration into a polished high-end TV campaign cutout. Keep one ultra-thin widescreen television with two beautifully precise dark aluminium feet and a subtle three-quarter front perspective, almost frontal, with the right side only slightly farther away. Correct every edge so it is straight and immaculate. Preserve the wide rectangular screen proportions and generous viewing area. Refine the screen to show one elegant gently folded silver and graphite fabric-like abstract wave with restrained midnight blue confined to the screen; no bright cyan, no teal, no green, no violet, no colorful scenery. The device must feel photoreal and expensive with realistic brushed dark metal, minute subtle reflections, realistic screen glass and sharp micro-details. Feet should be low and credible, at exactly one ground plane. Whole TV including both feet fully inside the frame with 5% clear margins on all sides. Product fills about 90% of a 3:2 landscape canvas. TRANSPARENT BACKGROUND with clean smooth alpha, no grey or white background remnants, no black rectangle, no poster, no pedestal, no external glow, no dramatic cast shadow. Slight soft contact shadow just directly under the two feet may be semi-transparent, but no large ghost cloud. Do not add any lettering, logo, badges, specs or watermark. Retain plausible manufactured geometry and restrained neutral lighting from upper right.",
+      "original": "C:\\Users\\Bogomazov\\.codex\\generated_images\\01a1b140-d7cd-73f1-a2df-2cf8f2d82b84\\exec-bb7004d0-4c71-4abf-a435-7f010a75e974.png",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGBA",
+      "bytes": 224942,
+      "sha256": "f6c820962e3839016db1c0a9218d10744e920dcabc3a2aadc8f2d95526809d31",
+      "alpha_bbox": [0, 0, 1532, 1024]
     }
   }
 }

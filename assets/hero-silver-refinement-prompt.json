@@ -1,0 +1,6 @@
+{
+  "tool": "Built-in imagegen edit",
+  "prompt": "EDIT this background plate only. Preserve the current panoramic canvas, exact neutral cool-grey palette, diffuse daylight, broad arched plaster architectural curve at the far right, clean limestone floor, and the very calm empty LEFT 54% for text. Remove the entire cabinet/counter at the far right, the towels, the metal bottle and all furniture/objects. Fill their former area naturally with uninterrupted pale-grey plaster wall and existing stone floor. The RIGHT HALF must become a completely EMPTY uncluttered premium product photography studio, with the arch at the right edge and subtle wall/floor depth. No appliances, no objects, no text, no logos, no hard stripes, no blue, no warm beige. Keep the same floor perspective and understated lighting. Photoreal, immaculate, restrained premium electronics campaign background.",
+  "input": "C:\\Users\\Bogomazov\\.codex\\generated_images\\01a1b140-d7cd-73f1-a2df-2cf8f2d82b84\\exec-6da18b9c-7048-42f5-909b-e550c4de198e.png",
+  "transparent_background": false
+}
