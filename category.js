@@ -101,6 +101,8 @@
   const saveStored = (key, value) => {
     try {
       localStorage.setItem(key, JSON.stringify(value));
+      if (key === "samsung-demo-favorites-v1")
+        dispatchEvent(new Event("samsung:favorites-changed"));
       return true;
     } catch {
       announce("Браузер не разрешает сохранить выбор.");
@@ -161,6 +163,7 @@
     const p = new URLSearchParams(location.search),
       s = {
         stock: p.get("inStock") === "1",
+        favorites: p.get("favorites") === "1",
         q: p.get("q") || "",
         sort: p.get("sort") || "featured",
         min: minPrice,
@@ -232,10 +235,13 @@
       "max",
       "category",
       "inStock",
+      "favorites",
+      "compare",
       ...facets.map((f) => f.key),
     ])
       u.searchParams.delete(key);
     if (state.q) u.searchParams.set("q", state.q);
+    if (state.favorites) u.searchParams.set("favorites", "1");
     if (state.stock) u.searchParams.set("inStock", "1");
     if (state.sort !== "featured") u.searchParams.set("sort", state.sort);
     if (state.min !== minPrice) u.searchParams.set("min", String(state.min));
@@ -246,6 +252,7 @@
     history.replaceState(null, "", u);
   }
   function matches(p, skip) {
+    if (state.favorites && !favoriteSkus().includes(p.sku)) return false;
     if (state.stock && p.availability !== "in-stock") return false;
     if (p.price < state.min || p.price > state.max) return false;
     if (
@@ -332,6 +339,8 @@
           easing: "ease-out",
         });
     }
+    card.querySelector(".k-card-price").textContent = money(p.price);
+    card.querySelector(".k-card-version").textContent = p.variant;
     card.querySelector(".k-variant").textContent =
       p.variant + " · " + money(p.price);
     card.querySelector(".k-card-condition").textContent = p.conditionNote
@@ -399,7 +408,46 @@
         search.focus();
       });
   }
+  const originalHeading = $(".k-heading h1").textContent;
+  const originalIntro = $(".k-heading p").textContent;
+  const originalTitle = document.title;
+  const originalCrumb = $(".k-breadcrumb [aria-current]").textContent;
   function render(resetLimit = true, url = true) {
+    document.body.classList.toggle("a-favorites-view", !!state.favorites);
+    document.title = state.favorites
+      ? "Избранное — Online Samsung"
+      : originalTitle;
+    $(".k-breadcrumb [aria-current]").textContent = state.favorites
+      ? "Избранное"
+      : originalCrumb;
+    $(".k-heading h1").textContent = state.favorites
+      ? "Избранное"
+      : originalHeading;
+    $(".k-heading p").textContent = state.favorites
+      ? "Сохранённые устройства. Вернитесь к ним, когда будете готовы."
+      : originalIntro;
+    $(".k-empty h2").textContent = state.favorites
+      ? "Здесь будут ваши устройства."
+      : "Пока нет совпадений.";
+    $(".k-empty p").textContent = state.favorites
+      ? "Добавляйте модели с помощью сердечка. Если вы уже сохранили товары, проверьте выбранные фильтры."
+      : "Попробуйте изменить параметры или сбросить фильтры.";
+    let exit = $(".a-favorites-exit");
+    if (!exit) {
+      exit = document.createElement("a");
+      exit.className = "a-favorites-exit";
+      exit.href = "catalog.html";
+      exit.textContent = "Перейти в каталог →";
+      $(".k-empty").append(exit);
+    }
+    exit.hidden = !state.favorites;
+    $(".k-empty [data-reset-all]").hidden =
+      !!state.favorites &&
+      !Object.values(state.filters).some((v) => v.length) &&
+      !state.q &&
+      !state.stock &&
+      state.min === minPrice &&
+      state.max === maxPrice;
     if (resetLimit) limit = 15;
     const matching = products.filter((p) => matches(p)),
       pool = new Set(matching.map((p) => p.sku));
@@ -541,6 +589,7 @@
   function reset() {
     state = {
       stock: false,
+      favorites: state.favorites,
       q: "",
       sort: state.sort,
       min: minPrice,
@@ -622,7 +671,8 @@
         FAVORITES,
         active ? saved.filter((s) => s !== sku) : [...saved, sku],
       );
-      updateTools();
+      if (state.favorites) render(false);
+      else updateTools();
       announce(
         active ? "Товар удалён из избранного." : "Товар сохранён в избранном.",
       );
@@ -754,7 +804,10 @@
     updateTools();
   });
   addEventListener("storage", (e) => {
-    if (e.key === FAVORITES) updateTools();
+    if (e.key === FAVORITES || e.key === null) {
+      if (state.favorites) render(false);
+      else updateTools();
+    }
   });
   addEventListener("popstate", () => {
     readUrl();
@@ -764,6 +817,22 @@
     if (a.getAttribute("href") === categories[id].file)
       a.setAttribute("aria-current", "page");
   readUrl();
+  const requestedComparison = new URLSearchParams(location.search).get(
+    "compare",
+  );
+  if (bySku.has(requestedComparison)) {
+    const p = bySku.get(requestedComparison);
+    compared = compared.filter(
+      (s) => bySku.get(s).group === p.group && s !== p.sku,
+    );
+    if (compared.length >= 3) compared = compared.slice(0, 2);
+    compared.push(p.sku);
+    const model = models.find((m) => m.variants.includes(p.sku));
+    if (model) selected.set(model.id, p.sku);
+    saveStored(COMPARE, compared);
+    announce("Отметьте ещё одну модель для сравнения характеристик.");
+  }
   render(true, false);
+  if (requestedComparison) writeUrl();
   document.fonts?.ready.then(() => observeImages());
 })();

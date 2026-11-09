@@ -14,6 +14,8 @@
   const saveStored = (key, value) => {
     try {
       localStorage.setItem(key, JSON.stringify(value));
+      if (key === "samsung-demo-favorites-v1")
+        dispatchEvent(new Event("samsung:favorites-changed"));
       return true;
     } catch {
       return false;
@@ -257,6 +259,18 @@
       const colorChanged = v.colorKey !== selected.colorKey;
       selected = v;
       gallery = v.gallery;
+      const unavailable =
+        (v.availability || product.availability) === "out-of-stock";
+      $$("[data-add-cart]").forEach((b) => {
+        b.disabled = unavailable;
+        b.setAttribute("aria-disabled", String(unavailable));
+      });
+      $(".p-price-note").textContent = unavailable
+        ? "Нет в наличии · уточните поступление"
+        : "Цена выбранной версии";
+      $(".p-availability").textContent = unavailable
+        ? "Уточнить поступление"
+        : "Уточнить наличие";
       $$("[data-price]").forEach((n) => {
         n.textContent =
           format(v.price) + (n.closest(".p-bottom-purchase") ? "*" : "");
@@ -335,13 +349,21 @@
           : "Браузер не разрешает сохранить избранное.",
       );
     });
-    $("[data-product-compare]").addEventListener("click", () =>
-      openDialog(
-        product.group === "smartphones"
-          ? $("#comparison-dialog")
-          : $("#product-comparison-dialog"),
-      ),
-    );
+    $("[data-product-compare]").addEventListener("click", () => {
+      const routes = {
+        smartphones: "smartphones.html",
+        tv: "televisions.html",
+        home: "home-appliances.html",
+        tablets: "tablets.html",
+        watches: "watches.html",
+        audio: "headphones.html",
+        accessories: "accessories.html",
+      };
+      location.href =
+        (routes[product.group] || "catalog.html") +
+        "?compare=" +
+        encodeURIComponent(selected.sku);
+    });
     $$("[data-add-cart]").forEach((b) =>
       b.addEventListener("click", () =>
         window.SamsungCart?.add({
@@ -432,24 +454,38 @@
       endObserver.observe(bottom);
       endObserver.observe(footer);
       const anchors = $$(".p-section-nav a");
-      const sectionObserver = new IntersectionObserver(
-        (entries) => {
-          for (const entry of entries) {
-            if (!entry.isIntersecting) continue;
-            anchors.forEach((a) => {
-              const active = a.hash === "#" + entry.target.id;
-              a.classList.toggle("is-active", active);
-              if (active) a.setAttribute("aria-current", "location");
-              else a.removeAttribute("aria-current");
-            });
-          }
+      const sections = anchors.map((a) => $(a.hash)).filter(Boolean);
+      let scrollFrame;
+      const updateSection = () => {
+        scrollFrame = null;
+        const anchorOffset =
+          parseFloat(getComputedStyle(sections[0]).scrollMarginTop) +
+          parseFloat(
+            getComputedStyle(document.documentElement).scrollPaddingTop,
+          );
+        const edge = Math.max(
+          $(".p-section-nav").offsetHeight + 24,
+          anchorOffset + 3,
+        );
+        let current = sections[0]?.id;
+        for (const section of sections)
+          if (section.getBoundingClientRect().top <= edge) current = section.id;
+        anchors.forEach((a) => {
+          const active = a.hash === "#" + current;
+          a.classList.toggle("is-active", active);
+          if (active) a.setAttribute("aria-current", "location");
+          else a.removeAttribute("aria-current");
+        });
+      };
+      addEventListener(
+        "scroll",
+        () => {
+          if (!scrollFrame) scrollFrame = requestAnimationFrame(updateSection);
         },
-        { rootMargin: "-90px 0px -60% 0px", threshold: 0 },
+        { passive: true },
       );
-      anchors.forEach((a) => {
-        const section = $(a.hash);
-        if (section) sectionObserver.observe(section);
-      });
+      addEventListener("resize", updateSection);
+      updateSection();
     }
     const requested = new URLSearchParams(location.search).get("sku");
     selectVariant(variants.find((v) => v.sku === requested) || selected, true);

@@ -1,0 +1,66 @@
+{
+  "date": "2026-11-09",
+  "baseline": "2a418a0002e540571e94291b35d165b4e31bae41",
+  "version": "20261109-audit-1",
+  "browser": "Chromium / installed Google Chrome",
+  "pages": 21,
+  "layout": {
+    "layout": {
+      "states": 126,
+      "widths": [
+        320,
+        390,
+        768,
+        1024,
+        1440,
+        1920
+      ],
+      "issues": [],
+      "errors": []
+    },
+    "layout-followup": {
+      "states": 50,
+      "widths": [
+        320,
+        390,
+        768,
+        1440,
+        2560
+      ],
+      "issues": [],
+      "errors": []
+    }
+  },
+  "behavior": {
+    "behavior": {
+      "checks": 47,
+      "errors": []
+    },
+    "category-regression": {
+      "checks": 59,
+      "errors": []
+    },
+    "home-motion": {
+      "checks": 10
+    },
+    "category-motion": {
+      "checks": 10
+    },
+    "overlay-motion": {
+      "checks": 7
+    }
+  },
+  "integrity": {
+    "pages": 21,
+    "localResourcesAndLinks": 1600,
+    "idempotentOutputs": 23,
+    "backupFiles": 213,
+    "errors": [],
+    "backupTextComparison": "CRLF/LF normalized for text files; binary files compared byte for byte"
+  },
+  "rollback": {
+    "tag": "backup/before-site-audit-20261109",
+    "preview": "passed",
+    "archive": "D:/Проекты/samsung-backups/samsung-before-site-audit-20261109-2a418a0.zip"
+  }
+}

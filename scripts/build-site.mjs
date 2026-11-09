@@ -6,5 +6,6 @@ for (const script of [
   "scripts/build-products.mjs",
   "scripts/build-home.mjs",
   "scripts/build-categories.mjs",
+  "scripts/finalize-site.mjs",
 ])
   execFileSync(process.execPath, [script], { cwd: root, stdio: "inherit" });

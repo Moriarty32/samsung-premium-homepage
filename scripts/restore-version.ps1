@@ -1,6 +1,6 @@
 [CmdletBinding()]
 param(
-    [string]$RestoreRef = 'refs/tags/backup/before-category-filters-20261109',
+    [string]$RestoreRef = 'refs/tags/backup/before-site-audit-20261109',
     [switch]$Publish,
     [switch]$Preview
 )

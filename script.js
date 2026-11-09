@@ -10,7 +10,7 @@ const searchInput = document.getElementById("site-search");
 function closeMenu() {
   mobileNav.hidden = true;
   menuToggle.setAttribute("aria-expanded", "false");
-  menuToggle.setAttribute("aria-label", "Открыть меню");
+  menuToggle.setAttribute("aria-label", "Открыть каталог");
 }
 function closeSearch() {
   searchPanel.hidden = true;
@@ -24,14 +24,31 @@ menuToggle.addEventListener("click", () => {
   menuToggle.setAttribute("aria-expanded", String(opening));
   menuToggle.setAttribute(
     "aria-label",
-    opening ? "Закрыть меню" : "Открыть меню",
+    opening ? "Закрыть каталог" : "Открыть каталог",
   );
+  if (opening && !reduceMotion.matches)
+    mobileNav.animate(
+      [
+        { opacity: 0, transform: "translateY(-8px)" },
+        { opacity: 1, transform: "translateY(0)" },
+      ],
+      { duration: 280, easing: "cubic-bezier(.22,1,.36,1)" },
+    );
 });
 mobileNav
   .querySelectorAll("a")
   .forEach((link) => link.addEventListener("click", closeMenu));
-window.addEventListener("resize", () => {
-  if (window.innerWidth > 1080) closeMenu();
+document.addEventListener("pointerdown", (event) => {
+  if (!event.target.closest(".site-header")) {
+    closeMenu();
+    closeSearch();
+  }
+});
+document.addEventListener("focusin", (event) => {
+  if (!event.target.closest(".site-header")) {
+    closeMenu();
+    closeSearch();
+  }
 });
 searchToggle.addEventListener("click", () => {
   const opening = searchPanel.hidden;
@@ -42,7 +59,17 @@ searchToggle.addEventListener("click", () => {
     "aria-label",
     opening ? "Закрыть поиск" : "Открыть поиск по каталогу",
   );
-  if (opening) searchInput.focus();
+  if (opening) {
+    searchInput.focus();
+    if (!reduceMotion.matches)
+      searchPanel.animate(
+        [
+          { opacity: 0, transform: "translateY(-6px)" },
+          { opacity: 1, transform: "translateY(0)" },
+        ],
+        { duration: 240, easing: "ease-out" },
+      );
+  }
 });
 document.getElementById("search-close").addEventListener("click", () => {
   closeSearch();
@@ -234,7 +261,9 @@ if (categoryHero) {
       reduceMotion.matches ||
       !inView ||
       document.hidden ||
-      comparisonDialog.open ||
+      document.querySelector("dialog[open]") ||
+      !mobileNav.hidden ||
+      !searchPanel.hidden ||
       categoryHero.contains(document.activeElement) ||
       (hoverDevice.matches && categoryHero.querySelector(".hero-cta:hover"));
     categoryHero.dataset.playing = String(!blocked);
@@ -358,6 +387,16 @@ if (categoryHero) {
   hoverDevice.addEventListener("change", syncTimer);
   comparisonDialog.addEventListener("close", syncTimer);
   comparisonDialog.addEventListener("toggle", syncTimer);
+  new MutationObserver((records) => {
+    if (
+      records.some((r) => r.target.matches("dialog,#mobile-nav,#search-panel"))
+    )
+      syncTimer();
+  }).observe(document.body, {
+    subtree: true,
+    attributes: true,
+    attributeFilter: ["open", "hidden"],
+  });
   if ("IntersectionObserver" in window)
     new IntersectionObserver(
       ([entry]) => {

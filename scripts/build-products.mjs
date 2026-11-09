@@ -9,6 +9,14 @@ const read = (p) =>
 const write = (p, s) =>
   fs.writeFileSync(path.join(root, p), s.trimEnd() + "\n");
 const sources = JSON.parse(read("data/product-sources.json"));
+const stockFacts = JSON.parse(read("data/category-availability.json")).skuFacts;
+for (const source of Object.values(sources)) {
+  source.availability =
+    stockFacts[source.sku.toLowerCase()]?.status || "unknown";
+  for (const variant of source.variants || [])
+    variant.availability =
+      stockFacts[variant.sku.toLowerCase()]?.status || "unknown";
+}
 const imageLayout = JSON.parse(read("data/image-layout.json"));
 for (const source of Object.values(sources)) {
   for (const gallery of [
@@ -707,7 +715,7 @@ function productPage(p) {
  <section class="p-purchase" id="purchase" aria-label="Выбор и покупка ${esc(p.shortName)}">
  <div class="p-gallery"><a class="p-gallery-main" href="${gallery[0].file}" data-gallery-open aria-label="Увеличить фотографию ${esc(p.shortName)}">${img(gallery[0], "p-main-image", true)}<span class="p-zoom">${icon("search")}</span></a><div class="p-thumbnails" role="group" aria-label="Фотографии товара">${gallery.map((g, i) => button(img({ ...g, alt: "Ракурс " + (i + 1) }), `data-photo="${i}" aria-label="Показать ракурс ${i + 1}" aria-pressed="${i === 0}"`, "p-thumb" + (i === 0 ? " is-active" : ""))).join("")}</div><p class="p-gallery-counter" aria-live="polite"><span data-photo-current>1</span> / ${gallery.length}</p></div>
  <div class="p-configuration"><div class="p-tools">${button(icon("heart") + "<span>В избранное</span>", `data-favorite aria-pressed="false"`, "p-tool")}${button(icon("compare") + "<span>Сравнить</span>", `data-product-compare`, "p-tool")}</div>${variants(p)}${shortSpecRows(compact, "p-quick-specs")}${link("#specifications", 'Все характеристики <span aria-hidden="true">→</span>', "p-underlink")}</div>
- <aside class="p-buy-panel"><p class="p-buy-eyebrow">Ваш ${p.family}</p><p class="p-price"><span data-price>${money(p.price)}</span><sup>*</sup></p><p class="p-price-note">Цена выбранной версии</p>${button("Уточнить наличие", `data-consult="availability"`, "p-underlink p-availability")}<div class="p-buy-buttons">${button(icon("bag") + "В корзину", "data-add-cart")}${button("Купить в один клик", 'data-consult="buy"', "button p-button-outline")}</div><noscript><p>${out(p.sourceUrl, "Открыть в магазине ↗", "button button-dark")}</p></noscript><div class="p-payment-links">${out("https://online-samsung.ru/payment", icon("card") + "<span>Рассрочка <small>Условия ↗</small></span>", "p-buy-link")}${out("https://online-samsung.ru/payment", icon("card") + "<span>Способы оплаты <small>Подробнее ↗</small></span>", "p-buy-link")}</div><p class="p-delivery-heading">Получение · Москва</p>${out("https://online-samsung.ru/delivery", icon("truck") + "<span>Курьером <small>Рассчитать доставку ↗</small></span>", "p-buy-link")}${out("https://online-samsung.ru/shop", icon("box") + "<span>Самовывоз <small>Выбрать магазин ↗</small></span>", "p-buy-link")}${out("https://online-samsung.ru/service", 'Гарантия и сервис <span aria-hidden="true">↗</span>', "p-underlink p-warranty")}</aside>
+ <aside class="p-buy-panel"><p class="p-buy-eyebrow">Ваш ${p.family}</p><p class="p-price"><span data-price>${money(p.price)}</span><sup>*</sup></p><p class="p-price-note">${p.availability === "out-of-stock" ? "Нет в наличии · уточните поступление" : "Цена выбранной версии"}</p>${button("Уточнить наличие", `data-consult="availability"`, "p-underlink p-availability")}<div class="p-buy-buttons">${button(icon("bag") + "В корзину", "data-add-cart")}${button("Помощь с покупкой", 'data-consult="buy"', "button p-button-outline")}</div><noscript><p>${out(p.sourceUrl, "Открыть в магазине ↗", "button button-dark")}</p></noscript><div class="p-payment-links">${out("https://online-samsung.ru/payment", icon("card") + "<span>Рассрочка <small>Условия ↗</small></span>", "p-buy-link")}${out("https://online-samsung.ru/payment", icon("card") + "<span>Способы оплаты <small>Подробнее ↗</small></span>", "p-buy-link")}</div><p class="p-delivery-heading">Получение · Москва</p>${out("https://online-samsung.ru/delivery", icon("truck") + "<span>Курьером <small>Условия доставки ↗</small></span>", "p-buy-link")}${out("https://online-samsung.ru/shop", icon("box") + "<span>Самовывоз <small>Выбрать магазин ↗</small></span>", "p-buy-link")}${out("https://online-samsung.ru/service", 'Гарантия и сервис <span aria-hidden="true">↗</span>', "p-underlink p-warranty")}</aside>
  </section></div>
  <nav class="p-section-nav" aria-label="О товаре"><div class="shell">${[
    ["overview", "Обзор"],
@@ -736,16 +744,6 @@ function productPage(p) {
  <dialog class="p-zoom-dialog" id="photo-dialog" aria-label="Фотографии ${esc(p.shortName)}"><button class="p-dialog-close icon-button" type="button" data-close aria-label="Закрыть фотографию">×</button><button class="p-photo-arrow p-photo-prev icon-button" type="button" data-photo-prev aria-label="Предыдущая фотография">←</button><img src="${gallery[0].file}" width="${gallery[0].width}" height="${gallery[0].height}" alt="${esc(gallery[0].alt)}"/><button class="p-photo-arrow p-photo-next icon-button" type="button" data-photo-next aria-label="Следующая фотография">→</button><p class="p-zoom-caption" aria-live="polite"></p></dialog>
  <dialog class="p-dialog" id="consult-dialog" aria-labelledby="consult-title"><button class="p-dialog-close icon-button" type="button" data-close aria-label="Закрыть">×</button><p class="eyebrow">Персональная консультация</p><h2 id="consult-title">Ваш ${p.family}.<br/>Один шаг до покупки.</h2><div class="p-consult-product">${img(gallery[0])}<div><strong>${esc(p.shortName)}</strong><p data-consult-variant>${esc(p.variant)}</p><span data-price>${money(p.price)}</span></div></div><p>Консультант подтвердит наличие и поможет оформить заказ в магазине Online Samsung.</p><a class="button button-dark" href="tel:88007557525">${icon("phone")}8 800 755-7525</a>${out(p.sourceUrl, 'Перейти в магазин <span aria-hidden="true">↗</span>', "button p-button-outline p-store-link")}<p class="p-note">Заказ оформляется на сайте или по телефону магазина.</p></dialog>
  <dialog class="p-dialog" id="feedback-dialog" aria-labelledby="feedback-title"><button class="p-dialog-close icon-button" type="button" data-close aria-label="Закрыть">×</button><p class="eyebrow">Ваш опыт с ${p.family}</p><h2 id="feedback-title">Поделитесь впечатлениями.</h2><p>Черновик сохраняется на этом устройстве. Отправить отзыв или вопрос можно в магазин.</p><form id="feedback-form"><label for="feedback-name">Как к вам обращаться</label><input id="feedback-name" name="name" maxlength="60" required autocomplete="given-name"/><label for="feedback-message">Ваш отзыв</label><textarea id="feedback-message" name="message" rows="4" maxlength="2000" required></textarea><button class="button button-dark" type="submit">Сохранить черновик</button><p class="p-feedback-status" role="status"></p></form>${out(p.sourceUrl, "Открыть карточку в магазине ↗", "p-underlink")}</dialog>
- <dialog class="p-dialog p-product-comparison" id="product-comparison-dialog" aria-labelledby="product-compare-title"><button class="p-dialog-close icon-button" type="button" data-close aria-label="Закрыть сравнение">×</button><p class="eyebrow">Выбор в деталях</p><h2 id="product-compare-title">Сравните возможности.</h2><div class="p-compare-grid">${[
-   p,
-   ...p.related.map((s) => bySlug[s]).filter(Boolean),
- ]
-   .slice(0, 3)
-   .map(
-     (x) =>
-       `<div>${img(x.gallery[0])}<h3>${esc(x.shortName)}</h3><p>${esc(x.variant)}</p><strong>${money(x.price)}</strong>${shortSpecRows(x.selected.slice(0, 3))}${link(x.slug + ".html", "Подробнее →", "p-underlink")}</div>`,
-   )
-   .join("")}</div></dialog>
  <script type="application/json" id="product-data">${json({ ...p, selectedColor: color })}</script>`;
   return base(p.name, body, { p });
 }

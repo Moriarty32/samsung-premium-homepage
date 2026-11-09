@@ -13,7 +13,7 @@
                 /^[a-zA-Z0-9-]{3,40}$/.test(x.sku) &&
                 typeof x.name === "string" &&
                 typeof x.variant === "string" &&
-                /^assets\/(?:products\/[a-z0-9-]+\/[a-z0-9-]+|homepage-products\/[a-z0-9-]+)\.webp$/.test(
+                /^assets\/(?:products\/[a-z0-9-]+\/[a-z0-9-]+|(?:homepage-products|category-products)\/[a-z0-9-]+)\.webp$/.test(
                   x.image,
                 ) &&
                 /^(?:[a-z0-9-]+\.html(?:\?sku=[A-Za-z0-9-]+)?|https:\/\/online-samsung\.ru\/product\/[a-z0-9-]+)$/.test(
@@ -48,6 +48,11 @@
   status.setAttribute("role", "status");
   status.setAttribute("aria-live", "polite");
   document.body.append(status);
+  const toast = document.createElement("div");
+  toast.className = "a-toast";
+  toast.hidden = true;
+  document.body.append(toast);
+  let toastTimer;
   const e = (tag, cls, text) => {
     const node = document.createElement(tag);
     if (cls) node.className = cls;
@@ -56,7 +61,57 @@
   };
   function announce(message) {
     status.textContent = message;
+    if (
+      /сохранён в избранном|удалён из избранного|не разрешает сохранить|корзина сохраняется/.test(
+        message,
+      )
+    ) {
+      toast.replaceChildren(document.createTextNode(message));
+      if (/сохранён в избранном/.test(message)) {
+        const link = document.createElement("a");
+        link.href = "catalog.html?favorites=1";
+        link.textContent = "Посмотреть";
+        toast.append(link);
+      }
+      toast.hidden = false;
+      clearTimeout(toastTimer);
+      toastTimer = setTimeout(() => {
+        if (!toast.contains(document.activeElement)) toast.hidden = true;
+      }, 4800);
+    }
   }
+  function favoriteCounts() {
+    let saved = [];
+    try {
+      const raw = JSON.parse(
+        localStorage.getItem("samsung-demo-favorites-v1") || "[]",
+      );
+      if (Array.isArray(raw))
+        saved = [...new Set(raw.filter((s) => typeof s === "string"))];
+    } catch {}
+    document.querySelectorAll("[data-favorites-open]").forEach((a) => {
+      a.setAttribute(
+        "aria-label",
+        saved.length ? `Избранное, товаров: ${saved.length}` : "Избранное",
+      );
+      let badge = a.querySelector(".a-favorite-count");
+      if (!badge) {
+        badge = document.createElement("span");
+        badge.className = "a-favorite-count";
+        badge.setAttribute("aria-hidden", "true");
+        a.append(badge);
+      }
+      badge.textContent = saved.length;
+      badge.hidden = !saved.length;
+      if (
+        location.pathname.endsWith("catalog.html") &&
+        new URLSearchParams(location.search).get("favorites") === "1"
+      )
+        a.setAttribute("aria-current", "page");
+    });
+  }
+  addEventListener("samsung:favorites-changed", favoriteCounts);
+  favoriteCounts();
   function counts() {
     const count = cart.reduce((sum, x) => sum + x.qty, 0);
     document.querySelectorAll("[data-cart-open]").forEach((a) => {
@@ -143,7 +198,13 @@
           const next = content.querySelector(
             `[data-sku="${item.sku}"] ${delta > 0 ? "[data-plus]" : "[data-minus]"}`,
           );
-          next?.focus();
+          if (next && !next.disabled) next.focus();
+          else
+            content
+              .querySelector(
+                `[data-sku="${item.sku}"] ${delta > 0 ? "[data-minus]" : "[data-plus]"}`,
+              )
+              ?.focus();
           announce("Количество " + item.name + ": " + item.qty);
         }
         minus.dataset.minus = "";
@@ -180,6 +241,7 @@
     counts();
   }
   function open() {
+    toast.hidden = true;
     render();
     if (!dialog.open) {
       dialog.showModal();
@@ -235,7 +297,9 @@
     announce,
   };
   window.addEventListener("storage", (event) => {
-    if (event.key === KEY) {
+    if (event.key === "samsung-demo-favorites-v1" || event.key === null)
+      favoriteCounts();
+    if (event.key === KEY || event.key === null) {
       cart = safeRead();
       counts();
       if (dialog.open) render();

@@ -36,6 +36,7 @@
       saved = active ? saved.filter((x) => x !== sku) : [...saved, sku];
       try {
         localStorage.setItem(FAVORITES, JSON.stringify(saved));
+        dispatchEvent(new Event("samsung:favorites-changed"));
         syncFavorites();
         window.SamsungCart?.announce(
           active
