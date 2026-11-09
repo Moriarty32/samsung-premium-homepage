@@ -1,0 +1,125 @@
+{
+  "updated": "2026-11-09",
+  "assets": {
+    "catalog-phone.webp": {
+      "kind": "official-product",
+      "source": "https://online-samsung.ru/sites/default/files/2026-07/SM-S948BZVBCAU_15.png",
+      "width": 1200,
+      "height": 800,
+      "mode": "RGBA",
+      "bytes": 30848,
+      "sha256": "ceac88aa959c16912e6d476be990a60460e0f015f2229c3fd28b5d1696268b9c"
+    },
+    "catalog-watch.webp": {
+      "kind": "official-product",
+      "source": "https://online-samsung.ru/sites/default/files/2025-11/SM-L705FZB1CAU_1-min_0.png",
+      "width": 1200,
+      "height": 800,
+      "mode": "RGBA",
+      "bytes": 101660,
+      "sha256": "71f515b9f1bd1000d0f2c8805b2d80ab137188ebafcc8e37923347c36093002a"
+    },
+    "catalog-buds.webp": {
+      "kind": "official-product",
+      "source": "https://online-samsung.ru/sites/default/files/2026-03/SM-R640NZKACIS_7.png",
+      "width": 1200,
+      "height": 1200,
+      "mode": "RGB",
+      "bytes": 60940,
+      "sha256": "d410f547ae82985fbab01a285a2f96fa3671dbe3ab94229a4afaff5ada669fa2"
+    },
+    "fold-authentic.webp": {
+      "kind": "official-product",
+      "source": "https://online-samsung.ru/sites/default/files/2025-08/SM-F966BZKBCAU_1-min_0.png",
+      "width": 1200,
+      "height": 800,
+      "mode": "RGBA",
+      "bytes": 30140,
+      "sha256": "37f53f802249dc0c1ef83eca70d8172d10c66ecdf78ec4e935a81f42edb90a75"
+    },
+    "washer-authentic.webp": {
+      "kind": "official-product",
+      "source": "https://online-samsung.ru/sites/default/files/2026-06/WD18DB8995BZLD_1.png",
+      "width": 1200,
+      "height": 800,
+      "mode": "RGBA",
+      "bytes": 23082,
+      "sha256": "64112df977720d22279f347e88ce6483775884923cf7b14197493063f14fa6ba"
+    },
+    "journal-tv.webp": {
+      "kind": "client-editorial",
+      "source": "https://online-samsung.ru/sites/default/files/2025-03/2019-tv-buying-guide-all-about-tv-home-f00-pc%20%281%29.png",
+      "width": 1570,
+      "height": 938,
+      "mode": "RGB",
+      "bytes": 136722,
+      "sha256": "8a1d6ebf182f851c2a6341e4cef05628eeb6776704954e0b3c10be707ade82e0"
+    },
+    "journal-watch.webp": {
+      "kind": "official-lifestyle",
+      "source": "https://online-samsung.ru/sites/default/files/2025-11/SM-L705FZB1CAU__15-min.png",
+      "width": 1200,
+      "height": 1200,
+      "mode": "RGB",
+      "bytes": 459386,
+      "sha256": "e83f6a74a54eeb901be26dcf16ddfa4e814f2027a1c1aa508fec2627f4da6501"
+    },
+    "ecosystem-cutout.webp": {
+      "kind": "inherited-generated-illustration",
+      "source": "Previous version; retained generic ecosystem scene. Does not identify current product generations.",
+      "width": 1448,
+      "height": 1086,
+      "mode": "RGBA",
+      "bytes": 114850,
+      "sha256": "832594fe0bcf117a6859f8844d52c8d23c497375946b6fb9cd8ebe7c91aa38e2"
+    },
+    "product-tv.webp": {
+      "kind": "inherited-generated-illustration",
+      "source": "Previous version; illustrative category television without exact model claim.",
+      "width": 900,
+      "height": 675,
+      "mode": "RGBA",
+      "bytes": 82372,
+      "sha256": "9362991e59746f01465eb81a50736dda4122f4e0462ef56df28c4b2f14a36073"
+    },
+    "campaign-cinema.webp": {
+      "kind": "generated-illustration",
+      "tool": "built-in imagegen",
+      "original": "exec-2264c4cb-9476-44c5-b7b5-51b9ce98795a.png",
+      "prompt": "Use case: ads-marketing. Asset type: high-end electronics ecommerce television campaign background, desktop panoramic photography. Generate a photoreal architectural interior photograph, panoramic 3:1 landscape composition, ideally 3840 x 1280. Refined contemporary living room in neutral charcoal grey, pale grey limestone and brushed aluminium, subtle natural cool daylight, quiet luxury. On the RIGHT HALF only, one very large extremely thin perfectly rectangular flat-screen television, shown almost straight on, resting on a long low monolithic limestone console; screen displays a calm desaturated icy mountain landscape in midnight blue, silver and cool white, no sunset, no orange. The ENTIRE LEFT 44 percent is a calm dark charcoal textured wall and a low dark sofa edge, with ample clean negative space for white website heading to be added in HTML. Rightmost TV must remain fully inside canvas with at least 7 percent right safe margin; TV top and bottom have generous margins. Architectural magazine photography, impeccable straight lines, believable perspective, restrained satin materials, soft indirect light, exceptionally sharp details. No people, no letters, no logos, no text, no watermarks, no glowing rings, no sci-fi effects, no colored ambient light, no purple, no pink, no gold, no clutter. This is a brand-neutral illustrative room scene, not a claim to show a particular exact model.",
+      "width": 2172,
+      "height": 724,
+      "mode": "RGB",
+      "bytes": 224016,
+      "sha256": "134caf0615424024e093fb870246cc481ac7c2e64ec0ec230f4581628a2cf614"
+    },
+    "journal-phone.webp": {
+      "kind": "generated-editorial-illustration",
+      "tool": "built-in imagegen",
+      "reference": "catalog-phone.webp",
+      "original": "exec-7272745e-81d1-480c-9982-a282352a9634.png",
+      "prompt": "Use case: compositing. Asset type: premium electronics editorial article photograph, landscape 1600 x 1000 composition. Input image is an exact product identity reference: the purple Samsung Galaxy S26 Ultra shown from its back, with three vertically aligned large lenses inside the same raised rounded vertical camera island plus the two small separate round elements to the right and an S Pen. Preserve this exact product geometry, lens layout, slim flat edges and muted violet metal finish. Create a refined photorealistic editorial still life: this exact phone lying diagonally back-up on a light cool grey limestone desk, with the S Pen neatly alongside it. Camera at overhead three-quarter angle, tasteful side daylight, beautifully restrained soft shadows, exceptionally crisp optics and matte metal detail. Large phone fills 70 percent of landscape image without cutting off the phone or pen, a folded graphite linen notebook is only a subtle background edge, no hands and no people. Silver-grey neutral surroundings, naturally purple phone. No text, no captions, no badges, no graphic overlays, no extra lens, no blue/pink/gold lighting, no neon, no watermark. Do not reproduce the catalogue white cutout background; create a believable magazine photograph. The back's camera island must remain consistent with the supplied exact product.",
+      "width": 1586,
+      "height": 992,
+      "mode": "RGB",
+      "bytes": 290442,
+      "sha256": "ac860b76e4d50f99f1e16a8a2d27cee83ea54786a5b4f7f8564732a3c56ca052"
+    },
+    "SamsungOne-400.woff2": {
+      "kind": "official-font",
+      "source": "https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/fonts/SamsungOne-400.woff2"
+    },
+    "SamsungOne-700.woff2": {
+      "kind": "official-font",
+      "source": "https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/fonts/SamsungOne-700.woff2"
+    },
+    "samsung-sharp-bold.woff": {
+      "kind": "client-font",
+      "source": "Inherited client font; backup commit 9c2c73d"
+    },
+    "client-logo.svg": {
+      "kind": "client-logo",
+      "source": "Online Samsung; unchanged from backup commit 9c2c73d"
+    }
+  }
+}

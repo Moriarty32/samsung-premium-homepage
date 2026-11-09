@@ -1,84 +1,1215 @@
 <!doctype html>
 <html lang="ru">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#ffffff">
-  <meta name="description" content="Демонстрационный редизайн главной страницы Online Samsung: устройства Galaxy, телевизоры и техника для дома.">
-  <title>Online Samsung — инновации и устройства</title>
-  <link rel="preload" as="image" href="assets/hero-s26.webp">
-  <link rel="stylesheet" href="design.css?v=20261109-ecosystem-aligned-5">
-</head>
-<body>
-  <a class="skip-link" href="#main">Перейти к содержимому</a>
-  <a class="announcement" href="https://online-samsung.ru/promotion/114" target="_blank" rel="noopener">Скидка 3% при онлайн-оплате на сайте <span aria-hidden="true">↗</span></a>
-
-  <header class="site-header" id="top">
-    <div class="utility-surface"><div class="utility-bar shell">
-      <span class="location-link" aria-label="Регион: Москва"><svg class="icon"><use href="#i-pin"/></svg> Москва <svg class="icon icon-xs"><use href="#i-chevron"/></svg></span>
-      <div class="utility-links"><a href="#delivery">Доставка</a><a href="#delivery">Оплата</a><a href="#faq">Поддержка</a></div>
-    </div></div>
-    <div class="nav-bar shell">
-      <a class="brand" href="#top" aria-label="Online Samsung, на главную"><img src="assets/client-logo.svg" width="166" height="40" alt="Samsung — авторизованный фирменный магазин"></a>
-      <nav class="desktop-nav" aria-label="Основная навигация">
-        <a href="#smartphones">Смартфоны</a><a href="#televisions">ТВ и аудио</a><a href="#categories">Бытовая техника</a><a href="#ecosystem">Планшеты</a><a href="#popular">Смарт-часы</a><a href="#popular">Наушники</a><a href="https://online-samsung.ru/catalog/aksessuary" target="_blank" rel="noopener">Аксессуары</a>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#ffffff" />
+    <link rel="icon" href="assets/client-logo.svg" type="image/svg+xml" />
+    <meta
+      name="description"
+      content="Online Samsung — устройства Galaxy, телевизоры и техника для дома. Откройте новые возможности и выберите своё устройство."
+    />
+    <title>Online Samsung — технологии, которые становятся частью жизни</title>
+    <link
+      rel="preload"
+      href="assets/SamsungOne-400.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
+    <link
+      rel="preload"
+      href="assets/samsung-sharp-bold.woff"
+      as="font"
+      type="font/woff"
+      crossorigin
+    />
+    <link rel="preload" as="image" href="assets/catalog-phone.webp" />
+    <link rel="stylesheet" href="design.css?v=20261109-premium-6" />
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Перейти к содержимому</a>
+    <a
+      class="announcement"
+      href="https://online-samsung.ru/payment"
+      target="_blank"
+      rel="noopener"
+      >Скидка 3% при онлайн-оплате <span aria-hidden="true">↗</span></a
+    >
+    <header class="site-header" id="top">
+      <div class="utility-bar shell">
+        <span>Авторизованный фирменный магазин</span>
+        <div>
+          <span>Ежедневно, 9:00–22:00</span
+          ><a href="tel:88007557525">8 800 755-7525</a
+          ><a
+            href="https://online-samsung.ru/delivery"
+            target="_blank"
+            rel="noopener"
+            >Доставка</a
+          ><a
+            href="https://online-samsung.ru/payment"
+            target="_blank"
+            rel="noopener"
+            >Оплата</a
+          >
+        </div>
+      </div>
+      <div class="nav-bar shell">
+        <a class="brand" href="#top" aria-label="Online Samsung — на главную"
+          ><img
+            src="assets/client-logo.svg"
+            width="166"
+            height="40"
+            alt="Samsung — авторизованный фирменный магазин"
+        /></a>
+        <nav class="desktop-nav" aria-label="Основная навигация">
+          <a
+            href="https://online-samsung.ru/catalog/smartfony"
+            target="_blank"
+            rel="noopener"
+            >Смартфоны</a
+          ><a
+            href="https://online-samsung.ru/catalog/tv-i-audio/in-stock"
+            target="_blank"
+            rel="noopener"
+            >ТВ и аудио</a
+          ><a
+            href="https://online-samsung.ru/catalog/bytovaya-tehnika/in-stock"
+            target="_blank"
+            rel="noopener"
+            >Для дома</a
+          ><a
+            href="https://online-samsung.ru/catalog/planshety/in-stock"
+            target="_blank"
+            rel="noopener"
+            >Планшеты</a
+          ><a
+            href="https://online-samsung.ru/catalog/smart-chasy"
+            target="_blank"
+            rel="noopener"
+            >Часы</a
+          ><a
+            href="https://online-samsung.ru/catalog/naushniki"
+            target="_blank"
+            rel="noopener"
+            >Наушники</a
+          >
+        </nav>
+        <div class="nav-actions">
+          <button
+            class="icon-button"
+            id="search-toggle"
+            type="button"
+            aria-label="Открыть поиск по каталогу"
+            aria-expanded="false"
+            aria-controls="search-panel"
+          >
+            <svg class="icon" aria-hidden="true"><use href="#i-search" /></svg>
+          </button>
+          <a
+            class="icon-button account-link"
+            href="https://online-samsung.ru/user/login"
+            target="_blank"
+            rel="noopener"
+            aria-label="Личный кабинет"
+            ><svg class="icon" aria-hidden="true"><use href="#i-user" /></svg
+          ></a>
+          <a
+            class="icon-button"
+            href="https://online-samsung.ru/cart"
+            target="_blank"
+            rel="noopener"
+            aria-label="Корзина магазина"
+            ><svg class="icon" aria-hidden="true"><use href="#i-bag" /></svg
+          ></a>
+          <button
+            class="icon-button menu-toggle"
+            id="menu-toggle"
+            type="button"
+            aria-label="Открыть меню"
+            aria-expanded="false"
+            aria-controls="mobile-nav"
+          >
+            <svg class="icon" aria-hidden="true"><use href="#i-menu" /></svg>
+          </button>
+        </div>
+      </div>
+      <div class="search-panel shell" id="search-panel" hidden>
+        <form
+          action="https://online-samsung.ru/search"
+          method="get"
+          target="_blank"
+          role="search"
+        >
+          <label for="site-search">Что вы ищете?</label>
+          <div class="search-field">
+            <svg class="icon" aria-hidden="true"><use href="#i-search" /></svg
+            ><input
+              id="site-search"
+              name="query"
+              type="search"
+              placeholder="Например, Galaxy S26 Ultra"
+              required
+              autocomplete="off"
+            /><button class="search-submit" type="submit">
+              Найти <span aria-hidden="true">→</span></button
+            ><button
+              class="icon-button"
+              id="search-close"
+              type="button"
+              aria-label="Закрыть поиск"
+            >
+              ×
+            </button>
+          </div>
+        </form>
+        <div class="search-suggestions">
+          <span>Популярное:</span
+          ><a
+            href="https://online-samsung.ru/catalog/smartfony/samsung-galaxy-s26-ultra"
+            target="_blank"
+            rel="noopener"
+            >Galaxy S26 Ultra</a
+          ><a
+            href="https://online-samsung.ru/catalog/smartfony/samsung-galaxy-z-fold-7"
+            target="_blank"
+            rel="noopener"
+            >Galaxy Z Fold7</a
+          ><a
+            href="https://online-samsung.ru/catalog/televizory/in-stock"
+            target="_blank"
+            rel="noopener"
+            >Телевизоры</a
+          >
+        </div>
+      </div>
+      <nav
+        class="mobile-nav"
+        id="mobile-nav"
+        aria-label="Мобильная навигация"
+        hidden
+      >
+        <a
+          href="https://online-samsung.ru/catalog/smartfony"
+          target="_blank"
+          rel="noopener"
+          >Смартфоны <span aria-hidden="true">↗</span></a
+        ><a
+          href="https://online-samsung.ru/catalog/tv-i-audio/in-stock"
+          target="_blank"
+          rel="noopener"
+          >ТВ и аудио <span aria-hidden="true">↗</span></a
+        ><a
+          href="https://online-samsung.ru/catalog/bytovaya-tehnika/in-stock"
+          target="_blank"
+          rel="noopener"
+          >Техника для дома <span aria-hidden="true">↗</span></a
+        ><a
+          href="https://online-samsung.ru/catalog/planshety/in-stock"
+          target="_blank"
+          rel="noopener"
+          >Планшеты <span aria-hidden="true">↗</span></a
+        ><a
+          href="https://online-samsung.ru/catalog/smart-chasy"
+          target="_blank"
+          rel="noopener"
+          >Смарт-часы <span aria-hidden="true">↗</span></a
+        ><a
+          href="https://online-samsung.ru/catalog/naushniki"
+          target="_blank"
+          rel="noopener"
+          >Наушники <span aria-hidden="true">↗</span></a
+        ><a
+          href="https://online-samsung.ru/catalog/aksessuary/dlya_ustroystv"
+          target="_blank"
+          rel="noopener"
+          >Аксессуары <span aria-hidden="true">↗</span></a
+        ><a href="#faq">Помощь с выбором <span aria-hidden="true">→</span></a>
+        <div class="mobile-service-links">
+          <a
+            href="https://online-samsung.ru/delivery"
+            target="_blank"
+            rel="noopener"
+            >Доставка</a
+          ><a
+            href="https://online-samsung.ru/payment"
+            target="_blank"
+            rel="noopener"
+            >Оплата</a
+          ><a href="tel:88007557525">8 800 755-7525</a>
+        </div>
       </nav>
-      <div class="nav-actions">
-        <button class="icon-button" id="search-toggle" type="button" aria-label="Открыть поиск" aria-expanded="false"><svg class="icon"><use href="#i-search"/></svg></button>
-        <a class="icon-button" href="https://online-samsung.ru/" target="_blank" rel="noopener" aria-label="Личный кабинет на сайте Samsung"><svg class="icon"><use href="#i-user"/></svg></a>
-        <a class="icon-button" href="https://online-samsung.ru/" target="_blank" rel="noopener" aria-label="Корзина на сайте Samsung"><svg class="icon"><use href="#i-bag"/></svg></a>
-        <button class="icon-button menu-toggle" id="menu-toggle" type="button" aria-label="Открыть меню" aria-expanded="false"><svg class="icon"><use href="#i-menu"/></svg></button>
+    </header>
+
+    <main id="main">
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="hero-grid shell">
+          <div class="hero-copy">
+            <p class="eyebrow light">Galaxy AI · S Pen</p>
+            <h1 id="hero-title">Galaxy S26 Ultra</h1>
+            <p class="hero-subtitle">
+              Камера для ваших историй. <br />S Pen — для ваших идей.
+            </p>
+            <div class="button-row">
+              <a
+                class="button button-light"
+                href="https://online-samsung.ru/product/sm-s948bzvbcau"
+                target="_blank"
+                rel="noopener"
+                >Выбрать Galaxy <span aria-hidden="true">↗</span></a
+              ><button
+                class="button button-outline-light"
+                data-open-comparison
+                type="button"
+              >
+                Сравнить модели
+              </button>
+            </div>
+            <p class="hero-note">Galaxy S26 Ultra · 256 ГБ · Фиолетовый</p>
+          </div>
+          <div class="hero-art">
+            <div class="hero-halo" aria-hidden="true"></div>
+            <img
+              src="assets/catalog-phone.webp"
+              width="1200"
+              height="800"
+              alt="Galaxy S26 Ultra в фиолетовом цвете со встроенным S Pen — точный рендер устройства"
+              fetchpriority="high"
+            />
+          </div>
+        </div>
+        <div class="hero-bottom shell">
+          <span>Технологии, которые становятся частью жизни</span
+          ><a href="#categories" aria-label="Перейти к категориям"
+            >Откройте больше <span aria-hidden="true">↓</span></a
+          >
+        </div>
+      </section>
+
+      <section
+        class="section categories shell"
+        id="categories"
+        aria-labelledby="categories-title"
+      >
+        <div class="section-heading reveal">
+          <p class="eyebrow">Ваш мир. Ваш Samsung.</p>
+          <h2 id="categories-title">Откройте мир Samsung</h2>
+          <p>Для работы, дома и всего, что вы любите.</p>
+        </div>
+        <div class="category-grid">
+          <a
+            class="category-card category-phone reveal"
+            href="https://online-samsung.ru/catalog/smartfony"
+            target="_blank"
+            rel="noopener"
+            ><div class="category-label">
+              <h3>Смартфоны</h3>
+              <span aria-hidden="true">↗</span>
+            </div>
+            <div class="category-media">
+              <img
+                src="assets/catalog-phone.webp"
+                width="1200"
+                height="800"
+                alt="Смартфон Galaxy S26 Ultra и S Pen"
+                loading="lazy"
+              />
+            </div>
+            <span class="category-caption">Найдите свой Galaxy</span></a
+          >
+          <a
+            class="category-card category-tv reveal"
+            href="https://online-samsung.ru/catalog/televizory/in-stock"
+            target="_blank"
+            rel="noopener"
+            ><div class="category-label">
+              <h3>Телевизоры</h3>
+              <span aria-hidden="true">↗</span>
+            </div>
+            <div class="category-media">
+              <img
+                src="assets/product-tv.webp"
+                width="1200"
+                height="800"
+                alt="Телевизор с тонкой рамкой и спокойным синим изображением"
+                loading="lazy"
+              />
+            </div>
+            <span class="category-caption">Новый взгляд на любимое</span></a
+          >
+          <a
+            class="category-card category-home reveal"
+            href="https://online-samsung.ru/catalog/bytovaya-tehnika/in-stock"
+            target="_blank"
+            rel="noopener"
+            ><div class="category-label">
+              <h3>Техника для дома</h3>
+              <span aria-hidden="true">↗</span>
+            </div>
+            <div class="category-media">
+              <img
+                src="assets/washer-authentic.webp"
+                width="1200"
+                height="800"
+                alt="Стиральная машина Samsung Bespoke"
+                loading="lazy"
+              />
+            </div>
+            <span class="category-caption">Забота в каждой детали</span></a
+          >
+        </div>
+      </section>
+
+      <section
+        class="section popular shell"
+        id="popular"
+        aria-labelledby="popular-title"
+      >
+        <div class="section-title-row reveal">
+          <div>
+            <p class="eyebrow">Выбор покупателей</p>
+            <h2 id="popular-title">Ваш следующий Galaxy</h2>
+          </div>
+          <button class="text-link" data-open-comparison type="button">
+            Сравнить смартфоны <span aria-hidden="true">→</span>
+          </button>
+        </div>
+        <div class="product-grid">
+          <article class="product-card reveal" id="smartphones">
+            <a
+              class="product-media product-phone"
+              href="https://online-samsung.ru/product/sm-s948bzvbcau"
+              target="_blank"
+              rel="noopener"
+              ><img
+                src="assets/catalog-phone.webp"
+                width="1200"
+                height="800"
+                alt="Galaxy S26 Ultra, фиолетовый"
+                loading="lazy"
+            /></a>
+            <div class="product-info">
+              <p class="product-category">Смартфон</p>
+              <h3>Galaxy S26 Ultra</h3>
+              <p class="product-spec">256 ГБ · Фиолетовый</p>
+              <p class="product-description">
+                Камера для ваших историй. <br />S Pen — для ваших идей.
+              </p>
+              <div class="product-purchase">
+                <strong class="product-price">124 990 ₽</strong
+                ><a
+                  class="button button-dark button-small"
+                  href="https://online-samsung.ru/product/sm-s948bzvbcau"
+                  target="_blank"
+                  rel="noopener"
+                  >Выбрать <span aria-hidden="true">↗</span></a
+                >
+              </div>
+            </div>
+          </article>
+          <article class="product-card reveal">
+            <a
+              class="product-media"
+              href="https://online-samsung.ru/product/sm-l705fzb1cau"
+              target="_blank"
+              rel="noopener"
+              ><img
+                src="assets/catalog-watch.webp"
+                width="1200"
+                height="800"
+                alt="Galaxy Watch Ultra с синим ремешком"
+                loading="lazy"
+            /></a>
+            <div class="product-info">
+              <p class="product-category">Смарт-часы</p>
+              <h3>Galaxy Watch Ultra</h3>
+              <p class="product-spec">Титановый корпус · Синий ремешок</p>
+              <p class="product-description">
+                Тренировки, маршруты и ваш ритм. <br />На расстоянии одного
+                взгляда.
+              </p>
+              <div class="product-purchase">
+                <strong class="product-price">36 990 ₽</strong
+                ><a
+                  class="button button-dark button-small"
+                  href="https://online-samsung.ru/product/sm-l705fzb1cau"
+                  target="_blank"
+                  rel="noopener"
+                  >Выбрать <span aria-hidden="true">↗</span></a
+                >
+              </div>
+            </div>
+          </article>
+          <article class="product-card reveal">
+            <a
+              class="product-media"
+              href="https://online-samsung.ru/product/sm-r640nzkacis"
+              target="_blank"
+              rel="noopener"
+              ><img
+                src="assets/catalog-buds.webp"
+                width="1200"
+                height="1200"
+                alt="Galaxy Buds4 Pro в чёрном зарядном футляре"
+                loading="lazy"
+            /></a>
+            <div class="product-info">
+              <p class="product-category">Беспроводные наушники</p>
+              <h3>Galaxy Buds4 Pro</h3>
+              <p class="product-spec">Чёрный · Зарядный футляр</p>
+              <p class="product-description">
+                Больше любимой музыки. <br />Меньше окружающего шума.
+              </p>
+              <div class="product-purchase">
+                <strong class="product-price">19 990 ₽</strong
+                ><a
+                  class="button button-dark button-small"
+                  href="https://online-samsung.ru/product/sm-r640nzkacis"
+                  target="_blank"
+                  rel="noopener"
+                  >Выбрать <span aria-hidden="true">↗</span></a
+                >
+              </div>
+            </div>
+          </article>
+        </div>
+        <a
+          class="collection-link text-link"
+          href="https://online-samsung.ru/catalog/nosimye-ustroystva"
+          target="_blank"
+          rel="noopener"
+          >Все носимые устройства <span aria-hidden="true">↗</span></a
+        >
+      </section>
+
+      <section
+        class="product-campaign campaign-fold"
+        id="fold"
+        aria-labelledby="fold-title"
+      >
+        <div class="campaign-grid shell">
+          <div class="campaign-copy reveal">
+            <p class="eyebrow">Galaxy Z Fold7</p>
+            <h2 id="fold-title">Новый формат <br />возможностей</h2>
+            <p>
+              Большой экран для больших идей. <br />И привычный смартфон, когда
+              он нужен.
+            </p>
+            <div class="feature-note">
+              <span aria-hidden="true">↔</span> Больше пространства для
+              нескольких задач
+            </div>
+            <a
+              class="button button-dark"
+              href="https://online-samsung.ru/catalog/smartfony/samsung-galaxy-z-fold-7"
+              target="_blank"
+              rel="noopener"
+              >Открыть Galaxy Z Fold7 <span aria-hidden="true">↗</span></a
+            >
+          </div>
+          <img
+            class="campaign-art reveal"
+            src="assets/fold-authentic.webp"
+            width="1200"
+            height="800"
+            alt="Раскрытый Samsung Galaxy Z Fold7 в чёрном цвете"
+            loading="lazy"
+          />
+        </div>
+      </section>
+
+      <section
+        class="product-campaign ecosystem-feature"
+        id="ecosystem"
+        aria-labelledby="ecosystem-title"
+      >
+        <div class="campaign-grid shell">
+          <img
+            class="campaign-art reveal"
+            src="assets/ecosystem-cutout.webp"
+            width="1448"
+            height="1086"
+            alt="Устройства Samsung: телевизор, планшет, смартфон, часы и наушники на светлом подиуме"
+            loading="lazy"
+          />
+          <div class="campaign-copy reveal">
+            <p class="eyebrow">Экосистема Samsung</p>
+            <h2 id="ecosystem-title">Больше, чем <br />отдельные устройства</h2>
+            <p>
+              Ваши устройства работают вместе. <br />А привычные дела становятся
+              проще.
+            </p>
+            <div
+              class="ecosystem-tabs"
+              role="tablist"
+              aria-label="Возможности экосистемы"
+            >
+              <button
+                id="eco-tab-files"
+                role="tab"
+                aria-selected="true"
+                aria-controls="eco-panel-files"
+                tabindex="0"
+              >
+                Делиться</button
+              ><button
+                id="eco-tab-work"
+                role="tab"
+                aria-selected="false"
+                aria-controls="eco-panel-work"
+                tabindex="-1"
+              >
+                Продолжать</button
+              ><button
+                id="eco-tab-home"
+                role="tab"
+                aria-selected="false"
+                aria-controls="eco-panel-home"
+                tabindex="-1"
+              >
+                Управлять
+              </button>
+            </div>
+            <div class="ecosystem-panels">
+              <div
+                id="eco-panel-files"
+                role="tabpanel"
+                aria-labelledby="eco-tab-files"
+              >
+                <h3>Фотографии — там, где они нужны</h3>
+                <p>
+                  Передавайте снимки и документы между совместимыми устройствами
+                  через Quick Share.
+                </p>
+              </div>
+              <div
+                id="eco-panel-work"
+                role="tabpanel"
+                aria-labelledby="eco-tab-work"
+                hidden
+              >
+                <h3>Больше пространства для работы</h3>
+                <p>
+                  Продолжайте работу на планшете и используйте несколько экранов
+                  в совместимой экосистеме Galaxy.
+                </p>
+              </div>
+              <div
+                id="eco-panel-home"
+                role="tabpanel"
+                aria-labelledby="eco-tab-home"
+                hidden
+              >
+                <h3>Дом под вашим управлением</h3>
+                <p>
+                  Объединяйте совместимую технику в SmartThings и управляйте ею
+                  со смартфона.
+                </p>
+              </div>
+            </div>
+            <a
+              class="text-link"
+              href="https://www.samsung.com/ru/apps/smartthings/"
+              target="_blank"
+              rel="noopener"
+              >Узнать о SmartThings <span aria-hidden="true">↗</span></a
+            >
+          </div>
+        </div>
+      </section>
+
+      <section class="campaign-tv" id="televisions" aria-labelledby="tv-title">
+        <img
+          class="cinema-image"
+          src="assets/campaign-cinema.webp"
+          width="2172"
+          height="724"
+          alt="Сдержанная современная гостиная с большим телевизором и снежным горным пейзажем на экране"
+          loading="lazy"
+        />
+        <div class="campaign-content shell">
+          <div class="tv-copy reveal">
+            <p class="eyebrow light">Телевизоры Samsung</p>
+            <h2 id="tv-title">Изображение, <br />которое впечатляет</h2>
+            <p>
+              Вечер дома. Любимый фильм. <br />И ощущение, что вы внутри
+              истории.
+            </p>
+            <a
+              class="button button-light"
+              href="https://online-samsung.ru/catalog/televizory/in-stock"
+              target="_blank"
+              rel="noopener"
+              >Найти свой телевизор <span aria-hidden="true">↗</span></a
+            >
+          </div>
+        </div>
+      </section>
+
+      <section
+        class="section services shell"
+        id="services"
+        aria-labelledby="services-title"
+      >
+        <div class="section-title-row reveal">
+          <div>
+            <p class="eyebrow">Больше уверенности</p>
+            <h2 id="services-title">Продумано до мелочей</h2>
+          </div>
+        </div>
+        <div class="service-grid">
+          <a
+            class="service-card reveal"
+            href="https://online-samsung.ru/trade-in"
+            target="_blank"
+            rel="noopener"
+            ><div class="service-copy">
+              <p class="eyebrow">Новый Galaxy — ближе</p>
+              <h3>Trade-in</h3>
+              <p>
+                Обменяйте прежнее устройство <br />на выгоду при покупке нового.
+              </p>
+              <span class="text-link"
+                >Оценить устройство <span aria-hidden="true">↗</span></span
+              >
+            </div>
+            <div class="service-art">
+              <img
+                src="assets/catalog-phone.webp"
+                width="1200"
+                height="800"
+                alt=""
+                loading="lazy"
+              /></div
+          ></a>
+          <a
+            class="service-card care-card reveal"
+            href="https://online-samsung.ru/promo/samsung-care"
+            target="_blank"
+            rel="noopener"
+            ><div class="service-copy">
+              <p class="eyebrow">Забота каждый день</p>
+              <h3>Samsung Care+</h3>
+              <p>Дополнительная защита <br />для вашего устройства.</p>
+              <span class="text-link"
+                >Выбрать защиту <span aria-hidden="true">↗</span></span
+              >
+            </div>
+            <div class="service-art">
+              <svg class="care-shield" viewBox="0 0 160 180" aria-hidden="true">
+                <defs>
+                  <linearGradient id="shield-tone" x1="0" y1="0" x2="1" y2="1">
+                    <stop stop-color="#fafafa" />
+                    <stop offset=".5" stop-color="#b6b8bb" />
+                    <stop offset="1" stop-color="#f4f4f4" />
+                  </linearGradient>
+                </defs>
+                <path
+                  d="M80 12c-21 15-42 21-62 24v52c0 36 21 62 62 80 41-18 62-44 62-80V36c-20-3-41-9-62-24Z"
+                  fill="url(#shield-tone)"
+                  stroke="#96999c"
+                  stroke-width="2"
+                />
+                <path
+                  d="m54 88 18 18 36-40"
+                  fill="none"
+                  stroke="#62676b"
+                  stroke-width="5"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                />
+              </svg></div
+          ></a>
+        </div>
+        <div class="benefits" id="delivery">
+          <a
+            class="benefit reveal"
+            href="https://online-samsung.ru/delivery"
+            target="_blank"
+            rel="noopener"
+            ><svg class="icon" aria-hidden="true"><use href="#i-truck" /></svg>
+            <div>
+              <h3>Доставка и самовывоз</h3>
+              <p>До двери или в удобном магазине</p>
+            </div>
+            <span aria-hidden="true">↗</span></a
+          ><a
+            class="benefit reveal"
+            href="https://online-samsung.ru/payment"
+            target="_blank"
+            rel="noopener"
+            ><svg class="icon" aria-hidden="true"><use href="#i-card" /></svg>
+            <div>
+              <h3>Удобная оплата</h3>
+              <p>Картой, онлайн или частями</p>
+            </div>
+            <span aria-hidden="true">↗</span></a
+          ><a
+            class="benefit reveal"
+            href="https://online-samsung.ru/service"
+            target="_blank"
+            rel="noopener"
+            ><svg class="icon" aria-hidden="true"><use href="#i-shield" /></svg>
+            <div>
+              <h3>Сервис и гарантия</h3>
+              <p>Поддержка после покупки</p>
+            </div>
+            <span aria-hidden="true">↗</span></a
+          >
+        </div>
+      </section>
+
+      <section
+        class="section journal shell"
+        id="journal"
+        aria-labelledby="journal-title"
+      >
+        <div class="section-title-row reveal">
+          <div>
+            <p class="eyebrow">Вдохновение и полезные советы</p>
+            <h2 id="journal-title">Ближе к технологиям</h2>
+          </div>
+          <a
+            class="text-link"
+            href="https://online-samsung.ru/station"
+            target="_blank"
+            rel="noopener"
+            >Журнал <span aria-hidden="true">↗</span></a
+          >
+        </div>
+        <div class="article-grid">
+          <a
+            class="article-card article-main reveal"
+            href="https://online-samsung.ru/station/smartfony/vstrechayte-samsung-galaxy-s26-pervyy-vzglyad-na-smartfony-s-ekranom-antishpion-i"
+            target="_blank"
+            rel="noopener"
+            ><div class="article-image">
+              <img
+                src="assets/journal-phone.webp"
+                width="1586"
+                height="992"
+                alt="Galaxy S26 Ultra и S Pen на светлом каменном столе — рекламная композиция"
+                loading="lazy"
+              />
+            </div>
+            <div class="article-copy">
+              <span class="article-meta">Обзор · Galaxy</span>
+              <h3>Знакомьтесь: новое поколение Galaxy S26</h3>
+              <span class="text-link"
+                >Открыть историю <span aria-hidden="true">↗</span></span
+              >
+            </div></a
+          >
+          <a
+            class="article-card reveal"
+            href="https://online-samsung.ru/station/televizory/kak-vybrat-televizor-samsung-polnoe-rukovodstvo-dlya-idealnogo-vybora"
+            target="_blank"
+            rel="noopener"
+            ><div class="article-image">
+              <img
+                src="assets/journal-tv.webp"
+                width="1570"
+                height="938"
+                alt="Подбор телевизора Samsung для домашнего интерьера"
+                loading="lazy"
+              />
+            </div>
+            <div class="article-copy">
+              <span class="article-meta">Гид · Телевизоры</span>
+              <h3>Как выбрать телевизор для вашего дома</h3>
+              <span class="text-link"
+                >Читать <span aria-hidden="true">↗</span></span
+              >
+            </div></a
+          >
+          <a
+            class="article-card article-watch reveal"
+            href="https://online-samsung.ru/station/nosimye-ustroystva/samsung-galaxy-watch-ultra-2025-siniy-titan-kotoryy-stoit-kazhdogo"
+            target="_blank"
+            rel="noopener"
+            ><div class="article-image">
+              <img
+                src="assets/journal-watch.webp"
+                width="1200"
+                height="1200"
+                alt="Galaxy Watch Ultra на руке во время активного отдыха"
+                loading="lazy"
+              />
+            </div>
+            <div class="article-copy">
+              <span class="article-meta">Знакомство · Часы</span>
+              <h3>Galaxy Watch Ultra: навстречу новому</h3>
+              <span class="text-link"
+                >Читать <span aria-hidden="true">↗</span></span
+              >
+            </div></a
+          >
+        </div>
+      </section>
+
+      <section class="faq" id="faq" aria-labelledby="faq-title">
+        <div class="shell faq-layout">
+          <div class="faq-intro reveal">
+            <p class="eyebrow">Мы рядом</p>
+            <h2 id="faq-title">Ответы на <br />важные вопросы</h2>
+            <p>Поможем выбрать устройство <br />и разобраться в деталях.</p>
+            <a class="faq-contact" href="tel:88007557525"
+              ><div>
+                <span>Ваш консультант Samsung</span
+                ><strong>8 800 755-7525</strong
+                ><small>Ежедневно, 9:00–22:00</small
+                ><span class="contact-action"
+                  >Позвонить <span aria-hidden="true">→</span></span
+                >
+              </div>
+              <img
+                src="assets/catalog-phone.webp"
+                width="1200"
+                height="800"
+                alt=""
+                loading="lazy"
+            /></a>
+          </div>
+          <div class="faq-list reveal">
+            <details>
+              <summary>
+                <span class="faq-number">01</span
+                ><span>Какая гарантия на устройства?</span
+                ><span class="faq-plus" aria-hidden="true">+</span>
+              </summary>
+              <div class="faq-answer">
+                <p>
+                  Гарантийный срок отсчитывается с даты покупки. Он зависит от
+                  категории и модели устройства. Для обращения в сервис
+                  сохраните документ о покупке; информацию о сроке и ближайшем
+                  сервисном центре можно посмотреть в разделе обслуживания.
+                </p>
+                <a
+                  class="text-link"
+                  href="https://online-samsung.ru/service"
+                  target="_blank"
+                  rel="noopener"
+                  >Сервис и гарантия <span aria-hidden="true">↗</span></a
+                >
+              </div>
+            </details>
+            <details>
+              <summary>
+                <span class="faq-number">02</span
+                ><span>Как оплатить заказ?</span
+                ><span class="faq-plus" aria-hidden="true">+</span>
+              </summary>
+              <div class="faq-answer">
+                <p>
+                  Доступны онлайн-оплата картой, безналичный расчёт и оплата
+                  частями. В отдельных регионах можно оплатить заказ при
+                  получении. Доступные для вашего заказа варианты показываются
+                  при оформлении.
+                </p>
+                <a
+                  class="text-link"
+                  href="https://online-samsung.ru/payment"
+                  target="_blank"
+                  rel="noopener"
+                  >Все способы оплаты <span aria-hidden="true">↗</span></a
+                >
+              </div>
+            </details>
+            <details>
+              <summary>
+                <span class="faq-number">03</span
+                ><span>Можно ли обменять старое устройство?</span
+                ><span class="faq-plus" aria-hidden="true">+</span>
+              </summary>
+              <div class="faq-answer">
+                <p>
+                  Да, по программе Trade-in можно сдать подходящий смартфон,
+                  планшет или смарт-часы и получить выгоду при покупке нового
+                  устройства. Предварительную оценку можно сделать на сайте;
+                  итог зависит от модели и состояния техники.
+                </p>
+                <a
+                  class="text-link"
+                  href="https://online-samsung.ru/trade-in"
+                  target="_blank"
+                  rel="noopener"
+                  >Оценить своё устройство <span aria-hidden="true">↗</span></a
+                >
+              </div>
+            </details>
+            <details>
+              <summary>
+                <span class="faq-number">04</span
+                ><span>Как работает доставка?</span
+                ><span class="faq-plus" aria-hidden="true">+</span>
+              </summary>
+              <div class="faq-answer">
+                <p>
+                  Заказ можно получить курьером или забрать в доступном
+                  магазине. Доставка смартфонов, планшетов, носимых устройств и
+                  аксессуаров по России бесплатна при заказе от 10 000 ₽.
+                  Стоимость доставки телевизоров и бытовой техники
+                  рассчитывается отдельно; срок и итоговая стоимость видны при
+                  оформлении.
+                </p>
+                <a
+                  class="text-link"
+                  href="https://online-samsung.ru/delivery"
+                  target="_blank"
+                  rel="noopener"
+                  >Условия доставки <span aria-hidden="true">↗</span></a
+                >
+              </div>
+            </details>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="shell footer-grid">
+        <div class="footer-brand">
+          <a class="brand" href="#top" aria-label="Online Samsung — наверх"
+            ><img
+              src="assets/client-logo.svg"
+              width="166"
+              height="40"
+              alt="Samsung — авторизованный фирменный магазин"
+          /></a>
+          <p>Технологии для вашего мира. <br />Помощь на каждом шаге.</p>
+          <a class="footer-phone" href="tel:88007557525">8 800 755-7525</a
+          ><span class="footer-hours">Ежедневно, 9:00–22:00</span>
+        </div>
+        <div>
+          <h3>Устройства</h3>
+          <a
+            href="https://online-samsung.ru/catalog/smartfony"
+            target="_blank"
+            rel="noopener"
+            >Смартфоны</a
+          ><a
+            href="https://online-samsung.ru/catalog/televizory/in-stock"
+            target="_blank"
+            rel="noopener"
+            >Телевизоры</a
+          ><a
+            href="https://online-samsung.ru/catalog/bytovaya-tehnika/in-stock"
+            target="_blank"
+            rel="noopener"
+            >Техника для дома</a
+          ><a
+            href="https://online-samsung.ru/catalog/planshety/in-stock"
+            target="_blank"
+            rel="noopener"
+            >Планшеты</a
+          ><a
+            href="https://online-samsung.ru/catalog/nosimye-ustroystva"
+            target="_blank"
+            rel="noopener"
+            >Часы и наушники</a
+          >
+        </div>
+        <div>
+          <h3>Покупателям</h3>
+          <a
+            href="https://online-samsung.ru/delivery"
+            target="_blank"
+            rel="noopener"
+            >Доставка и самовывоз</a
+          ><a
+            href="https://online-samsung.ru/payment"
+            target="_blank"
+            rel="noopener"
+            >Оплата</a
+          ><a
+            href="https://online-samsung.ru/trade-in"
+            target="_blank"
+            rel="noopener"
+            >Trade-in</a
+          ><a
+            href="https://online-samsung.ru/promo/samsung-care"
+            target="_blank"
+            rel="noopener"
+            >Samsung Care+</a
+          ><a
+            href="https://online-samsung.ru/returns"
+            target="_blank"
+            rel="noopener"
+            >Обмен и возврат</a
+          >
+        </div>
+        <div>
+          <h3>Мы рядом</h3>
+          <a href="#faq">Частые вопросы</a
+          ><a
+            href="https://online-samsung.ru/service"
+            target="_blank"
+            rel="noopener"
+            >Сервис и гарантия</a
+          ><a
+            href="https://online-samsung.ru/shop"
+            target="_blank"
+            rel="noopener"
+            >Магазины</a
+          ><a
+            href="https://online-samsung.ru/station"
+            target="_blank"
+            rel="noopener"
+            >Журнал Samsung</a
+          ><a href="mailto:info@online-samsung.ru">Написать нам</a>
+        </div>
       </div>
-    </div>
-    <div class="search-panel shell" id="search-panel" hidden><label for="site-search">Поиск по странице</label><div class="search-field"><svg class="icon"><use href="#i-search"/></svg><input id="site-search" type="search" placeholder="Устройство или раздел"><button id="search-close" type="button" aria-label="Закрыть поиск">×</button></div><p id="search-feedback" role="status"></p></div>
-    <nav class="mobile-nav" id="mobile-nav" aria-label="Мобильная навигация" hidden><a href="#smartphones">Смартфоны</a><a href="#televisions">Телевизоры</a><a href="#categories">Бытовая техника</a><a href="#ecosystem">Планшеты</a><a href="#popular">Часы и наушники</a><a href="#services">Сервисы</a></nav>
-  </header>
-
-  <main id="main">
-    <section class="hero" aria-label="Главные предложения">
-      <div class="hero-slides">
-        <article class="hero-slide is-active" data-slide="0" aria-hidden="false"><img src="assets/hero-s26.webp" width="1836" height="857" alt="Графитовый смартфон с крупными объективами камеры и электронным пером" fetchpriority="high"><div class="hero-shade"></div><div class="hero-content shell"><p class="eyebrow light">Новая эра Galaxy</p><h1>Galaxy S26 Ultra</h1><p class="hero-subtitle">Ваш новый уровень<br>возможностей</p><div class="button-row"><a class="button button-light" href="https://online-samsung.ru/catalog/smartfony/samsung-galaxy-s26-ultra" target="_blank" rel="noopener">Купить <span class="button-arrow">↗</span></a><a class="button button-outline-light" href="#smartphones">Узнать больше <span class="button-arrow">↗</span></a></div></div></article>
-        <article class="hero-slide" data-slide="1" aria-hidden="true"><img class="hero-fold-art" src="assets/fold-cutout.webp" width="1254" height="1254" alt="Раскрытый складной смартфон Galaxy Z Fold" loading="lazy"><div class="hero-content shell dark-copy"><p class="eyebrow">Galaxy Z Fold7</p><h2>Новый формат<br>возможностей</h2><p class="hero-subtitle">Больше пространства для идей</p><div class="button-row"><a class="button button-dark" href="#fold">Узнать больше <span class="button-arrow">↗</span></a></div></div></article>
-        <article class="hero-slide" data-slide="2" aria-hidden="true"><img class="hero-desktop-art" src="assets/banner-tv.webp" width="2048" height="768" alt="Большой телевизор с горным пейзажем в современной гостиной" loading="lazy"><img class="hero-mobile-art" src="assets/banner-tv-mobile.webp" width="900" height="1125" alt="" loading="lazy"><div class="hero-shade"></div><div class="hero-content shell"><p class="eyebrow light">Телевизоры Neo QLED</p><h2>Впечатления<br>без границ</h2><p class="hero-subtitle">Каждая деталь оживает</p><div class="button-row"><a class="button button-light" href="#televisions">Смотреть <span class="button-arrow">↗</span></a></div></div></article>
+      <div class="footer-bottom shell">
+        <span>© Online Samsung · Концепция редизайна, 2026</span
+        ><a
+          href="https://online-samsung.ru/privacy"
+          target="_blank"
+          rel="noopener"
+          >Конфиденциальность</a
+        ><a href="#top">Наверх ↑</a>
+        <p>
+          Демонстрационная страница. Цены приведены для макета; актуальные
+          конфигурации, стоимость и условия покупки — в магазине Online Samsung.
+          Интерьер, композиция экосистемы и обложка обзора — рекламные
+          иллюстрации.
+        </p>
       </div>
-      <div class="hero-controls shell" role="group" aria-label="Управление баннерами"><button class="hero-dot is-active" data-target="0" aria-pressed="true" aria-label="Galaxy S26 Ultra"><span></span></button><button class="hero-dot" data-target="1" aria-pressed="false" aria-label="Galaxy Z Fold7"><span></span></button><button class="hero-dot" data-target="2" aria-pressed="false" aria-label="Телевизоры"><span></span></button><button class="hero-pause" id="hero-pause" type="button" aria-label="Приостановить смену баннеров" aria-pressed="false"><span aria-hidden="true">Ⅱ</span></button></div>
-    </section>
+    </footer>
 
-    <section class="section categories shell" id="categories"><div class="section-heading reveal"><p class="eyebrow">Создано для вашей жизни</p><h2>Откройте мир Samsung</h2><p>Инновационные технологии для работы, развлечений и дома</p></div><div class="category-grid">
-      <a class="category-card reveal" href="#smartphones"><span class="category-title">Смартфоны <span aria-hidden="true">↗</span></span><img src="assets/catalog-phone.webp" width="1200" height="800" alt="Смартфон в графитовом цвете" loading="lazy"></a>
-      <a class="category-card reveal" href="#televisions"><span class="category-title">Телевизоры <span aria-hidden="true">↗</span></span><img class="tv-product" src="assets/product-tv.webp" width="900" height="675" alt="Тонкий телевизор с синим изображением" loading="lazy"></a>
-      <a class="category-card reveal" href="https://online-samsung.ru/catalog/bytovaja-tehnika/stiralnye-mashiny/in-stock" target="_blank" rel="noopener"><span class="category-title">Бытовая<br>техника <span aria-hidden="true">↗</span></span><img src="assets/product-washer.webp" width="900" height="1125" alt="Стиральная машина с фронтальной загрузкой" loading="lazy"></a>
-    </div></section>
+    <dialog
+      class="comparison-dialog"
+      id="comparison-dialog"
+      aria-labelledby="comparison-title"
+    >
+      <div class="dialog-heading">
+        <div>
+          <p class="eyebrow">Выберите свой формат</p>
+          <h2 id="comparison-title">Какой Galaxy — ваш?</h2>
+        </div>
+        <button
+          class="icon-button dialog-close"
+          type="button"
+          aria-label="Закрыть сравнение"
+        >
+          ×
+        </button>
+      </div>
+      <p class="dialog-description">
+        Сравните три подхода к привычным задачам.
+      </p>
+      <p class="comparison-hint">
+        Листайте таблицу для сравнения моделей <span aria-hidden="true">→</span>
+      </p>
+      <div
+        class="comparison-scroll"
+        tabindex="0"
+        role="region"
+        aria-label="Таблица сравнения смартфонов"
+      >
+        <table class="comparison-table">
+          <thead>
+            <tr>
+              <th scope="col">Что важно</th>
+              <th scope="col">Galaxy S26</th>
+              <th scope="col">Galaxy S26 Ultra</th>
+              <th scope="col">Galaxy Z Fold7</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">Формат</th>
+              <td>Классический смартфон</td>
+              <td>Крупный флагман со стилусом</td>
+              <td>Складной смартфон</td>
+            </tr>
+            <tr>
+              <th scope="row">Для ваших задач</th>
+              <td>Общение, снимки и повседневные дела</td>
+              <td>Творчество, заметки и работа с S Pen</td>
+              <td>Документы и несколько приложений на большом экране</td>
+            </tr>
+            <tr>
+              <th scope="row">Особенность</th>
+              <td>Привычный формат Galaxy</td>
+              <td>Встроенный S Pen</td>
+              <td>Внешний и раскрывающийся внутренний экран</td>
+            </tr>
+            <tr>
+              <th scope="row">Модели и варианты</th>
+              <td>
+                <a
+                  class="text-link"
+                  href="https://online-samsung.ru/catalog/smartfony/samsung-galaxy-s26"
+                  target="_blank"
+                  rel="noopener"
+                  >Выбрать S26 ↗</a
+                >
+              </td>
+              <td>
+                <a
+                  class="text-link"
+                  href="https://online-samsung.ru/catalog/smartfony/samsung-galaxy-s26-ultra"
+                  target="_blank"
+                  rel="noopener"
+                  >Выбрать Ultra ↗</a
+                >
+              </td>
+              <td>
+                <a
+                  class="text-link"
+                  href="https://online-samsung.ru/catalog/smartfony/samsung-galaxy-z-fold-7"
+                  target="_blank"
+                  rel="noopener"
+                  >Выбрать Fold7 ↗</a
+                >
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="dialog-footer">
+        <p>Нужна помощь с конфигурацией?</p>
+        <a class="button button-dark button-small" href="tel:88007557525"
+          >Спросить консультанта</a
+        >
+      </div>
+    </dialog>
 
-    <section class="product-campaign campaign-fold" id="fold" aria-labelledby="fold-title"><div class="campaign-grid shell"><div class="campaign-copy reveal"><p class="eyebrow">Galaxy Z Fold7</p><h2 id="fold-title">Новый формат<br>возможностей</h2><p>Больше пространства для ваших идей.</p><a class="button button-dark" href="https://online-samsung.ru/catalog/smartfony/samsung-galaxy-z-fold-7" target="_blank" rel="noopener">Узнать больше <span class="button-arrow" aria-hidden="true">↗</span></a></div><img class="campaign-art reveal" src="assets/fold-cutout.webp" width="1254" height="1254" alt="Открытый Galaxy Z Fold с синим экраном и закрытый смартфон в графитовом цвете" loading="lazy"></div></section>
-
-    <section class="product-campaign ecosystem-feature" id="ecosystem" aria-labelledby="ecosystem-title"><div class="campaign-grid shell"><img class="campaign-art reveal" src="assets/ecosystem-cutout.webp" width="1448" height="1086" alt="Телевизор, планшет, смартфон, часы и наушники Galaxy на белом подиуме" loading="lazy"><div class="campaign-copy reveal"><p class="eyebrow">Экосистема Samsung</p><h2 id="ecosystem-title">Больше, чем<br>отдельные устройства</h2><p>Единая экосистема Samsung для работы, общения и развлечений.</p><a class="button button-dark" href="https://online-samsung.ru/catalog/smartfony" target="_blank" rel="noopener">Узнать больше <span class="button-arrow" aria-hidden="true">↗</span></a></div></div></section>
-
-    <section class="campaign campaign-tv" id="televisions"><img class="campaign-desktop-art" src="assets/banner-tv.webp" width="2048" height="768" alt="Тонкий телевизор на каменной полке с изображением гор" loading="lazy"><img class="campaign-mobile-art" src="assets/banner-tv-mobile.webp" width="900" height="1125" alt="" loading="lazy"><div class="campaign-content shell reveal"><p class="eyebrow light">Neo QLED</p><h2>Изображение,<br>которое впечатляет</h2><p>Телевизоры Neo QLED с реалистичной картинкой и объёмным звуком</p><a class="button button-light" href="https://online-samsung.ru/catalog/televizory/in-stock" target="_blank" rel="noopener">Смотреть телевизоры <span class="button-arrow">↗</span></a></div></section>
-
-    <section class="section popular shell" id="popular"><div class="section-heading reveal"><p class="eyebrow">Выбор покупателей</p><h2>Популярные устройства</h2><p>Устройства Galaxy, к которым хочется возвращаться</p></div><div class="product-grid">
-      <article class="product-card reveal" id="smartphones"><a class="product-media" href="https://online-samsung.ru/catalog/smartfony/samsung-galaxy-s26-ultra" target="_blank" rel="noopener"><img src="assets/catalog-phone.webp" width="1200" height="800" alt="Galaxy S26 Ultra" loading="lazy"></a><h3>Galaxy S26 Ultra</h3><p>Смартфон для новых возможностей</p><strong class="product-price">124 990 ₽</strong><a class="button button-dark button-small" href="https://online-samsung.ru/catalog/smartfony/samsung-galaxy-s26-ultra" target="_blank" rel="noopener">Подробнее <span class="button-arrow">↗</span></a></article>
-      <article class="product-card reveal"><a class="product-media" href="https://online-samsung.ru/catalog/smart-chasy" target="_blank" rel="noopener"><img src="assets/catalog-watch.webp" width="1200" height="800" alt="Galaxy Watch Ultra с титановым корпусом и синим ремешком" loading="lazy"></a><h3>Galaxy Watch Ultra</h3><p>Энергия в каждом движении</p><strong class="product-price">34 990 ₽</strong><a class="button button-dark button-small" href="https://online-samsung.ru/catalog/smart-chasy" target="_blank" rel="noopener">Подробнее <span class="button-arrow">↗</span></a></article>
-      <article class="product-card reveal"><a class="product-media" href="https://online-samsung.ru/catalog/naushniki" target="_blank" rel="noopener"><img src="assets/catalog-buds.webp" width="1200" height="1200" alt="Беспроводные наушники Galaxy Buds в зарядном футляре" loading="lazy"></a><h3>Galaxy Buds4 Pro</h3><p>Звук, который всегда с вами</p><strong class="product-price">18 990 ₽</strong><a class="button button-dark button-small" href="https://online-samsung.ru/catalog/naushniki" target="_blank" rel="noopener">Подробнее <span class="button-arrow">↗</span></a></article>
-    </div></section>
-
-
-    <section class="section services shell" id="services"><div class="service-grid"><a class="service-card reveal" href="https://online-samsung.ru/trade-in" target="_blank" rel="noopener"><div><p class="eyebrow">Обновляйтесь выгодно</p><h3>Trade-in</h3><p>Обменяйте старое устройство на новое с выгодой</p><span class="inline-link">Подробнее <span aria-hidden="true">↗</span></span></div><img src="assets/catalog-phone.webp" width="1200" height="800" alt="" loading="lazy"></a><a class="service-card care-card reveal" href="https://online-samsung.ru/promo/samsung-care" target="_blank" rel="noopener"><div><p class="eyebrow">Дополнительная защита</p><h3>Samsung Care+</h3><p>Забота о вашем устройстве каждый день</p><span class="inline-link">Подробнее <span aria-hidden="true">↗</span></span></div><svg class="shield-art" aria-hidden="true" viewBox="0 0 200 220"><defs><linearGradient id="shield" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#fff"/><stop offset=".5" stop-color="#9ca0ab"/><stop offset="1" stop-color="#f5f6f9"/></linearGradient></defs><path d="M100 12C76 31 52 35 20 39v69c0 44 25 77 80 102 55-25 80-58 80-102V39c-32-4-56-8-80-27Z" fill="url(#shield)" stroke="#8f949d" stroke-width="4"/><path d="M100 31v156M35 52c23-4 45-11 65-23 20 12 42 19 65 23" fill="none" stroke="#fff" stroke-opacity=".65" stroke-width="4"/></svg></a></div>
-      <div class="benefits reveal" id="delivery"><h2>Покупать удобно</h2><div class="benefit-grid"><div class="benefit"><svg class="icon"><use href="#i-truck"/></svg><div><h3>Бесплатная доставка</h3><p>По Москве и всей России</p></div></div><div class="benefit"><svg class="icon"><use href="#i-card"/></svg><div><h3>Гибкие способы оплаты</h3><p>Выбирайте удобный вариант</p></div></div><div class="benefit"><svg class="icon"><use href="#i-shield"/></svg><div><h3>Официальная гарантия</h3><p>Поддержка в сервисных центрах</p></div></div></div></div>
-    </section>
-
-    <section class="section journal shell" id="journal"><div class="section-title-row reveal"><h2>Полезно знать</h2><a class="text-link" href="https://online-samsung.ru/station" target="_blank" rel="noopener">Все статьи <span aria-hidden="true">↗</span></a></div><div class="article-grid">
-      <a class="article-card reveal" href="https://online-samsung.ru/station" target="_blank" rel="noopener"><div class="article-image"><img src="assets/hero-s26.webp" width="1836" height="857" alt="Крупный план камер смартфона" loading="lazy"></div><h3>Обзор Galaxy S26 Ultra: что нового?</h3><span class="inline-link">Читать <span aria-hidden="true">↗</span></span></a>
-      <a class="article-card reveal" href="https://online-samsung.ru/station" target="_blank" rel="noopener"><div class="article-image"><img src="assets/banner-tv.webp" width="2048" height="768" alt="Телевизор с изображением гор" loading="lazy"></div><h3>Как выбрать телевизор для дома</h3><span class="inline-link">Читать <span aria-hidden="true">↗</span></span></a>
-      <a class="article-card reveal" href="https://online-samsung.ru/station" target="_blank" rel="noopener"><div class="article-image article-watch"><img src="assets/journal-watch.webp" width="1200" height="1200" alt="Часы Galaxy Watch Ultra на руке во время скалолазания" loading="lazy"></div><h3>Galaxy Watch Ultra: возможности для активной жизни</h3><span class="inline-link">Читать <span aria-hidden="true">↗</span></span></a>
-    </div></section>
-
-    <section class="faq" id="faq" aria-labelledby="faq-title"><div class="shell faq-layout"><div class="faq-intro reveal"><p class="eyebrow">Поддержка покупателей</p><h2 id="faq-title">Ответы на<br>важные вопросы</h2><p>Всё, что нужно знать перед покупкой, в одном месте.</p><a class="faq-contact" href="tel:88007557525"><span>Нужна помощь с выбором?</span><strong>8 800 755-7525</strong><small>Позвонить в магазин <span aria-hidden="true">↗</span></small></a></div><div class="faq-list reveal"><details><summary><span class="faq-number">01</span><span>Какая гарантия на устройства?</span><span class="faq-plus" aria-hidden="true">+</span></summary><div class="faq-answer"><p>Условия гарантии зависят от модели. Перед заказом проверьте информацию в карточке товара или обратитесь в магазин.</p><a href="https://online-samsung.ru/" target="_blank" rel="noopener">Перейти в магазин ↗</a></div></details><details><summary><span class="faq-number">02</span><span>Как оплатить заказ?</span><span class="faq-plus" aria-hidden="true">+</span></summary><div class="faq-answer"><p>Способы оплаты и доступные условия указаны на странице магазина. Выберите подходящий вариант при оформлении заказа.</p><a href="https://online-samsung.ru/payment" target="_blank" rel="noopener">Условия оплаты ↗</a></div></details><details><summary><span class="faq-number">03</span><span>Можно ли обменять старое устройство?</span><span class="faq-plus" aria-hidden="true">+</span></summary><div class="faq-answer"><p>Программа Trade-in позволяет оценить старое устройство и узнать условия обмена.</p><a href="https://online-samsung.ru/trade-in" target="_blank" rel="noopener">Узнать о Trade-in ↗</a></div></details><details><summary><span class="faq-number">04</span><span>Как работает доставка?</span><span class="faq-plus" aria-hidden="true">+</span></summary><div class="faq-answer"><p>Сроки и доступность доставки зависят от вашего региона и выбранного товара.</p><a href="https://online-samsung.ru/delivery" target="_blank" rel="noopener">Условия доставки ↗</a></div></details></div></div></section>
-  </main>
-
-  <footer class="site-footer"><div class="shell footer-grid"><div class="footer-brand"><a class="brand" href="#top" aria-label="Online Samsung, наверх"><img src="assets/client-logo.svg" width="166" height="40" alt="Samsung — авторизованный фирменный магазин"></a><p>Демонстрационный редизайн Online Samsung.<br>Рекламные композиции созданы для макета. Товарные фото — из каталога Online Samsung. Цены из референса и не являются офертой.</p></div><div><h3>Каталог</h3><a href="#smartphones">Смартфоны</a><a href="#televisions">Телевизоры</a><a href="#categories">Бытовая техника</a><a href="#popular">Носимые устройства</a></div><div><h3>Покупателям</h3><a href="#delivery">Доставка</a><a href="#delivery">Оплата</a><a href="#services">Trade-in</a><a href="#services">Samsung Care+</a></div><div><h3>Поддержка</h3><a href="#faq">Частые вопросы</a><a href="https://online-samsung.ru/service" target="_blank" rel="noopener">Сервисные центры</a><a href="https://online-samsung.ru/service" target="_blank" rel="noopener">Связаться с нами</a></div><div><h3>О Samsung</h3><a href="https://online-samsung.ru/about" target="_blank" rel="noopener">О компании</a><a href="https://online-samsung.ru/station" target="_blank" rel="noopener">Новости</a><a href="https://online-samsung.ru/" target="_blank" rel="noopener">Официальный сайт ↗</a></div></div><div class="footer-bottom shell"><span>© Online Samsung — демонстрационный макет, 2026</span><span>Концепт редизайна, не действующий магазин</span><a href="#top">Наверх ↑</a></div></footer>
-
-  <svg class="svg-sprite" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"><symbol id="i-search" viewBox="0 0 24 24"><circle cx="10.7" cy="10.7" r="6.5"/><path d="m16 16 5 5"/></symbol><symbol id="i-user" viewBox="0 0 24 24"><circle cx="12" cy="8" r="3.3"/><path d="M5.5 20v-1.5a6.5 6.5 0 0 1 13 0V20Z"/></symbol><symbol id="i-bag" viewBox="0 0 24 24"><path d="M4 8h16l-1 13H5L4 8Z"/><path d="M8 9V6a4 4 0 0 1 8 0v3"/></symbol><symbol id="i-menu" viewBox="0 0 24 24"><path d="M3 6h18M3 12h18M3 18h18"/></symbol><symbol id="i-pin" viewBox="0 0 24 24"><path d="M12 22s7-7.1 7-13a7 7 0 0 0-14 0c0 5.9 7 13 7 13Z"/><circle cx="12" cy="9" r="2.3"/></symbol><symbol id="i-chevron" viewBox="0 0 24 24"><path d="m9 5 7 7-7 7"/></symbol><symbol id="i-truck" viewBox="0 0 24 24"><path d="M2 5h12v12H2zM14 9h4l4 4v4h-8"/><circle cx="6" cy="18" r="2"/><circle cx="18" cy="18" r="2"/></symbol><symbol id="i-card" viewBox="0 0 24 24"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="M2 9h20M6 16h5"/></symbol><symbol id="i-shield" viewBox="0 0 24 24"><path d="M12 2 3 6v6c0 5.7 3.5 9 9 10 5.5-1 9-4.3 9-10V6l-9-4Z"/><path d="m8 12 2.7 2.7L16 9"/></symbol></svg>
-  <script src="script.js" defer></script>
-</body>
+    <svg
+      class="svg-sprite"
+      aria-hidden="true"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <symbol id="i-search" viewBox="0 0 24 24">
+        <circle cx="10.7" cy="10.7" r="6.5" />
+        <path d="m16 16 5 5" />
+      </symbol>
+      <symbol id="i-user" viewBox="0 0 24 24">
+        <circle cx="12" cy="8" r="3.3" />
+        <path d="M5.5 20v-1.5a6.5 6.5 0 0 1 13 0V20Z" />
+      </symbol>
+      <symbol id="i-bag" viewBox="0 0 24 24">
+        <path d="M4 8h16l-1 13H5L4 8Z" />
+        <path d="M8 9V6a4 4 0 0 1 8 0v3" />
+      </symbol>
+      <symbol id="i-menu" viewBox="0 0 24 24">
+        <path d="M3 6h18M3 12h18M3 18h18" />
+      </symbol>
+      <symbol id="i-truck" viewBox="0 0 24 24">
+        <path d="M2 5h12v12H2zM14 9h4l4 4v4h-8" />
+        <circle cx="6" cy="18" r="2" />
+        <circle cx="18" cy="18" r="2" />
+      </symbol>
+      <symbol id="i-card" viewBox="0 0 24 24">
+        <rect x="2" y="4" width="20" height="16" rx="2" />
+        <path d="M2 9h20M6 16h5" />
+      </symbol>
+      <symbol id="i-shield" viewBox="0 0 24 24">
+        <path d="M12 2 3 6v6c0 5.7 3.5 9 9 10 5.5-1 9-4.3 9-10V6l-9-4Z" />
+        <path d="m8 12 2.7 2.7L16 9" />
+      </symbol>
+    </svg>
+    <script src="script.js?v=20261109-premium-6" defer></script>
+  </body>
 </html>
