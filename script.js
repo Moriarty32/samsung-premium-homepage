@@ -201,25 +201,30 @@ reduceMotion.addEventListener("change", (event) => {
     });
   }
 });
-// Category carousel: automatic playback yields to focus, hover and user preference.
+// Cinematic carousel: five seconds per scene, with a shared clock for progress.
 const categoryHero = document.querySelector(".hero-carousel");
 if (categoryHero) {
   const slides = [...categoryHero.querySelectorAll(".hero-slide")];
   const tabs = [...categoryHero.querySelectorAll(".hero-tab")];
   const pause = document.getElementById("hero-pause");
   const status = document.getElementById("hero-status");
-  const currentLabel = document.getElementById("hero-current");
   const hoverDevice = window.matchMedia("(hover: hover)");
+  const interval = 5000;
   let active = 0;
   let paused = false;
   let inView = true;
   let timer;
+  let elapsed = 0;
+  let startedAt = 0;
+  let progress;
   let selectionSerial = 0;
   let pointerStart = null;
-  const interval = 9000;
+
   function stopTimer() {
+    if (timer !== undefined) elapsed += performance.now() - startedAt;
     window.clearTimeout(timer);
     timer = undefined;
+    progress?.pause();
   }
   function syncTimer() {
     stopTimer();
@@ -231,18 +236,38 @@ if (categoryHero) {
       document.hidden ||
       comparisonDialog.open ||
       categoryHero.contains(document.activeElement) ||
-      (hoverDevice.matches && categoryHero.matches(":hover"));
-    if (!blocked)
-      timer = window.setTimeout(() => selectSlide(active + 1), interval);
+      (hoverDevice.matches && categoryHero.querySelector(".hero-cta:hover"));
+    categoryHero.dataset.playing = String(!blocked);
+    if (progress)
+      progress.currentTime = reduceMotion.matches
+        ? interval
+        : Math.min(elapsed, interval);
+    if (!blocked) {
+      startedAt = performance.now();
+      progress?.play();
+      timer = window.setTimeout(
+        () => selectSlide(active + 1),
+        Math.max(0, interval - elapsed),
+      );
+    }
+  }
+  function resetProgress() {
+    progress?.cancel();
+    elapsed = 0;
+    progress = tabs[active]
+      .querySelector(".hero-page-fill")
+      .animate([{ transform: "scaleX(0)" }, { transform: "scaleX(1)" }], {
+        duration: interval,
+        fill: "both",
+        easing: "linear",
+      });
+    progress.pause();
   }
   async function selectSlide(index, manual = false) {
     const ticket = ++selectionSerial;
     const next = (index + slides.length) % slides.length;
     stopTimer();
-    const image = slides[next].querySelector("img");
-    image.loading = "eager";
-    if (!image.complete || !image.naturalWidth)
-      await image.decode().catch(() => {});
+    await sceneReady[next];
     if (ticket !== selectionSerial) return;
     const previousFocused = slides[active].contains(document.activeElement);
     active = next;
@@ -256,20 +281,16 @@ if (categoryHero) {
       tabs[i].tabIndex = selected ? 0 : -1;
     });
     categoryHero.dataset.theme = slides[active].dataset.theme;
-    currentLabel.textContent = String(active + 1).padStart(2, "0");
-    if (manual)
-      status.textContent =
-        tabs[active].textContent.replace(/^\s*0\d\s*/, "").trim() +
-        ". Слайд " +
-        (active + 1) +
-        " из " +
-        slides.length +
-        ".";
+    if (manual) status.textContent = tabs[active].getAttribute("aria-label");
     if (previousFocused) tabs[active].focus({ preventScroll: true });
+    resetProgress();
     syncTimer();
   }
   tabs.forEach((tab, i) => {
-    tab.addEventListener("click", () => selectSlide(i, true));
+    tab.addEventListener("click", (event) => {
+      if (event.detail > 0) tab.blur();
+      selectSlide(i, true);
+    });
     tab.addEventListener("keydown", (event) => {
       let next;
       if (event.key === "ArrowRight") next = (i + 1) % tabs.length;
@@ -283,27 +304,21 @@ if (categoryHero) {
       selectSlide(next, true);
     });
   });
-  document
-    .getElementById("hero-prev")
-    .addEventListener("click", () => selectSlide(active - 1, true));
-  document
-    .getElementById("hero-next")
-    .addEventListener("click", () => selectSlide(active + 1, true));
-  pause.addEventListener("click", () => {
+  pause.addEventListener("click", (event) => {
     paused = !paused;
     pause.setAttribute("aria-pressed", String(paused));
     pause.setAttribute(
       "aria-label",
       paused ? "Продолжить смену слайдов" : "Приостановить смену слайдов",
     );
-    pause.firstElementChild.textContent = paused ? "▶" : "Ⅱ";
+    if (event.detail > 0) pause.blur();
     syncTimer();
   });
-  categoryHero.addEventListener("pointerenter", (event) => {
-    if (event.pointerType !== "touch") stopTimer();
+  categoryHero.querySelectorAll(".hero-cta").forEach((link) => {
+    link.addEventListener("pointerenter", syncTimer);
+    link.addEventListener("pointerleave", syncTimer);
   });
-  categoryHero.addEventListener("pointerleave", syncTimer);
-  categoryHero.addEventListener("focusin", stopTimer);
+  categoryHero.addEventListener("focusin", syncTimer);
   categoryHero.addEventListener("focusout", () =>
     window.setTimeout(syncTimer, 0),
   );
@@ -340,20 +355,27 @@ if (categoryHero) {
   );
   document.addEventListener("visibilitychange", syncTimer);
   reduceMotion.addEventListener("change", syncTimer);
+  hoverDevice.addEventListener("change", syncTimer);
   comparisonDialog.addEventListener("close", syncTimer);
   comparisonDialog.addEventListener("toggle", syncTimer);
   if ("IntersectionObserver" in window)
     new IntersectionObserver(
       ([entry]) => {
-        inView = entry.isIntersecting;
+        inView = entry.isIntersecting && entry.intersectionRatio >= 0.15;
         syncTimer();
       },
       { threshold: 0.15 },
     ).observe(categoryHero);
   categoryHero.dataset.ready = "true";
-  // Fetch secondary scenes at low priority so a manual transition has no empty frame.
-  slides.slice(1).forEach((slide) => {
-    slide.querySelector("img").loading = "eager";
-  });
+  // Decode each layer before it is needed, keeping the transition on its clock.
+  const sceneReady = slides.map((slide) =>
+    Promise.all(
+      [...slide.querySelectorAll("img")].map((image) => {
+        image.loading = "eager";
+        return image.decode().catch(() => {});
+      }),
+    ),
+  );
+  resetProgress();
   syncTimer();
 }

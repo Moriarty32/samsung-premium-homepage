@@ -25,7 +25,14 @@
       crossorigin
     />
     <link rel="preload" as="image" href="assets/catalog-phone.webp" />
-    <link rel="stylesheet" href="design.css?v=20261109-category-slider-7" />
+    <link
+      rel="preload"
+      as="image"
+      href="assets/hero-background-galaxy.webp"
+      imagesrcset="assets/hero-background-galaxy-small.webp 960w, assets/hero-background-galaxy.webp 1942w"
+      imagesizes="100vw"
+    />
+    <link rel="stylesheet" href="design.css?v=20261109-cinematic-8" />
   </head>
   <body>
     <a class="skip-link" href="#main">Перейти к содержимому</a>
@@ -258,37 +265,39 @@
             aria-hidden="false"
             data-theme="dark"
           >
-            <div class="hero-grid shell">
-              <div class="hero-copy">
-                <p class="eyebrow light">Смартфоны Galaxy</p>
-                <h1 id="hero-title">Galaxy S26 Ultra</h1>
-                <p class="hero-subtitle">
-                  Камера для ваших историй. <br />S Pen — для ваших идей.
-                </p>
-                <div class="button-row">
+            <div class="hero-backdrop" aria-hidden="true">
+              <img
+                src="assets/hero-background-galaxy.webp"
+                srcset="
+                  assets/hero-background-galaxy-small.webp  960w,
+                  assets/hero-background-galaxy.webp       1942w
+                "
+                sizes="100vw"
+                width="1942"
+                height="809"
+                alt=""
+                fetchpriority="high"
+              />
+            </div>
+            <div class="hero-content-wrap shell">
+              <div class="hero-message">
+                <h1 id="hero-title">Galaxy S26<br />Ultra</h1>
+                <div class="hero-action">
                   <a
-                    class="button button-light"
+                    class="hero-cta button button-light"
                     href="https://online-samsung.ru/product/sm-s948bzvbcau"
                     target="_blank"
                     rel="noopener"
-                    >Выбрать Galaxy <span aria-hidden="true">↗</span></a
-                  ><button
-                    class="button button-outline-light"
-                    data-open-comparison
-                    type="button"
+                    >Выбрать Galaxy<span aria-hidden="true">↗</span></a
                   >
-                    Сравнить
-                  </button>
                 </div>
-                <p class="hero-note">Galaxy S26 Ultra · 256 ГБ · Фиолетовый</p>
               </div>
-              <div class="hero-art">
-                <div class="hero-halo" aria-hidden="true"></div>
+              <div class="hero-product">
                 <img
                   src="assets/catalog-phone.webp"
                   width="1200"
                   height="800"
-                  alt="Фиолетовый Galaxy S26 Ultra и электронное перо S Pen"
+                  alt="Фиолетовый Galaxy S26 Ultra и S Pen"
                   fetchpriority="high"
                 />
               </div>
@@ -303,37 +312,40 @@
             data-theme="dark"
             inert
           >
-            <div class="hero-grid shell">
-              <div class="hero-copy">
-                <p class="eyebrow light">Телевизоры Samsung</p>
-                <h2>Кино начинается <br />у вас дома</h2>
-                <p class="hero-subtitle">
-                  Для любимых фильмов. <br />И больших впечатлений.
-                </p>
-                <div class="button-row">
+            <div class="hero-backdrop" aria-hidden="true">
+              <img
+                src="assets/hero-background-cinema.webp"
+                srcset="
+                  assets/hero-background-cinema-small.webp  960w,
+                  assets/hero-background-cinema.webp       1942w
+                "
+                sizes="100vw"
+                width="1942"
+                height="809"
+                alt=""
+                loading="lazy"
+                fetchpriority="low"
+              />
+            </div>
+            <div class="hero-content-wrap shell">
+              <div class="hero-message">
+                <h2>Ваш личный<br />кинотеатр</h2>
+                <div class="hero-action">
                   <a
-                    class="button button-light"
+                    class="hero-cta button button-light"
                     href="https://online-samsung.ru/catalog/televizory/in-stock"
                     target="_blank"
                     rel="noopener"
-                    >Выбрать ТВ <span aria-hidden="true">↗</span></a
-                  ><a
-                    class="button button-outline-light"
-                    href="https://online-samsung.ru/station/televizory/kak-vybrat-televizor-samsung-polnoe-rukovodstvo-dlya-idealnogo-vybora"
-                    target="_blank"
-                    rel="noopener"
-                    >Как выбрать <span aria-hidden="true">↗</span></a
+                    >Выбрать ТВ<span aria-hidden="true">↗</span></a
                   >
                 </div>
-                <p class="hero-note">Тонкий дизайн · Большой экран</p>
               </div>
-              <div class="hero-art television-stage">
-                <div class="hero-halo" aria-hidden="true"></div>
+              <div class="hero-product">
                 <img
                   src="assets/hero-television.webp"
                   width="1536"
                   height="1024"
-                  alt="Телевизор с тонкой графитовой рамкой и синим абстрактным изображением — рекламная иллюстрация категории"
+                  alt="Телевизор с тонкой графитовой рамкой — иллюстрация категории"
                   loading="lazy"
                   fetchpriority="low"
                 />
@@ -349,32 +361,40 @@
             data-theme="light"
             inert
           >
-            <div class="hero-grid shell">
-              <div class="hero-copy">
-                <p class="eyebrow">Техника для дома</p>
-                <h2>Комфорт дома. <br />Каждый день.</h2>
-                <p class="hero-subtitle">
-                  Техника, которая бережёт <br />ваше время и любимые вещи.
-                </p>
-                <div class="button-row">
+            <div class="hero-backdrop" aria-hidden="true">
+              <img
+                src="assets/hero-background-home.webp"
+                srcset="
+                  assets/hero-background-home-small.webp  960w,
+                  assets/hero-background-home.webp       1942w
+                "
+                sizes="100vw"
+                width="1942"
+                height="809"
+                alt=""
+                loading="lazy"
+                fetchpriority="low"
+              />
+            </div>
+            <div class="hero-content-wrap shell">
+              <div class="hero-message">
+                <h2>Комфорт.<br />Каждый день.</h2>
+                <div class="hero-action">
                   <a
-                    class="button button-dark"
+                    class="hero-cta button button-dark"
                     href="https://online-samsung.ru/catalog/bytovaya-tehnika/in-stock"
                     target="_blank"
                     rel="noopener"
-                    >Выбрать технику <span aria-hidden="true">↗</span></a
-                  ><a class="button button-outline-dark" href="#services"
-                    >О сервисе <span aria-hidden="true">→</span></a
+                    >Выбрать технику<span aria-hidden="true">↗</span></a
                   >
                 </div>
-                <p class="hero-note">Для заботы о доме и самых близких</p>
               </div>
-              <div class="hero-art home-stage">
+              <div class="hero-product">
                 <img
                   src="assets/product-washer.webp"
                   width="900"
                   height="1125"
-                  alt="Графитовая стиральная машина с большим фронтальным люком — рекламная иллюстрация категории"
+                  alt="Графитовая стиральная машина — иллюстрация категории"
                   loading="lazy"
                   fetchpriority="low"
                 />
@@ -382,94 +402,70 @@
             </div>
           </article>
         </div>
-        <div class="hero-toolbar shell">
-          <div
-            class="hero-tabs"
-            role="tablist"
-            aria-label="Категории на первом экране"
+        <div
+          class="hero-pages"
+          role="tablist"
+          aria-label="Три слайда на первом экране"
+        >
+          <button
+            class="hero-tab is-active"
+            id="hero-tab-phone"
+            type="button"
+            role="tab"
+            aria-label="Смартфоны. Слайд 1 из 3"
+            aria-selected="true"
+            aria-controls="hero-slide-phone"
+            tabindex="0"
           >
-            <button
-              id="hero-tab-phone"
-              class="hero-tab is-active"
-              type="button"
-              role="tab"
-              aria-selected="true"
-              aria-controls="hero-slide-phone"
-              tabindex="0"
-            >
-              <span class="hero-tab-index" aria-hidden="true">01</span>
-              Смартфоны<span
-                class="hero-tab-line"
-                aria-hidden="true"
-              ></span></button
-            ><button
-              id="hero-tab-tv"
-              class="hero-tab"
-              type="button"
-              role="tab"
-              aria-selected="false"
-              aria-controls="hero-slide-tv"
-              tabindex="-1"
-            >
-              <span class="hero-tab-index" aria-hidden="true">02</span>
-              Телевизоры<span
-                class="hero-tab-line"
-                aria-hidden="true"
-              ></span></button
-            ><button
-              id="hero-tab-home"
-              class="hero-tab"
-              type="button"
-              role="tab"
-              aria-selected="false"
-              aria-controls="hero-slide-home"
-              tabindex="-1"
-            >
-              <span class="hero-tab-index" aria-hidden="true">03</span> Для
-              дома<span class="hero-tab-line" aria-hidden="true"></span>
-            </button>
-          </div>
-          <div class="hero-count" aria-hidden="true">
-            <span id="hero-current">01</span><span>/ 03</span>
-          </div>
-          <div
-            class="hero-navigation"
-            role="group"
-            aria-label="Управление слайдером"
+            <span class="hero-page-track" aria-hidden="true"
+              ><span class="hero-page-fill"></span
+            ></span></button
+          ><button
+            class="hero-tab"
+            id="hero-tab-tv"
+            type="button"
+            role="tab"
+            aria-label="Телевизоры. Слайд 2 из 3"
+            aria-selected="false"
+            aria-controls="hero-slide-tv"
+            tabindex="-1"
           >
-            <button
-              class="hero-control"
-              id="hero-prev"
-              type="button"
-              aria-label="Предыдущий слайд"
-            >
-              <span aria-hidden="true">←</span></button
-            ><button
-              class="hero-control"
-              id="hero-next"
-              type="button"
-              aria-label="Следующий слайд"
-            >
-              <span aria-hidden="true">→</span></button
-            ><button
-              class="hero-control hero-pause"
-              id="hero-pause"
-              type="button"
-              aria-label="Приостановить смену слайдов"
-              aria-pressed="false"
-            >
-              <span aria-hidden="true">Ⅱ</span>
-            </button>
-          </div>
+            <span class="hero-page-track" aria-hidden="true"
+              ><span class="hero-page-fill"></span
+            ></span></button
+          ><button
+            class="hero-tab"
+            id="hero-tab-home"
+            type="button"
+            role="tab"
+            aria-label="Техника для дома. Слайд 3 из 3"
+            aria-selected="false"
+            aria-controls="hero-slide-home"
+            tabindex="-1"
+          >
+            <span class="hero-page-track" aria-hidden="true"
+              ><span class="hero-page-fill"></span
+            ></span>
+          </button>
         </div>
+        <button
+          class="hero-pause"
+          id="hero-pause"
+          type="button"
+          aria-label="Приостановить смену слайдов"
+          aria-pressed="false"
+        >
+          <svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true">
+            <path class="hero-pause-symbol" d="M5 4v8M11 4v8" />
+            <path class="hero-play-symbol" d="m5 3 8 5-8 5Z" />
+          </svg>
+        </button>
         <p
           class="sr-only"
           id="hero-status"
           aria-live="polite"
           aria-atomic="true"
-        >
-          Смартфоны. Слайд 1 из 3.
-        </p>
+        ></p>
       </section>
 
       <section
@@ -1396,6 +1392,6 @@
         <path d="m8 12 2.7 2.7L16 9" />
       </symbol>
     </svg>
-    <script src="script.js?v=20261109-category-slider-7" defer></script>
+    <script src="script.js?v=20261109-cinematic-8" defer></script>
   </body>
 </html>
