@@ -1,0 +1,155 @@
+{
+  "version": "20261109-categories-1",
+  "categories": {
+    "all": {
+      "file": "catalog.html",
+      "title": "Каталог Samsung",
+      "label": "Все устройства",
+      "intro": "Технологии для вашего мира.",
+      "heroTitle": "Найдите свой Samsung.",
+      "heroText": "Для работы, отдыха и дома. Всё, что важно именно вам.",
+      "heroImage": "assets/home-editorial/journal-interface.webp",
+      "heroLink": "smartphones.html",
+      "heroAction": "Выбрать Galaxy",
+      "facets": ["category", "offers", "color"]
+    },
+    "smartphones": {
+      "file": "smartphones.html",
+      "title": "Смартфоны Samsung Galaxy",
+      "label": "Смартфоны",
+      "intro": "Выберите Galaxy в вашем ритме.",
+      "heroTitle": "Galaxy S26 Ultra",
+      "heroText": "Камера для ваших историй.\nS Pen — для ваших идей.",
+      "heroSku": "SM-S948BZVBCAU",
+      "heroLink": "galaxy-s26-ultra.html",
+      "heroAction": "Открыть Galaxy",
+      "quickFacet": "series",
+      "facets": [
+        "series",
+        "storage",
+        "ram",
+        "screen",
+        "sim",
+        "color",
+        "model",
+        "camera",
+        "offers"
+      ]
+    },
+    "tv": {
+      "file": "televisions.html",
+      "title": "Телевизоры Samsung",
+      "label": "Телевизоры",
+      "intro": "Новый взгляд на любимые истории.",
+      "heroTitle": "Больше, чем экран.",
+      "heroText": "Точная передача деталей.\nВпечатления в большом формате.",
+      "heroSku": "QE55S85HAEXPY",
+      "heroAction": "Смотреть модель",
+      "quickFacet": "technology",
+      "facets": [
+        "technology",
+        "screen",
+        "resolution",
+        "refresh",
+        "model",
+        "color",
+        "offers"
+      ]
+    },
+    "home": {
+      "file": "home-appliances.html",
+      "title": "Техника Samsung для дома",
+      "label": "Для дома",
+      "intro": "Продуманная забота о повседневном.",
+      "heroTitle": "Дом. В вашем ритме.",
+      "heroText": "Умные решения для стирки,\nсвежести и чистоты.",
+      "heroSku": "WD18DB8995BZLD",
+      "heroLink": "samsung-washer.html",
+      "heroAction": "Открыть Bespoke AI",
+      "quickFacet": "type",
+      "facets": ["type", "load", "drying", "spin", "color", "offers"]
+    },
+    "tablets": {
+      "file": "tablets.html",
+      "title": "Планшеты Samsung Galaxy Tab",
+      "label": "Планшеты",
+      "intro": "Больше пространства для ваших идей.",
+      "heroTitle": "Galaxy Tab S12 Ultra",
+      "heroText": "От первой заметки\nдо большого проекта.",
+      "heroSku": "SM-X946BZAECAU",
+      "heroLink": "galaxy-tab-ultra.html",
+      "heroAction": "Открыть Galaxy Tab",
+      "quickFacet": "storage",
+      "facets": [
+        "model",
+        "storage",
+        "ram",
+        "screen",
+        "network",
+        "color",
+        "offers"
+      ]
+    },
+    "watches": {
+      "file": "watches.html",
+      "title": "Часы Samsung Galaxy Watch",
+      "label": "Часы",
+      "intro": "Технологии, которые всегда с вами.",
+      "heroTitle": "Ваш ритм. Ваш Galaxy.",
+      "heroText": "Для движения, новых маршрутов\nи каждого дня.",
+      "heroSku": "SM-L715FZKACAU",
+      "heroAction": "Смотреть модель",
+      "quickFacet": "model",
+      "facets": ["model", "size", "screen", "network", "color", "offers"]
+    },
+    "audio": {
+      "file": "headphones.html",
+      "title": "Наушники Samsung Galaxy Buds",
+      "label": "Наушники",
+      "intro": "Ближе к любимому звуку.",
+      "heroTitle": "Только вы. И музыка.",
+      "heroText": "Ваши плейлисты, звонки\nи моменты тишины.",
+      "heroSku": "SM-R640NZKACIS",
+      "heroLink": "galaxy-buds4-pro.html",
+      "heroAction": "Открыть Galaxy Buds",
+      "quickFacet": "model",
+      "facets": ["model", "anc", "bluetooth", "color", "offers"]
+    },
+    "accessories": {
+      "file": "accessories.html",
+      "title": "Аксессуары Samsung",
+      "label": "Аксессуары",
+      "intro": "Детали, которые дополняют Galaxy.",
+      "heroTitle": "Важна каждая деталь.",
+      "heroText": "Защита и зарядка\nдля вашего устройства.",
+      "heroSku": "EF-KS948SSEGRU",
+      "heroLink": "galaxy-case.html",
+      "heroAction": "Смотреть аксессуар",
+      "quickFacet": "type",
+      "facets": ["type", "compatibility", "power", "color", "offers"]
+    },
+    "refrigerators": {
+      "file": "refrigerators.html",
+      "title": "Холодильники Samsung",
+      "label": "Холодильники",
+      "intro": "Больше пространства для свежих идей.",
+      "heroTitle": "Свежий взгляд на дом.",
+      "heroText": "Продуманные детали.\nПространство для любимого.",
+      "heroSku": "RF65DB970012WR",
+      "heroAction": "Смотреть модель",
+      "facets": ["type", "volume", "defrost", "width", "color", "offers"]
+    },
+    "vacuums": {
+      "file": "vacuum-cleaners.html",
+      "title": "Пылесосы Samsung",
+      "label": "Пылесосы",
+      "intro": "Продуманная забота о вашем доме.",
+      "heroTitle": "Чистота. Легко.",
+      "heroText": "Техника, которая помогает\nосвободить время для себя.",
+      "heroSku": "VS15A6031R5EV",
+      "heroAction": "Смотреть модель",
+      "quickFacet": "model",
+      "facets": ["model", "type", "power", "runtime", "color", "offers"]
+    }
+  }
+}

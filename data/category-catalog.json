@@ -1,0 +1,4317 @@
+[
+  {
+    "slug": "galaxy-s26-ultra",
+    "name": "Galaxy S26 Ultra",
+    "shortName": "Galaxy S26 Ultra",
+    "variant": "256 ГБ, Фиолетовый",
+    "price": 124990,
+    "sku": "SM-S948BZVBCAU",
+    "image": {
+      "file": "assets/products/galaxy-s26-ultra/1.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        221,
+        48,
+        918,
+        754
+      ]
+    },
+    "url": "galaxy-s26-ultra.html",
+    "sourceUrl": "https://online-samsung.ru/product/sm-s948bzvbcau",
+    "group": "smartphones",
+    "facets": {
+      "category": [
+        "Смартфоны"
+      ],
+      "model": [
+        "Galaxy S26 Ultra"
+      ],
+      "series": [
+        "Galaxy S"
+      ],
+      "storage": [
+        "256 ГБ"
+      ],
+      "ram": [
+        "12 ГБ"
+      ],
+      "screen": [
+        "6,9″"
+      ],
+      "camera": [
+        "200 МП"
+      ],
+      "sim": [
+        "Nano-SIM (4FF)"
+      ],
+      "color": [
+        "Фиолетовый"
+      ],
+      "technology": [
+        "Dynamic AMOLED 2X"
+      ],
+      "resolution": [
+        "3120 x 1440"
+      ],
+      "refresh": [
+        "120 Гц"
+      ],
+      "bluetooth": [
+        "6"
+      ],
+      "width": [
+        "7,81 см"
+      ]
+    },
+    "details": [
+      {
+        "label": "Диагональ экрана",
+        "value": "6,9″"
+      },
+      {
+        "label": "Встроенная память",
+        "value": "256 ГБ"
+      },
+      {
+        "label": "Оперативная память",
+        "value": "12 ГБ"
+      }
+    ],
+    "oldPrice": null,
+    "conditionNote": null,
+    "availability": "in-stock"
+  },
+  {
+    "slug": "galaxy-s26",
+    "name": "Galaxy S26",
+    "shortName": "Galaxy S26",
+    "variant": "256 ГБ, Фиолетовый",
+    "price": 84990,
+    "sku": "SM-S942BZVCCAU",
+    "image": {
+      "file": "assets/products/galaxy-s26/1.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        332,
+        77,
+        868,
+        723
+      ]
+    },
+    "url": "galaxy-s26.html",
+    "sourceUrl": "https://online-samsung.ru/product/sm-s942bzvccau",
+    "group": "smartphones",
+    "facets": {
+      "category": [
+        "Смартфоны"
+      ],
+      "model": [
+        "Galaxy S26"
+      ],
+      "series": [
+        "Galaxy S"
+      ],
+      "storage": [
+        "256 ГБ"
+      ],
+      "ram": [
+        "12 ГБ"
+      ],
+      "screen": [
+        "6,3″"
+      ],
+      "camera": [
+        "50 МП"
+      ],
+      "sim": [
+        "Nano-SIM (4FF)"
+      ],
+      "color": [
+        "Фиолетовый"
+      ],
+      "technology": [
+        "Dynamic AMOLED 2X"
+      ],
+      "resolution": [
+        "2340 x 1080"
+      ],
+      "refresh": [
+        "120 Гц"
+      ],
+      "bluetooth": [
+        "5.4"
+      ],
+      "width": [
+        "7,05 см"
+      ]
+    },
+    "details": [
+      {
+        "label": "Диагональ экрана",
+        "value": "6,3″"
+      },
+      {
+        "label": "Встроенная память",
+        "value": "256 ГБ"
+      },
+      {
+        "label": "Оперативная память",
+        "value": "12 ГБ"
+      }
+    ],
+    "oldPrice": 94990,
+    "conditionNote": null,
+    "availability": "in-stock"
+  },
+  {
+    "slug": "galaxy-z-fold7",
+    "name": "Galaxy Z Fold7",
+    "shortName": "Galaxy Z Fold7",
+    "variant": "256 ГБ, Чёрный",
+    "price": 142990,
+    "sku": "SM-F966BZKBCAU",
+    "image": {
+      "file": "assets/products/galaxy-z-fold7/1.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        325,
+        30,
+        873,
+        769
+      ]
+    },
+    "url": "galaxy-z-fold7.html",
+    "sourceUrl": "https://online-samsung.ru/product/sm-f966bzkbcau",
+    "group": "smartphones",
+    "facets": {
+      "category": [
+        "Смартфоны"
+      ],
+      "model": [
+        "Galaxy Z Fold7"
+      ],
+      "series": [
+        "Galaxy Z"
+      ],
+      "storage": [
+        "256 ГБ"
+      ],
+      "ram": [
+        "12 ГБ"
+      ],
+      "screen": [
+        "8″"
+      ],
+      "camera": [
+        "200 МП"
+      ],
+      "sim": [
+        "Nano-SIM (4FF), Встроенная SIM-карта"
+      ],
+      "color": [
+        "Чёрный"
+      ],
+      "technology": [
+        "Dynamic AMOLED 2X"
+      ],
+      "resolution": [
+        "2184 x 1968"
+      ],
+      "refresh": [
+        "120 Гц"
+      ],
+      "bluetooth": [
+        "5.4"
+      ],
+      "width": [
+        "14,319999999999999 см"
+      ]
+    },
+    "details": [
+      {
+        "label": "Диагональ экрана",
+        "value": "8″"
+      },
+      {
+        "label": "Встроенная память",
+        "value": "256 ГБ"
+      },
+      {
+        "label": "Оперативная память",
+        "value": "12 ГБ"
+      }
+    ],
+    "oldPrice": null,
+    "conditionNote": null,
+    "availability": "in-stock"
+  },
+  {
+    "slug": "galaxy-watch-ultra",
+    "name": "Galaxy Watch Ultra",
+    "shortName": "Galaxy Watch Ultra",
+    "variant": "Синий титан",
+    "price": 36990,
+    "sku": "SM-L705FZB1CAU",
+    "image": {
+      "file": "assets/products/galaxy-watch-ultra/1.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        322,
+        48,
+        938,
+        758
+      ]
+    },
+    "url": "galaxy-watch-ultra.html",
+    "sourceUrl": "https://online-samsung.ru/product/sm-l705fzb1cau",
+    "group": "watches",
+    "facets": {
+      "category": [
+        "Часы"
+      ],
+      "model": [
+        "Galaxy Watch Ultra"
+      ],
+      "screen": [
+        "1,47″"
+      ],
+      "sim": [
+        "e-SIM"
+      ],
+      "color": [
+        "Синий"
+      ],
+      "technology": [
+        "Super AMOLED"
+      ],
+      "resolution": [
+        "480 x 480"
+      ],
+      "network": [
+        "LTE / мобильная связь"
+      ],
+      "size": [
+        "47 мм"
+      ],
+      "width": [
+        "4,74 см"
+      ]
+    },
+    "details": [
+      {
+        "label": "Диагональ экрана",
+        "value": "1,47″"
+      },
+      {
+        "label": "Связь",
+        "value": "LTE / мобильная связь"
+      }
+    ],
+    "oldPrice": null,
+    "conditionNote": null,
+    "availability": "out-of-stock"
+  },
+  {
+    "slug": "galaxy-buds4-pro",
+    "name": "Galaxy Buds4 Pro",
+    "shortName": "Galaxy Buds4 Pro",
+    "variant": "Чёрный",
+    "price": 19990,
+    "sku": "SM-R640NZKACIS",
+    "image": {
+      "file": "assets/products/galaxy-buds4-pro/1.webp",
+      "width": 1200,
+      "height": 1200,
+      "bounds": [
+        247,
+        117,
+        953,
+        1154
+      ]
+    },
+    "url": "galaxy-buds4-pro.html",
+    "sourceUrl": "https://online-samsung.ru/product/sm-r640nzkacis",
+    "group": "audio",
+    "facets": {
+      "category": [
+        "Наушники"
+      ],
+      "model": [
+        "Galaxy Buds4 Pro"
+      ],
+      "color": [
+        "Чёрный"
+      ],
+      "anc": [
+        "С активным шумоподавлением"
+      ],
+      "bluetooth": [
+        "6.1"
+      ],
+      "width": [
+        "1,8 см"
+      ]
+    },
+    "details": [
+      {
+        "label": "Шумоподавление",
+        "value": "С активным шумоподавлением"
+      },
+      {
+        "label": "Версия Bluetooth",
+        "value": "6.1"
+      }
+    ],
+    "oldPrice": null,
+    "conditionNote": null,
+    "availability": "in-stock"
+  },
+  {
+    "slug": "samsung-tv-75",
+    "name": "Samsung Mini LED 75″",
+    "shortName": "Samsung Mini LED 75″",
+    "variant": "75\", Чёрный титан",
+    "price": 82990,
+    "sku": "UE75M1EHAUXPY",
+    "image": {
+      "file": "assets/products/samsung-tv-75/1.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        242,
+        19,
+        958,
+        781
+      ]
+    },
+    "url": "samsung-tv-75.html",
+    "sourceUrl": "https://online-samsung.ru/product/ue75m1ehauxpy",
+    "group": "tv",
+    "facets": {
+      "category": [
+        "Телевизоры"
+      ],
+      "model": [
+        "Mini LED 75″"
+      ],
+      "screen": [
+        "75″"
+      ],
+      "color": [
+        "Чёрный"
+      ],
+      "technology": [
+        "Мини LED"
+      ],
+      "resolution": [
+        "4K Ultra HD"
+      ],
+      "refresh": [
+        "50 Гц"
+      ],
+      "width": [
+        "166,81 см"
+      ]
+    },
+    "details": [
+      {
+        "label": "Диагональ экрана",
+        "value": "75″"
+      },
+      {
+        "label": "Технология экрана",
+        "value": "Мини LED"
+      },
+      {
+        "label": "Разрешение",
+        "value": "4K Ultra HD"
+      }
+    ],
+    "oldPrice": 109990,
+    "conditionNote": null,
+    "availability": "in-stock"
+  },
+  {
+    "slug": "samsung-washer",
+    "name": "Samsung Bespoke AI",
+    "shortName": "Samsung Bespoke AI",
+    "variant": "Тёмная сталь",
+    "price": 269990,
+    "sku": "WD18DB8995BZLD",
+    "image": {
+      "file": "assets/products/samsung-washer/1.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        358,
+        19,
+        842,
+        781
+      ]
+    },
+    "url": "samsung-washer.html",
+    "sourceUrl": "https://online-samsung.ru/product/wd18db8995bzld",
+    "group": "home",
+    "facets": {
+      "category": [
+        "Для дома"
+      ],
+      "model": [
+        "Bespoke AI"
+      ],
+      "color": [
+        "Серый"
+      ],
+      "type": [
+        "Стиральная машина с сушкой"
+      ],
+      "load": [
+        "18 кг"
+      ],
+      "drying": [
+        "Тепловой насос"
+      ],
+      "spin": [
+        "1000 об/мин"
+      ],
+      "width": [
+        "68,6 см"
+      ]
+    },
+    "details": [
+      {
+        "label": "Загрузка для стирки",
+        "value": "18 кг"
+      },
+      {
+        "label": "Тип сушки",
+        "value": "Тепловой насос"
+      },
+      {
+        "label": "Скорость отжима",
+        "value": "1000 об/мин"
+      }
+    ],
+    "oldPrice": null,
+    "conditionNote": null,
+    "availability": "in-stock"
+  },
+  {
+    "slug": "samsung-dryer",
+    "name": "Samsung Hybrid HeatPump",
+    "shortName": "Samsung Hybrid HeatPump",
+    "variant": "Чёрный",
+    "price": 147990,
+    "sku": "DV16DG8600BVLD",
+    "image": {
+      "file": "assets/products/samsung-dryer/1.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        322,
+        13,
+        878,
+        787
+      ]
+    },
+    "url": "samsung-dryer.html",
+    "sourceUrl": "https://online-samsung.ru/product/dv16dg8600bvld",
+    "group": "home",
+    "facets": {
+      "category": [
+        "Для дома"
+      ],
+      "model": [
+        "Hybrid HeatPump"
+      ],
+      "color": [
+        "Чёрный"
+      ],
+      "type": [
+        "Сушильная машина"
+      ],
+      "drying": [
+        "Гибридный тепловой насос"
+      ],
+      "width": [
+        "68,6 см"
+      ]
+    },
+    "details": [
+      {
+        "label": "Тип сушки",
+        "value": "Гибридный тепловой насос"
+      }
+    ],
+    "oldPrice": null,
+    "conditionNote": null,
+    "availability": "in-stock"
+  },
+  {
+    "slug": "galaxy-tab-ultra",
+    "name": "Galaxy Tab S12 Ultra",
+    "shortName": "Galaxy Tab S12 Ultra",
+    "variant": "512 ГБ, Серый",
+    "price": 171990,
+    "sku": "SM-X946BZAECAU",
+    "image": {
+      "file": "assets/products/galaxy-tab-ultra/1.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        87,
+        51,
+        1112,
+        750
+      ]
+    },
+    "url": "galaxy-tab-ultra.html",
+    "sourceUrl": "https://online-samsung.ru/product/sm-x946bzaecau",
+    "group": "tablets",
+    "facets": {
+      "category": [
+        "Планшеты"
+      ],
+      "model": [
+        "Galaxy Tab S12 Ultra"
+      ],
+      "storage": [
+        "512 ГБ"
+      ],
+      "ram": [
+        "12 ГБ"
+      ],
+      "screen": [
+        "14,6″"
+      ],
+      "camera": [
+        "13 МП"
+      ],
+      "sim": [
+        "eSIM, nano-SIM"
+      ],
+      "color": [
+        "Серый"
+      ],
+      "technology": [
+        "Dynamic AMOLED 2X"
+      ],
+      "resolution": [
+        "WQXGA+"
+      ],
+      "bluetooth": [
+        "6.0"
+      ],
+      "width": [
+        "20,85 см"
+      ],
+      "offers": [
+        "Товары дня"
+      ]
+    },
+    "details": [
+      {
+        "label": "Диагональ экрана",
+        "value": "14,6″"
+      },
+      {
+        "label": "Встроенная память",
+        "value": "512 ГБ"
+      },
+      {
+        "label": "Оперативная память",
+        "value": "12 ГБ"
+      }
+    ],
+    "oldPrice": null,
+    "conditionNote": null,
+    "availability": "in-stock"
+  },
+  {
+    "slug": "galaxy-case",
+    "name": "Samsung Carbon Magnet Case",
+    "shortName": "Samsung Carbon Magnet Case",
+    "variant": "Серый",
+    "price": 7990,
+    "sku": "EF-KS948SSEGRU",
+    "image": {
+      "file": "assets/products/galaxy-case/1.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        417,
+        26,
+        783,
+        774
+      ]
+    },
+    "url": "galaxy-case.html",
+    "sourceUrl": "https://online-samsung.ru/product/ef-ks948ssegru",
+    "group": "accessories",
+    "facets": {
+      "category": [
+        "Аксессуары"
+      ],
+      "model": [
+        "Carbon Magnet Case"
+      ],
+      "color": [
+        "Серый"
+      ],
+      "type": [
+        "Чехол-накладка"
+      ],
+      "compatibility": [
+        "Galaxy S26 Ultra"
+      ],
+      "width": [
+        "8 см"
+      ]
+    },
+    "details": [
+      {
+        "label": "Совместимость",
+        "value": "Galaxy S26 Ultra"
+      }
+    ],
+    "oldPrice": null,
+    "conditionNote": null,
+    "availability": "in-stock"
+  },
+  {
+    "slug": "sm-f976bzvbcau",
+    "name": "Galaxy Z Fold8 Ultra",
+    "shortName": "Galaxy Z Fold8 Ultra",
+    "variant": "256 ГБ, Фиолетовый",
+    "price": 164990,
+    "sku": "SM-F976BZVBCAU",
+    "image": {
+      "file": "assets/homepage-products/sm-f976bzvbcau.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        264,
+        31,
+        933,
+        768
+      ]
+    },
+    "url": "https://online-samsung.ru/product/sm-f976bzvbcau",
+    "sourceUrl": "https://online-samsung.ru/product/sm-f976bzvbcau",
+    "group": "smartphones",
+    "conditionNote": null,
+    "facets": {
+      "category": [
+        "Смартфоны"
+      ],
+      "model": [
+        "Galaxy Z Fold8 Ultra"
+      ],
+      "series": [
+        "Galaxy Z"
+      ],
+      "storage": [
+        "256 ГБ"
+      ],
+      "ram": [
+        "12 ГБ"
+      ],
+      "screen": [
+        "8″"
+      ],
+      "camera": [
+        "200 МП"
+      ],
+      "sim": [
+        "Nano-SIM (4FF), Встроенная SIM-карта"
+      ],
+      "color": [
+        "Фиолетовый"
+      ],
+      "technology": [
+        "Dynamic AMOLED 2X"
+      ],
+      "resolution": [
+        "2504 x 2256"
+      ],
+      "refresh": [
+        "120 Гц"
+      ],
+      "bluetooth": [
+        "6"
+      ],
+      "width": [
+        "14,319999999999999 см"
+      ],
+      "offers": [
+        "Новинки",
+        "Товары дня"
+      ]
+    },
+    "details": [
+      {
+        "label": "Диагональ экрана",
+        "value": "8″"
+      },
+      {
+        "label": "Встроенная память",
+        "value": "256 ГБ"
+      },
+      {
+        "label": "Оперативная память",
+        "value": "12 ГБ"
+      }
+    ],
+    "oldPrice": 179990,
+    "availability": "in-stock"
+  },
+  {
+    "slug": "sm-f971blvbcau",
+    "name": "Galaxy Z Fold8",
+    "shortName": "Galaxy Z Fold8",
+    "variant": "256 ГБ, Лавандовый",
+    "price": 149990,
+    "sku": "SM-F971BLVBCAU",
+    "image": {
+      "file": "assets/homepage-products/sm-f971blvbcau.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        112,
+        31,
+        1078,
+        770
+      ]
+    },
+    "url": "https://online-samsung.ru/product/sm-f971blvbcau",
+    "sourceUrl": "https://online-samsung.ru/product/sm-f971blvbcau",
+    "group": "smartphones",
+    "conditionNote": null,
+    "facets": {
+      "category": [
+        "Смартфоны"
+      ],
+      "model": [
+        "Galaxy Z Fold8"
+      ],
+      "series": [
+        "Galaxy Z"
+      ],
+      "storage": [
+        "256 ГБ"
+      ],
+      "ram": [
+        "12 ГБ"
+      ],
+      "screen": [
+        "7,6″"
+      ],
+      "camera": [
+        "50 МП"
+      ],
+      "sim": [
+        "Nano-SIM (4FF), Встроенная SIM-карта"
+      ],
+      "color": [
+        "Фиолетовый"
+      ],
+      "technology": [
+        "Dynamic AMOLED 2X"
+      ],
+      "resolution": [
+        "1848 x 2448"
+      ],
+      "refresh": [
+        "120 Гц"
+      ],
+      "bluetooth": [
+        "6"
+      ],
+      "width": [
+        "16,14 см"
+      ],
+      "offers": [
+        "Новинки"
+      ]
+    },
+    "details": [
+      {
+        "label": "Диагональ экрана",
+        "value": "7,6″"
+      },
+      {
+        "label": "Встроенная память",
+        "value": "256 ГБ"
+      },
+      {
+        "label": "Оперативная память",
+        "value": "12 ГБ"
+      }
+    ],
+    "oldPrice": 159990,
+    "availability": "in-stock"
+  },
+  {
+    "slug": "sm-f976bzkccau",
+    "name": "Galaxy Z Fold8 Ultra",
+    "shortName": "Galaxy Z Fold8 Ultra",
+    "variant": "512 ГБ, Графитовый",
+    "price": 194990,
+    "sku": "SM-F976BZKCCAU",
+    "image": {
+      "file": "assets/homepage-products/sm-f976bzkccau.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        264,
+        31,
+        933,
+        768
+      ]
+    },
+    "url": "https://online-samsung.ru/product/sm-f976bzkccau",
+    "sourceUrl": "https://online-samsung.ru/product/sm-f976bzkccau",
+    "group": "smartphones",
+    "conditionNote": null,
+    "facets": {
+      "category": [
+        "Смартфоны"
+      ],
+      "model": [
+        "Galaxy Z Fold8 Ultra"
+      ],
+      "series": [
+        "Galaxy Z"
+      ],
+      "storage": [
+        "512 ГБ"
+      ],
+      "ram": [
+        "12 ГБ"
+      ],
+      "screen": [
+        "8″"
+      ],
+      "camera": [
+        "200 МП"
+      ],
+      "sim": [
+        "Nano-SIM (4FF), Встроенная SIM-карта"
+      ],
+      "color": [
+        "Серый"
+      ],
+      "technology": [
+        "Dynamic AMOLED 2X"
+      ],
+      "resolution": [
+        "2504 x 2256"
+      ],
+      "refresh": [
+        "120 Гц"
+      ],
+      "bluetooth": [
+        "6"
+      ],
+      "width": [
+        "14,319999999999999 см"
+      ],
+      "offers": [
+        "Хиты продаж"
+      ]
+    },
+    "details": [
+      {
+        "label": "Диагональ экрана",
+        "value": "8″"
+      },
+      {
+        "label": "Встроенная память",
+        "value": "512 ГБ"
+      },
+      {
+        "label": "Оперативная память",
+        "value": "12 ГБ"
+      }
+    ],
+    "oldPrice": 209990,
+    "availability": "in-stock"
+  },
+  {
+    "slug": "sm-s948bzkccau",
+    "name": "Galaxy S26 Ultra",
+    "shortName": "Galaxy S26 Ultra",
+    "variant": "512 ГБ, Чёрный",
+    "price": 144990,
+    "sku": "SM-S948BZKCCAU",
+    "image": {
+      "file": "assets/products/galaxy-s26-ultra/black-1.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        220,
+        47,
+        919,
+        754
+      ]
+    },
+    "url": "galaxy-s26-ultra.html?sku=SM-S948BZKCCAU",
+    "sourceUrl": "https://online-samsung.ru/product/sm-s948bzkccau",
+    "group": "smartphones",
+    "conditionNote": null,
+    "facets": {
+      "category": [
+        "Смартфоны"
+      ],
+      "model": [
+        "Galaxy S26 Ultra"
+      ],
+      "series": [
+        "Galaxy S"
+      ],
+      "storage": [
+        "512 ГБ"
+      ],
+      "ram": [
+        "12 ГБ"
+      ],
+      "screen": [
+        "6,9″"
+      ],
+      "camera": [
+        "200 МП"
+      ],
+      "sim": [
+        "Nano-SIM (4FF)"
+      ],
+      "color": [
+        "Чёрный"
+      ],
+      "technology": [
+        "Dynamic AMOLED 2X"
+      ],
+      "resolution": [
+        "3120 x 1440"
+      ],
+      "refresh": [
+        "120 Гц"
+      ],
+      "bluetooth": [
+        "6"
+      ],
+      "width": [
+        "7,81 см"
+      ],
+      "offers": [
+        "Хиты продаж"
+      ]
+    },
+    "details": [
+      {
+        "label": "Диагональ экрана",
+        "value": "6,9″"
+      },
+      {
+        "label": "Встроенная память",
+        "value": "512 ГБ"
+      },
+      {
+        "label": "Оперативная память",
+        "value": "12 ГБ"
+      }
+    ],
+    "oldPrice": 159990,
+    "availability": "in-stock"
+  },
+  {
+    "slug": "sm-x946bzaicau",
+    "name": "Galaxy Tab S12 Ultra",
+    "shortName": "Galaxy Tab S12 Ultra",
+    "variant": "1024 ГБ, Серый",
+    "price": 211990,
+    "sku": "SM-X946BZAICAU",
+    "image": {
+      "file": "assets/products/galaxy-tab-ultra/1.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        87,
+        51,
+        1112,
+        750
+      ]
+    },
+    "url": "https://online-samsung.ru/product/sm-x946bzaicau",
+    "sourceUrl": "https://online-samsung.ru/product/sm-x946bzaicau",
+    "group": "tablets",
+    "conditionNote": null,
+    "facets": {
+      "category": [
+        "Планшеты"
+      ],
+      "model": [
+        "Galaxy Tab S12 Ultra"
+      ],
+      "storage": [
+        "1 ТБ"
+      ],
+      "ram": [
+        "16 ГБ"
+      ],
+      "screen": [
+        "14,6″"
+      ],
+      "camera": [
+        "13 МП"
+      ],
+      "sim": [
+        "eSIM, nano-SIM"
+      ],
+      "color": [
+        "Серый"
+      ],
+      "technology": [
+        "Dynamic AMOLED 2X"
+      ],
+      "resolution": [
+        "WQXGA+"
+      ],
+      "bluetooth": [
+        "6.0"
+      ],
+      "width": [
+        "20,85 см"
+      ],
+      "offers": [
+        "Новинки"
+      ]
+    },
+    "details": [
+      {
+        "label": "Диагональ экрана",
+        "value": "14,6″"
+      },
+      {
+        "label": "Встроенная память",
+        "value": "1 ТБ"
+      },
+      {
+        "label": "Оперативная память",
+        "value": "16 ГБ"
+      }
+    ],
+    "oldPrice": null,
+    "availability": "in-stock"
+  },
+  {
+    "slug": "sm-a185fzsncau",
+    "name": "Galaxy A18",
+    "shortName": "Galaxy A18",
+    "variant": "256 ГБ, Серый",
+    "price": 30990,
+    "sku": "SM-A185FZSNCAU",
+    "image": {
+      "file": "assets/homepage-products/sm-a185fzsncau.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        307,
+        44,
+        894,
+        756
+      ]
+    },
+    "url": "https://online-samsung.ru/product/sm-a185fzsncau",
+    "sourceUrl": "https://online-samsung.ru/product/sm-a185fzsncau",
+    "group": "smartphones",
+    "conditionNote": null,
+    "facets": {
+      "category": [
+        "Смартфоны"
+      ],
+      "model": [
+        "Galaxy A18"
+      ],
+      "series": [
+        "Galaxy A"
+      ],
+      "storage": [
+        "256 ГБ"
+      ],
+      "ram": [
+        "8 ГБ"
+      ],
+      "screen": [
+        "6,7″"
+      ],
+      "camera": [
+        "50 МП"
+      ],
+      "sim": [
+        "Nano-SIM (4FF)"
+      ],
+      "color": [
+        "Серый"
+      ],
+      "technology": [
+        "Super AMOLED"
+      ],
+      "resolution": [
+        "2340 x 1080"
+      ],
+      "refresh": [
+        "90 Гц"
+      ],
+      "bluetooth": [
+        "5.3"
+      ],
+      "width": [
+        "7,790000000000001 см"
+      ],
+      "offers": [
+        "Товары дня"
+      ]
+    },
+    "details": [
+      {
+        "label": "Диагональ экрана",
+        "value": "6,7″"
+      },
+      {
+        "label": "Встроенная память",
+        "value": "256 ГБ"
+      },
+      {
+        "label": "Оперативная память",
+        "value": "8 ГБ"
+      }
+    ],
+    "oldPrice": 32990,
+    "availability": "in-stock"
+  },
+  {
+    "slug": "sm-s947bzvbcau",
+    "name": "Galaxy S26+",
+    "shortName": "Galaxy S26+",
+    "variant": "256 ГБ, Фиолетовый",
+    "price": 99990,
+    "sku": "SM-S947BZVBCAU",
+    "image": {
+      "file": "assets/homepage-products/sm-s947bzvbcau.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        321,
+        58,
+        879,
+        742
+      ]
+    },
+    "url": "https://online-samsung.ru/product/sm-s947bzvbcau",
+    "sourceUrl": "https://online-samsung.ru/product/sm-s947bzvbcau",
+    "group": "smartphones",
+    "conditionNote": null,
+    "facets": {
+      "category": [
+        "Смартфоны"
+      ],
+      "model": [
+        "Galaxy S26+"
+      ],
+      "series": [
+        "Galaxy S"
+      ],
+      "storage": [
+        "256 ГБ"
+      ],
+      "ram": [
+        "12 ГБ"
+      ],
+      "screen": [
+        "6,7″"
+      ],
+      "camera": [
+        "50 МП"
+      ],
+      "sim": [
+        "Nano-SIM (4FF)"
+      ],
+      "color": [
+        "Фиолетовый"
+      ],
+      "technology": [
+        "Dynamic AMOLED 2X"
+      ],
+      "resolution": [
+        "3120 x 1440"
+      ],
+      "refresh": [
+        "120 Гц"
+      ],
+      "bluetooth": [
+        "6"
+      ],
+      "width": [
+        "7,58 см"
+      ],
+      "offers": [
+        "Хиты продаж"
+      ]
+    },
+    "details": [
+      {
+        "label": "Диагональ экрана",
+        "value": "6,7″"
+      },
+      {
+        "label": "Встроенная память",
+        "value": "256 ГБ"
+      },
+      {
+        "label": "Оперативная память",
+        "value": "12 ГБ"
+      }
+    ],
+    "oldPrice": 109990,
+    "availability": "in-stock"
+  },
+  {
+    "slug": "ue75m80hauxpy",
+    "name": "Mini LED M80H",
+    "shortName": "Mini LED M80H",
+    "variant": "75\", Чёрный-титан",
+    "price": 129990,
+    "sku": "UE75M80HAUXPY",
+    "image": {
+      "file": "assets/homepage-products/ue75m80hauxpy.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        62,
+        68,
+        1143,
+        731
+      ]
+    },
+    "url": "https://online-samsung.ru/product/ue75m80hauxpy",
+    "sourceUrl": "https://online-samsung.ru/product/ue75m80hauxpy",
+    "group": "tv",
+    "conditionNote": null,
+    "facets": {
+      "category": [
+        "Телевизоры"
+      ],
+      "model": [
+        "Mini LED M80H"
+      ],
+      "screen": [
+        "75″"
+      ],
+      "color": [
+        "Чёрный"
+      ],
+      "technology": [
+        "Мини LED"
+      ],
+      "resolution": [
+        "4K Ultra HD"
+      ],
+      "refresh": [
+        "120 Гц"
+      ],
+      "width": [
+        "166,81 см"
+      ],
+      "offers": [
+        "Хиты продаж"
+      ]
+    },
+    "details": [
+      {
+        "label": "Диагональ экрана",
+        "value": "75″"
+      },
+      {
+        "label": "Технология экрана",
+        "value": "Мини LED"
+      },
+      {
+        "label": "Разрешение",
+        "value": "4K Ultra HD"
+      }
+    ],
+    "oldPrice": null,
+    "availability": "in-stock"
+  },
+  {
+    "slug": "qe85ls03hwuxpy",
+    "name": "The Frame",
+    "shortName": "The Frame",
+    "variant": "85\", Чёрный",
+    "price": 349990,
+    "sku": "QE85LS03HWUXPY",
+    "image": {
+      "file": "assets/homepage-products/qe85ls03hwuxpy.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        36,
+        53,
+        1165,
+        746
+      ]
+    },
+    "url": "https://online-samsung.ru/product/qe85ls03hwuxpy",
+    "sourceUrl": "https://online-samsung.ru/product/qe85ls03hwuxpy",
+    "group": "tv",
+    "conditionNote": null,
+    "facets": {
+      "category": [
+        "Телевизоры"
+      ],
+      "model": [
+        "The Frame"
+      ],
+      "screen": [
+        "85″"
+      ],
+      "color": [
+        "Чёрный"
+      ],
+      "technology": [
+        "The Frame Pro"
+      ],
+      "resolution": [
+        "4K Ultra HD"
+      ],
+      "refresh": [
+        "120 Гц"
+      ],
+      "width": [
+        "190,43 см"
+      ],
+      "offers": [
+        "Новинки"
+      ]
+    },
+    "details": [
+      {
+        "label": "Диагональ экрана",
+        "value": "85″"
+      },
+      {
+        "label": "Технология экрана",
+        "value": "The Frame Pro"
+      },
+      {
+        "label": "Разрешение",
+        "value": "4K Ultra HD"
+      }
+    ],
+    "oldPrice": null,
+    "availability": "in-stock"
+  },
+  {
+    "slug": "qe55s85haexpy",
+    "name": "OLED S85H",
+    "shortName": "OLED S85H",
+    "variant": "55\", Чёрный-графит",
+    "price": 169990,
+    "sku": "QE55S85HAEXPY",
+    "image": {
+      "file": "assets/homepage-products/qe55s85haexpy.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        72,
+        67,
+        1128,
+        733
+      ]
+    },
+    "url": "https://online-samsung.ru/product/qe55s85haexpy",
+    "sourceUrl": "https://online-samsung.ru/product/qe55s85haexpy",
+    "group": "tv",
+    "conditionNote": null,
+    "facets": {
+      "category": [
+        "Телевизоры"
+      ],
+      "model": [
+        "OLED S85H"
+      ],
+      "screen": [
+        "55″"
+      ],
+      "color": [
+        "Чёрный"
+      ],
+      "technology": [
+        "OLED ТВ"
+      ],
+      "resolution": [
+        "4K Ultra HD"
+      ],
+      "refresh": [
+        "120 Гц"
+      ],
+      "width": [
+        "122,57000000000001 см"
+      ],
+      "offers": [
+        "Хиты продаж",
+        "Товары дня"
+      ]
+    },
+    "details": [
+      {
+        "label": "Диагональ экрана",
+        "value": "55″"
+      },
+      {
+        "label": "Технология экрана",
+        "value": "OLED ТВ"
+      },
+      {
+        "label": "Разрешение",
+        "value": "4K Ultra HD"
+      }
+    ],
+    "oldPrice": null,
+    "availability": "in-stock"
+  },
+  {
+    "slug": "ue50m1ehauxpy",
+    "name": "Mini LED M1EH",
+    "shortName": "Mini LED M1EH",
+    "variant": "50\", Чёрный-титан",
+    "price": 43990,
+    "sku": "UE50M1EHAUXPY",
+    "image": {
+      "file": "assets/homepage-products/ue50m1ehauxpy.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        249,
+        19,
+        951,
+        781
+      ]
+    },
+    "url": "https://online-samsung.ru/product/ue50m1ehauxpy",
+    "sourceUrl": "https://online-samsung.ru/product/ue50m1ehauxpy",
+    "group": "tv",
+    "conditionNote": null,
+    "facets": {
+      "category": [
+        "Телевизоры"
+      ],
+      "model": [
+        "Mini LED M1EH"
+      ],
+      "screen": [
+        "50″"
+      ],
+      "color": [
+        "Чёрный"
+      ],
+      "technology": [
+        "Мини LED"
+      ],
+      "resolution": [
+        "4K Ultra HD"
+      ],
+      "refresh": [
+        "50 Гц"
+      ],
+      "width": [
+        "111,08 см"
+      ],
+      "offers": [
+        "Новинки"
+      ]
+    },
+    "details": [
+      {
+        "label": "Диагональ экрана",
+        "value": "50″"
+      },
+      {
+        "label": "Технология экрана",
+        "value": "Мини LED"
+      },
+      {
+        "label": "Разрешение",
+        "value": "4K Ultra HD"
+      }
+    ],
+    "oldPrice": 53990,
+    "availability": "in-stock"
+  },
+  {
+    "slug": "mre85r85hauxpy",
+    "name": "Micro RGB R85H",
+    "shortName": "Micro RGB R85H",
+    "variant": "85\", Чёрный",
+    "price": 449990,
+    "sku": "MRE85R85HAUXPY",
+    "image": {
+      "file": "assets/homepage-products/mre85r85hauxpy.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        73,
+        77,
+        1127,
+        721
+      ]
+    },
+    "url": "https://online-samsung.ru/product/mre85r85hauxpy",
+    "sourceUrl": "https://online-samsung.ru/product/mre85r85hauxpy",
+    "group": "tv",
+    "conditionNote": null,
+    "facets": {
+      "category": [
+        "Телевизоры"
+      ],
+      "model": [
+        "Micro RGB R85H"
+      ],
+      "screen": [
+        "85″"
+      ],
+      "color": [
+        "Чёрный"
+      ],
+      "technology": [
+        "Микро RGB"
+      ],
+      "resolution": [
+        "4K Ultra HD"
+      ],
+      "refresh": [
+        "120 Гц"
+      ],
+      "width": [
+        "188,88 см"
+      ],
+      "offers": [
+        "Новинки"
+      ]
+    },
+    "details": [
+      {
+        "label": "Диагональ экрана",
+        "value": "85″"
+      },
+      {
+        "label": "Технология экрана",
+        "value": "Микро RGB"
+      },
+      {
+        "label": "Разрешение",
+        "value": "4K Ultra HD"
+      }
+    ],
+    "oldPrice": null,
+    "availability": "in-stock"
+  },
+  {
+    "slug": "qe43ls03heuxpy",
+    "name": "The Frame",
+    "shortName": "The Frame",
+    "variant": "43\", Чёрный",
+    "price": 84990,
+    "sku": "QE43LS03HEUXPY",
+    "image": {
+      "file": "assets/homepage-products/qe43ls03heuxpy.webp",
+      "width": 1200,
+      "height": 830,
+      "bounds": [
+        52,
+        63,
+        1148,
+        768
+      ]
+    },
+    "url": "https://online-samsung.ru/product/qe43ls03heuxpy",
+    "sourceUrl": "https://online-samsung.ru/product/qe43ls03heuxpy",
+    "group": "tv",
+    "conditionNote": null,
+    "facets": {
+      "category": [
+        "Телевизоры"
+      ],
+      "model": [
+        "The Frame"
+      ],
+      "screen": [
+        "43″"
+      ],
+      "color": [
+        "Чёрный"
+      ],
+      "technology": [
+        "The Frame"
+      ],
+      "resolution": [
+        "4K Ultra HD"
+      ],
+      "refresh": [
+        "60 Гц"
+      ],
+      "width": [
+        "96,95 см"
+      ],
+      "offers": [
+        "Хиты продаж"
+      ]
+    },
+    "details": [
+      {
+        "label": "Диагональ экрана",
+        "value": "43″"
+      },
+      {
+        "label": "Технология экрана",
+        "value": "The Frame"
+      },
+      {
+        "label": "Разрешение",
+        "value": "4K Ultra HD"
+      }
+    ],
+    "oldPrice": null,
+    "availability": "unknown"
+  },
+  {
+    "slug": "rf65db970012wr",
+    "name": "Bespoke RF9000T",
+    "shortName": "Bespoke RF9000T",
+    "variant": "Белое-стекло",
+    "price": 366990,
+    "sku": "RF65DB970012WR",
+    "image": {
+      "file": "assets/homepage-products/rf65db970012wr.webp",
+      "width": 1920,
+      "height": 1280,
+      "bounds": [
+        652,
+        20,
+        1268,
+        1260
+      ]
+    },
+    "url": "https://online-samsung.ru/product/rf65db970012wr",
+    "sourceUrl": "https://online-samsung.ru/product/rf65db970012wr",
+    "group": "refrigerators",
+    "conditionNote": null,
+    "facets": {
+      "category": [
+        "Холодильники"
+      ],
+      "model": [
+        "Bespoke RF9000T"
+      ],
+      "color": [
+        "Белый"
+      ],
+      "type": [
+        "Многодверный холодильник"
+      ],
+      "width": [
+        "91,2 см"
+      ],
+      "offers": [
+        "Новинки"
+      ]
+    },
+    "details": [
+      {
+        "label": "Тип устройства",
+        "value": "Многодверный холодильник"
+      },
+      {
+        "label": "Ширина",
+        "value": "91,2 см"
+      }
+    ],
+    "oldPrice": 449990,
+    "availability": "in-stock"
+  },
+  {
+    "slug": "vs90f40dfgev",
+    "name": "Bespoke AI Jet Ultra",
+    "shortName": "Bespoke AI Jet Ultra",
+    "variant": "Серый",
+    "price": 89990,
+    "sku": "VS90F40DFGEV",
+    "image": {
+      "file": "assets/homepage-products/vs90f40dfgev.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        505,
+        13,
+        695,
+        788
+      ]
+    },
+    "url": "https://online-samsung.ru/product/vs90f40dfgev",
+    "sourceUrl": "https://online-samsung.ru/product/vs90f40dfgev",
+    "group": "vacuums",
+    "conditionNote": {
+      "label": "Витринный образец",
+      "sourceUrl": "https://online-samsung.ru/sites/default/files/styles/product_full/public/2026-10/image_2026-10-05_15-13-20.png.webp?itok=_iuRnzXt",
+      "evidence": "Explicit orange label embedded in the first official gallery image. The chosen alternate product angle is unmodified and does not include the label. Confirm unit condition with retailer."
+    },
+    "facets": {
+      "category": [
+        "Пылесосы"
+      ],
+      "model": [
+        "Bespoke AI Jet Ultra"
+      ],
+      "color": [
+        "Серый"
+      ],
+      "type": [
+        "Вертикальный пылесос"
+      ],
+      "power": [
+        "400 Вт"
+      ],
+      "width": [
+        "41,2 см"
+      ],
+      "offers": [
+        "Новинки",
+        "Витринный образец"
+      ]
+    },
+    "details": [
+      {
+        "label": "Тип устройства",
+        "value": "Вертикальный пылесос"
+      },
+      {
+        "label": "Мощность",
+        "value": "400 Вт"
+      }
+    ],
+    "oldPrice": 111999,
+    "availability": "in-stock"
+  },
+  {
+    "slug": "ww11cgp44csblp",
+    "name": "Samsung WW7400T",
+    "shortName": "Samsung WW7400T",
+    "variant": "Чёрный",
+    "price": 74990,
+    "sku": "WW11CGP44CSBLP",
+    "image": {
+      "file": "assets/homepage-products/ww11cgp44csblp.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        324,
+        12,
+        876,
+        787
+      ]
+    },
+    "url": "https://online-samsung.ru/product/ww11cgp44csblp",
+    "sourceUrl": "https://online-samsung.ru/product/ww11cgp44csblp",
+    "group": "home",
+    "conditionNote": null,
+    "facets": {
+      "category": [
+        "Для дома"
+      ],
+      "model": [
+        "WW7400T"
+      ],
+      "color": [
+        "Чёрный"
+      ],
+      "type": [
+        "Стиральная машина"
+      ],
+      "load": [
+        "11 кг"
+      ],
+      "spin": [
+        "1400 об/мин"
+      ],
+      "width": [
+        "60 см"
+      ],
+      "offers": [
+        "Хиты продаж"
+      ]
+    },
+    "details": [
+      {
+        "label": "Загрузка для стирки",
+        "value": "11 кг"
+      },
+      {
+        "label": "Скорость отжима",
+        "value": "1400 об/мин"
+      }
+    ],
+    "oldPrice": 84990,
+    "availability": "in-stock"
+  },
+  {
+    "slug": "ww11cb944cghlp",
+    "name": "Samsung WW9400B",
+    "shortName": "Samsung WW9400B",
+    "variant": "белый",
+    "price": 75990,
+    "sku": "WW11CB944CGHLP",
+    "image": {
+      "file": "assets/homepage-products/ww11cb944cghlp.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        287,
+        13,
+        913,
+        788
+      ]
+    },
+    "url": "https://online-samsung.ru/product/ww11cb944cghlp",
+    "sourceUrl": "https://online-samsung.ru/product/ww11cb944cghlp",
+    "group": "home",
+    "conditionNote": {
+      "label": "Витринный образец",
+      "sourceUrl": "https://online-samsung.ru/sites/default/files/styles/product_full/public/2026-10/1000140061.png.webp?itok=kYWrBXZv",
+      "evidence": "Explicit orange label embedded in the first official gallery image. The chosen alternate product angle is unmodified and does not include the label. Confirm unit condition with retailer."
+    },
+    "facets": {
+      "category": [
+        "Для дома"
+      ],
+      "model": [
+        "WW9400B"
+      ],
+      "color": [
+        "Белый"
+      ],
+      "type": [
+        "Стиральная машина"
+      ],
+      "load": [
+        "11 кг"
+      ],
+      "spin": [
+        "1400 об/мин"
+      ],
+      "width": [
+        "60 см"
+      ],
+      "offers": [
+        "Новинки",
+        "Витринный образец"
+      ]
+    },
+    "details": [
+      {
+        "label": "Загрузка для стирки",
+        "value": "11 кг"
+      },
+      {
+        "label": "Скорость отжима",
+        "value": "1400 об/мин"
+      }
+    ],
+    "oldPrice": 99990,
+    "availability": "in-stock"
+  },
+  {
+    "slug": "ww11cg604clblp",
+    "name": "Samsung WW11CG604",
+    "shortName": "Samsung WW11CG604",
+    "variant": "Чёрный",
+    "price": 75990,
+    "sku": "WW11CG604CLBLP",
+    "image": {
+      "file": "assets/homepage-products/ww11cg604clblp.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        318,
+        13,
+        882,
+        788
+      ]
+    },
+    "url": "https://online-samsung.ru/product/ww11cg604clblp",
+    "sourceUrl": "https://online-samsung.ru/product/ww11cg604clblp",
+    "group": "home",
+    "conditionNote": null,
+    "facets": {
+      "category": [
+        "Для дома"
+      ],
+      "model": [
+        "WW11CG604"
+      ],
+      "color": [
+        "Чёрный"
+      ],
+      "type": [
+        "Стиральная машина"
+      ],
+      "load": [
+        "11 кг"
+      ],
+      "spin": [
+        "1400 об/мин"
+      ],
+      "width": [
+        "60 см"
+      ],
+      "offers": [
+        "Хиты продаж"
+      ]
+    },
+    "details": [
+      {
+        "label": "Загрузка для стирки",
+        "value": "11 кг"
+      },
+      {
+        "label": "Скорость отжима",
+        "value": "1400 об/мин"
+      }
+    ],
+    "oldPrice": 86990,
+    "availability": "unknown"
+  },
+  {
+    "slug": "vs15a6031r5ev",
+    "name": "Samsung Jet 60",
+    "shortName": "Samsung Jet 60",
+    "variant": "Серебряный",
+    "price": 19990,
+    "sku": "VS15A6031R5EV",
+    "image": {
+      "file": "assets/homepage-products/vs15a6031r5ev.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        508,
+        13,
+        692,
+        788
+      ]
+    },
+    "url": "https://online-samsung.ru/product/vs15a6031r5ev",
+    "sourceUrl": "https://online-samsung.ru/product/vs15a6031r5ev",
+    "group": "vacuums",
+    "conditionNote": null,
+    "facets": {
+      "category": [
+        "Пылесосы"
+      ],
+      "model": [
+        "Jet 60"
+      ],
+      "color": [
+        "Серебристый"
+      ],
+      "type": [
+        "Вертикальный пылесос"
+      ],
+      "power": [
+        "150 Вт"
+      ],
+      "width": [
+        "45 см"
+      ],
+      "offers": [
+        "Хиты продаж"
+      ]
+    },
+    "details": [
+      {
+        "label": "Тип устройства",
+        "value": "Вертикальный пылесос"
+      },
+      {
+        "label": "Мощность",
+        "value": "150 Вт"
+      }
+    ],
+    "oldPrice": 25990,
+    "availability": "in-stock"
+  },
+  {
+    "slug": "sm-l715fzkacau",
+    "name": "Galaxy Watch Ultra 2",
+    "shortName": "Galaxy Watch Ultra 2",
+    "variant": "Чёрный-титан",
+    "price": 44990,
+    "sku": "SM-L715FZKACAU",
+    "image": {
+      "file": "assets/homepage-products/sm-l715fzkacau.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        303,
+        55,
+        904,
+        746
+      ]
+    },
+    "url": "https://online-samsung.ru/product/sm-l715fzkacau",
+    "sourceUrl": "https://online-samsung.ru/product/sm-l715fzkacau",
+    "group": "watches",
+    "conditionNote": null,
+    "facets": {
+      "category": [
+        "Часы"
+      ],
+      "model": [
+        "Galaxy Watch Ultra 2"
+      ],
+      "screen": [
+        "1,52″"
+      ],
+      "sim": [
+        "e-SIM"
+      ],
+      "color": [
+        "Чёрный"
+      ],
+      "technology": [
+        "Super AMOLED"
+      ],
+      "resolution": [
+        "498 x 498"
+      ],
+      "network": [
+        "LTE / мобильная связь"
+      ],
+      "size": [
+        "47 мм"
+      ],
+      "width": [
+        "4,71 см"
+      ],
+      "offers": [
+        "Новинки",
+        "Товары дня"
+      ]
+    },
+    "details": [
+      {
+        "label": "Диагональ экрана",
+        "value": "1,52″"
+      },
+      {
+        "label": "Связь",
+        "value": "LTE / мобильная связь"
+      }
+    ],
+    "oldPrice": 49990,
+    "availability": "in-stock"
+  },
+  {
+    "slug": "sm-l505fzwacau",
+    "name": "Galaxy Watch8 Classic",
+    "shortName": "Galaxy Watch8 Classic",
+    "variant": "белый",
+    "price": 32490,
+    "sku": "SM-L505FZWACAU",
+    "image": {
+      "file": "assets/homepage-products/sm-l505fzwacau.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        306,
+        73,
+        865,
+        728
+      ]
+    },
+    "url": "https://online-samsung.ru/product/sm-l505fzwacau",
+    "sourceUrl": "https://online-samsung.ru/product/sm-l505fzwacau",
+    "group": "watches",
+    "conditionNote": null,
+    "facets": {
+      "category": [
+        "Часы"
+      ],
+      "model": [
+        "Galaxy Watch8 Classic"
+      ],
+      "screen": [
+        "1,34″"
+      ],
+      "sim": [
+        "e-SIM"
+      ],
+      "color": [
+        "Белый"
+      ],
+      "technology": [
+        "Super AMOLED"
+      ],
+      "resolution": [
+        "438 x 438"
+      ],
+      "network": [
+        "LTE / мобильная связь"
+      ],
+      "size": [
+        "46 мм"
+      ],
+      "width": [
+        "4,6 см"
+      ],
+      "offers": [
+        "Хиты продаж"
+      ]
+    },
+    "details": [
+      {
+        "label": "Диагональ экрана",
+        "value": "1,34″"
+      },
+      {
+        "label": "Связь",
+        "value": "LTE / мобильная связь"
+      }
+    ],
+    "oldPrice": 41490,
+    "availability": "in-stock"
+  },
+  {
+    "slug": "sm-r540nzwacis",
+    "name": "Galaxy Buds4",
+    "shortName": "Galaxy Buds4",
+    "variant": "белый",
+    "price": 14490,
+    "sku": "SM-R540NZWACIS",
+    "image": {
+      "file": "assets/homepage-products/sm-r540nzwacis.webp",
+      "width": 1200,
+      "height": 1200,
+      "bounds": [
+        0,
+        0,
+        1200,
+        1200
+      ]
+    },
+    "url": "https://online-samsung.ru/product/sm-r540nzwacis",
+    "sourceUrl": "https://online-samsung.ru/product/sm-r540nzwacis",
+    "group": "audio",
+    "conditionNote": null,
+    "facets": {
+      "category": [
+        "Наушники"
+      ],
+      "model": [
+        "Galaxy Buds4"
+      ],
+      "color": [
+        "Белый"
+      ],
+      "anc": [
+        "С активным шумоподавлением"
+      ],
+      "bluetooth": [
+        "6.1"
+      ],
+      "width": [
+        "1,8 см"
+      ],
+      "offers": [
+        "Хиты продаж"
+      ]
+    },
+    "details": [
+      {
+        "label": "Шумоподавление",
+        "value": "С активным шумоподавлением"
+      },
+      {
+        "label": "Версия Bluetooth",
+        "value": "6.1"
+      }
+    ],
+    "oldPrice": null,
+    "availability": "in-stock"
+  },
+  {
+    "slug": "ep-t4511xbegeu",
+    "name": "Samsung EP-T4511",
+    "shortName": "Samsung EP-T4511",
+    "variant": "Чёрный",
+    "price": 4990,
+    "sku": "EP-T4511XBEGEU",
+    "image": {
+      "file": "assets/homepage-products/ep-t4511xbegeu.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        110,
+        13,
+        1089,
+        787
+      ]
+    },
+    "url": "https://online-samsung.ru/product/ep-t4511xbegeu",
+    "sourceUrl": "https://online-samsung.ru/product/ep-t4511xbegeu",
+    "group": "accessories",
+    "conditionNote": null,
+    "facets": {
+      "category": [
+        "Аксессуары"
+      ],
+      "model": [
+        "EP-T4511"
+      ],
+      "color": [
+        "Чёрный"
+      ],
+      "type": [
+        "Сетевое ЗУ"
+      ],
+      "compatibility": [
+        "Универсальное"
+      ],
+      "width": [
+        "4,35 см"
+      ],
+      "offers": [
+        "Хиты продаж"
+      ]
+    },
+    "details": [
+      {
+        "label": "Совместимость",
+        "value": "Универсальное"
+      }
+    ],
+    "oldPrice": null,
+    "availability": "in-stock"
+  },
+  {
+    "slug": "sm-l355fzsacau",
+    "name": "Galaxy Watch9",
+    "shortName": "Galaxy Watch9",
+    "variant": "Серебристый",
+    "price": 28990,
+    "sku": "SM-L355FZSACAU",
+    "image": {
+      "file": "assets/homepage-products/sm-l355fzsacau.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        318,
+        72,
+        882,
+        729
+      ]
+    },
+    "url": "https://online-samsung.ru/product/sm-l355fzsacau",
+    "sourceUrl": "https://online-samsung.ru/product/sm-l355fzsacau",
+    "group": "watches",
+    "conditionNote": null,
+    "facets": {
+      "category": [
+        "Часы"
+      ],
+      "model": [
+        "Galaxy Watch9"
+      ],
+      "screen": [
+        "1,5″"
+      ],
+      "sim": [
+        "e-SIM"
+      ],
+      "color": [
+        "Серебристый"
+      ],
+      "technology": [
+        "Super AMOLED"
+      ],
+      "resolution": [
+        "480 x 480"
+      ],
+      "network": [
+        "LTE / мобильная связь"
+      ],
+      "size": [
+        "44 мм"
+      ],
+      "width": [
+        "4,6 см"
+      ],
+      "offers": [
+        "Новинки"
+      ]
+    },
+    "details": [
+      {
+        "label": "Диагональ экрана",
+        "value": "1,5″"
+      },
+      {
+        "label": "Связь",
+        "value": "LTE / мобильная связь"
+      }
+    ],
+    "oldPrice": 30990,
+    "availability": "in-stock"
+  },
+  {
+    "slug": "sm-l345fzeacau",
+    "name": "Galaxy Watch9",
+    "shortName": "Galaxy Watch9",
+    "variant": "белое-золото",
+    "price": 26990,
+    "sku": "SM-L345FZEACAU",
+    "image": {
+      "file": "assets/homepage-products/sm-l345fzeacau.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        331,
+        87,
+        868,
+        714
+      ]
+    },
+    "url": "https://online-samsung.ru/product/sm-l345fzeacau",
+    "sourceUrl": "https://online-samsung.ru/product/sm-l345fzeacau",
+    "group": "watches",
+    "conditionNote": null,
+    "facets": {
+      "category": [
+        "Часы"
+      ],
+      "model": [
+        "Galaxy Watch9"
+      ],
+      "screen": [
+        "1,3″"
+      ],
+      "sim": [
+        "e-SIM"
+      ],
+      "color": [
+        "Серебристый"
+      ],
+      "technology": [
+        "Super AMOLED"
+      ],
+      "resolution": [
+        "438 x 438"
+      ],
+      "network": [
+        "LTE / мобильная связь"
+      ],
+      "size": [
+        "40 мм"
+      ],
+      "width": [
+        "4,2700000000000005 см"
+      ],
+      "offers": [
+        "Новинки"
+      ]
+    },
+    "details": [
+      {
+        "label": "Диагональ экрана",
+        "value": "1,3″"
+      },
+      {
+        "label": "Связь",
+        "value": "LTE / мобильная связь"
+      }
+    ],
+    "oldPrice": 28990,
+    "availability": "in-stock"
+  },
+  {
+    "sku": "SM-A576BZVFCAU",
+    "group": "smartphones",
+    "shortName": "Galaxy A57",
+    "modelKey": "galaxy-a57",
+    "sourceUrl": "https://online-samsung.ru/product/sm-a576bzvfcau",
+    "slug": "sm-a576bzvfcau",
+    "name": "Galaxy A57",
+    "variant": "256 Гб, Сиреневый",
+    "price": 46990,
+    "oldPrice": null,
+    "url": "https://online-samsung.ru/product/sm-a576bzvfcau",
+    "image": {
+      "file": "assets/category-products/sm-a576bzvfcau.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        310,
+        51,
+        890,
+        749
+      ]
+    },
+    "facets": {
+      "category": [
+        "Смартфоны"
+      ],
+      "model": [
+        "Galaxy A57"
+      ],
+      "series": [
+        "Galaxy A"
+      ],
+      "storage": [
+        "256 ГБ"
+      ],
+      "ram": [
+        "8 ГБ"
+      ],
+      "screen": [
+        "6,7″"
+      ],
+      "camera": [
+        "50 МП"
+      ],
+      "sim": [
+        "Nano-SIM (4FF)"
+      ],
+      "color": [
+        "Фиолетовый"
+      ],
+      "technology": [
+        "Super AMOLED"
+      ],
+      "resolution": [
+        "2340 x 1080"
+      ],
+      "refresh": [
+        "120 Гц"
+      ],
+      "bluetooth": [
+        "6"
+      ],
+      "width": [
+        "7,68 см"
+      ]
+    },
+    "details": [
+      {
+        "label": "Диагональ экрана",
+        "value": "6,7″"
+      },
+      {
+        "label": "Встроенная память",
+        "value": "256 ГБ"
+      },
+      {
+        "label": "Оперативная память",
+        "value": "8 ГБ"
+      }
+    ],
+    "conditionNote": null,
+    "availability": "in-stock"
+  },
+  {
+    "sku": "SM-A576BDBFCAU",
+    "group": "smartphones",
+    "shortName": "Galaxy A57",
+    "modelKey": "galaxy-a57",
+    "sourceUrl": "https://online-samsung.ru/product/sm-a576bdbfcau",
+    "slug": "sm-a576bdbfcau",
+    "name": "Galaxy A57",
+    "variant": "256 Гб, Синий",
+    "price": 46990,
+    "oldPrice": null,
+    "url": "https://online-samsung.ru/product/sm-a576bdbfcau",
+    "image": {
+      "file": "assets/category-products/sm-a576bdbfcau.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        310,
+        51,
+        890,
+        749
+      ]
+    },
+    "facets": {
+      "category": [
+        "Смартфоны"
+      ],
+      "model": [
+        "Galaxy A57"
+      ],
+      "series": [
+        "Galaxy A"
+      ],
+      "storage": [
+        "256 ГБ"
+      ],
+      "ram": [
+        "8 ГБ"
+      ],
+      "screen": [
+        "6,7″"
+      ],
+      "camera": [
+        "50 МП"
+      ],
+      "sim": [
+        "Nano-SIM (4FF)"
+      ],
+      "color": [
+        "Синий"
+      ],
+      "technology": [
+        "Super AMOLED"
+      ],
+      "resolution": [
+        "2340 x 1080"
+      ],
+      "refresh": [
+        "120 Гц"
+      ],
+      "bluetooth": [
+        "6"
+      ],
+      "width": [
+        "7,68 см"
+      ]
+    },
+    "details": [
+      {
+        "label": "Диагональ экрана",
+        "value": "6,7″"
+      },
+      {
+        "label": "Встроенная память",
+        "value": "256 ГБ"
+      },
+      {
+        "label": "Оперативная память",
+        "value": "8 ГБ"
+      }
+    ],
+    "conditionNote": null,
+    "availability": "in-stock"
+  },
+  {
+    "sku": "SM-A376EZWGCAU",
+    "group": "smartphones",
+    "shortName": "Galaxy A37",
+    "modelKey": "galaxy-a37",
+    "sourceUrl": "https://online-samsung.ru/product/sm-a376ezwgcau",
+    "slug": "sm-a376ezwgcau",
+    "name": "Galaxy A37",
+    "variant": "256 Гб, белый",
+    "price": 40990,
+    "oldPrice": null,
+    "url": "https://online-samsung.ru/product/sm-a376ezwgcau",
+    "image": {
+      "file": "assets/category-products/sm-a376ezwgcau.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        306,
+        48,
+        894,
+        752
+      ]
+    },
+    "facets": {
+      "category": [
+        "Смартфоны"
+      ],
+      "model": [
+        "Galaxy A37"
+      ],
+      "series": [
+        "Galaxy A"
+      ],
+      "storage": [
+        "256 ГБ"
+      ],
+      "ram": [
+        "8 ГБ"
+      ],
+      "screen": [
+        "6,7″"
+      ],
+      "camera": [
+        "50 МП"
+      ],
+      "sim": [
+        "Nano-SIM (4FF)"
+      ],
+      "color": [
+        "Белый"
+      ],
+      "technology": [
+        "Super AMOLED"
+      ],
+      "resolution": [
+        "2340 x 1080"
+      ],
+      "refresh": [
+        "120 Гц"
+      ],
+      "bluetooth": [
+        "5.3"
+      ],
+      "width": [
+        "7,82 см"
+      ]
+    },
+    "details": [
+      {
+        "label": "Диагональ экрана",
+        "value": "6,7″"
+      },
+      {
+        "label": "Встроенная память",
+        "value": "256 ГБ"
+      },
+      {
+        "label": "Оперативная память",
+        "value": "8 ГБ"
+      }
+    ],
+    "conditionNote": null,
+    "availability": "in-stock"
+  },
+  {
+    "sku": "SM-A276BZKHCAU",
+    "group": "smartphones",
+    "shortName": "Galaxy A27",
+    "modelKey": "galaxy-a27",
+    "sourceUrl": "https://online-samsung.ru/product/sm-a276bzkhcau",
+    "slug": "sm-a276bzkhcau",
+    "name": "Galaxy A27",
+    "variant": "256 Гб, Чёрный",
+    "price": 35990,
+    "oldPrice": null,
+    "url": "https://online-samsung.ru/product/sm-a276bzkhcau",
+    "image": {
+      "file": "assets/category-products/sm-a276bzkhcau.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        305,
+        49,
+        895,
+        751
+      ]
+    },
+    "facets": {
+      "category": [
+        "Смартфоны"
+      ],
+      "model": [
+        "Galaxy A27"
+      ],
+      "series": [
+        "Galaxy A"
+      ],
+      "storage": [
+        "256 ГБ"
+      ],
+      "ram": [
+        "8 ГБ"
+      ],
+      "screen": [
+        "6,7″"
+      ],
+      "camera": [
+        "50 МП"
+      ],
+      "sim": [
+        "Nano-SIM (4FF)"
+      ],
+      "color": [
+        "Чёрный"
+      ],
+      "technology": [
+        "Super AMOLED"
+      ],
+      "resolution": [
+        "2340 x 1080"
+      ],
+      "refresh": [
+        "120 Гц"
+      ],
+      "bluetooth": [
+        "5.1"
+      ],
+      "width": [
+        "7,82 см"
+      ]
+    },
+    "details": [
+      {
+        "label": "Диагональ экрана",
+        "value": "6,7″"
+      },
+      {
+        "label": "Встроенная память",
+        "value": "256 ГБ"
+      },
+      {
+        "label": "Оперативная память",
+        "value": "8 ГБ"
+      }
+    ],
+    "conditionNote": null,
+    "availability": "in-stock"
+  },
+  {
+    "sku": "SM-S741BZKCCAU",
+    "group": "smartphones",
+    "shortName": "Galaxy S26 FE",
+    "modelKey": "galaxy-s26-fe",
+    "sourceUrl": "https://online-samsung.ru/product/sm-s741bzkccau",
+    "slug": "sm-s741bzkccau",
+    "name": "Galaxy S26 FE",
+    "variant": "256 Гб, Чёрный",
+    "price": 69990,
+    "oldPrice": null,
+    "url": "https://online-samsung.ru/product/sm-s741bzkccau",
+    "image": {
+      "file": "assets/category-products/sm-s741bzkccau.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        310,
+        50,
+        887,
+        750
+      ]
+    },
+    "facets": {
+      "category": [
+        "Смартфоны"
+      ],
+      "model": [
+        "Galaxy S26 FE"
+      ],
+      "series": [
+        "Galaxy S"
+      ],
+      "storage": [
+        "256 ГБ"
+      ],
+      "ram": [
+        "8 ГБ"
+      ],
+      "screen": [
+        "6,7″"
+      ],
+      "camera": [
+        "50 МП"
+      ],
+      "sim": [
+        "Nano-SIM (4FF)"
+      ],
+      "color": [
+        "Чёрный"
+      ],
+      "technology": [
+        "Dynamic AMOLED 2X"
+      ],
+      "resolution": [
+        "2340 x 1080"
+      ],
+      "refresh": [
+        "120 Гц"
+      ],
+      "bluetooth": [
+        "5.4"
+      ],
+      "width": [
+        "7,69 см"
+      ]
+    },
+    "details": [
+      {
+        "label": "Диагональ экрана",
+        "value": "6,7″"
+      },
+      {
+        "label": "Встроенная память",
+        "value": "256 ГБ"
+      },
+      {
+        "label": "Оперативная память",
+        "value": "8 ГБ"
+      }
+    ],
+    "conditionNote": null,
+    "availability": "in-stock"
+  },
+  {
+    "sku": "SM-F776BZKGCAU",
+    "group": "smartphones",
+    "shortName": "Galaxy Z Flip8",
+    "modelKey": "galaxy-z-flip8",
+    "sourceUrl": "https://online-samsung.ru/product/sm-f776bzkgcau",
+    "slug": "sm-f776bzkgcau",
+    "name": "Galaxy Z Flip8",
+    "variant": "256 Гб, Графитовый",
+    "price": 104990,
+    "oldPrice": null,
+    "url": "https://online-samsung.ru/product/sm-f776bzkgcau",
+    "image": {
+      "file": "assets/category-products/sm-f776bzkgcau.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        297,
+        19,
+        907,
+        782
+      ]
+    },
+    "facets": {
+      "category": [
+        "Смартфоны"
+      ],
+      "model": [
+        "Galaxy Z Flip8"
+      ],
+      "series": [
+        "Galaxy Z"
+      ],
+      "storage": [
+        "256 ГБ"
+      ],
+      "ram": [
+        "12 ГБ"
+      ],
+      "screen": [
+        "6,9″"
+      ],
+      "camera": [
+        "50 МП"
+      ],
+      "sim": [
+        "Nano-SIM (4FF), Встроенная SIM-карта"
+      ],
+      "color": [
+        "Серый"
+      ],
+      "technology": [
+        "Dynamic AMOLED 2X"
+      ],
+      "resolution": [
+        "2520 x 1080"
+      ],
+      "refresh": [
+        "120 Гц"
+      ],
+      "bluetooth": [
+        "5.4"
+      ],
+      "width": [
+        "7,540000000000001 см"
+      ]
+    },
+    "details": [
+      {
+        "label": "Диагональ экрана",
+        "value": "6,9″"
+      },
+      {
+        "label": "Встроенная память",
+        "value": "256 ГБ"
+      },
+      {
+        "label": "Оперативная память",
+        "value": "12 ГБ"
+      }
+    ],
+    "conditionNote": null,
+    "availability": "in-stock"
+  },
+  {
+    "sku": "SM-F766BZKHCAU",
+    "group": "smartphones",
+    "shortName": "Galaxy Z Flip7",
+    "modelKey": "galaxy-z-flip7",
+    "sourceUrl": "https://online-samsung.ru/product/sm-f766bzkhcau",
+    "slug": "sm-f766bzkhcau",
+    "name": "Galaxy Z Flip7",
+    "variant": "512 Гб, Чёрный",
+    "price": 96490,
+    "oldPrice": null,
+    "url": "https://online-samsung.ru/product/sm-f766bzkhcau",
+    "image": {
+      "file": "assets/category-products/sm-f766bzkhcau.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        297,
+        15,
+        908,
+        783
+      ]
+    },
+    "facets": {
+      "category": [
+        "Смартфоны"
+      ],
+      "model": [
+        "Galaxy Z Flip7"
+      ],
+      "series": [
+        "Galaxy Z"
+      ],
+      "storage": [
+        "512 ГБ"
+      ],
+      "ram": [
+        "12 ГБ"
+      ],
+      "screen": [
+        "6,9″"
+      ],
+      "camera": [
+        "50 МП"
+      ],
+      "sim": [
+        "Nano-SIM (4FF), Встроенная SIM-карта"
+      ],
+      "color": [
+        "Чёрный"
+      ],
+      "technology": [
+        "Dynamic AMOLED 2X"
+      ],
+      "resolution": [
+        "2520 x 1080"
+      ],
+      "refresh": [
+        "120 Гц"
+      ],
+      "bluetooth": [
+        "5.4"
+      ],
+      "width": [
+        "7,5200000000000005 см"
+      ]
+    },
+    "details": [
+      {
+        "label": "Диагональ экрана",
+        "value": "6,9″"
+      },
+      {
+        "label": "Встроенная память",
+        "value": "512 ГБ"
+      },
+      {
+        "label": "Оперативная память",
+        "value": "12 ГБ"
+      }
+    ],
+    "conditionNote": null,
+    "availability": "in-stock"
+  },
+  {
+    "sku": "RT35CG5000S9WT",
+    "group": "refrigerators",
+    "shortName": "Samsung RT35",
+    "modelKey": "samsung-rt35",
+    "sourceUrl": "https://online-samsung.ru/product/rt35cg5000s9wt",
+    "slug": "rt35cg5000s9wt",
+    "name": "Samsung RT35",
+    "variant": "Серебристый",
+    "price": 68990,
+    "oldPrice": null,
+    "url": "https://online-samsung.ru/product/rt35cg5000s9wt",
+    "image": {
+      "file": "assets/category-products/rt35cg5000s9wt.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        445,
+        30,
+        756,
+        770
+      ]
+    },
+    "facets": {
+      "category": [
+        "Холодильники"
+      ],
+      "model": [
+        "RT35"
+      ],
+      "color": [
+        "Серебристый"
+      ],
+      "type": [
+        "с верхней морозильной камерой"
+      ],
+      "volume": [
+        "348 л"
+      ],
+      "width": [
+        "60 см"
+      ]
+    },
+    "details": [
+      {
+        "label": "Тип устройства",
+        "value": "с верхней морозильной камерой"
+      },
+      {
+        "label": "Ширина",
+        "value": "60 см"
+      }
+    ],
+    "conditionNote": null,
+    "availability": "in-stock"
+  },
+  {
+    "sku": "RS70F65Q1TWT",
+    "group": "refrigerators",
+    "shortName": "Side-by-Side RS70",
+    "modelKey": "samsung-rs70",
+    "sourceUrl": "https://online-samsung.ru/product/rs70f65q1twt",
+    "slug": "rs70f65q1twt",
+    "name": "Side-by-Side RS70",
+    "variant": "Серебристый",
+    "price": 129990,
+    "oldPrice": null,
+    "url": "https://online-samsung.ru/product/rs70f65q1twt",
+    "image": {
+      "file": "assets/category-products/rs70f65q1twt.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        407,
+        26,
+        793,
+        774
+      ]
+    },
+    "facets": {
+      "category": [
+        "Холодильники"
+      ],
+      "model": [
+        "Side-by-Side RS70"
+      ],
+      "color": [
+        "Серебристый"
+      ],
+      "type": [
+        "Side by Side"
+      ],
+      "width": [
+        "91,2 см"
+      ]
+    },
+    "details": [
+      {
+        "label": "Тип устройства",
+        "value": "Side by Side"
+      },
+      {
+        "label": "Ширина",
+        "value": "91,2 см"
+      }
+    ],
+    "conditionNote": null,
+    "availability": "in-stock"
+  },
+  {
+    "sku": "SM-X846BZAACAU",
+    "group": "tablets",
+    "shortName": "Galaxy Tab S12+",
+    "modelKey": "galaxy-tab-s12-plus",
+    "sourceUrl": "https://online-samsung.ru/product/sm-x846bzaacau",
+    "slug": "sm-x846bzaacau",
+    "name": "Galaxy Tab S12+",
+    "variant": "256 Гб, Серый",
+    "price": 131990,
+    "oldPrice": null,
+    "url": "https://online-samsung.ru/product/sm-x846bzaacau",
+    "image": {
+      "file": "assets/category-products/sm-x846bzaacau.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        91,
+        47,
+        1109,
+        753
+      ]
+    },
+    "facets": {
+      "category": [
+        "Планшеты"
+      ],
+      "model": [
+        "Galaxy Tab S12+"
+      ],
+      "storage": [
+        "256 ГБ"
+      ],
+      "ram": [
+        "12 ГБ"
+      ],
+      "screen": [
+        "12,6″"
+      ],
+      "camera": [
+        "13 МП"
+      ],
+      "sim": [
+        "eSIM, nano-SIM"
+      ],
+      "color": [
+        "Серый"
+      ],
+      "technology": [
+        "Dynamic AMOLED 2X"
+      ],
+      "resolution": [
+        "WQXGA+"
+      ],
+      "bluetooth": [
+        "6.0"
+      ],
+      "width": [
+        "18,78 см"
+      ]
+    },
+    "details": [
+      {
+        "label": "Диагональ экрана",
+        "value": "12,6″"
+      },
+      {
+        "label": "Встроенная память",
+        "value": "256 ГБ"
+      },
+      {
+        "label": "Оперативная память",
+        "value": "12 ГБ"
+      }
+    ],
+    "conditionNote": null,
+    "availability": "in-stock"
+  },
+  {
+    "sku": "SM-X236BZAACAU",
+    "group": "tablets",
+    "shortName": "Galaxy Tab A11+",
+    "modelKey": "galaxy-tab-a11-plus",
+    "sourceUrl": "https://online-samsung.ru/product/sm-x236bzaacau",
+    "slug": "sm-x236bzaacau",
+    "name": "Galaxy Tab A11+",
+    "variant": "128 Гб, Серый",
+    "price": 25990,
+    "oldPrice": null,
+    "url": "https://online-samsung.ru/product/sm-x236bzaacau",
+    "image": {
+      "file": "assets/category-products/sm-x236bzaacau.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        90,
+        40,
+        1111,
+        760
+      ]
+    },
+    "facets": {
+      "category": [
+        "Планшеты"
+      ],
+      "model": [
+        "Galaxy Tab A11+"
+      ],
+      "storage": [
+        "128 ГБ"
+      ],
+      "ram": [
+        "6 ГБ"
+      ],
+      "screen": [
+        "11″"
+      ],
+      "camera": [
+        "8 МП"
+      ],
+      "sim": [
+        "nano-SIM"
+      ],
+      "color": [
+        "Серый"
+      ],
+      "technology": [
+        "TFT"
+      ],
+      "resolution": [
+        "WUXGA"
+      ],
+      "bluetooth": [
+        "5.3"
+      ],
+      "width": [
+        "25,71 см"
+      ]
+    },
+    "details": [
+      {
+        "label": "Диагональ экрана",
+        "value": "11″"
+      },
+      {
+        "label": "Встроенная память",
+        "value": "128 ГБ"
+      },
+      {
+        "label": "Оперативная память",
+        "value": "6 ГБ"
+      }
+    ],
+    "conditionNote": null,
+    "availability": "in-stock"
+  },
+  {
+    "sku": "SM-R410NZKACIS",
+    "group": "audio",
+    "shortName": "Galaxy Buds Core",
+    "modelKey": "galaxy-buds-core",
+    "sourceUrl": "https://online-samsung.ru/product/sm-r410nzkacis",
+    "slug": "sm-r410nzkacis",
+    "name": "Galaxy Buds Core",
+    "variant": "Чёрный",
+    "price": 4990,
+    "oldPrice": null,
+    "url": "https://online-samsung.ru/product/sm-r410nzkacis",
+    "image": {
+      "file": "assets/category-products/sm-r410nzkacis.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        324,
+        79,
+        876,
+        720
+      ]
+    },
+    "facets": {
+      "category": [
+        "Наушники"
+      ],
+      "model": [
+        "Galaxy Buds Core"
+      ],
+      "color": [
+        "Чёрный"
+      ],
+      "anc": [
+        "С активным шумоподавлением"
+      ],
+      "bluetooth": [
+        "5.4"
+      ],
+      "width": [
+        "1,7 см"
+      ]
+    },
+    "details": [
+      {
+        "label": "Шумоподавление",
+        "value": "С активным шумоподавлением"
+      },
+      {
+        "label": "Версия Bluetooth",
+        "value": "5.4"
+      }
+    ],
+    "conditionNote": null,
+    "availability": "in-stock"
+  },
+  {
+    "sku": "EB-P3401XURGRU",
+    "group": "accessories",
+    "shortName": "Samsung EB-P3401",
+    "modelKey": "samsung-battery-10000",
+    "sourceUrl": "https://online-samsung.ru/product/eb-p3401xurgru",
+    "slug": "eb-p3401xurgru",
+    "name": "Samsung EB-P3401",
+    "variant": "Бежевый",
+    "price": 4990,
+    "oldPrice": null,
+    "url": "https://online-samsung.ru/product/eb-p3401xurgru",
+    "image": {
+      "file": "assets/category-products/eb-p3401xurgru.webp",
+      "width": 1920,
+      "height": 1280,
+      "bounds": [
+        720,
+        20,
+        1199,
+        1259
+      ]
+    },
+    "facets": {
+      "category": [
+        "Аксессуары"
+      ],
+      "model": [
+        "EB-P3401"
+      ],
+      "color": [
+        "Бежевый"
+      ],
+      "type": [
+        "Портативный аккумулятор"
+      ],
+      "compatibility": [
+        "Универсальный"
+      ],
+      "width": [
+        "7 см"
+      ]
+    },
+    "details": [
+      {
+        "label": "Совместимость",
+        "value": "Универсальный"
+      }
+    ],
+    "conditionNote": null,
+    "availability": "in-stock"
+  },
+  {
+    "sku": "EP-T6530NBEGEU",
+    "group": "accessories",
+    "shortName": "Samsung EP-T6530",
+    "modelKey": "samsung-charger-65w",
+    "sourceUrl": "https://online-samsung.ru/product/ep-t6530nbegeu",
+    "slug": "ep-t6530nbegeu",
+    "name": "Samsung EP-T6530",
+    "variant": "Чёрный",
+    "price": 5990,
+    "oldPrice": null,
+    "url": "https://online-samsung.ru/product/ep-t6530nbegeu",
+    "image": {
+      "file": "assets/category-products/ep-t6530nbegeu.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        104,
+        14,
+        1096,
+        787
+      ]
+    },
+    "facets": {
+      "category": [
+        "Аксессуары"
+      ],
+      "model": [
+        "EP-T6530"
+      ],
+      "color": [
+        "Чёрный"
+      ],
+      "type": [
+        "Сетевое ЗУ"
+      ],
+      "compatibility": [
+        "Устройства с USB Type-C, устройства Apple iPhone (при наличии совместимого кабеля). При зарядке устройств с высоким энергопотреблением (ноутбуки и пр.) рекомендуется подключать их к соответствующему разъему 65W на адаптере питания"
+      ],
+      "width": [
+        "5,2 см"
+      ]
+    },
+    "details": [
+      {
+        "label": "Совместимость",
+        "value": "Устройства с USB Type-C, устройства Apple iPhone (при наличии совместимого кабеля). При зарядке устройств с высоким энергопотреблением (ноутбуки и пр.) рекомендуется подключать их к соответствующему разъему 65W на адаптере питания"
+      }
+    ],
+    "conditionNote": null,
+    "availability": "in-stock"
+  },
+  {
+    "sku": "VR7MD97714GEV",
+    "group": "vacuums",
+    "shortName": "Samsung Jet Bot Combo",
+    "modelKey": "samsung-jet-bot-combo",
+    "sourceUrl": "https://online-samsung.ru/product/vr7md97714gev",
+    "slug": "vr7md97714gev",
+    "name": "Samsung Jet Bot Combo",
+    "variant": "Светло-серый",
+    "price": 114990,
+    "oldPrice": null,
+    "url": "https://online-samsung.ru/product/vr7md97714gev",
+    "image": {
+      "file": "assets/category-products/vr7md97714gev.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        260,
+        13,
+        940,
+        787
+      ]
+    },
+    "facets": {
+      "category": [
+        "Пылесосы"
+      ],
+      "model": [
+        "Jet Bot Combo"
+      ],
+      "color": [
+        "Серый"
+      ],
+      "type": [
+        "Робот-пылесос"
+      ],
+      "power": [
+        "5 Вт"
+      ],
+      "width": [
+        "63 см"
+      ]
+    },
+    "details": [
+      {
+        "label": "Тип устройства",
+        "value": "Робот-пылесос"
+      },
+      {
+        "label": "Мощность",
+        "value": "5 Вт"
+      }
+    ],
+    "conditionNote": null,
+    "availability": "in-stock"
+  },
+  {
+    "slug": "galaxy-s26-ultra",
+    "name": "Galaxy S26 Ultra",
+    "shortName": "Galaxy S26 Ultra",
+    "variant": "256 ГБ, Голубой",
+    "price": 124990,
+    "sku": "SM-S948BLBBCAU",
+    "image": {
+      "file": "assets/products/galaxy-s26-ultra/blue-1.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        220,
+        47,
+        918,
+        753
+      ]
+    },
+    "url": "galaxy-s26-ultra.html?sku=SM-S948BLBBCAU",
+    "sourceUrl": "https://online-samsung.ru/product/sm-s948blbbcau",
+    "group": "smartphones",
+    "facets": {
+      "category": [
+        "Смартфоны"
+      ],
+      "model": [
+        "Galaxy S26 Ultra"
+      ],
+      "series": [
+        "Galaxy S"
+      ],
+      "storage": [
+        "256 ГБ"
+      ],
+      "ram": [
+        "12 ГБ"
+      ],
+      "screen": [
+        "6,9″"
+      ],
+      "camera": [
+        "200 МП"
+      ],
+      "sim": [
+        "Nano-SIM (4FF)"
+      ],
+      "color": [
+        "Голубой"
+      ],
+      "technology": [
+        "Dynamic AMOLED 2X"
+      ],
+      "resolution": [
+        "3120 x 1440"
+      ],
+      "refresh": [
+        "120 Гц"
+      ],
+      "bluetooth": [
+        "6"
+      ]
+    },
+    "details": [
+      {
+        "label": "Диагональ экрана",
+        "value": "6,9″"
+      },
+      {
+        "label": "Встроенная память",
+        "value": "256 ГБ"
+      },
+      {
+        "label": "Оперативная память",
+        "value": "12 ГБ"
+      }
+    ],
+    "oldPrice": null,
+    "conditionNote": null,
+    "availability": "in-stock"
+  },
+  {
+    "slug": "galaxy-s26-ultra",
+    "name": "Galaxy S26 Ultra",
+    "shortName": "Galaxy S26 Ultra",
+    "variant": "256 ГБ, Белый",
+    "price": 124990,
+    "sku": "SM-S948BZWBCAU",
+    "image": {
+      "file": "assets/products/galaxy-s26-ultra/white-1.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        9,
+        0,
+        1189,
+        800
+      ]
+    },
+    "url": "galaxy-s26-ultra.html?sku=SM-S948BZWBCAU",
+    "sourceUrl": "https://online-samsung.ru/product/sm-s948bzwbcau",
+    "group": "smartphones",
+    "facets": {
+      "category": [
+        "Смартфоны"
+      ],
+      "model": [
+        "Galaxy S26 Ultra"
+      ],
+      "series": [
+        "Galaxy S"
+      ],
+      "storage": [
+        "256 ГБ"
+      ],
+      "ram": [
+        "12 ГБ"
+      ],
+      "screen": [
+        "6,9″"
+      ],
+      "camera": [
+        "200 МП"
+      ],
+      "sim": [
+        "Nano-SIM (4FF)"
+      ],
+      "color": [
+        "Белый"
+      ],
+      "technology": [
+        "Dynamic AMOLED 2X"
+      ],
+      "resolution": [
+        "3120 x 1440"
+      ],
+      "refresh": [
+        "120 Гц"
+      ],
+      "bluetooth": [
+        "6"
+      ]
+    },
+    "details": [
+      {
+        "label": "Диагональ экрана",
+        "value": "6,9″"
+      },
+      {
+        "label": "Встроенная память",
+        "value": "256 ГБ"
+      },
+      {
+        "label": "Оперативная память",
+        "value": "12 ГБ"
+      }
+    ],
+    "oldPrice": null,
+    "conditionNote": null,
+    "availability": "in-stock"
+  },
+  {
+    "slug": "galaxy-s26-ultra",
+    "name": "Galaxy S26 Ultra",
+    "shortName": "Galaxy S26 Ultra",
+    "variant": "256 ГБ, Чёрный",
+    "price": 124990,
+    "sku": "SM-S948BZKBCAU",
+    "image": {
+      "file": "assets/products/galaxy-s26-ultra/black-1.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        221,
+        48,
+        918,
+        754
+      ]
+    },
+    "url": "galaxy-s26-ultra.html?sku=SM-S948BZKBCAU",
+    "sourceUrl": "https://online-samsung.ru/product/sm-s948bzkbcau",
+    "group": "smartphones",
+    "facets": {
+      "category": [
+        "Смартфоны"
+      ],
+      "model": [
+        "Galaxy S26 Ultra"
+      ],
+      "series": [
+        "Galaxy S"
+      ],
+      "storage": [
+        "256 ГБ"
+      ],
+      "ram": [
+        "12 ГБ"
+      ],
+      "screen": [
+        "6,9″"
+      ],
+      "camera": [
+        "200 МП"
+      ],
+      "sim": [
+        "Nano-SIM (4FF)"
+      ],
+      "color": [
+        "Чёрный"
+      ],
+      "technology": [
+        "Dynamic AMOLED 2X"
+      ],
+      "resolution": [
+        "3120 x 1440"
+      ],
+      "refresh": [
+        "120 Гц"
+      ],
+      "bluetooth": [
+        "6"
+      ]
+    },
+    "details": [
+      {
+        "label": "Диагональ экрана",
+        "value": "6,9″"
+      },
+      {
+        "label": "Встроенная память",
+        "value": "256 ГБ"
+      },
+      {
+        "label": "Оперативная память",
+        "value": "12 ГБ"
+      }
+    ],
+    "oldPrice": null,
+    "conditionNote": null,
+    "availability": "in-stock"
+  },
+  {
+    "slug": "galaxy-s26-ultra",
+    "name": "Galaxy S26 Ultra",
+    "shortName": "Galaxy S26 Ultra",
+    "variant": "512 ГБ, Фиолетовый",
+    "price": 144990,
+    "sku": "SM-S948BZVCCAU",
+    "image": {
+      "file": "assets/products/galaxy-s26-ultra/1.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        221,
+        48,
+        918,
+        754
+      ]
+    },
+    "url": "galaxy-s26-ultra.html?sku=SM-S948BZVCCAU",
+    "sourceUrl": "https://online-samsung.ru/product/sm-s948bzvccau",
+    "group": "smartphones",
+    "facets": {
+      "category": [
+        "Смартфоны"
+      ],
+      "model": [
+        "Galaxy S26 Ultra"
+      ],
+      "series": [
+        "Galaxy S"
+      ],
+      "storage": [
+        "512 ГБ"
+      ],
+      "ram": [
+        "12 ГБ"
+      ],
+      "screen": [
+        "6,9″"
+      ],
+      "camera": [
+        "200 МП"
+      ],
+      "sim": [
+        "Nano-SIM (4FF)"
+      ],
+      "color": [
+        "Фиолетовый"
+      ],
+      "technology": [
+        "Dynamic AMOLED 2X"
+      ],
+      "resolution": [
+        "3120 x 1440"
+      ],
+      "refresh": [
+        "120 Гц"
+      ],
+      "bluetooth": [
+        "6"
+      ]
+    },
+    "details": [
+      {
+        "label": "Диагональ экрана",
+        "value": "6,9″"
+      },
+      {
+        "label": "Встроенная память",
+        "value": "512 ГБ"
+      },
+      {
+        "label": "Оперативная память",
+        "value": "12 ГБ"
+      }
+    ],
+    "oldPrice": null,
+    "conditionNote": null,
+    "availability": "in-stock"
+  },
+  {
+    "slug": "galaxy-s26-ultra",
+    "name": "Galaxy S26 Ultra",
+    "shortName": "Galaxy S26 Ultra",
+    "variant": "512 ГБ, Голубой",
+    "price": 144990,
+    "sku": "SM-S948BLBCCAU",
+    "image": {
+      "file": "assets/products/galaxy-s26-ultra/blue-1.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        220,
+        47,
+        918,
+        753
+      ]
+    },
+    "url": "galaxy-s26-ultra.html?sku=SM-S948BLBCCAU",
+    "sourceUrl": "https://online-samsung.ru/product/sm-s948blbccau",
+    "group": "smartphones",
+    "facets": {
+      "category": [
+        "Смартфоны"
+      ],
+      "model": [
+        "Galaxy S26 Ultra"
+      ],
+      "series": [
+        "Galaxy S"
+      ],
+      "storage": [
+        "512 ГБ"
+      ],
+      "ram": [
+        "12 ГБ"
+      ],
+      "screen": [
+        "6,9″"
+      ],
+      "camera": [
+        "200 МП"
+      ],
+      "sim": [
+        "Nano-SIM (4FF)"
+      ],
+      "color": [
+        "Голубой"
+      ],
+      "technology": [
+        "Dynamic AMOLED 2X"
+      ],
+      "resolution": [
+        "3120 x 1440"
+      ],
+      "refresh": [
+        "120 Гц"
+      ],
+      "bluetooth": [
+        "6"
+      ]
+    },
+    "details": [
+      {
+        "label": "Диагональ экрана",
+        "value": "6,9″"
+      },
+      {
+        "label": "Встроенная память",
+        "value": "512 ГБ"
+      },
+      {
+        "label": "Оперативная память",
+        "value": "12 ГБ"
+      }
+    ],
+    "oldPrice": null,
+    "conditionNote": null,
+    "availability": "in-stock"
+  },
+  {
+    "slug": "galaxy-s26-ultra",
+    "name": "Galaxy S26 Ultra",
+    "shortName": "Galaxy S26 Ultra",
+    "variant": "512 ГБ, Белый",
+    "price": 144990,
+    "sku": "SM-S948BZWCCAU",
+    "image": {
+      "file": "assets/products/galaxy-s26-ultra/white-1.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        9,
+        0,
+        1189,
+        800
+      ]
+    },
+    "url": "galaxy-s26-ultra.html?sku=SM-S948BZWCCAU",
+    "sourceUrl": "https://online-samsung.ru/product/sm-s948bzwccau",
+    "group": "smartphones",
+    "facets": {
+      "category": [
+        "Смартфоны"
+      ],
+      "model": [
+        "Galaxy S26 Ultra"
+      ],
+      "series": [
+        "Galaxy S"
+      ],
+      "storage": [
+        "512 ГБ"
+      ],
+      "ram": [
+        "12 ГБ"
+      ],
+      "screen": [
+        "6,9″"
+      ],
+      "camera": [
+        "200 МП"
+      ],
+      "sim": [
+        "Nano-SIM (4FF)"
+      ],
+      "color": [
+        "Белый"
+      ],
+      "technology": [
+        "Dynamic AMOLED 2X"
+      ],
+      "resolution": [
+        "3120 x 1440"
+      ],
+      "refresh": [
+        "120 Гц"
+      ],
+      "bluetooth": [
+        "6"
+      ]
+    },
+    "details": [
+      {
+        "label": "Диагональ экрана",
+        "value": "6,9″"
+      },
+      {
+        "label": "Встроенная память",
+        "value": "512 ГБ"
+      },
+      {
+        "label": "Оперативная память",
+        "value": "12 ГБ"
+      }
+    ],
+    "oldPrice": null,
+    "conditionNote": null,
+    "availability": "in-stock"
+  },
+  {
+    "slug": "galaxy-s26-ultra",
+    "name": "Galaxy S26 Ultra",
+    "shortName": "Galaxy S26 Ultra",
+    "variant": "1 ТБ, Фиолетовый",
+    "price": 194990,
+    "sku": "SM-S948BZVQCAU",
+    "image": {
+      "file": "assets/products/galaxy-s26-ultra/1.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        221,
+        48,
+        918,
+        754
+      ]
+    },
+    "url": "galaxy-s26-ultra.html?sku=SM-S948BZVQCAU",
+    "sourceUrl": "https://online-samsung.ru/product/sm-s948bzvqcau",
+    "group": "smartphones",
+    "facets": {
+      "category": [
+        "Смартфоны"
+      ],
+      "model": [
+        "Galaxy S26 Ultra"
+      ],
+      "series": [
+        "Galaxy S"
+      ],
+      "storage": [
+        "1 ТБ"
+      ],
+      "ram": [
+        "16 ГБ"
+      ],
+      "screen": [
+        "6,9″"
+      ],
+      "camera": [
+        "200 МП"
+      ],
+      "sim": [
+        "Nano-SIM (4FF)"
+      ],
+      "color": [
+        "Фиолетовый"
+      ],
+      "technology": [
+        "Dynamic AMOLED 2X"
+      ],
+      "resolution": [
+        "3120 x 1440"
+      ],
+      "refresh": [
+        "120 Гц"
+      ],
+      "bluetooth": [
+        "6"
+      ]
+    },
+    "details": [
+      {
+        "label": "Диагональ экрана",
+        "value": "6,9″"
+      },
+      {
+        "label": "Встроенная память",
+        "value": "1 ТБ"
+      },
+      {
+        "label": "Оперативная память",
+        "value": "16 ГБ"
+      }
+    ],
+    "oldPrice": null,
+    "conditionNote": null,
+    "availability": "in-stock"
+  },
+  {
+    "slug": "galaxy-s26-ultra",
+    "name": "Galaxy S26 Ultra",
+    "shortName": "Galaxy S26 Ultra",
+    "variant": "1 ТБ, Голубой",
+    "price": 194990,
+    "sku": "SM-S948BLBQCAU",
+    "image": {
+      "file": "assets/products/galaxy-s26-ultra/blue-1.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        220,
+        47,
+        918,
+        753
+      ]
+    },
+    "url": "galaxy-s26-ultra.html?sku=SM-S948BLBQCAU",
+    "sourceUrl": "https://online-samsung.ru/product/sm-s948blbqcau",
+    "group": "smartphones",
+    "facets": {
+      "category": [
+        "Смартфоны"
+      ],
+      "model": [
+        "Galaxy S26 Ultra"
+      ],
+      "series": [
+        "Galaxy S"
+      ],
+      "storage": [
+        "1 ТБ"
+      ],
+      "ram": [
+        "16 ГБ"
+      ],
+      "screen": [
+        "6,9″"
+      ],
+      "camera": [
+        "200 МП"
+      ],
+      "sim": [
+        "Nano-SIM (4FF)"
+      ],
+      "color": [
+        "Голубой"
+      ],
+      "technology": [
+        "Dynamic AMOLED 2X"
+      ],
+      "resolution": [
+        "3120 x 1440"
+      ],
+      "refresh": [
+        "120 Гц"
+      ],
+      "bluetooth": [
+        "6"
+      ]
+    },
+    "details": [
+      {
+        "label": "Диагональ экрана",
+        "value": "6,9″"
+      },
+      {
+        "label": "Встроенная память",
+        "value": "1 ТБ"
+      },
+      {
+        "label": "Оперативная память",
+        "value": "16 ГБ"
+      }
+    ],
+    "oldPrice": null,
+    "conditionNote": null,
+    "availability": "in-stock"
+  },
+  {
+    "slug": "galaxy-s26-ultra",
+    "name": "Galaxy S26 Ultra",
+    "shortName": "Galaxy S26 Ultra",
+    "variant": "1 ТБ, Чёрный",
+    "price": 194990,
+    "sku": "SM-S948BZKQCAU",
+    "image": {
+      "file": "assets/products/galaxy-s26-ultra/black-1.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        221,
+        48,
+        918,
+        754
+      ]
+    },
+    "url": "galaxy-s26-ultra.html?sku=SM-S948BZKQCAU",
+    "sourceUrl": "https://online-samsung.ru/product/sm-s948bzkqcau",
+    "group": "smartphones",
+    "facets": {
+      "category": [
+        "Смартфоны"
+      ],
+      "model": [
+        "Galaxy S26 Ultra"
+      ],
+      "series": [
+        "Galaxy S"
+      ],
+      "storage": [
+        "1 ТБ"
+      ],
+      "ram": [
+        "16 ГБ"
+      ],
+      "screen": [
+        "6,9″"
+      ],
+      "camera": [
+        "200 МП"
+      ],
+      "sim": [
+        "Nano-SIM (4FF)"
+      ],
+      "color": [
+        "Чёрный"
+      ],
+      "technology": [
+        "Dynamic AMOLED 2X"
+      ],
+      "resolution": [
+        "3120 x 1440"
+      ],
+      "refresh": [
+        "120 Гц"
+      ],
+      "bluetooth": [
+        "6"
+      ]
+    },
+    "details": [
+      {
+        "label": "Диагональ экрана",
+        "value": "6,9″"
+      },
+      {
+        "label": "Встроенная память",
+        "value": "1 ТБ"
+      },
+      {
+        "label": "Оперативная память",
+        "value": "16 ГБ"
+      }
+    ],
+    "oldPrice": null,
+    "conditionNote": null,
+    "availability": "in-stock"
+  },
+  {
+    "slug": "galaxy-s26-ultra",
+    "name": "Galaxy S26 Ultra",
+    "shortName": "Galaxy S26 Ultra",
+    "variant": "1 ТБ, Белый",
+    "price": 194990,
+    "sku": "SM-S948BZWQCAU",
+    "image": {
+      "file": "assets/products/galaxy-s26-ultra/white-1.webp",
+      "width": 1200,
+      "height": 800,
+      "bounds": [
+        9,
+        0,
+        1189,
+        800
+      ]
+    },
+    "url": "galaxy-s26-ultra.html?sku=SM-S948BZWQCAU",
+    "sourceUrl": "https://online-samsung.ru/product/sm-s948bzwqcau",
+    "group": "smartphones",
+    "facets": {
+      "category": [
+        "Смартфоны"
+      ],
+      "model": [
+        "Galaxy S26 Ultra"
+      ],
+      "series": [
+        "Galaxy S"
+      ],
+      "storage": [
+        "1 ТБ"
+      ],
+      "ram": [
+        "16 ГБ"
+      ],
+      "screen": [
+        "6,9″"
+      ],
+      "camera": [
+        "200 МП"
+      ],
+      "sim": [
+        "Nano-SIM (4FF)"
+      ],
+      "color": [
+        "Белый"
+      ],
+      "technology": [
+        "Dynamic AMOLED 2X"
+      ],
+      "resolution": [
+        "3120 x 1440"
+      ],
+      "refresh": [
+        "120 Гц"
+      ],
+      "bluetooth": [
+        "6"
+      ]
+    },
+    "details": [
+      {
+        "label": "Диагональ экрана",
+        "value": "6,9″"
+      },
+      {
+        "label": "Встроенная память",
+        "value": "1 ТБ"
+      },
+      {
+        "label": "Оперативная память",
+        "value": "16 ГБ"
+      }
+    ],
+    "oldPrice": null,
+    "conditionNote": null,
+    "availability": "in-stock"
+  }
+]

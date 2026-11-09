@@ -293,7 +293,12 @@
       "mode": "RGBA",
       "bytes": 51888,
       "sha256": "ae32db40e79cc0b00c3b664b785c718de48a476f3520647421bb7fb23325471a",
-      "alpha_bbox": [219, 45, 920, 756],
+      "alpha_bbox": [
+        219,
+        45,
+        920,
+        756
+      ],
       "export": "Original product geometry and RGBA retained; WebP export only."
     },
     "hero-washer-angle.webp": {
@@ -304,7 +309,12 @@
       "mode": "RGBA",
       "bytes": 30860,
       "sha256": "f1a764bde94fae7d3ab03e2b1e06150376994f4dba0d5c29e11715221ebfe26d",
-      "alpha_bbox": [330, 19, 870, 781],
+      "alpha_bbox": [
+        330,
+        19,
+        870,
+        781
+      ],
       "export": "Original product geometry and RGBA retained; WebP export only."
     },
     "hero-tv-refined.webp": {
@@ -318,7 +328,12 @@
       "mode": "RGBA",
       "bytes": 224942,
       "sha256": "f6c820962e3839016db1c0a9218d10744e920dcabc3a2aadc8f2d95526809d31",
-      "alpha_bbox": [0, 0, 1532, 1024]
+      "alpha_bbox": [
+        0,
+        0,
+        1532,
+        1024
+      ]
     },
     "hero-panorama-graphite.webp": {
       "kind": "generated-background",
@@ -404,7 +419,12 @@
       "sha256": "97d0db1214c296f68f9cddbc35e5d82756f8de3bfa579bdeda94f956846dcb46",
       "export": "Proportional responsive WebP export; no creative edits by Pillow.",
       "notes": "Complete opaque studio photograph includes product and its physical support/contact shadows. CSS fades only clean photographic margins. Generic category illustration, no exact product model claim.",
-      "reviewed_subject_bounds": [142, 58, 1406, 954],
+      "reviewed_subject_bounds": [
+        142,
+        58,
+        1406,
+        954
+      ],
       "review_notes": "Approximate hard product/base bounds inspected in generated source; background and soft contact shadows outside may fade. Bounds stay inside CSS photographic-margin masks."
     },
     "hero-studio-laundry-small.webp": {
@@ -432,7 +452,12 @@
       "sha256": "acbac70a4abb9d8fa16ef84abd545b8aaada9d9104a51a674b9ad0d5d62c791d",
       "export": "Proportional responsive WebP export; no creative edits by Pillow.",
       "notes": "Complete opaque studio photograph includes product and its physical support/contact shadows. CSS fades only clean photographic margins. Generic category illustration, no exact product model claim.",
-      "reviewed_subject_bounds": [126, 107, 1412, 925],
+      "reviewed_subject_bounds": [
+        126,
+        107,
+        1412,
+        925
+      ],
       "review_notes": "Approximate hard product/base bounds inspected in generated source; background and soft contact shadows outside may fade. Bounds stay inside CSS photographic-margin masks."
     },
     "hero-studio-television-small.webp": {
@@ -519,6 +544,246 @@
       "height": 1024,
       "bytes": 109924,
       "sha256": "500e986fb31849b2c6a4a212075aba72ae389b45ecb5f42983ee2fdbf78074c5"
+    },
+    "category-products/sm-a576bzvfcau.webp": {
+      "kind": "official-product",
+      "source": "https://online-samsung.ru/sites/default/files/2026-03/SM-A576BZVFCAU_1_0.png",
+      "productSource": "https://online-samsung.ru/product/sm-a576bzvfcau",
+      "width": 1200,
+      "height": 800,
+      "bytes": 22482,
+      "sha256": "f2feb91150bdade37bec50f489d54e44a1886c9fe796565d2609413110fcffa1",
+      "bounds": {
+        "x": 310,
+        "y": 51,
+        "width": 580,
+        "height": 698
+      },
+      "processing": "Original full canvas, WebP encoding; no crop or deformation."
+    },
+    "category-products/sm-a576bdbfcau.webp": {
+      "kind": "official-product",
+      "source": "https://online-samsung.ru/sites/default/files/2026-03/SM-A576BDBFCAU_1_0.png",
+      "productSource": "https://online-samsung.ru/product/sm-a576bdbfcau",
+      "width": 1200,
+      "height": 800,
+      "bytes": 21474,
+      "sha256": "6b74ec1e348cab27e38639c7c27b152ee00ec0c19d0d1231c014ed949d660ac0",
+      "bounds": {
+        "x": 310,
+        "y": 51,
+        "width": 580,
+        "height": 698
+      },
+      "processing": "Original full canvas, WebP encoding; no crop or deformation."
+    },
+    "category-products/sm-a376ezwgcau.webp": {
+      "kind": "official-product",
+      "source": "https://online-samsung.ru/sites/default/files/2026-04/SM-A376EZWGCAU_1_0.png",
+      "productSource": "https://online-samsung.ru/product/sm-a376ezwgcau",
+      "width": 1200,
+      "height": 800,
+      "bytes": 22216,
+      "sha256": "7244e56fe4ea6e57902d5753f0f9dad9db766da31e7714c36ddd3f47d61b95ad",
+      "bounds": {
+        "x": 306,
+        "y": 48,
+        "width": 588,
+        "height": 704
+      },
+      "processing": "Original full canvas, WebP encoding; no crop or deformation."
+    },
+    "category-products/sm-a276bzkhcau.webp": {
+      "kind": "official-product",
+      "source": "https://online-samsung.ru/sites/default/files/2026-07/SM-A276BZKHCAU_12.png",
+      "productSource": "https://online-samsung.ru/product/sm-a276bzkhcau",
+      "width": 1200,
+      "height": 800,
+      "bytes": 22546,
+      "sha256": "3179506ced6d5db00adf4ebaf024f4105ecd8c5ba3337a898444237ea656c685",
+      "bounds": {
+        "x": 305,
+        "y": 49,
+        "width": 590,
+        "height": 702
+      },
+      "processing": "Original full canvas, WebP encoding; no crop or deformation."
+    },
+    "category-products/sm-s741bzkccau.webp": {
+      "kind": "official-product",
+      "source": "https://online-samsung.ru/sites/default/files/2026-08/SM-S741BZKCCAU_12.png",
+      "productSource": "https://online-samsung.ru/product/sm-s741bzkccau",
+      "width": 1200,
+      "height": 800,
+      "bytes": 23296,
+      "sha256": "5ed8eaf79a4db68c839b2c93b5809221df3fabfffb7d849c57512c84ae8821be",
+      "bounds": {
+        "x": 310,
+        "y": 50,
+        "width": 577,
+        "height": 700
+      },
+      "processing": "Original full canvas, WebP encoding; no crop or deformation."
+    },
+    "category-products/sm-f776bzkgcau.webp": {
+      "kind": "official-product",
+      "source": "https://online-samsung.ru/sites/default/files/2026-07/SM-F776BZKGCAU_11.png",
+      "productSource": "https://online-samsung.ru/product/sm-f776bzkgcau",
+      "width": 1200,
+      "height": 800,
+      "bytes": 36082,
+      "sha256": "90a955b7eca5c285e689fbcb90c2d5150434a4bbfa07140f7b25859fc3f5242b",
+      "bounds": {
+        "x": 297,
+        "y": 19,
+        "width": 610,
+        "height": 763
+      },
+      "processing": "Original full canvas, WebP encoding; no crop or deformation."
+    },
+    "category-products/sm-f766bzkhcau.webp": {
+      "kind": "official-product",
+      "source": "https://online-samsung.ru/sites/default/files/2025-08/SM-F766BZKHCAU_1_0.png",
+      "productSource": "https://online-samsung.ru/product/sm-f766bzkhcau",
+      "width": 1200,
+      "height": 800,
+      "bytes": 37654,
+      "sha256": "785eb7d5d4a6fd4fb6aaa84ff631b897d643a8c5b9ea457c6f01faa7e262d1c3",
+      "bounds": {
+        "x": 297,
+        "y": 15,
+        "width": 611,
+        "height": 768
+      },
+      "processing": "Original full canvas, WebP encoding; no crop or deformation."
+    },
+    "category-products/rt35cg5000s9wt.webp": {
+      "kind": "official-product",
+      "source": "https://online-samsung.ru/sites/default/files/2026-05/RT35CG5000S9WT_2.jpg",
+      "productSource": "https://online-samsung.ru/product/rt35cg5000s9wt",
+      "width": 1200,
+      "height": 800,
+      "bytes": 17626,
+      "sha256": "15fa1d52cda8d9d5b7079f5b6038228afac25ac20133afb16dca72c0b73ea1d5",
+      "bounds": {
+        "x": 445,
+        "y": 30,
+        "width": 311,
+        "height": 740
+      },
+      "processing": "Original full canvas, WebP encoding; no crop or deformation."
+    },
+    "category-products/rs70f65q1twt.webp": {
+      "kind": "official-product",
+      "source": "https://online-samsung.ru/sites/default/files/2026-04/RS70F65Q1TWT_1.png",
+      "productSource": "https://online-samsung.ru/product/rs70f65q1twt",
+      "width": 1200,
+      "height": 800,
+      "bytes": 12574,
+      "sha256": "30c409b54ded9649dab40e12e802e8f79da93c06deb63fbba15a7bbaa621a605",
+      "bounds": {
+        "x": 407,
+        "y": 26,
+        "width": 386,
+        "height": 748
+      },
+      "processing": "Original full canvas, WebP encoding; no crop or deformation."
+    },
+    "category-products/sm-x846bzaacau.webp": {
+      "kind": "official-product",
+      "source": "https://online-samsung.ru/sites/default/files/2026-09/SM-X846BZAACAU_1_0.png",
+      "productSource": "https://online-samsung.ru/product/sm-x846bzaacau",
+      "width": 1200,
+      "height": 800,
+      "bytes": 41994,
+      "sha256": "a58b06a083c7ed3daa6e9c57624776b785016c68001c127a343892c610e351d1",
+      "bounds": {
+        "x": 91,
+        "y": 47,
+        "width": 1018,
+        "height": 706
+      },
+      "processing": "Original full canvas, WebP encoding; no crop or deformation."
+    },
+    "category-products/sm-x236bzaacau.webp": {
+      "kind": "official-product",
+      "source": "https://online-samsung.ru/sites/default/files/2026-01/SM-X236BZAACAU_1.png",
+      "productSource": "https://online-samsung.ru/product/sm-x236bzaacau",
+      "width": 1200,
+      "height": 800,
+      "bytes": 24858,
+      "sha256": "5fbb15f8110cf2527214db9c9e994435af3cd0a3bde18210932ef343e746e12b",
+      "bounds": {
+        "x": 90,
+        "y": 40,
+        "width": 1021,
+        "height": 720
+      },
+      "processing": "Original full canvas, WebP encoding; no crop or deformation."
+    },
+    "category-products/sm-r410nzkacis.webp": {
+      "kind": "official-product",
+      "source": "https://online-samsung.ru/sites/default/files/2025-07/SM-R410NZKACIS-06.png",
+      "productSource": "https://online-samsung.ru/product/sm-r410nzkacis",
+      "width": 1200,
+      "height": 800,
+      "bytes": 29118,
+      "sha256": "f015a059b1d1ea8ee09346ef1e75b41fbb7f4cf61e08f928467da47e6eb0e7fa",
+      "bounds": {
+        "x": 324,
+        "y": 79,
+        "width": 552,
+        "height": 641
+      },
+      "processing": "Original full canvas, WebP encoding; no crop or deformation."
+    },
+    "category-products/eb-p3401xurgru.webp": {
+      "kind": "official-product",
+      "source": "https://online-samsung.ru/sites/default/files/2026-10/EB-P3401XURGRU_2.png",
+      "productSource": "https://online-samsung.ru/product/eb-p3401xurgru",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 109740,
+      "sha256": "2253cdb29c4bac1b86a9930ab1136903504e3a5d47f42036ec719ca1c35e7234",
+      "bounds": {
+        "x": 720,
+        "y": 20,
+        "width": 479,
+        "height": 1239
+      },
+      "processing": "Original full canvas, WebP encoding; no crop or deformation."
+    },
+    "category-products/ep-t6530nbegeu.webp": {
+      "kind": "official-product",
+      "source": "https://online-samsung.ru/sites/default/files/2023-07/EP-T6530NBEGEU_1.jpg",
+      "productSource": "https://online-samsung.ru/product/ep-t6530nbegeu",
+      "width": 1200,
+      "height": 800,
+      "bytes": 81410,
+      "sha256": "c17047b946926d834070c1d3877dbde3b91fcf58e0de7970d5700db00b5a6955",
+      "bounds": {
+        "x": 104,
+        "y": 14,
+        "width": 992,
+        "height": 773
+      },
+      "processing": "Original full canvas, WebP encoding; no crop or deformation."
+    },
+    "category-products/vr7md97714gev.webp": {
+      "kind": "official-product",
+      "source": "https://online-samsung.ru/sites/default/files/2026-06/VR7MD97714GEV_4-min.png",
+      "productSource": "https://online-samsung.ru/product/vr7md97714gev",
+      "width": 1200,
+      "height": 800,
+      "bytes": 25616,
+      "sha256": "f01b931f4fca7e07b3145ef7cb865f2db342ca29cee96f62010dd1013559bcd3",
+      "bounds": {
+        "x": 260,
+        "y": 13,
+        "width": 680,
+        "height": 774
+      },
+      "processing": "Original full canvas, WebP encoding; no crop or deformation."
     }
   }
 }

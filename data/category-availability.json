@@ -1,0 +1,1238 @@
+{
+  "capturedAt": "2026-11-09T13:51:51.095745+00:00",
+  "scope": {
+    "primarySkuCount": 50,
+    "additionalUltraSkuCount": 10,
+    "totalSkuCount": 60,
+    "sourceMode": "Existing cached public PDP snapshots only. No network requests were made for this availability audit.",
+    "primaryCounts": {
+      "in-stock": 47,
+      "unknown": 2,
+      "out-of-stock": 1
+    },
+    "allCounts": {
+      "in-stock": 57,
+      "unknown": 2,
+      "out-of-stock": 1
+    }
+  },
+  "skuFacts": {
+    "dv16dg8600bvld": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/dv16dg8600bvld",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "DV16DG8600BVLD",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/dv16dg8600bvld",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-research\\dv16dg8600bvld.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:28:32.702697+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "eb-p3401xurgru": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/eb-p3401xurgru",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "EB-P3401XURGRU",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/eb-p3401xurgru",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-extra\\eb-p3401xurgru.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:39:10.168041+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "ef-ks948ssegru": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/ef-ks948ssegru",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "EF-KS948SSEGRU",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/ef-ks948ssegru",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-research\\ef-ks948ssegru.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:28:32.780872+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "ep-t4511xbegeu": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/ep-t4511xbegeu",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "EP-T4511XBEGEU",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/ep-t4511xbegeu",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-research\\ep-t4511xbegeu.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:28:38.786624+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "ep-t6530nbegeu": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/ep-t6530nbegeu",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "EP-T6530NBEGEU",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/ep-t6530nbegeu",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-extra\\ep-t6530nbegeu.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:39:10.536751+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "mre85r85hauxpy": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/mre85r85hauxpy",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "MRE85R85HAUXPY",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/mre85r85hauxpy",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-research\\mre85r85hauxpy.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:28:36.887586+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "qe43ls03heuxpy": {
+      "status": "unknown",
+      "sourceUrl": "https://online-samsung.ru/product/qe43ls03heuxpy",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Только онлайн"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Только онлайн</div>\n</div>",
+          "exactSkuFromSettings": "QE43LS03HEUXPY",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/qe43ls03heuxpy",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-research\\qe43ls03heuxpy.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:28:36.919090+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence. Only-online is a channel label; it does not explicitly confirm inventory, so status remains unknown."
+        }
+      ]
+    },
+    "qe55s85haexpy": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/qe55s85haexpy",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "QE55S85HAEXPY",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/qe55s85haexpy",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-research\\qe55s85haexpy.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:28:35.960800+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "qe85ls03hwuxpy": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/qe85ls03hwuxpy",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "QE85LS03HWUXPY",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/qe85ls03hwuxpy",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-research\\qe85ls03hwuxpy.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:28:35.616514+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "rf65db970012wr": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/rf65db970012wr",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "RF65DB970012WR",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/rf65db970012wr",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-research\\rf65db970012wr.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:28:36.556942+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "rs70f65q1twt": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/rs70f65q1twt",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "RS70F65Q1TWT",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/rs70f65q1twt",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-extra\\rs70f65q1twt.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:38:53.835913+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "rt35cg5000s9wt": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/rt35cg5000s9wt",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "RT35CG5000S9WT",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/rt35cg5000s9wt",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-extra\\rt35cg5000s9wt.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:38:54.312698+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "sm-a185fzsncau": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/sm-a185fzsncau",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "SM-A185FZSNCAU",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/sm-a185fzsncau",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-research\\sm-a185fzsncau.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:28:35.120131+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "sm-a276bzkhcau": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/sm-a276bzkhcau",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "SM-A276BZKHCAU",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/sm-a276bzkhcau",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-extra\\sm-a276bzkhcau.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:38:49.283147+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "sm-a376ezwgcau": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/sm-a376ezwgcau",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "SM-A376EZWGCAU",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/sm-a376ezwgcau",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-extra\\sm-a376ezwgcau.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:38:46.722267+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "sm-a576bdbfcau": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/sm-a576bdbfcau",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "SM-A576BDBFCAU",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/sm-a576bdbfcau",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-extra\\sm-a576bdbfcau.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:38:47.578788+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "sm-a576bzvfcau": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/sm-a576bzvfcau",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "SM-A576BZVFCAU",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/sm-a576bzvfcau",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-extra\\sm-a576bzvfcau.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:38:47.740954+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "sm-f766bzkhcau": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/sm-f766bzkhcau",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "SM-F766BZKHCAU",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/sm-f766bzkhcau",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-extra\\sm-f766bzkhcau.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:38:59.766054+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "sm-f776bzkgcau": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/sm-f776bzkgcau",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "SM-F776BZKGCAU",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/sm-f776bzkgcau",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-extra\\sm-f776bzkgcau.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:38:46.075890+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "sm-f966bzkbcau": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/sm-f966bzkbcau",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "SM-F966BZKBCAU",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/sm-f966bzkbcau",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-research\\sm-f966bzkbcau.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:28:30.789596+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "sm-f971blvbcau": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/sm-f971blvbcau",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "SM-F971BLVBCAU",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/sm-f971blvbcau",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-research\\sm-f971blvbcau.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:28:33.405376+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "sm-f976bzkccau": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/sm-f976bzkccau",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "SM-F976BZKCCAU",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/sm-f976bzkccau",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-research\\sm-f976bzkccau.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:28:34.081880+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "sm-f976bzvbcau": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/sm-f976bzvbcau",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "SM-F976BZVBCAU",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/sm-f976bzvbcau",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-research\\sm-f976bzvbcau.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:28:33.508957+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "sm-l345fzeacau": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/sm-l345fzeacau",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "SM-L345FZEACAU",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/sm-l345fzeacau",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-research\\sm-l345fzeacau.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:28:39.483867+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "sm-l355fzsacau": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/sm-l355fzsacau",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "SM-L355FZSACAU",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/sm-l355fzsacau",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-research\\sm-l355fzsacau.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:28:39.398682+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "sm-l505fzwacau": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/sm-l505fzwacau",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "SM-L505FZWACAU",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/sm-l505fzwacau",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-research\\sm-l505fzwacau.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:28:39.078161+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "sm-l705fzb1cau": {
+      "status": "out-of-stock",
+      "sourceUrl": "https://online-samsung.ru/product/sm-l705fzb1cau",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Нет в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Нет в наличии</div>\n</div>",
+          "exactSkuFromSettings": "SM-L705FZB1CAU",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/sm-l705fzb1cau",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-research\\sm-l705fzb1cau.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:28:30.455485+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "sm-l715fzkacau": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/sm-l715fzkacau",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "SM-L715FZKACAU",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/sm-l715fzkacau",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-research\\sm-l715fzkacau.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:28:38.550006+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "sm-r410nzkacis": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/sm-r410nzkacis",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "SM-R410NZKACIS",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/sm-r410nzkacis",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-extra\\sm-r410nzkacis.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:38:53.855865+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "sm-r540nzwacis": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/sm-r540nzwacis",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "SM-R540NZWACIS",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/sm-r540nzwacis",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-research\\sm-r540nzwacis.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:28:38.969783+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "sm-r640nzkacis": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/sm-r640nzkacis",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "SM-R640NZKACIS",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/sm-r640nzkacis",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-research\\sm-r640nzkacis.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:28:30.378724+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "sm-s741bzkccau": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/sm-s741bzkccau",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "SM-S741BZKCCAU",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/sm-s741bzkccau",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-extra\\sm-s741bzkccau.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:38:48.611697+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "sm-s942bzvccau": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/sm-s942bzvccau",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "SM-S942BZVCCAU",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/sm-s942bzvccau",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-research\\sm-s942bzvccau.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:28:30.570365+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "sm-s947bzvbcau": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/sm-s947bzvbcau",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "SM-S947BZVBCAU",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/sm-s947bzvbcau",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-research\\sm-s947bzvbcau.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:28:35.075632+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "sm-s948blbbcau": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/sm-s948blbbcau",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "SM-S948BLBBCAU",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/sm-s948blbbcau",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\product-research\\sm-s948blbbcau.html",
+          "cachedSourceModifiedAt": "2026-11-09T11:44:35.726901+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "sm-s948blbccau": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/sm-s948blbccau",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "SM-S948BLBCCAU",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/sm-s948blbccau",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\product-research\\sm-s948blbccau.html",
+          "cachedSourceModifiedAt": "2026-11-09T11:44:39.742918+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "sm-s948blbqcau": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/sm-s948blbqcau",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в 3 магазинах"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в <a href=\"#\" id=\"count-shops\">3 магазинах</a></div>\n</div>",
+          "exactSkuFromSettings": "SM-S948BLBQCAU",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/sm-s948blbqcau",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\product-research\\sm-s948blbqcau.html",
+          "cachedSourceModifiedAt": "2026-11-09T11:44:40.538838+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence. Explicit stock in named number of stores; online shipping availability is not inferred.",
+          "availabilityChannel": "physical-stores",
+          "storeCount": 3
+        }
+      ]
+    },
+    "sm-s948bzkbcau": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/sm-s948bzkbcau",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в 5 магазинах"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в <a href=\"#\" id=\"count-shops\">5 магазинах</a></div>\n</div>",
+          "exactSkuFromSettings": "SM-S948BZKBCAU",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/sm-s948bzkbcau",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\product-research\\sm-s948bzkbcau.html",
+          "cachedSourceModifiedAt": "2026-11-09T11:44:36.235197+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence. Explicit stock in named number of stores; online shipping availability is not inferred.",
+          "availabilityChannel": "physical-stores",
+          "storeCount": 5
+        }
+      ]
+    },
+    "sm-s948bzkccau": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/sm-s948bzkccau",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "SM-S948BZKCCAU",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/sm-s948bzkccau",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-research\\sm-s948bzkccau.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:28:34.315230+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "sm-s948bzkqcau": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/sm-s948bzkqcau",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в 7 магазинах"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в <a href=\"#\" id=\"count-shops\">7 магазинах</a></div>\n</div>",
+          "exactSkuFromSettings": "SM-S948BZKQCAU",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/sm-s948bzkqcau",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\product-research\\sm-s948bzkqcau.html",
+          "cachedSourceModifiedAt": "2026-11-09T11:44:40.537817+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence. Explicit stock in named number of stores; online shipping availability is not inferred.",
+          "availabilityChannel": "physical-stores",
+          "storeCount": 7
+        }
+      ]
+    },
+    "sm-s948bzvbcau": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/sm-s948bzvbcau",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "SM-S948BZVBCAU",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/sm-s948bzvbcau",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-research\\sm-s948bzvbcau.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:28:30.819084+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "sm-s948bzvccau": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/sm-s948bzvccau",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в 6 магазинах"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в <a href=\"#\" id=\"count-shops\">6 магазинах</a></div>\n</div>",
+          "exactSkuFromSettings": "SM-S948BZVCCAU",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/sm-s948bzvccau",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\product-research\\sm-s948bzvccau.html",
+          "cachedSourceModifiedAt": "2026-11-09T11:44:36.497748+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence. Explicit stock in named number of stores; online shipping availability is not inferred.",
+          "availabilityChannel": "physical-stores",
+          "storeCount": 6
+        }
+      ]
+    },
+    "sm-s948bzvqcau": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/sm-s948bzvqcau",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "SM-S948BZVQCAU",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/sm-s948bzvqcau",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\product-research\\sm-s948bzvqcau.html",
+          "cachedSourceModifiedAt": "2026-11-09T11:44:36.173446+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "sm-s948bzwbcau": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/sm-s948bzwbcau",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "SM-S948BZWBCAU",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/sm-s948bzwbcau",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\product-research\\sm-s948bzwbcau.html",
+          "cachedSourceModifiedAt": "2026-11-09T11:44:36.360946+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "sm-s948bzwccau": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/sm-s948bzwccau",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "SM-S948BZWCCAU",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/sm-s948bzwccau",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\product-research\\sm-s948bzwccau.html",
+          "cachedSourceModifiedAt": "2026-11-09T11:44:40.104788+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "sm-s948bzwqcau": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/sm-s948bzwqcau",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в 3 магазинах"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в <a href=\"#\" id=\"count-shops\">3 магазинах</a></div>\n</div>",
+          "exactSkuFromSettings": "SM-S948BZWQCAU",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/sm-s948bzwqcau",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\product-research\\sm-s948bzwqcau.html",
+          "cachedSourceModifiedAt": "2026-11-09T11:44:42.141559+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence. Explicit stock in named number of stores; online shipping availability is not inferred.",
+          "availabilityChannel": "physical-stores",
+          "storeCount": 3
+        }
+      ]
+    },
+    "sm-x236bzaacau": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/sm-x236bzaacau",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "SM-X236BZAACAU",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/sm-x236bzaacau",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-extra\\sm-x236bzaacau.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:38:54.650396+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "sm-x846bzaacau": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/sm-x846bzaacau",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "SM-X846BZAACAU",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/sm-x846bzaacau",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-extra\\sm-x846bzaacau.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:38:58.642279+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "sm-x946bzaecau": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/sm-x946bzaecau",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "SM-X946BZAECAU",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/sm-x946bzaecau",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-research\\sm-x946bzaecau.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:28:33.422843+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "sm-x946bzaicau": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/sm-x946bzaicau",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "SM-X946BZAICAU",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/sm-x946bzaicau",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-research\\sm-x946bzaicau.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:28:34.403006+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "ue50m1ehauxpy": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/ue50m1ehauxpy",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "UE50M1EHAUXPY",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/ue50m1ehauxpy",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-research\\ue50m1ehauxpy.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:28:36.159616+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "ue75m1ehauxpy": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/ue75m1ehauxpy",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "UE75M1EHAUXPY",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/ue75m1ehauxpy",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-research\\ue75m1ehauxpy.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:28:30.762568+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "ue75m80hauxpy": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/ue75m80hauxpy",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "UE75M80HAUXPY",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/ue75m80hauxpy",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-research\\ue75m80hauxpy.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:28:35.137216+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "vr7md97714gev": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/vr7md97714gev",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "VR7MD97714G/EV",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/vr7md97714gev",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-extra\\vr7md97714gev.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:39:13.085231+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "vs15a6031r5ev": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/vs15a6031r5ev",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "VS15A6031R5/EV",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/vs15a6031r5ev",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-research\\vs15a6031r5ev.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:28:38.542900+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "vs90f40dfgev": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/vs90f40dfgev",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "VS90F40DFG/EV",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/vs90f40dfgev",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-research\\vs90f40dfgev.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:28:37.072719+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "wd18db8995bzld": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/wd18db8995bzld",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "WD18DB8995BZLD",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/wd18db8995bzld",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-research\\wd18db8995bzld.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:28:32.665384+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "ww11cb944cghlp": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/ww11cb944cghlp",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "WW11CB944CGHLP",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/ww11cb944cghlp",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-research\\ww11cb944cghlp.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:28:37.418478+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    },
+    "ww11cg604clblp": {
+      "status": "unknown",
+      "sourceUrl": "https://online-samsung.ru/product/ww11cg604clblp",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Только онлайн"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Только онлайн</div>\n</div>",
+          "exactSkuFromSettings": "WW11CG604CLBLP",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/ww11cg604clblp",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-research\\ww11cg604clblp.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:28:38.415992+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence. Only-online is a channel label; it does not explicitly confirm inventory, so status remains unknown."
+        }
+      ]
+    },
+    "ww11cgp44csblp": {
+      "status": "in-stock",
+      "sourceUrl": "https://online-samsung.ru/product/ww11cgp44csblp",
+      "evidence": [
+        {
+          "kind": "explicit-primary-pdp-stock-label",
+          "selector": "section.product-full .product-full__top .good-page__schilds .status .good-page__exist",
+          "labels": [
+            "Есть в наличии"
+          ],
+          "htmlSnippet": "<div class=\"good-page__exist exist\">\n<div>Есть в наличии</div>\n</div>",
+          "exactSkuFromSettings": "WW11CGP44CSBLP",
+          "skuIdentityNote": "Exact alphanumeric SKU match; formatting separator / in regional suffix /EV is ignored only when canonical URL also exactly matches the requested product.",
+          "canonicalUrl": "https://online-samsung.ru/product/ww11cgp44csblp",
+          "cachedSourceFile": "C:\\Users\\BOGOMA~1\\AppData\\Local\\Temp\\samsung-qa\\category-research\\ww11cgp44csblp.html",
+          "cachedSourceModifiedAt": "2026-11-09T13:28:37.107087+00:00",
+          "note": "This selector is scoped to the primary product top section, excluding all related-product stock labels. Buy buttons and prices are not evidence."
+        }
+      ]
+    }
+  },
+  "notes": [
+    "Explicit primary-PDP labels are tied to exact SKU through public mindboxData.sku and canonical URL.",
+    "Only Organization JSON-LD was observed in the examined sample PDPs; no product Offer.availability was used.",
+    "This records what the cached source explicitly says. It is not a live warehouse reservation and does not establish delivery dates, quantities or regional stock.",
+    "Unknown is not equivalent to out-of-stock. Generic buy buttons, related-card labels and absence from the first catalogue page were never used.",
+    "Есть в N магазинах is explicit physical-store stock, recorded as in-stock with evidence.availabilityChannel and storeCount. It does not assert delivery readiness."
+  ]
+}
